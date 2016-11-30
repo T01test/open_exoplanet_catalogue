@@ -1,1 +1,22 @@
-<system><rightascension>19 14 21</rightascension><star><mass errorminus="-0.09" errorplus="0.1">1.08</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">36.3</period><radius errorminus="-0.14" errorplus="0.31">1.12</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1255 b</name></planet><name>Kepler-1255</name><radius errorminus="-0.14" errorplus="0.31">1.12</radius><temperature errorminus="-186.81" errorplus="134.73">6018.0</temperature></star><distance errorminus="-175.95" errorplus="364.65">1344.0</distance><name>Kepler-1255</name><declination>42 43 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.31" errorminus="-0.14">1.12</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">36.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1255 b</name>
+    </planet>
+    <radius errorplus="0.31" errorminus="-0.14">1.12</radius>
+    <temperature errorplus="134.73" errorminus="-186.81">6018.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.09">1.08</mass>
+    <name>Kepler-1255</name>
+  </star>
+  <distance errorplus="364.65" errorminus="-175.95">1344.0</distance>
+  <rightascension>19 14 21</rightascension>
+  <declination>42 43 35</declination>
+  <name>Kepler-1255</name>
+</system>
+

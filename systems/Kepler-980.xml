@@ -1,1 +1,22 @@
-<system><rightascension>19 36 46</rightascension><star><mass errorminus="-0.04" errorplus="0.05">1.05</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.6</period><radius errorminus="-0.07" errorplus="0.09">1.06</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-980 b</name></planet><name>Kepler-980</name><radius errorminus="-0.07" errorplus="0.09">1.06</radius><temperature errorminus="-92.58" errorplus="98.9">5935.0</temperature></star><distance errorminus="-51.43" errorplus="63.77">804.0</distance><name>Kepler-980</name><declination>45 03 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+      <semimajoraxis/>
+      <name>Kepler-980 b</name>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
+    <temperature errorplus="98.9" errorminus="-92.58">5935.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.04">1.05</mass>
+    <name>Kepler-980</name>
+  </star>
+  <distance errorplus="63.77" errorminus="-51.43">804.0</distance>
+  <rightascension>19 36 46</rightascension>
+  <declination>45 03 36</declination>
+  <name>Kepler-980</name>
+</system>
+

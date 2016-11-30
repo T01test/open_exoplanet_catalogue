@@ -1,1 +1,23 @@
-<system><rightascension>01 57 09</rightascension><star><mass>0.96</mass><planet><inclination></inclination><period errorminus="-176.0" errorplus="176.0">2496.0</period><radius errorminus="-0.03" errorplus="0.03">1.02</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.15" errorplus="0.24">3.56</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 6718 b</name><eccentricity>0.1</eccentricity></planet><name>HD 6718</name><radius errorminus="-0.03" errorplus="0.03">1.02</radius><temperature errorminus="-19.0" errorplus="19.0">5746.0</temperature></star><distance errorminus="-2.2" errorplus="2.4">54.9</distance><name>HD 6718</name><declination>-8 14 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="176.0" errorminus="-176.0">2496.0</period>
+      <semimajoraxis errorplus="0.24" errorminus="-0.15">3.56</semimajoraxis>
+      <name>HD 6718 b</name>
+      <eccentricity>0.1</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+    <temperature errorplus="19.0" errorminus="-19.0">5746.0</temperature>
+    <mass>0.96</mass>
+    <name>HD 6718</name>
+  </star>
+  <distance errorplus="2.4" errorminus="-2.2">54.9</distance>
+  <rightascension>01 57 09</rightascension>
+  <declination>-8 14 01</declination>
+  <name>HD 6718</name>
+</system>
+

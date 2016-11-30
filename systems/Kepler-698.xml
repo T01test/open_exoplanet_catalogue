@@ -1,1 +1,22 @@
-<system><rightascension>19 30 35</rightascension><star><mass errorminus="-0.06" errorplus="0.05">0.94</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.3</period><radius errorminus="-0.07" errorplus="0.11">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-698 b</name></planet><name>Kepler-698</name><radius errorminus="-0.07" errorplus="0.11">0.91</radius><temperature errorminus="-116.05" errorplus="128.36">5612.0</temperature></star><distance errorminus="-91.57" errorplus="140.38">1135.0</distance><name>Kepler-698</name><declination>41 18 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.11" errorminus="-0.07">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.3</period>
+      <semimajoraxis/>
+      <name>Kepler-698 b</name>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.07">0.91</radius>
+    <temperature errorplus="128.36" errorminus="-116.05">5612.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.06">0.94</mass>
+    <name>Kepler-698</name>
+  </star>
+  <distance errorplus="140.38" errorminus="-91.57">1135.0</distance>
+  <rightascension>19 30 35</rightascension>
+  <declination>41 18 06</declination>
+  <name>Kepler-698</name>
+</system>
+

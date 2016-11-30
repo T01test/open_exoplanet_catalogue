@@ -1,1 +1,33 @@
-<system><rightascension>07 25 19</rightascension><star><mass>0.92</mass><planet><inclination></inclination><period errorminus="-0.6" errorplus="0.6">152.6</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.01" errorplus="0.01">0.54</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 65216 c</name><eccentricity>0.02</eccentricity></planet><planet><inclination></inclination><period errorminus="-2.1" errorplus="2.1">572.4</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.03" errorplus="0.03">1.3</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 65216 b</name><eccentricity>0.0</eccentricity></planet><name>HD 65216</name><radius></radius><temperature>5666.0</temperature></star><distance errorminus="-0.9" errorplus="0.85">35.59</distance><name>HD 65216</name><declination>-63 38 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="2.1" errorminus="-2.1">572.4</period>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.3</semimajoraxis>
+      <name>HD 65216 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">152.6</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.54</semimajoraxis>
+      <name>HD 65216 c</name>
+      <eccentricity>0.02</eccentricity>
+    </planet>
+    <radius/>
+    <temperature>5666.0</temperature>
+    <mass>0.92</mass>
+    <name>HD 65216</name>
+  </star>
+  <distance errorplus="0.85" errorminus="-0.9">35.59</distance>
+  <rightascension>07 25 19</rightascension>
+  <declination>-63 38 50</declination>
+  <name>HD 65216</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 26 08</rightascension><star><mass errorminus="-0.07" errorplus="0.1">1.09</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">52.8</period><radius errorminus="-0.14" errorplus="0.36">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-890 b</name></planet><name>Kepler-890</name><radius errorminus="-0.14" errorplus="0.36">1.13</radius><temperature errorminus="-101.27" errorplus="84.71">5954.0</temperature></star><distance errorminus="-168.91" errorplus="439.65">1387.0</distance><name>Kepler-890</name><declination>43 45 48</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.36" errorminus="-0.14">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">52.8</period>
+      <semimajoraxis/>
+      <name>Kepler-890 b</name>
+    </planet>
+    <radius errorplus="0.36" errorminus="-0.14">1.13</radius>
+    <temperature errorplus="84.71" errorminus="-101.27">5954.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.07">1.09</mass>
+    <name>Kepler-890</name>
+  </star>
+  <distance errorplus="439.65" errorminus="-168.91">1387.0</distance>
+  <rightascension>19 26 08</rightascension>
+  <declination>43 45 48</declination>
+  <name>Kepler-890</name>
+</system>
+

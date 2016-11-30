@@ -1,1 +1,22 @@
-<system><rightascension>19 54 11</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.68</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.7</period><radius errorminus="-0.02" errorplus="0.02">0.65</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-753 b</name></planet><name>Kepler-753</name><radius errorminus="-0.02" errorplus="0.02">0.65</radius><temperature errorminus="-39.68" errorplus="51.36">4346.0</temperature></star><distance errorminus="-12.07" errorplus="10.04">278.0</distance><name>Kepler-753</name><declination>37 54 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.65</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <semimajoraxis/>
+      <name>Kepler-753 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.65</radius>
+    <temperature errorplus="51.36" errorminus="-39.68">4346.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.68</mass>
+    <name>Kepler-753</name>
+  </star>
+  <distance errorplus="10.04" errorminus="-12.07">278.0</distance>
+  <rightascension>19 54 11</rightascension>
+  <declination>37 54 08</declination>
+  <name>Kepler-753</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 09 33</rightascension><star><mass errorminus="-0.08" errorplus="0.15">1.15</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.9</period><radius errorminus="-0.16" errorplus="0.45">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-620 b</name></planet><name>Kepler-620</name><radius errorminus="-0.16" errorplus="0.45">1.22</radius><temperature errorminus="-147.72" errorplus="120.88">6155.0</temperature></star><distance errorminus="-167.77" errorplus="458.38">1241.0</distance><name>Kepler-620</name><declination>51 20 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.45" errorminus="-0.16">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.9</period>
+      <semimajoraxis/>
+      <name>Kepler-620 b</name>
+    </planet>
+    <radius errorplus="0.45" errorminus="-0.16">1.22</radius>
+    <temperature errorplus="120.88" errorminus="-147.72">6155.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.08">1.15</mass>
+    <name>Kepler-620</name>
+  </star>
+  <distance errorplus="458.38" errorminus="-167.77">1241.0</distance>
+  <rightascension>19 09 33</rightascension>
+  <declination>51 20 05</declination>
+  <name>Kepler-620</name>
+</system>
+

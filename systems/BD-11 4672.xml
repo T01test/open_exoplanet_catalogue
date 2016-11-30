@@ -1,1 +1,23 @@
-<system><rightascension>18 22 12</rightascension><star><mass errorminus="-0.01" errorplus="0.01">0.57</mass><planet><inclination></inclination><period errorminus="-31.0" errorplus="33.0">1667.0</period><radius errorminus="-0.02" errorplus="0.02">0.52</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.07" errorplus="0.07">2.28</semimajoraxis><lastupdate>2015-01-08</lastupdate><name>BD-11 4672 b</name><eccentricity>0.05</eccentricity></planet><name>BD-11 4672</name><radius errorminus="-0.02" errorplus="0.02">0.52</radius><temperature errorminus="-100.0" errorplus="100.0">4475.0</temperature></star><distance>27.3</distance><name>BD-11 4672</name><declination>-11 38 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-01-08</lastupdate>
+      <inclination/>
+      <period errorplus="33.0" errorminus="-31.0">1667.0</period>
+      <semimajoraxis errorplus="0.07" errorminus="-0.07">2.28</semimajoraxis>
+      <name>BD-11 4672 b</name>
+      <eccentricity>0.05</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4475.0</temperature>
+    <mass errorplus="0.01" errorminus="-0.01">0.57</mass>
+    <name>BD-11 4672</name>
+  </star>
+  <distance>27.3</distance>
+  <rightascension>18 22 12</rightascension>
+  <declination>-11 38 09</declination>
+  <name>BD-11 4672</name>
+</system>
+

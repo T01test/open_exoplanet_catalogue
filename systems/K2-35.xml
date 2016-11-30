@@ -1,1 +1,31 @@
-<system><rightascension>11 06 11</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.76</mass><planet><inclination errorminus="-2.25" errorplus="1.51">87.85</inclination><period errorminus="-0.0" errorplus="0.0">5.6</period><radius errorminus="-0.04" errorplus="0.04">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0564</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-35 c</name></planet><planet><inclination errorminus="-4.43" errorplus="2.67">86.1</inclination><period errorminus="-0.0" errorplus="0.0">2.4</period><radius errorminus="-0.04" errorplus="0.04">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0005" errorplus="0.0005">0.032</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-35 b</name></planet><name>K2-35</name><radius errorminus="-0.04" errorplus="0.04">0.72</radius><temperature errorminus="-60.0" errorplus="60.0">4680.0</temperature></star><distance></distance><name>K2-35</name><declination>01 17 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="2.67" errorminus="-4.43">86.1</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.032</semimajoraxis>
+      <name>K2-35 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.51" errorminus="-2.25">87.85</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0564</semimajoraxis>
+      <name>K2-35 c</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">4680.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.76</mass>
+    <name>K2-35</name>
+  </star>
+  <distance/>
+  <rightascension>11 06 11</rightascension>
+  <declination>01 17 09</declination>
+  <name>K2-35</name>
+</system>
+

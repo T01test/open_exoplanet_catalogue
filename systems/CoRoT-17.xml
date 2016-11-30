@@ -1,1 +1,23 @@
-<system><rightascension>18 41 57</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.04</mass><planet><inclination errorminus="-1.54" errorplus="1.54">88.34</inclination><period errorminus="-0.0" errorplus="0.0">3.8</period><radius errorminus="-0.07" errorplus="0.07">1.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0008" errorplus="0.0008">0.0461</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>CoRoT-17 b</name><eccentricity>0.0</eccentricity></planet><name>CoRoT-17</name><radius errorminus="-0.07" errorplus="0.07">1.59</radius><temperature errorminus="-80.0" errorplus="80.0">5740.0</temperature></star><distance errorminus="-50.0" errorplus="50.0">920.0</distance><name>CoRoT-17</name><declination>-6 36 44</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.07">1.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.54" errorminus="-1.54">88.34</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0461</semimajoraxis>
+      <name>CoRoT-17 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.07" errorminus="-0.07">1.59</radius>
+    <temperature errorplus="80.0" errorminus="-80.0">5740.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.04</mass>
+    <name>CoRoT-17</name>
+  </star>
+  <distance errorplus="50.0" errorminus="-50.0">920.0</distance>
+  <rightascension>18 41 57</rightascension>
+  <declination>-6 36 44</declination>
+  <name>CoRoT-17</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>00 29 10</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.01</mass><planet><inclination></inclination><period errorminus="-0.2" errorplus="0.2">139.3</period><radius errorminus="-1.5" errorplus="1.5">9.09</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">0.53</semimajoraxis><lastupdate>2016-02-04</lastupdate><name>HD 5583 b</name><eccentricity>0.076</eccentricity></planet><name>HD 5583</name><radius errorminus="-1.5" errorplus="1.5">9.09</radius><temperature errorminus="-45.0" errorplus="45.0">4830.0</temperature></star><distance errorminus="-14.0" errorplus="14.0">221.0</distance><name>HD 5583</name><declination>34 59 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="1.5" errorminus="-1.5">9.09</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-02-04</lastupdate>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">139.3</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.53</semimajoraxis>
+      <name>HD 5583 b</name>
+      <eccentricity>0.076</eccentricity>
+    </planet>
+    <radius errorplus="1.5" errorminus="-1.5">9.09</radius>
+    <temperature errorplus="45.0" errorminus="-45.0">4830.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.01</mass>
+    <name>HD 5583</name>
+  </star>
+  <distance errorplus="14.0" errorminus="-14.0">221.0</distance>
+  <rightascension>00 29 10</rightascension>
+  <declination>34 59 08</declination>
+  <name>HD 5583</name>
+</system>
+

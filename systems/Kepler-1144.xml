@@ -1,1 +1,22 @@
-<system><rightascension>19 02 35</rightascension><star><mass errorminus="-0.06" errorplus="0.05">0.98</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.1</period><radius errorminus="-0.07" errorplus="0.14">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1144 b</name></planet><name>Kepler-1144</name><radius errorminus="-0.07" errorplus="0.14">0.96</radius><temperature errorminus="-86.29" errorplus="91.93">5753.0</temperature></star><distance errorminus="-83.05" errorplus="150.02">1012.0</distance><name>Kepler-1144</name><declination>47 15 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.1</period>
+      <semimajoraxis/>
+      <name>Kepler-1144 b</name>
+    </planet>
+    <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
+    <temperature errorplus="91.93" errorminus="-86.29">5753.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.06">0.98</mass>
+    <name>Kepler-1144</name>
+  </star>
+  <distance errorplus="150.02" errorminus="-83.05">1012.0</distance>
+  <rightascension>19 02 35</rightascension>
+  <declination>47 15 28</declination>
+  <name>Kepler-1144</name>
+</system>
+

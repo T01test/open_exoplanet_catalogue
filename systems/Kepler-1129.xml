@@ -1,1 +1,31 @@
-<system><rightascension>19 36 16</rightascension><star><mass errorminus="-0.06" errorplus="0.06">1.0</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">24.3</period><radius errorminus="-0.1" errorplus="0.17">1.0</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1129 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">76.5</period><radius errorminus="-0.1" errorplus="0.17">1.0</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1129 c</name></planet><name>Kepler-1129</name><radius errorminus="-0.1" errorplus="0.17">1.0</radius><temperature errorminus="-114.35" errorplus="134.99">5831.0</temperature></star><distance errorminus="-125.26" errorplus="220.24">1258.0</distance><name>Kepler-1129</name><declination>41 18 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">76.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1129 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">24.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1129 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
+    <temperature errorplus="134.99" errorminus="-114.35">5831.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.06">1.0</mass>
+    <name>Kepler-1129</name>
+  </star>
+  <distance errorplus="220.24" errorminus="-125.26">1258.0</distance>
+  <rightascension>19 36 16</rightascension>
+  <declination>41 18 33</declination>
+  <name>Kepler-1129</name>
+</system>
+

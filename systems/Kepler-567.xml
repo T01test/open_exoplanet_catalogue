@@ -1,1 +1,22 @@
-<system><rightascension>19 40 21</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.5</period><radius errorminus="-0.04" errorplus="0.04">0.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-567 b</name></planet><name>Kepler-567</name><radius errorminus="-0.04" errorplus="0.04">0.79</radius><temperature errorminus="-92.59" errorplus="106.09">5148.0</temperature></star><distance errorminus="-28.95" errorplus="34.35">568.0</distance><name>Kepler-567</name><declination>48 18 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.5</period>
+      <semimajoraxis/>
+      <name>Kepler-567 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+    <temperature errorplus="106.09" errorminus="-92.59">5148.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.84</mass>
+    <name>Kepler-567</name>
+  </star>
+  <distance errorplus="34.35" errorminus="-28.95">568.0</distance>
+  <rightascension>19 40 21</rightascension>
+  <declination>48 18 08</declination>
+  <name>Kepler-567</name>
+</system>
+

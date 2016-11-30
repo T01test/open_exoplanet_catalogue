@@ -1,1 +1,23 @@
-<system><rightascension>19 16 06</rightascension><star><mass errorminus="-0.21" errorplus="0.21">1.0</mass><planet><inclination errorminus="-0.32" errorplus="0.24">86.55</inclination><period errorminus="-0.0" errorplus="0.0">7.8</period><radius errorminus="-0.19" errorplus="0.19">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0079" errorplus="0.0062">0.0769</semimajoraxis><lastupdate>2015-02-19</lastupdate><name>Kepler-447 b</name><eccentricity>0.123</eccentricity></planet><name>Kepler-447</name><radius errorminus="-0.19" errorplus="0.19">1.05</radius><temperature errorminus="-62.0" errorplus="62.0">5493.0</temperature></star><distance></distance><name>Kepler-447</name><declination>48 33 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-02-19</lastupdate>
+      <inclination errorplus="0.24" errorminus="-0.32">86.55</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <semimajoraxis errorplus="0.0062" errorminus="-0.0079">0.0769</semimajoraxis>
+      <name>Kepler-447 b</name>
+      <eccentricity>0.123</eccentricity>
+    </planet>
+    <radius errorplus="0.19" errorminus="-0.19">1.05</radius>
+    <temperature errorplus="62.0" errorminus="-62.0">5493.0</temperature>
+    <mass errorplus="0.21" errorminus="-0.21">1.0</mass>
+    <name>Kepler-447</name>
+  </star>
+  <distance/>
+  <rightascension>19 16 06</rightascension>
+  <declination>48 33 36</declination>
+  <name>Kepler-447</name>
+</system>
+

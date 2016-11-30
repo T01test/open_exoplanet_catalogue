@@ -1,1 +1,23 @@
-<system><rightascension>07 23 17</rightascension><star><mass errorminus="-0.02" errorplus="0.02">1.32</mass><planet><inclination errorminus="-0.6" errorplus="0.6">88.8</inclination><period errorminus="-0.0" errorplus="0.0">4.1</period><radius errorminus="-0.05" errorplus="0.05">1.55</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>XO-4 b</name><eccentricity>0.0</eccentricity></planet><name>XO-4</name><radius errorminus="-0.05" errorplus="0.05">1.55</radius><temperature errorminus="-70.0" errorplus="70.0">5700.0</temperature></star><distance errorminus="-19.0" errorplus="19.0">293.0</distance><name>XO-4</name><declination>58 16 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.6" errorminus="-0.6">88.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <semimajoraxis/>
+      <name>XO-4 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+    <temperature errorplus="70.0" errorminus="-70.0">5700.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">1.32</mass>
+    <name>XO-4</name>
+  </star>
+  <distance errorplus="19.0" errorminus="-19.0">293.0</distance>
+  <rightascension>07 23 17</rightascension>
+  <declination>58 16 05</declination>
+  <name>XO-4</name>
+</system>
+

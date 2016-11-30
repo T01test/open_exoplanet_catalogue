@@ -1,1 +1,23 @@
-<system><rightascension>00 18 19</rightascension><star><mass errorminus="-0.15" errorplus="0.15">1.09</mass><planet><inclination></inclination><period errorminus="-1.7" errorplus="1.7">533.0</period><radius errorminus="-3.6" errorplus="3.6">16.7</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">1.3</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 1690 b</name><eccentricity>0.64</eccentricity></planet><name>HD 1690</name><radius errorminus="-3.6" errorplus="3.6">16.7</radius><temperature errorminus="-85.0" errorplus="85.0">4393.0</temperature></star><distance>7.01</distance><name>HD 1690</name><declination>-8 16 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="3.6" errorminus="-3.6">16.7</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="1.7" errorminus="-1.7">533.0</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">1.3</semimajoraxis>
+      <name>HD 1690 b</name>
+      <eccentricity>0.64</eccentricity>
+    </planet>
+    <radius errorplus="3.6" errorminus="-3.6">16.7</radius>
+    <temperature errorplus="85.0" errorminus="-85.0">4393.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.15">1.09</mass>
+    <name>HD 1690</name>
+  </star>
+  <distance>7.01</distance>
+  <rightascension>00 18 19</rightascension>
+  <declination>-8 16 52</declination>
+  <name>HD 1690</name>
+</system>
+

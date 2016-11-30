@@ -1,1 +1,22 @@
-<system><rightascension>19 40 49</rightascension><star><mass errorminus="-0.11" errorplus="0.14">1.08</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.0</period><radius errorminus="-0.18" errorplus="0.38">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-757 b</name></planet><name>Kepler-757</name><radius errorminus="-0.18" errorplus="0.38">1.13</radius><temperature errorminus="-288.93" errorplus="221.13">6014.0</temperature></star><distance errorminus="-177.34" errorplus="349.26">1016.0</distance><name>Kepler-757</name><declination>41 23 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.38" errorminus="-0.18">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <semimajoraxis/>
+      <name>Kepler-757 b</name>
+    </planet>
+    <radius errorplus="0.38" errorminus="-0.18">1.13</radius>
+    <temperature errorplus="221.13" errorminus="-288.93">6014.0</temperature>
+    <mass errorplus="0.14" errorminus="-0.11">1.08</mass>
+    <name>Kepler-757</name>
+  </star>
+  <distance errorplus="349.26" errorminus="-177.34">1016.0</distance>
+  <rightascension>19 40 49</rightascension>
+  <declination>41 23 11</declination>
+  <name>Kepler-757</name>
+</system>
+

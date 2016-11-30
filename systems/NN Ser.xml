@@ -1,1 +1,33 @@
-<system><rightascension>15 14 01</rightascension><star><mass>0.54</mass><planet><inclination></inclination><period errorminus="-102.2" errorplus="102.2">5573.6</period><radius></radius><discoverymethod>eclipse Timing Variations</discoverymethod><semimajoraxis errorminus="-0.06" errorplus="0.06">5.35</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>NN Ser c</name><eccentricity>0.08</eccentricity></planet><planet><inclination></inclination><period errorminus="-182.5" errorplus="182.5">2883.5</period><radius></radius><discoverymethod>eclipse Timing Variations</discoverymethod><semimajoraxis errorminus="-0.14" errorplus="0.14">3.43</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>NN Ser d</name><eccentricity>0.19</eccentricity></planet><name>NN Ser</name><radius></radius><temperature>57000.0</temperature></star><distance>500.0</distance><name>NN Ser</name><declination>12 54 44</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="102.2" errorminus="-102.2">5573.6</period>
+      <semimajoraxis errorplus="0.06" errorminus="-0.06">5.35</semimajoraxis>
+      <name>NN Ser c</name>
+      <eccentricity>0.08</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="182.5" errorminus="-182.5">2883.5</period>
+      <semimajoraxis errorplus="0.14" errorminus="-0.14">3.43</semimajoraxis>
+      <name>NN Ser d</name>
+      <eccentricity>0.19</eccentricity>
+    </planet>
+    <radius/>
+    <temperature>57000.0</temperature>
+    <mass>0.54</mass>
+    <name>NN Ser</name>
+  </star>
+  <distance>500.0</distance>
+  <rightascension>15 14 01</rightascension>
+  <declination>12 54 44</declination>
+  <name>NN Ser</name>
+</system>
+

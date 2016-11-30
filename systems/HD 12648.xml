@@ -1,1 +1,23 @@
-<system><rightascension>02 44 55</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.2</mass><planet><inclination></inclination><period errorminus="-0.5" errorplus="0.5">133.6</period><radius errorminus="-0.6" errorplus="0.6">9.2</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">0.54</semimajoraxis><lastupdate>2015-10-15</lastupdate><name>HD 12648 b</name><eccentricity>0.04</eccentricity></planet><name>HD 12648</name><radius errorminus="-0.6" errorplus="0.6">9.2</radius><temperature errorminus="-7.5" errorplus="7.5">4835.8</temperature></star><distance errorminus="-9.0" errorplus="9.0">158.4</distance><name>HD 12648</name><declination>85 44 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-10-15</lastupdate>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">133.6</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.54</semimajoraxis>
+      <name>HD 12648 b</name>
+      <eccentricity>0.04</eccentricity>
+    </planet>
+    <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
+    <temperature errorplus="7.5" errorminus="-7.5">4835.8</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.2</mass>
+    <name>HD 12648</name>
+  </star>
+  <distance errorplus="9.0" errorminus="-9.0">158.4</distance>
+  <rightascension>02 44 55</rightascension>
+  <declination>85 44 10</declination>
+  <name>HD 12648</name>
+</system>
+

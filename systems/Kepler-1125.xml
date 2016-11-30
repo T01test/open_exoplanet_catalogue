@@ -1,1 +1,22 @@
-<system><rightascension>19 28 52</rightascension><star><mass errorminus="-0.07" errorplus="0.08">0.95</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.7</period><radius errorminus="-0.09" errorplus="0.15">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1125 b</name></planet><name>Kepler-1125</name><radius errorminus="-0.09" errorplus="0.15">0.94</radius><temperature errorminus="-131.51" errorplus="241.45">5683.0</temperature></star><distance errorminus="-91.85" errorplus="151.92">910.0</distance><name>Kepler-1125</name><declination>40 43 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.15" errorminus="-0.09">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1125 b</name>
+    </planet>
+    <radius errorplus="0.15" errorminus="-0.09">0.94</radius>
+    <temperature errorplus="241.45" errorminus="-131.51">5683.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.07">0.95</mass>
+    <name>Kepler-1125</name>
+  </star>
+  <distance errorplus="151.92" errorminus="-91.85">910.0</distance>
+  <rightascension>19 28 52</rightascension>
+  <declination>40 43 55</declination>
+  <name>Kepler-1125</name>
+</system>
+

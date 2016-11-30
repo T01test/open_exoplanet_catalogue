@@ -1,1 +1,40 @@
-<system><rightascension>19 21 06</rightascension><star><mass>0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.6</period><radius errorminus="-0.36" errorplus="0.36">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.091</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-339 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.0</period><radius errorminus="-0.36" errorplus="0.36">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.055</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-339 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.0</period><radius errorminus="-0.36" errorplus="0.36">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.069</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-339 c</name></planet><name>Kepler-339</name><radius errorminus="-0.36" errorplus="0.36">0.8</radius><temperature errorminus="-200.0" errorplus="200.0">5631.0</temperature></star><distance></distance><name>Kepler-339</name><declination>48 26 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.36" errorminus="-0.36">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <semimajoraxis>0.069</semimajoraxis>
+      <name>Kepler-339 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.36" errorminus="-0.36">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <semimajoraxis>0.091</semimajoraxis>
+      <name>Kepler-339 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.36" errorminus="-0.36">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.0</period>
+      <semimajoraxis>0.055</semimajoraxis>
+      <name>Kepler-339 b</name>
+    </planet>
+    <radius errorplus="0.36" errorminus="-0.36">0.8</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5631.0</temperature>
+    <mass>0.84</mass>
+    <name>Kepler-339</name>
+  </star>
+  <distance/>
+  <rightascension>19 21 06</rightascension>
+  <declination>48 26 40</declination>
+  <name>Kepler-339</name>
+</system>
+

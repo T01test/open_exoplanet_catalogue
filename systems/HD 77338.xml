@@ -1,1 +1,23 @@
-<system><rightascension>09 18 07</rightascension><star><mass errorplus="0.05">0.93</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.7</period><radius errorplus="0.04">0.88</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.0614</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 77338 b</name><eccentricity>0.09</eccentricity></planet><name>HD 77338</name><radius errorplus="0.04">0.88</radius><temperature errorplus="82.0">5370.0</temperature></star><distance errorminus="-2.11" errorplus="1.92">41.27</distance><name>HD 77338</name><declination>-25 31 37</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04">0.88</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <semimajoraxis>0.0614</semimajoraxis>
+      <name>HD 77338 b</name>
+      <eccentricity>0.09</eccentricity>
+    </planet>
+    <radius errorplus="0.04">0.88</radius>
+    <temperature errorplus="82.0">5370.0</temperature>
+    <mass errorplus="0.05">0.93</mass>
+    <name>HD 77338</name>
+  </star>
+  <distance errorplus="1.92" errorminus="-2.11">41.27</distance>
+  <rightascension>09 18 07</rightascension>
+  <declination>-25 31 37</declination>
+  <name>HD 77338</name>
+</system>
+

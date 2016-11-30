@@ -1,1 +1,22 @@
-<system><rightascension>19 52 20</rightascension><star><mass errorminus="-0.06" errorplus="0.11">1.18</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">0.9</period><radius errorminus="-0.21" errorplus="0.3">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1323 b</name></planet><name>Kepler-1323</name><radius errorminus="-0.21" errorplus="0.3">1.4</radius><temperature errorminus="-59.83" errorplus="74.24">6169.0</temperature></star><distance errorminus="-81.27" errorplus="114.09">530.0</distance><name>Kepler-1323</name><declination>46 05 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.3" errorminus="-0.21">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">0.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1323 b</name>
+    </planet>
+    <radius errorplus="0.3" errorminus="-0.21">1.4</radius>
+    <temperature errorplus="74.24" errorminus="-59.83">6169.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.06">1.18</mass>
+    <name>Kepler-1323</name>
+  </star>
+  <distance errorplus="114.09" errorminus="-81.27">530.0</distance>
+  <rightascension>19 52 20</rightascension>
+  <declination>46 05 55</declination>
+  <name>Kepler-1323</name>
+</system>
+

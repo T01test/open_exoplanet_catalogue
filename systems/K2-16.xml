@@ -1,1 +1,31 @@
-<system><rightascension>11 05 50</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.68</mass><planet><inclination errorminus="-1.86" errorplus="1.47">87.97</inclination><period errorminus="-0.0" errorplus="0.0">7.6</period><radius errorminus="-0.03" errorplus="0.03">0.66</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0667</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-16 b</name></planet><planet><inclination errorminus="-1.68" errorplus="1.68">87.83</inclination><period errorminus="-0.0" errorplus="0.0">19.1</period><radius errorminus="-0.03" errorplus="0.03">0.66</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0021" errorplus="0.0021">0.1229</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-16 c</name></planet><name>K2-16</name><radius errorminus="-0.03" errorplus="0.03">0.66</radius><temperature errorminus="-60.0" errorplus="60.0">4742.0</temperature></star><distance errorminus="-16.0" errorplus="16.0">324.0</distance><name>K2-16</name><declination>04 33 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.47" errorminus="-1.86">87.97</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.6</period>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0667</semimajoraxis>
+      <name>K2-16 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.68" errorminus="-1.68">87.83</inclination>
+      <period errorplus="0.0" errorminus="-0.0">19.1</period>
+      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.1229</semimajoraxis>
+      <name>K2-16 c</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">4742.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.68</mass>
+    <name>K2-16</name>
+  </star>
+  <distance errorplus="16.0" errorminus="-16.0">324.0</distance>
+  <rightascension>11 05 50</rightascension>
+  <declination>04 33 26</declination>
+  <name>K2-16</name>
+</system>
+

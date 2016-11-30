@@ -1,1 +1,33 @@
-<system><rightascension>20 54 21</rightascension><star><mass>0.96</mass><planet><inclination></inclination><period errorminus="-29.0" errorplus="29.0">2915.0</period><radius>1.13</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.23" errorplus="0.23">4.01</semimajoraxis><lastupdate>2014-08-21</lastupdate><name>HD 190360 b</name><eccentricity>0.313</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.1</period><radius>1.13</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0075" errorplus="0.0075">0.1304</semimajoraxis><lastupdate>2014-08-21</lastupdate><name>HD 190360 c</name><eccentricity>0.237</eccentricity></planet><name>HD 190360</name><radius>1.13</radius><temperature errorminus="-50.0" errorplus="50.0">5590.0</temperature></star><distance errorminus="-0.16" errorplus="0.16">15.89</distance><name>HD 190360</name><declination>29 53 48</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>1.13</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-08-21</lastupdate>
+      <inclination/>
+      <period errorplus="29.0" errorminus="-29.0">2915.0</period>
+      <semimajoraxis errorplus="0.23" errorminus="-0.23">4.01</semimajoraxis>
+      <name>HD 190360 b</name>
+      <eccentricity>0.313</eccentricity>
+    </planet>
+    <planet>
+      <radius>1.13</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-08-21</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.1</period>
+      <semimajoraxis errorplus="0.0075" errorminus="-0.0075">0.1304</semimajoraxis>
+      <name>HD 190360 c</name>
+      <eccentricity>0.237</eccentricity>
+    </planet>
+    <radius>1.13</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">5590.0</temperature>
+    <mass>0.96</mass>
+    <name>HD 190360</name>
+  </star>
+  <distance errorplus="0.16" errorminus="-0.16">15.89</distance>
+  <rightascension>20 54 21</rightascension>
+  <declination>29 53 48</declination>
+  <name>HD 190360</name>
+</system>
+

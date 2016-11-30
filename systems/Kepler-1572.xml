@@ -1,1 +1,22 @@
-<system><rightascension>18 53 50</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.5</period><radius errorminus="-0.07" errorplus="0.19">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1572 b</name></planet><name>Kepler-1572</name><radius errorminus="-0.07" errorplus="0.19">0.95</radius><temperature errorminus="-70.62" errorplus="62.91">5618.0</temperature></star><distance errorminus="-45.84" errorplus="118.26">600.0</distance><name>Kepler-1572</name><declination>46 43 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.07">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1572 b</name>
+    </planet>
+    <radius errorplus="0.19" errorminus="-0.07">0.95</radius>
+    <temperature errorplus="62.91" errorminus="-70.62">5618.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.97</mass>
+    <name>Kepler-1572</name>
+  </star>
+  <distance errorplus="118.26" errorminus="-45.84">600.0</distance>
+  <rightascension>18 53 50</rightascension>
+  <declination>46 43 21</declination>
+  <name>Kepler-1572</name>
+</system>
+

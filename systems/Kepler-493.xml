@@ -1,1 +1,22 @@
-<system><rightascension>19 18 27</rightascension><star><mass errorminus="-0.14" errorplus="0.16">1.36</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.0</period><radius errorminus="-0.26" errorplus="0.51">1.54</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-493 b</name></planet><name>Kepler-493</name><radius errorminus="-0.26" errorplus="0.51">1.54</radius><temperature errorminus="-229.75" errorplus="210.24">6457.0</temperature></star><distance errorminus="-341.11" errorplus="622.45">1942.0</distance><name>Kepler-493</name><declination>38 52 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.51" errorminus="-0.26">1.54</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <semimajoraxis/>
+      <name>Kepler-493 b</name>
+    </planet>
+    <radius errorplus="0.51" errorminus="-0.26">1.54</radius>
+    <temperature errorplus="210.24" errorminus="-229.75">6457.0</temperature>
+    <mass errorplus="0.16" errorminus="-0.14">1.36</mass>
+    <name>Kepler-493</name>
+  </star>
+  <distance errorplus="622.45" errorminus="-341.11">1942.0</distance>
+  <rightascension>19 18 27</rightascension>
+  <declination>38 52 53</declination>
+  <name>Kepler-493</name>
+</system>
+

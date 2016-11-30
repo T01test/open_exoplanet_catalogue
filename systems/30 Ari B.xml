@@ -1,1 +1,23 @@
-<system><rightascension>02 14 26</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.16</mass><planet><inclination></inclination><period errorminus="-2.5" errorplus="2.5">335.1</period><radius errorminus="-0.03" errorplus="0.03">1.13</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.012" errorplus="0.012">0.995</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>30 Ari B b</name><eccentricity>0.289</eccentricity></planet><name>30 Ari B</name><radius errorminus="-0.03" errorplus="0.03">1.13</radius><temperature errorminus="-60.0" errorplus="60.0">6300.0</temperature></star><distance errorminus="-1.79" errorplus="1.64">39.43</distance><name>30 Ari B</name><declination>24 38 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="2.5" errorminus="-2.5">335.1</period>
+      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.995</semimajoraxis>
+      <name>30 Ari B b</name>
+      <eccentricity>0.289</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">6300.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.16</mass>
+    <name>30 Ari B</name>
+  </star>
+  <distance errorplus="1.64" errorminus="-1.79">39.43</distance>
+  <rightascension>02 14 26</rightascension>
+  <declination>24 38 53</declination>
+  <name>30 Ari B</name>
+</system>
+

@@ -1,1 +1,33 @@
-<system><rightascension>19 15 39</rightascension><star><mass errorminus="-0.08" errorplus="0.09">0.81</mass><planet><inclination errorminus="-0.45" errorplus="0.26">89.62</inclination><period errorminus="-0.0" errorplus="0.0">13.7</period><radius errorminus="-0.12" errorplus="0.18">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.016" errorplus="0.023">0.094</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-69 b</name><eccentricity>0.16</eccentricity></planet><planet><inclination errorminus="-0.08" errorplus="0.03">89.85</inclination><period errorminus="-0.0" errorplus="0.0">242.5</period><radius errorminus="-0.12" errorplus="0.18">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.11" errorplus="0.15">0.64</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-69 c</name><eccentricity>0.14</eccentricity></planet><name>Kepler-69</name><radius errorminus="-0.12" errorplus="0.18">0.93</radius><temperature errorminus="-168.0" errorplus="168.0">5638.0</temperature></star><distance></distance><name>Kepler-69</name><declination>44 52 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.26" errorminus="-0.45">89.62</inclination>
+      <period errorplus="0.0" errorminus="-0.0">13.7</period>
+      <semimajoraxis errorplus="0.023" errorminus="-0.016">0.094</semimajoraxis>
+      <name>Kepler-69 b</name>
+      <eccentricity>0.16</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.03" errorminus="-0.08">89.85</inclination>
+      <period errorplus="0.0" errorminus="-0.0">242.5</period>
+      <semimajoraxis errorplus="0.15" errorminus="-0.11">0.64</semimajoraxis>
+      <name>Kepler-69 c</name>
+      <eccentricity>0.14</eccentricity>
+    </planet>
+    <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
+    <temperature errorplus="168.0" errorminus="-168.0">5638.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.08">0.81</mass>
+    <name>Kepler-69</name>
+  </star>
+  <distance/>
+  <rightascension>19 15 39</rightascension>
+  <declination>44 52 08</declination>
+  <name>Kepler-69</name>
+</system>
+

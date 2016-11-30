@@ -1,1 +1,31 @@
-<system><rightascension>19 28 37</rightascension><star><mass errorminus="-0.16" errorplus="0.25">1.26</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.5</period><radius errorminus="-0.29" errorplus="0.65">1.43</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1154 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.2</period><radius errorminus="-0.29" errorplus="0.65">1.43</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1154 b</name></planet><name>Kepler-1154</name><radius errorminus="-0.29" errorplus="0.65">1.43</radius><temperature errorminus="-262.85" errorplus="317.3">6327.0</temperature></star><distance errorminus="-336.46" errorplus="690.96">1531.0</distance><name>Kepler-1154</name><declination>39 52 38</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1154 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <semimajoraxis/>
+      <name>Kepler-1154 b</name>
+    </planet>
+    <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
+    <temperature errorplus="317.3" errorminus="-262.85">6327.0</temperature>
+    <mass errorplus="0.25" errorminus="-0.16">1.26</mass>
+    <name>Kepler-1154</name>
+  </star>
+  <distance errorplus="690.96" errorminus="-336.46">1531.0</distance>
+  <rightascension>19 28 37</rightascension>
+  <declination>39 52 38</declination>
+  <name>Kepler-1154</name>
+</system>
+

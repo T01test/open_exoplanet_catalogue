@@ -1,1 +1,22 @@
-<system><rightascension>19 41 08</rightascension><star><mass errorminus="-0.03" errorplus="0.02">0.78</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">28.5</period><radius errorminus="-0.02" errorplus="0.01">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-533 b</name></planet><name>Kepler-533</name><radius errorminus="-0.02" errorplus="0.01">0.72</radius><temperature errorminus="-40.01" errorplus="53.5">4758.0</temperature></star><distance errorminus="-8.13" errorplus="7.29">305.0</distance><name>Kepler-533</name><declination>48 49 30</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">28.5</period>
+      <semimajoraxis/>
+      <name>Kepler-533 b</name>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
+    <temperature errorplus="53.5" errorminus="-40.01">4758.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.03">0.78</mass>
+    <name>Kepler-533</name>
+  </star>
+  <distance errorplus="7.29" errorminus="-8.13">305.0</distance>
+  <rightascension>19 41 08</rightascension>
+  <declination>48 49 30</declination>
+  <name>Kepler-533</name>
+</system>
+

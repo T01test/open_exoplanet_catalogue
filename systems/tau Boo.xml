@@ -1,1 +1,23 @@
-<system><rightascension>13 48 56</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.34</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.3</period><radius errorminus="-0.05" errorplus="0.05">1.46</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.003" errorplus="0.003">0.049</semimajoraxis><lastupdate>2015-04-16</lastupdate><name>tau Boo b</name><eccentricity>0.011</eccentricity></planet><name>tau Boo</name><radius errorminus="-0.05" errorplus="0.05">1.46</radius><temperature>6400.0</temperature></star><distance errorminus="-0.17" errorplus="0.17">15.6</distance><name>tau Boo</name><declination>17 27 24</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.46</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-04-16</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.049</semimajoraxis>
+      <name>tau Boo b</name>
+      <eccentricity>0.011</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.46</radius>
+    <temperature>6400.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.34</mass>
+    <name>tau Boo</name>
+  </star>
+  <distance errorplus="0.17" errorminus="-0.17">15.6</distance>
+  <rightascension>13 48 56</rightascension>
+  <declination>17 27 24</declination>
+  <name>tau Boo</name>
+</system>
+

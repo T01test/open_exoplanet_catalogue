@@ -1,1 +1,23 @@
-<system><rightascension>11 13 53</rightascension><star><mass errorminus="-0.03" errorplus="0.03">1.33</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.07</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 103774 b</name><eccentricity>0.09</eccentricity></planet><name>HD 103774</name><radius></radius><temperature errorminus="-77.0" errorplus="77.0">6489.0</temperature></star><distance errorminus="-2.48" errorplus="2.27">53.08</distance><name>HD 103774</name><declination>-12 06 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.07</semimajoraxis>
+      <name>HD 103774 b</name>
+      <eccentricity>0.09</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="77.0" errorminus="-77.0">6489.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">1.33</mass>
+    <name>HD 103774</name>
+  </star>
+  <distance errorplus="2.27" errorminus="-2.48">53.08</distance>
+  <rightascension>11 13 53</rightascension>
+  <declination>-12 06 28</declination>
+  <name>HD 103774</name>
+</system>
+

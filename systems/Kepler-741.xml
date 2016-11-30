@@ -1,1 +1,22 @@
-<system><rightascension>19 25 54</rightascension><star><mass errorminus="-0.08" errorplus="0.13">1.16</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.0</period><radius errorminus="-0.15" errorplus="0.42">1.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-741 b</name></planet><name>Kepler-741</name><radius errorminus="-0.15" errorplus="0.42">1.24</radius><temperature errorminus="-111.81" errorplus="80.64">6129.0</temperature></star><distance errorminus="-193.1" errorplus="517.38">1530.0</distance><name>Kepler-741</name><declination>46 37 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.42" errorminus="-0.15">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <semimajoraxis/>
+      <name>Kepler-741 b</name>
+    </planet>
+    <radius errorplus="0.42" errorminus="-0.15">1.24</radius>
+    <temperature errorplus="80.64" errorminus="-111.81">6129.0</temperature>
+    <mass errorplus="0.13" errorminus="-0.08">1.16</mass>
+    <name>Kepler-741</name>
+  </star>
+  <distance errorplus="517.38" errorminus="-193.1">1530.0</distance>
+  <rightascension>19 25 54</rightascension>
+  <declination>46 37 03</declination>
+  <name>Kepler-741</name>
+</system>
+

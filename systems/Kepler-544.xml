@@ -1,1 +1,22 @@
-<system><rightascension>19 01 44</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.16</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.4</period><radius errorminus="-0.08" errorplus="0.11">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-544 b</name></planet><name>Kepler-544</name><radius errorminus="-0.08" errorplus="0.11">1.22</radius><temperature errorminus="-58.72" errorplus="68.1">6206.0</temperature></star><distance errorminus="-52.97" errorplus="70.01">797.0</distance><name>Kepler-544</name><declination>39 03 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.11" errorminus="-0.08">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.4</period>
+      <semimajoraxis/>
+      <name>Kepler-544 b</name>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.08">1.22</radius>
+    <temperature errorplus="68.1" errorminus="-58.72">6206.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.16</mass>
+    <name>Kepler-544</name>
+  </star>
+  <distance errorplus="70.01" errorminus="-52.97">797.0</distance>
+  <rightascension>19 01 44</rightascension>
+  <declination>39 03 06</declination>
+  <name>Kepler-544</name>
+</system>
+

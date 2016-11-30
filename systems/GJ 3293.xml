@@ -1,1 +1,33 @@
-<system><rightascension>04 08 55</rightascension><star><mass>0.42</mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">123.8</period><radius errorminus="-0.03" errorplus="0.03">0.4</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.364</semimajoraxis><lastupdate>2014-12-03</lastupdate><name>GJ 3293 c</name><eccentricity>0.33</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">30.6</period><radius errorminus="-0.03" errorplus="0.03">0.4</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.1434</semimajoraxis><lastupdate>2014-12-03</lastupdate><name>GJ 3293 b</name><eccentricity>0.07</eccentricity></planet><name>GJ 3293</name><radius errorminus="-0.03" errorplus="0.03">0.4</radius><temperature errorminus="-49.0" errorplus="49.0">3466.0</temperature></star><distance></distance><name>GJ 3293</name><declination>-25 10 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-12-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.6</period>
+      <semimajoraxis>0.1434</semimajoraxis>
+      <name>GJ 3293 b</name>
+      <eccentricity>0.07</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-12-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">123.8</period>
+      <semimajoraxis>0.364</semimajoraxis>
+      <name>GJ 3293 c</name>
+      <eccentricity>0.33</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
+    <temperature errorplus="49.0" errorminus="-49.0">3466.0</temperature>
+    <mass>0.42</mass>
+    <name>GJ 3293</name>
+  </star>
+  <distance/>
+  <rightascension>04 08 55</rightascension>
+  <declination>-25 10 09</declination>
+  <name>GJ 3293</name>
+</system>
+

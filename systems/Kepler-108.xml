@@ -1,1 +1,31 @@
-<system><rightascension>19 33 33</rightascension><star><mass>0.87</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">190.3</period><radius errorminus="-0.12" errorplus="0.12">2.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.721</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-108 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">49.2</period><radius errorminus="-0.12" errorplus="0.12">2.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.292</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-108 b</name></planet><name>Kepler-108</name><radius errorminus="-0.12" errorplus="0.12">2.19</radius><temperature errorminus="-92.0" errorplus="92.0">5854.0</temperature></star><distance></distance><name>Kepler-108</name><declination>46 03 44</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">2.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">190.3</period>
+      <semimajoraxis>0.721</semimajoraxis>
+      <name>Kepler-108 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">2.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">49.2</period>
+      <semimajoraxis>0.292</semimajoraxis>
+      <name>Kepler-108 b</name>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">2.19</radius>
+    <temperature errorplus="92.0" errorminus="-92.0">5854.0</temperature>
+    <mass>0.87</mass>
+    <name>Kepler-108</name>
+  </star>
+  <distance/>
+  <rightascension>19 33 33</rightascension>
+  <declination>46 03 44</declination>
+  <name>Kepler-108</name>
+</system>
+

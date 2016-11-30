@@ -1,1 +1,31 @@
-<system><rightascension>19 26 50</rightascension><star><mass>0.78</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.3</period><radius errorminus="-0.27" errorplus="0.27">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.075</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-330 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.0</period><radius errorminus="-0.27" errorplus="0.27">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.116</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-330 c</name></planet><name>Kepler-330</name><radius errorminus="-0.27" errorplus="0.27">0.72</radius><temperature errorminus="-200.0" errorplus="200.0">5117.0</temperature></star><distance></distance><name>Kepler-330</name><declination>44 48 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.27" errorminus="-0.27">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.0</period>
+      <semimajoraxis>0.116</semimajoraxis>
+      <name>Kepler-330 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.27" errorminus="-0.27">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.3</period>
+      <semimajoraxis>0.075</semimajoraxis>
+      <name>Kepler-330 b</name>
+    </planet>
+    <radius errorplus="0.27" errorminus="-0.27">0.72</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5117.0</temperature>
+    <mass>0.78</mass>
+    <name>Kepler-330</name>
+  </star>
+  <distance/>
+  <rightascension>19 26 50</rightascension>
+  <declination>44 48 06</declination>
+  <name>Kepler-330</name>
+</system>
+

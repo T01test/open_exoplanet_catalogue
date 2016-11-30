@@ -1,1 +1,22 @@
-<system><rightascension>19 11 46</rightascension><star><mass errorminus="-0.06" errorplus="0.07">0.96</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.7</period><radius errorminus="-0.08" errorplus="0.16">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1497 b</name></planet><name>Kepler-1497</name><radius errorminus="-0.08" errorplus="0.16">0.95</radius><temperature errorminus="-169.0" errorplus="159.75">5675.0</temperature></star><distance errorminus="-104.84" errorplus="189.44">1122.0</distance><name>Kepler-1497</name><declination>45 38 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.16" errorminus="-0.08">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1497 b</name>
+    </planet>
+    <radius errorplus="0.16" errorminus="-0.08">0.95</radius>
+    <temperature errorplus="159.75" errorminus="-169.0">5675.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.06">0.96</mass>
+    <name>Kepler-1497</name>
+  </star>
+  <distance errorplus="189.44" errorminus="-104.84">1122.0</distance>
+  <rightascension>19 11 46</rightascension>
+  <declination>45 38 03</declination>
+  <name>Kepler-1497</name>
+</system>
+

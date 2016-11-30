@@ -1,1 +1,23 @@
-<system><rightascension>16 04 19</rightascension><star><mass>1.22</mass><planet><inclination></inclination><period errorminus="-28.0" errorplus="28.0">1027.0</period><radius errorminus="-0.03" errorplus="0.03">1.21</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.05" errorplus="0.04">2.45</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 148156 b</name><eccentricity>0.52</eccentricity></planet><name>HD 148156</name><radius errorminus="-0.03" errorplus="0.03">1.21</radius><temperature errorminus="-28.0" errorplus="28.0">6308.0</temperature></star><distance errorminus="-3.07" errorplus="2.75">53.05</distance><name>HD 148156</name><declination>-46 19 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="28.0" errorminus="-28.0">1027.0</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.05">2.45</semimajoraxis>
+      <name>HD 148156 b</name>
+      <eccentricity>0.52</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
+    <temperature errorplus="28.0" errorminus="-28.0">6308.0</temperature>
+    <mass>1.22</mass>
+    <name>HD 148156</name>
+  </star>
+  <distance errorplus="2.75" errorminus="-3.07">53.05</distance>
+  <rightascension>16 04 19</rightascension>
+  <declination>-46 19 03</declination>
+  <name>HD 148156</name>
+</system>
+

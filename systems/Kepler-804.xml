@@ -1,1 +1,31 @@
-<system><rightascension>19 22 20</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.01</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">14.4</period><radius errorminus="-0.09" errorplus="0.13">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-804 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">9.7</period><radius errorminus="-0.09" errorplus="0.13">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-804 c</name></planet><name>Kepler-804</name><radius errorminus="-0.09" errorplus="0.13">1.05</radius><temperature errorminus="-78.6" errorplus="93.12">5817.0</temperature></star><distance errorminus="-55.65" errorplus="77.97">648.0</distance><name>Kepler-804</name><declination>44 47 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.4</period>
+      <semimajoraxis/>
+      <name>Kepler-804 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.7</period>
+      <semimajoraxis/>
+      <name>Kepler-804 c</name>
+    </planet>
+    <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+    <temperature errorplus="93.12" errorminus="-78.6">5817.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.01</mass>
+    <name>Kepler-804</name>
+  </star>
+  <distance errorplus="77.97" errorminus="-55.65">648.0</distance>
+  <rightascension>19 22 20</rightascension>
+  <declination>44 47 06</declination>
+  <name>Kepler-804</name>
+</system>
+

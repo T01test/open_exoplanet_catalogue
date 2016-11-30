@@ -1,1 +1,31 @@
-<system><rightascension>18 41 27</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.3</period><radius errorminus="-0.47" errorplus="0.47">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.11</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-165 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.2</period><radius errorminus="-0.47" errorplus="0.47">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.072</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-165 b</name></planet><name>Kepler-165</name><radius errorminus="-0.47" errorplus="0.47">0.77</radius><temperature errorminus="-200.0" errorplus="200.0">5211.0</temperature></star><distance></distance><name>Kepler-165</name><declination>47 48 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.2</period>
+      <semimajoraxis>0.072</semimajoraxis>
+      <name>Kepler-165 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.3</period>
+      <semimajoraxis>0.11</semimajoraxis>
+      <name>Kepler-165 c</name>
+    </planet>
+    <radius errorplus="0.47" errorminus="-0.47">0.77</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5211.0</temperature>
+    <mass/>
+    <name>Kepler-165</name>
+  </star>
+  <distance/>
+  <rightascension>18 41 27</rightascension>
+  <declination>47 48 35</declination>
+  <name>Kepler-165</name>
+</system>
+

@@ -1,1 +1,49 @@
-<system><rightascension>23 52 10</rightascension><star><mass errorminus="-0.02" errorplus="0.04">1.51</mass><planet><inclination></inclination><period>170000.0</period><radius></radius><discoverymethod>imaging</discoverymethod><semimajoraxis>68.0</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HR 8799 b</name></planet><planet><inclination></inclination><period>18000.0</period><radius></radius><discoverymethod>imaging</discoverymethod><semimajoraxis errorminus="-0.5" errorplus="0.5">14.5</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HR 8799 e</name></planet><planet><inclination></inclination><period>37000.0</period><radius></radius><discoverymethod>imaging</discoverymethod><semimajoraxis>24.0</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HR 8799 d</name></planet><planet><inclination></inclination><period>69000.0</period><radius></radius><discoverymethod>imaging</discoverymethod><semimajoraxis>38.0</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HR 8799 c</name></planet><name>HR 8799</name><radius></radius><temperature></temperature></star><distance errorminus="-1.1" errorplus="1.1">39.4</distance><name>HR 8799</name><declination>21 08 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>170000.0</period>
+      <semimajoraxis>68.0</semimajoraxis>
+      <name>HR 8799 b</name>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>37000.0</period>
+      <semimajoraxis>24.0</semimajoraxis>
+      <name>HR 8799 d</name>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>18000.0</period>
+      <semimajoraxis errorplus="0.5" errorminus="-0.5">14.5</semimajoraxis>
+      <name>HR 8799 e</name>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>69000.0</period>
+      <semimajoraxis>38.0</semimajoraxis>
+      <name>HR 8799 c</name>
+    </planet>
+    <radius/>
+    <temperature/>
+    <mass errorplus="0.04" errorminus="-0.02">1.51</mass>
+    <name>HR 8799</name>
+  </star>
+  <distance errorplus="1.1" errorminus="-1.1">39.4</distance>
+  <rightascension>23 52 10</rightascension>
+  <declination>21 08 03</declination>
+  <name>HR 8799</name>
+</system>
+

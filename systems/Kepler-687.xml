@@ -1,1 +1,22 @@
-<system><rightascension>19 18 55</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.77</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.5</period><radius errorminus="-0.04" errorplus="0.03">0.73</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-687 b</name></planet><name>Kepler-687</name><radius errorminus="-0.04" errorplus="0.03">0.73</radius><temperature errorminus="-63.99" errorplus="93.0">4841.0</temperature></star><distance errorminus="-34.61" errorplus="29.2">628.0</distance><name>Kepler-687</name><declination>39 09 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.5</period>
+      <semimajoraxis/>
+      <name>Kepler-687 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.73</radius>
+    <temperature errorplus="93.0" errorminus="-63.99">4841.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.77</mass>
+    <name>Kepler-687</name>
+  </star>
+  <distance errorplus="29.2" errorminus="-34.61">628.0</distance>
+  <rightascension>19 18 55</rightascension>
+  <declination>39 09 11</declination>
+  <name>Kepler-687</name>
+</system>
+

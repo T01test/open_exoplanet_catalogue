@@ -1,1 +1,23 @@
-<system><rightascension>09 20 39</rightascension><star><mass errorminus="-0.07" errorplus="0.07">1.18</mass><planet><inclination errorminus="-0.8" errorplus="1.3">85.9</inclination><period errorminus="-0.0" errorplus="0.0">4.6</period><radius errorminus="-0.14" errorplus="0.14">1.53</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0575</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-42 b</name><eccentricity>0.0</eccentricity></planet><name>HAT-P-42</name><radius errorminus="-0.14" errorplus="0.14">1.53</radius><temperature errorminus="-50.0" errorplus="50.0">5743.0</temperature></star><distance errorminus="-41.0" errorplus="41.0">447.0</distance><name>HAT-P-42</name><declination>06 05 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.3" errorminus="-0.8">85.9</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0575</semimajoraxis>
+      <name>HAT-P-42 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">5743.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.07">1.18</mass>
+    <name>HAT-P-42</name>
+  </star>
+  <distance errorplus="41.0" errorminus="-41.0">447.0</distance>
+  <rightascension>09 20 39</rightascension>
+  <declination>06 05 50</declination>
+  <name>HAT-P-42</name>
+</system>
+

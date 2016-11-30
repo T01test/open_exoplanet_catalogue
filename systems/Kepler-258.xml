@@ -1,1 +1,31 @@
-<system><rightascension>19 04 06</rightascension><star><mass>0.8</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">33.7</period><radius errorminus="-0.61" errorplus="0.61">0.92</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.193</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-258 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.2</period><radius errorminus="-0.61" errorplus="0.61">0.92</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.103</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-258 b</name></planet><name>Kepler-258</name><radius errorminus="-0.61" errorplus="0.61">0.92</radius><temperature errorminus="-200.0" errorplus="200.0">4942.0</temperature></star><distance></distance><name>Kepler-258</name><declination>46 34 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.61" errorminus="-0.61">0.92</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.2</period>
+      <semimajoraxis>0.103</semimajoraxis>
+      <name>Kepler-258 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.61" errorminus="-0.61">0.92</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">33.7</period>
+      <semimajoraxis>0.193</semimajoraxis>
+      <name>Kepler-258 c</name>
+    </planet>
+    <radius errorplus="0.61" errorminus="-0.61">0.92</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">4942.0</temperature>
+    <mass>0.8</mass>
+    <name>Kepler-258</name>
+  </star>
+  <distance/>
+  <rightascension>19 04 06</rightascension>
+  <declination>46 34 45</declination>
+  <name>Kepler-258</name>
+</system>
+

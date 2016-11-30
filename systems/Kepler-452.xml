@@ -1,1 +1,22 @@
-<system><rightascension>19 00 13</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.04</mass><planet><inclination errorminus="-0.049" errorplus="0.134">89.806</inclination><period errorminus="-0.0" errorplus="0.0">384.8</period><radius errorminus="-0.09" errorplus="0.15">1.11</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.015" errorplus="0.019">1.046</semimajoraxis><lastupdate>2015-07-23</lastupdate><name>Kepler-452 b</name></planet><name>Kepler-452</name><radius errorminus="-0.09" errorplus="0.15">1.11</radius><temperature errorminus="-85.0" errorplus="85.0">5757.0</temperature></star><distance></distance><name>Kepler-452</name><declination>44 16 39</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.15" errorminus="-0.09">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-07-23</lastupdate>
+      <inclination errorplus="0.134" errorminus="-0.049">89.806</inclination>
+      <period errorplus="0.0" errorminus="-0.0">384.8</period>
+      <semimajoraxis errorplus="0.019" errorminus="-0.015">1.046</semimajoraxis>
+      <name>Kepler-452 b</name>
+    </planet>
+    <radius errorplus="0.15" errorminus="-0.09">1.11</radius>
+    <temperature errorplus="85.0" errorminus="-85.0">5757.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.04</mass>
+    <name>Kepler-452</name>
+  </star>
+  <distance/>
+  <rightascension>19 00 13</rightascension>
+  <declination>44 16 39</declination>
+  <name>Kepler-452</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 27 24</rightascension><star><mass errorminus="-0.08" errorplus="0.09">1.03</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.5</period><radius errorminus="-0.12" errorplus="0.25">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-666 b</name></planet><name>Kepler-666</name><radius errorminus="-0.12" errorplus="0.25">1.05</radius><temperature errorminus="-179.03" errorplus="164.92">5887.0</temperature></star><distance errorminus="-168.02" errorplus="316.53">1330.0</distance><name>Kepler-666</name><declination>48 47 29</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.12">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <semimajoraxis/>
+      <name>Kepler-666 b</name>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.12">1.05</radius>
+    <temperature errorplus="164.92" errorminus="-179.03">5887.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.08">1.03</mass>
+    <name>Kepler-666</name>
+  </star>
+  <distance errorplus="316.53" errorminus="-168.02">1330.0</distance>
+  <rightascension>19 27 24</rightascension>
+  <declination>48 47 29</declination>
+  <name>Kepler-666</name>
+</system>
+

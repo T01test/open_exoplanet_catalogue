@@ -1,1 +1,33 @@
-<system><rightascension>01 30 30</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.78</mass><planet><inclination></inclination><period errorminus="-5.4" errorplus="5.4">345.7</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.89</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HIP 5158 b</name><eccentricity>0.52</eccentricity></planet><planet><inclination></inclination><period errorminus="-3180.7" errorplus="3180.7">9017.8</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-1.88" errorplus="1.88">7.7</semimajoraxis><lastupdate>2015-09-10</lastupdate><name>HIP 5158 c</name><eccentricity>0.14</eccentricity></planet><name>HIP 5158</name><radius></radius><temperature errorminus="-89.0" errorplus="89.0">4962.0</temperature></star><distance errorminus="-4.7" errorplus="3.89">44.8</distance><name>HIP 5158</name><declination>-22 27 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="5.4" errorminus="-5.4">345.7</period>
+      <semimajoraxis>0.89</semimajoraxis>
+      <name>HIP 5158 b</name>
+      <eccentricity>0.52</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-10</lastupdate>
+      <inclination/>
+      <period errorplus="3180.7" errorminus="-3180.7">9017.8</period>
+      <semimajoraxis errorplus="1.88" errorminus="-1.88">7.7</semimajoraxis>
+      <name>HIP 5158 c</name>
+      <eccentricity>0.14</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="89.0" errorminus="-89.0">4962.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.78</mass>
+    <name>HIP 5158</name>
+  </star>
+  <distance errorplus="3.89" errorminus="-4.7">44.8</distance>
+  <rightascension>01 30 30</rightascension>
+  <declination>-22 27 11</declination>
+  <name>HIP 5158</name>
+</system>
+

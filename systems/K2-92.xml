@@ -1,1 +1,22 @@
-<system><rightascension>04 04 11</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.04</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">0.7</period><radius errorminus="-0.12" errorplus="0.12">1.38</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0002" errorplus="0.0002">0.01566</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-92 b</name></planet><name>K2-92</name><radius errorminus="-0.12" errorplus="0.12">1.38</radius><temperature errorminus="-50.0" errorplus="50.0">6098.0</temperature></star><distance></distance><name>K2-92</name><declination>25 28 48</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.01566</semimajoraxis>
+      <name>K2-92 b</name>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">1.38</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">6098.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.04</mass>
+    <name>K2-92</name>
+  </star>
+  <distance/>
+  <rightascension>04 04 11</rightascension>
+  <declination>25 28 48</declination>
+  <name>K2-92</name>
+</system>
+

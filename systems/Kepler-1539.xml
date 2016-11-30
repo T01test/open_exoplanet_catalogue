@@ -1,1 +1,22 @@
-<system><rightascension>18 13 09</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">133.3</period><radius errorminus="-0.04" errorplus="0.05">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1539 b</name></planet><name>Kepler-1539</name><radius errorminus="-0.04" errorplus="0.05">0.8</radius><temperature errorminus="-57.95" errorplus="55.53">5176.0</temperature></star><distance errorminus="-45.67" errorplus="47.63">788.0</distance><name>Kepler-1539</name><declination>44 16 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">133.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1539 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.04">0.8</radius>
+    <temperature errorplus="55.53" errorminus="-57.95">5176.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.84</mass>
+    <name>Kepler-1539</name>
+  </star>
+  <distance errorplus="47.63" errorminus="-45.67">788.0</distance>
+  <rightascension>18 13 09</rightascension>
+  <declination>44 16 06</declination>
+  <name>Kepler-1539</name>
+</system>
+

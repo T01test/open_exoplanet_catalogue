@@ -1,1 +1,22 @@
-<system><rightascension>19 23 28</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.6</period><radius errorminus="-0.04" errorplus="0.05">0.81</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-736 b</name></planet><name>Kepler-736</name><radius errorminus="-0.04" errorplus="0.05">0.81</radius><temperature errorminus="-50.86" errorplus="50.31">5217.0</temperature></star><distance errorminus="-55.57" errorplus="60.06">1007.0</distance><name>Kepler-736</name><declination>46 10 51</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <semimajoraxis/>
+      <name>Kepler-736 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.04">0.81</radius>
+    <temperature errorplus="50.31" errorminus="-50.86">5217.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.86</mass>
+    <name>Kepler-736</name>
+  </star>
+  <distance errorplus="60.06" errorminus="-55.57">1007.0</distance>
+  <rightascension>19 23 28</rightascension>
+  <declination>46 10 51</declination>
+  <name>Kepler-736</name>
+</system>
+

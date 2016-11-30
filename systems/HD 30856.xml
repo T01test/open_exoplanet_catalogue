@@ -1,1 +1,23 @@
-<system><rightascension>04 34 27</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.35</mass><planet><inclination></inclination><period errorminus="-41.0" errorplus="41.0">912.0</period><radius errorminus="-0.1" errorplus="0.1">4.2</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.2" errorplus="0.2">1.8</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 30856 b</name><eccentricity>0.117</eccentricity></planet><name>HD 30856</name><radius errorminus="-0.1" errorplus="0.1">4.2</radius><temperature errorminus="-44.0" errorplus="44.0">4982.0</temperature></star><distance errorminus="-14.62" errorplus="11.78">121.07</distance><name>HD 30856</name><declination>-24 22 07</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="41.0" errorminus="-41.0">912.0</period>
+      <semimajoraxis errorplus="0.2" errorminus="-0.2">1.8</semimajoraxis>
+      <name>HD 30856 b</name>
+      <eccentricity>0.117</eccentricity>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">4982.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.35</mass>
+    <name>HD 30856</name>
+  </star>
+  <distance errorplus="11.78" errorminus="-14.62">121.07</distance>
+  <rightascension>04 34 27</rightascension>
+  <declination>-24 22 07</declination>
+  <name>HD 30856</name>
+</system>
+

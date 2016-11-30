@@ -1,1 +1,23 @@
-<system><rightascension>12 21 58</rightascension><star><mass errorminus="-0.02" errorplus="0.02">1.02</mass><planet><inclination errorminus="-0.2" errorplus="0.1">88.5</inclination><period errorminus="-0.0" errorplus="0.0">4.6</period><radius errorminus="-0.02" errorplus="0.03">1.11</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00041" errorplus="0.00041">0.05458</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>WASP-56 b</name><eccentricity>0.0</eccentricity></planet><name>WASP-56</name><radius errorminus="-0.02" errorplus="0.03">1.11</radius><temperature errorminus="-100.0" errorplus="100.0">5600.0</temperature></star><distance errorminus="-40.0" errorplus="40.0">255.0</distance><name>WASP-56</name><declination>23 03 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.1" errorminus="-0.2">88.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.05458</semimajoraxis>
+      <name>WASP-56 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.02">1.11</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5600.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">1.02</mass>
+    <name>WASP-56</name>
+  </star>
+  <distance errorplus="40.0" errorminus="-40.0">255.0</distance>
+  <rightascension>12 21 58</rightascension>
+  <declination>23 03 20</declination>
+  <name>WASP-56</name>
+</system>
+

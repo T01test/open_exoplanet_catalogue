@@ -1,1 +1,23 @@
-<system><rightascension>20 52 40</rightascension><star><mass>0.91</mass><planet><inclination></inclination><period errorminus="-1600.0" errorplus="1600.0">4885.0</period><radius>1.53</radius><discoverymethod>RV</discoverymethod><semimajoraxis>5.5</semimajoraxis><lastupdate>2014-08-21</lastupdate><name>HD 190984 b</name><eccentricity>0.57</eccentricity></planet><name>HD 190984</name><radius>1.53</radius><temperature errorminus="-25.0" errorplus="25.0">5988.0</temperature></star><distance errorminus="-58.74" errorplus="36.26">189.39</distance><name>HD 190984</name><declination>-64 37 13</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>1.53</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-08-21</lastupdate>
+      <inclination/>
+      <period errorplus="1600.0" errorminus="-1600.0">4885.0</period>
+      <semimajoraxis>5.5</semimajoraxis>
+      <name>HD 190984 b</name>
+      <eccentricity>0.57</eccentricity>
+    </planet>
+    <radius>1.53</radius>
+    <temperature errorplus="25.0" errorminus="-25.0">5988.0</temperature>
+    <mass>0.91</mass>
+    <name>HD 190984</name>
+  </star>
+  <distance errorplus="36.26" errorminus="-58.74">189.39</distance>
+  <rightascension>20 52 40</rightascension>
+  <declination>-64 37 13</declination>
+  <name>HD 190984</name>
+</system>
+

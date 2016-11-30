@@ -1,1 +1,22 @@
-<system><rightascension>19 18 57</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.0</period><radius errorminus="-0.05" errorplus="0.06">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-695 b</name></planet><name>Kepler-695</name><radius errorminus="-0.05" errorplus="0.06">0.8</radius><temperature errorminus="-197.86" errorplus="199.46">5181.0</temperature></star><distance errorminus="-42.99" errorplus="54.31">620.0</distance><name>Kepler-695</name><declination>40 49 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.05">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <semimajoraxis/>
+      <name>Kepler-695 b</name>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.05">0.8</radius>
+    <temperature errorplus="199.46" errorminus="-197.86">5181.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.84</mass>
+    <name>Kepler-695</name>
+  </star>
+  <distance errorplus="54.31" errorminus="-42.99">620.0</distance>
+  <rightascension>19 18 57</rightascension>
+  <declination>40 49 20</declination>
+  <name>Kepler-695</name>
+</system>
+

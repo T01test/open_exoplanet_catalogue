@@ -1,1 +1,22 @@
-<system><rightascension>19 55 24</rightascension><star><mass errorminus="-0.09" errorplus="0.12">1.07</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.0</period><radius errorminus="-0.15" errorplus="0.27">1.11</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1561 b</name></planet><name>Kepler-1561</name><radius errorminus="-0.15" errorplus="0.27">1.11</radius><temperature errorminus="-233.87" errorplus="196.63">5957.0</temperature></star><distance errorminus="-143.29" errorplus="241.47">993.0</distance><name>Kepler-1561</name><declination>43 33 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.27" errorminus="-0.15">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <semimajoraxis/>
+      <name>Kepler-1561 b</name>
+    </planet>
+    <radius errorplus="0.27" errorminus="-0.15">1.11</radius>
+    <temperature errorplus="196.63" errorminus="-233.87">5957.0</temperature>
+    <mass errorplus="0.12" errorminus="-0.09">1.07</mass>
+    <name>Kepler-1561</name>
+  </star>
+  <distance errorplus="241.47" errorminus="-143.29">993.0</distance>
+  <rightascension>19 55 24</rightascension>
+  <declination>43 33 59</declination>
+  <name>Kepler-1561</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 11 33</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">34.3</period><radius errorminus="-0.04" errorplus="0.05">0.82</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1010 b</name></planet><name>Kepler-1010</name><radius errorminus="-0.04" errorplus="0.05">0.82</radius><temperature errorminus="-80.75" errorplus="67.75">5253.0</temperature></star><distance errorminus="-35.83" errorplus="41.36">610.0</distance><name>Kepler-1010</name><declination>44 08 57</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">34.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1010 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
+    <temperature errorplus="67.75" errorminus="-80.75">5253.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
+    <name>Kepler-1010</name>
+  </star>
+  <distance errorplus="41.36" errorminus="-35.83">610.0</distance>
+  <rightascension>19 11 33</rightascension>
+  <declination>44 08 57</declination>
+  <name>Kepler-1010</name>
+</system>
+

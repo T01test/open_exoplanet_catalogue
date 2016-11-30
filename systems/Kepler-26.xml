@@ -1,1 +1,49 @@
-<system><rightascension>18 56 27</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.54</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.3</period><radius errorminus="-0.02" errorplus="0.02">0.51</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-04-07</lastupdate><name>Kepler-26 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.5</period><radius errorminus="-0.02" errorplus="0.02">0.51</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.039</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-26 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">46.8</period><radius errorminus="-0.02" errorplus="0.02">0.51</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.22</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-26 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.3</period><radius errorminus="-0.02" errorplus="0.02">0.51</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-04-07</lastupdate><name>Kepler-26 c</name></planet><name>Kepler-26</name><radius errorminus="-0.02" errorplus="0.02">0.51</radius><temperature errorminus="-119.0" errorplus="119.0">3914.0</temperature></star><distance></distance><name>Kepler-26</name><declination>46 33 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.51</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">46.8</period>
+      <semimajoraxis>0.22</semimajoraxis>
+      <name>Kepler-26 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.51</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <semimajoraxis>0.039</semimajoraxis>
+      <name>Kepler-26 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.51</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-04-07</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.3</period>
+      <semimajoraxis/>
+      <name>Kepler-26 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.51</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-04-07</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.3</period>
+      <semimajoraxis/>
+      <name>Kepler-26 c</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.51</radius>
+    <temperature errorplus="119.0" errorminus="-119.0">3914.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.54</mass>
+    <name>Kepler-26</name>
+  </star>
+  <distance/>
+  <rightascension>18 56 27</rightascension>
+  <declination>46 33 59</declination>
+  <name>Kepler-26</name>
+</system>
+

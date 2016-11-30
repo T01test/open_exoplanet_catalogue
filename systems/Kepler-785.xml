@@ -1,1 +1,22 @@
-<system><rightascension>19 04 05</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.77</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.0</period><radius errorminus="-0.03" errorplus="0.02">0.71</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-785 b</name></planet><name>Kepler-785</name><radius errorminus="-0.03" errorplus="0.02">0.71</radius><temperature errorminus="-69.98" errorplus="115.49">4739.0</temperature></star><distance errorminus="-30.11" errorplus="28.64">666.0</distance><name>Kepler-785</name><declination>38 50 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.0</period>
+      <semimajoraxis/>
+      <name>Kepler-785 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
+    <temperature errorplus="115.49" errorminus="-69.98">4739.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.77</mass>
+    <name>Kepler-785</name>
+  </star>
+  <distance errorplus="28.64" errorminus="-30.11">666.0</distance>
+  <rightascension>19 04 05</rightascension>
+  <declination>38 50 32</declination>
+  <name>Kepler-785</name>
+</system>
+

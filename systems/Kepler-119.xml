@@ -1,1 +1,31 @@
-<system><rightascension>19 56 47</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.1</period><radius errorminus="-0.32" errorplus="0.32">0.84</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.049</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-119 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.4</period><radius errorminus="-0.32" errorplus="0.32">0.84</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.035</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-119 b</name></planet><name>Kepler-119</name><radius errorminus="-0.32" errorplus="0.32">0.84</radius><temperature errorminus="-200.0" errorplus="200.0">5595.0</temperature></star><distance></distance><name>Kepler-119</name><declination>42 39 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.32" errorminus="-0.32">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <semimajoraxis>0.049</semimajoraxis>
+      <name>Kepler-119 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.32" errorminus="-0.32">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <semimajoraxis>0.035</semimajoraxis>
+      <name>Kepler-119 b</name>
+    </planet>
+    <radius errorplus="0.32" errorminus="-0.32">0.84</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5595.0</temperature>
+    <mass/>
+    <name>Kepler-119</name>
+  </star>
+  <distance/>
+  <rightascension>19 56 47</rightascension>
+  <declination>42 39 32</declination>
+  <name>Kepler-119</name>
+</system>
+

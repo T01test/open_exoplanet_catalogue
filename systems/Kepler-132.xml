@@ -1,1 +1,49 @@
-<system><rightascension>18 14 08</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.0</period><radius errorminus="-0.23" errorplus="0.23">1.18</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.136</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-132 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">110.3</period><radius errorminus="-0.23" errorplus="0.23">1.18</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-132 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.2</period><radius errorminus="-0.23" errorplus="0.23">1.18</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.067</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-132 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.4</period><radius errorminus="-0.23" errorplus="0.23">1.18</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.068</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-132 c</name></planet><name>Kepler-132</name><radius errorminus="-0.23" errorplus="0.23">1.18</radius><temperature errorminus="-146.0" errorplus="146.0">6003.0</temperature></star><distance></distance><name>Kepler-132</name><declination>41 20 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.4</period>
+      <semimajoraxis>0.068</semimajoraxis>
+      <name>Kepler-132 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">110.3</period>
+      <semimajoraxis/>
+      <name>Kepler-132 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.2</period>
+      <semimajoraxis>0.067</semimajoraxis>
+      <name>Kepler-132 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.0</period>
+      <semimajoraxis>0.136</semimajoraxis>
+      <name>Kepler-132 d</name>
+    </planet>
+    <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
+    <temperature errorplus="146.0" errorminus="-146.0">6003.0</temperature>
+    <mass/>
+    <name>Kepler-132</name>
+  </star>
+  <distance/>
+  <rightascension>18 14 08</rightascension>
+  <declination>41 20 34</declination>
+  <name>Kepler-132</name>
+</system>
+

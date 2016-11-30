@@ -1,1 +1,22 @@
-<system><rightascension>19 56 53</rightascension><star><mass errorminus="-0.11" errorplus="0.15">1.18</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">82.2</period><radius errorminus="-0.19" errorplus="0.43">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1475 b</name></planet><name>Kepler-1475</name><radius errorminus="-0.19" errorplus="0.43">1.28</radius><temperature errorminus="-203.22" errorplus="192.71">6214.0</temperature></star><distance errorminus="-277.87" errorplus="573.22">1714.0</distance><name>Kepler-1475</name><declination>44 45 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.19">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">82.2</period>
+      <semimajoraxis/>
+      <name>Kepler-1475 b</name>
+    </planet>
+    <radius errorplus="0.43" errorminus="-0.19">1.28</radius>
+    <temperature errorplus="192.71" errorminus="-203.22">6214.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.11">1.18</mass>
+    <name>Kepler-1475</name>
+  </star>
+  <distance errorplus="573.22" errorminus="-277.87">1714.0</distance>
+  <rightascension>19 56 53</rightascension>
+  <declination>44 45 11</declination>
+  <name>Kepler-1475</name>
+</system>
+

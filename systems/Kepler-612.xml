@@ -1,1 +1,22 @@
-<system><rightascension>19 21 16</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.98</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.7</period><radius errorminus="-0.08" errorplus="0.17">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-612 b</name></planet><name>Kepler-612</name><radius errorminus="-0.08" errorplus="0.17">0.96</radius><temperature errorminus="-129.13" errorplus="92.7">5693.0</temperature></star><distance errorminus="-78.85" errorplus="168.23">932.0</distance><name>Kepler-612</name><declination>45 44 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <semimajoraxis/>
+      <name>Kepler-612 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
+    <temperature errorplus="92.7" errorminus="-129.13">5693.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
+    <name>Kepler-612</name>
+  </star>
+  <distance errorplus="168.23" errorminus="-78.85">932.0</distance>
+  <rightascension>19 21 16</rightascension>
+  <declination>45 44 52</declination>
+  <name>Kepler-612</name>
+</system>
+

@@ -1,1 +1,31 @@
-<system><rightascension>19 42 47</rightascension><star><mass errorminus="-0.11" errorplus="0.17">1.19</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.4</period><radius errorminus="-0.19" errorplus="0.55">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-769 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.0</period><radius errorminus="-0.19" errorplus="0.55">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-769 c</name></planet><name>Kepler-769</name><radius errorminus="-0.19" errorplus="0.55">1.28</radius><temperature errorminus="-184.13" errorplus="127.24">6186.0</temperature></star><distance errorminus="-216.52" errorplus="567.34">1362.0</distance><name>Kepler-769</name><declination>38 21 29</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.0</period>
+      <semimajoraxis/>
+      <name>Kepler-769 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <semimajoraxis/>
+      <name>Kepler-769 b</name>
+    </planet>
+    <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
+    <temperature errorplus="127.24" errorminus="-184.13">6186.0</temperature>
+    <mass errorplus="0.17" errorminus="-0.11">1.19</mass>
+    <name>Kepler-769</name>
+  </star>
+  <distance errorplus="567.34" errorminus="-216.52">1362.0</distance>
+  <rightascension>19 42 47</rightascension>
+  <declination>38 21 29</declination>
+  <name>Kepler-769</name>
+</system>
+

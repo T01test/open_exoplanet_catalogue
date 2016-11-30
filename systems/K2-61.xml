@@ -1,1 +1,22 @@
-<system><rightascension>22 40 29</rightascension><star><mass errorminus="-0.22" errorplus="0.22">1.21</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.6</period><radius errorminus="-0.41" errorplus="0.41">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0024" errorplus="0.0024">0.0392</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-61 b</name></planet><name>K2-61</name><radius errorminus="-0.41" errorplus="0.41">1.36</radius><temperature errorminus="-338.0" errorplus="338.0">6293.0</temperature></star><distance></distance><name>K2-61</name><declination>-13 33 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.41" errorminus="-0.41">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+      <semimajoraxis errorplus="0.0024" errorminus="-0.0024">0.0392</semimajoraxis>
+      <name>K2-61 b</name>
+    </planet>
+    <radius errorplus="0.41" errorminus="-0.41">1.36</radius>
+    <temperature errorplus="338.0" errorminus="-338.0">6293.0</temperature>
+    <mass errorplus="0.22" errorminus="-0.22">1.21</mass>
+    <name>K2-61</name>
+  </star>
+  <distance/>
+  <rightascension>22 40 29</rightascension>
+  <declination>-13 33 36</declination>
+  <name>K2-61</name>
+</system>
+

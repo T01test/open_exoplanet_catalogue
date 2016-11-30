@@ -1,1 +1,22 @@
-<system><rightascension>16 48 40</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.01</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.0</period><radius errorminus="-0.15" errorplus="0.15">1.37</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0018" errorplus="0.0018">0.1086</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-51 b</name></planet><name>K2-51</name><radius errorminus="-0.15" errorplus="0.15">1.37</radius><temperature errorminus="-85.0" errorplus="85.0">5452.0</temperature></star><distance></distance><name>K2-51</name><declination>-27 57 25</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.15" errorminus="-0.15">1.37</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.0</period>
+      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.1086</semimajoraxis>
+      <name>K2-51 b</name>
+    </planet>
+    <radius errorplus="0.15" errorminus="-0.15">1.37</radius>
+    <temperature errorplus="85.0" errorminus="-85.0">5452.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.01</mass>
+    <name>K2-51</name>
+  </star>
+  <distance/>
+  <rightascension>16 48 40</rightascension>
+  <declination>-27 57 25</declination>
+  <name>K2-51</name>
+</system>
+

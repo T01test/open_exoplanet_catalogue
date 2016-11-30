@@ -1,1 +1,22 @@
-<system><rightascension>19 42 56</rightascension><star><mass errorminus="-0.11" errorplus="0.01">1.28</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.0</period><radius errorminus="-0.41" errorplus="0.3">3.38</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1270 b</name></planet><name>Kepler-1270</name><radius errorminus="-0.41" errorplus="0.3">3.38</radius><temperature errorminus="-34.17" errorplus="40.17">5047.0</temperature></star><distance errorminus="-145.11" errorplus="110.86">1204.0</distance><name>Kepler-1270</name><declination>48 38 43</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.3" errorminus="-0.41">3.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.0</period>
+      <semimajoraxis/>
+      <name>Kepler-1270 b</name>
+    </planet>
+    <radius errorplus="0.3" errorminus="-0.41">3.38</radius>
+    <temperature errorplus="40.17" errorminus="-34.17">5047.0</temperature>
+    <mass errorplus="0.01" errorminus="-0.11">1.28</mass>
+    <name>Kepler-1270</name>
+  </star>
+  <distance errorplus="110.86" errorminus="-145.11">1204.0</distance>
+  <rightascension>19 42 56</rightascension>
+  <declination>48 38 43</declination>
+  <name>Kepler-1270</name>
+</system>
+

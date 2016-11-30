@@ -1,1 +1,33 @@
-<system><rightascension>07 30 47</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.5</mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">201.9</period><radius errorminus="-0.12" errorplus="0.12">2.57</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">0.77</semimajoraxis><lastupdate>2016-09-08</lastupdate><name>HD 60532 b</name><eccentricity>0.26</eccentricity></planet><planet><inclination></inclination><period errorminus="-2.4" errorplus="2.4">600.1</period><radius errorminus="-0.12" errorplus="0.12">2.57</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.04">1.6</semimajoraxis><lastupdate>2016-09-08</lastupdate><name>HD 60532 c</name><eccentricity>0.03</eccentricity></planet><name>HD 60532</name><radius errorminus="-0.12" errorplus="0.12">2.57</radius><temperature errorminus="-80.0" errorplus="80.0">6245.0</temperature></star><distance errorminus="-0.17" errorplus="0.17">25.3</distance><name>HD 60532</name><declination>-22 17 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-08</lastupdate>
+      <inclination/>
+      <period errorplus="2.4" errorminus="-2.4">600.1</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.6</semimajoraxis>
+      <name>HD 60532 c</name>
+      <eccentricity>0.03</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-08</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">201.9</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.77</semimajoraxis>
+      <name>HD 60532 b</name>
+      <eccentricity>0.26</eccentricity>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+    <temperature errorplus="80.0" errorminus="-80.0">6245.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.5</mass>
+    <name>HD 60532</name>
+  </star>
+  <distance errorplus="0.17" errorminus="-0.17">25.3</distance>
+  <rightascension>07 30 47</rightascension>
+  <declination>-22 17 45</declination>
+  <name>HD 60532</name>
+</system>
+

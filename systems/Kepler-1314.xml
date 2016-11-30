@@ -1,1 +1,22 @@
-<system><rightascension>19 14 16</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.6</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.4</period><radius errorminus="-0.02" errorplus="0.02">0.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1314 b</name></planet><name>Kepler-1314</name><radius errorminus="-0.02" errorplus="0.02">0.59</radius><temperature errorminus="-113.71" errorplus="92.28">4188.0</temperature></star><distance errorminus="-26.25" errorplus="22.44">462.0</distance><name>Kepler-1314</name><declination>45 11 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <semimajoraxis/>
+      <name>Kepler-1314 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
+    <temperature errorplus="92.28" errorminus="-113.71">4188.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.6</mass>
+    <name>Kepler-1314</name>
+  </star>
+  <distance errorplus="22.44" errorminus="-26.25">462.0</distance>
+  <rightascension>19 14 16</rightascension>
+  <declination>45 11 50</declination>
+  <name>Kepler-1314</name>
+</system>
+

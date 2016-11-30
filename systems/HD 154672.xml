@@ -1,1 +1,23 @@
-<system><rightascension>17 31 13</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.08</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">164.0</period><radius errorminus="-0.05" errorplus="0.05">1.44</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">0.59</semimajoraxis><lastupdate>2016-11-10</lastupdate><name>HD 154672 b</name><eccentricity>0.6</eccentricity></planet><name>HD 154672</name><radius errorminus="-0.05" errorplus="0.05">1.44</radius><temperature errorminus="-100.0" errorplus="100.0">5655.0</temperature></star><distance errorminus="-3.52" errorplus="3.52">64.77</distance><name>HD 154672</name><declination>-56 26 57</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.44</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-11-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">164.0</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.59</semimajoraxis>
+      <name>HD 154672 b</name>
+      <eccentricity>0.6</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.44</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5655.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
+    <name>HD 154672</name>
+  </star>
+  <distance errorplus="3.52" errorminus="-3.52">64.77</distance>
+  <rightascension>17 31 13</rightascension>
+  <declination>-56 26 57</declination>
+  <name>HD 154672</name>
+</system>
+

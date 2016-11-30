@@ -1,1 +1,31 @@
-<system><rightascension>03 02 14</rightascension><star><mass errorminus="-0.08" errorplus="0.08">0.9</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">19.1</period><radius errorminus="-0.1" errorplus="0.1">0.87</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.004" errorplus="0.004">0.135</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-80 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.6</period><radius errorminus="-0.1" errorplus="0.1">0.87</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0018" errorplus="0.0018">0.0596</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-80 c</name></planet><name>K2-80</name><radius errorminus="-0.1" errorplus="0.1">0.87</radius><temperature errorminus="-249.0" errorplus="249.0">5441.0</temperature></star><distance></distance><name>K2-80</name><declination>13 33 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">19.1</period>
+      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.135</semimajoraxis>
+      <name>K2-80 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0596</semimajoraxis>
+      <name>K2-80 c</name>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
+    <temperature errorplus="249.0" errorminus="-249.0">5441.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">0.9</mass>
+    <name>K2-80</name>
+  </star>
+  <distance/>
+  <rightascension>03 02 14</rightascension>
+  <declination>13 33 33</declination>
+  <name>K2-80</name>
+</system>
+

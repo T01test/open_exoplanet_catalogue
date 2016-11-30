@@ -1,1 +1,43 @@
-<system><rightascension>08 35 59</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">31.6</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.186</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 69830 c</name><eccentricity>0.13</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.7</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.0785</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 69830 b</name><eccentricity>0.1</eccentricity></planet><planet><inclination></inclination><period errorminus="-3.0" errorplus="3.0">197.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.63</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 69830 d</name><eccentricity>0.07</eccentricity></planet><name>HD 69830</name><radius></radius><temperature errorminus="-20.0" errorplus="20.0">5385.0</temperature></star><distance errorminus="-0.12" errorplus="0.12">12.58</distance><name>HD 69830</name><declination>-12 37 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">31.6</period>
+      <semimajoraxis>0.186</semimajoraxis>
+      <name>HD 69830 c</name>
+      <eccentricity>0.13</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="3.0" errorminus="-3.0">197.0</period>
+      <semimajoraxis>0.63</semimajoraxis>
+      <name>HD 69830 d</name>
+      <eccentricity>0.07</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.7</period>
+      <semimajoraxis>0.0785</semimajoraxis>
+      <name>HD 69830 b</name>
+      <eccentricity>0.1</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="20.0" errorminus="-20.0">5385.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.86</mass>
+    <name>HD 69830</name>
+  </star>
+  <distance errorplus="0.12" errorminus="-0.12">12.58</distance>
+  <rightascension>08 35 59</rightascension>
+  <declination>-12 37 55</declination>
+  <name>HD 69830</name>
+</system>
+

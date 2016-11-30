@@ -1,1 +1,31 @@
-<system><rightascension>19 13 48</rightascension><star><mass>0.95</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">34.1</period><radius errorminus="-0.48" errorplus="0.48">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.21</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-358 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">83.5</period><radius errorminus="-0.48" errorplus="0.48">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.381</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-358 c</name></planet><name>Kepler-358</name><radius errorminus="-0.48" errorplus="0.48">0.95</radius><temperature errorminus="-200.0" errorplus="200.0">5908.0</temperature></star><distance></distance><name>Kepler-358</name><declination>48 16 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.48">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">34.1</period>
+      <semimajoraxis>0.21</semimajoraxis>
+      <name>Kepler-358 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.48">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">83.5</period>
+      <semimajoraxis>0.381</semimajoraxis>
+      <name>Kepler-358 c</name>
+    </planet>
+    <radius errorplus="0.48" errorminus="-0.48">0.95</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5908.0</temperature>
+    <mass>0.95</mass>
+    <name>Kepler-358</name>
+  </star>
+  <distance/>
+  <rightascension>19 13 48</rightascension>
+  <declination>48 16 52</declination>
+  <name>Kepler-358</name>
+</system>
+

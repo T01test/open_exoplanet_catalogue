@@ -1,1 +1,22 @@
-<system><rightascension>18 34 58</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.82</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.0</period><radius errorminus="-0.04" errorplus="0.04">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-989 b</name></planet><name>Kepler-989</name><radius errorminus="-0.04" errorplus="0.04">0.78</radius><temperature errorminus="-53.62" errorplus="52.66">5074.0</temperature></star><distance errorminus="-25.2" errorplus="24.94">484.0</distance><name>Kepler-989</name><declination>47 14 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <semimajoraxis/>
+      <name>Kepler-989 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+    <temperature errorplus="52.66" errorminus="-53.62">5074.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.82</mass>
+    <name>Kepler-989</name>
+  </star>
+  <distance errorplus="24.94" errorminus="-25.2">484.0</distance>
+  <rightascension>18 34 58</rightascension>
+  <declination>47 14 01</declination>
+  <name>Kepler-989</name>
+</system>
+

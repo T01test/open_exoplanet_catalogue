@@ -1,1 +1,31 @@
-<system><rightascension>19 03 40</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.2</period><radius errorminus="-0.1" errorplus="0.1">0.83</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.123</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-248 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.3</period><radius errorminus="-0.1" errorplus="0.1">0.83</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.066</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-248 b</name></planet><name>Kepler-248</name><radius errorminus="-0.1" errorplus="0.1">0.83</radius><temperature errorminus="-161.0" errorplus="161.0">5190.0</temperature></star><distance></distance><name>Kepler-248</name><declination>43 34 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.2</period>
+      <semimajoraxis>0.123</semimajoraxis>
+      <name>Kepler-248 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.3</period>
+      <semimajoraxis>0.066</semimajoraxis>
+      <name>Kepler-248 b</name>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">0.83</radius>
+    <temperature errorplus="161.0" errorminus="-161.0">5190.0</temperature>
+    <mass/>
+    <name>Kepler-248</name>
+  </star>
+  <distance/>
+  <rightascension>19 03 40</rightascension>
+  <declination>43 34 52</declination>
+  <name>Kepler-248</name>
+</system>
+

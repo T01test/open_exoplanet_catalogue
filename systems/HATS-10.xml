@@ -1,1 +1,23 @@
-<system><rightascension>19 18 24</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.1</mass><planet><inclination errorminus="-0.72" errorplus="0.72">87.79</inclination><period errorminus="-0.0" errorplus="0.0">3.3</period><radius errorminus="-0.04" errorplus="0.06">1.1</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00074" errorplus="0.00074">0.04491</semimajoraxis><lastupdate>2015-05-21</lastupdate><name>HATS-10 b</name><eccentricity>0.501</eccentricity></planet><name>HATS-10</name><radius errorminus="-0.04" errorplus="0.06">1.1</radius><temperature errorminus="-120.0" errorplus="120.0">5880.0</temperature></star><distance errorminus="-24.0" errorplus="24.0">496.0</distance><name>HATS-10</name><declination>-22 12 16</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.04">1.1</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-05-21</lastupdate>
+      <inclination errorplus="0.72" errorminus="-0.72">87.79</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00074">0.04491</semimajoraxis>
+      <name>HATS-10 b</name>
+      <eccentricity>0.501</eccentricity>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.04">1.1</radius>
+    <temperature errorplus="120.0" errorminus="-120.0">5880.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.1</mass>
+    <name>HATS-10</name>
+  </star>
+  <distance errorplus="24.0" errorminus="-24.0">496.0</distance>
+  <rightascension>19 18 24</rightascension>
+  <declination>-22 12 16</declination>
+  <name>HATS-10</name>
+</system>
+

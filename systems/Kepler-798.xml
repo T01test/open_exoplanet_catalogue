@@ -1,1 +1,22 @@
-<system><rightascension>19 28 41</rightascension><star><mass errorminus="-0.09" errorplus="0.18">1.19</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.7</period><radius errorminus="-0.18" errorplus="0.56">1.29</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-798 b</name></planet><name>Kepler-798</name><radius errorminus="-0.18" errorplus="0.56">1.29</radius><temperature errorminus="-142.87" errorplus="124.3">6224.0</temperature></star><distance errorminus="-160.07" errorplus="463.53">1085.0</distance><name>Kepler-798</name><declination>42 08 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.7</period>
+      <semimajoraxis/>
+      <name>Kepler-798 b</name>
+    </planet>
+    <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
+    <temperature errorplus="124.3" errorminus="-142.87">6224.0</temperature>
+    <mass errorplus="0.18" errorminus="-0.09">1.19</mass>
+    <name>Kepler-798</name>
+  </star>
+  <distance errorplus="463.53" errorminus="-160.07">1085.0</distance>
+  <rightascension>19 28 41</rightascension>
+  <declination>42 08 32</declination>
+  <name>Kepler-798</name>
+</system>
+

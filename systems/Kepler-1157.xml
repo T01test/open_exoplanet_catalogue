@@ -1,1 +1,22 @@
-<system><rightascension>18 07 15</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.76</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.5</period><radius errorminus="-0.03" errorplus="0.03">0.71</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1157 b</name></planet><name>Kepler-1157</name><radius errorminus="-0.03" errorplus="0.03">0.71</radius><temperature errorminus="-58.05" errorplus="54.66">4679.0</temperature></star><distance errorminus="-15.67" errorplus="14.35">346.0</distance><name>Kepler-1157</name><declination>43 31 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.71</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1157 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.71</radius>
+    <temperature errorplus="54.66" errorminus="-58.05">4679.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.76</mass>
+    <name>Kepler-1157</name>
+  </star>
+  <distance errorplus="14.35" errorminus="-15.67">346.0</distance>
+  <rightascension>18 07 15</rightascension>
+  <declination>43 31 32</declination>
+  <name>Kepler-1157</name>
+</system>
+

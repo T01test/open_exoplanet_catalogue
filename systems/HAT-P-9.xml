@@ -1,1 +1,23 @@
-<system><rightascension>07 10 06</rightascension><star><mass errorplus="0.13">1.28</mass><planet><inclination errorminus="-0.2" errorplus="0.2">86.5</inclination><period errorminus="-0.0" errorplus="0.0">3.9</period><radius errorplus="0.07">1.32</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.002" errorplus="0.002">0.053</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-9 b</name><eccentricity>0.0</eccentricity></planet><name>HAT-P-9</name><radius errorplus="0.07">1.32</radius><temperature errorplus="150.0">6350.0</temperature></star><distance errorminus="-60.0" errorplus="60.0">480.0</distance><name>HAT-P-9</name><declination>37 08 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07">1.32</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.2" errorminus="-0.2">86.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
+      <name>HAT-P-9 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.07">1.32</radius>
+    <temperature errorplus="150.0">6350.0</temperature>
+    <mass errorplus="0.13">1.28</mass>
+    <name>HAT-P-9</name>
+  </star>
+  <distance errorplus="60.0" errorminus="-60.0">480.0</distance>
+  <rightascension>07 10 06</rightascension>
+  <declination>37 08 26</declination>
+  <name>HAT-P-9</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>18 06 49</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.98</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">201.1</period><radius errorminus="-0.05" errorplus="0.06">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1040 b</name></planet><name>Kepler-1040</name><radius errorminus="-0.05" errorplus="0.06">0.96</radius><temperature errorminus="-65.65" errorplus="78.24">5694.0</temperature></star><distance errorminus="-25.47" errorplus="33.12">473.0</distance><name>Kepler-1040</name><declination>48 07 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.05">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">201.1</period>
+      <semimajoraxis/>
+      <name>Kepler-1040 b</name>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.05">0.96</radius>
+    <temperature errorplus="78.24" errorminus="-65.65">5694.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.98</mass>
+    <name>Kepler-1040</name>
+  </star>
+  <distance errorplus="33.12" errorminus="-25.47">473.0</distance>
+  <rightascension>18 06 49</rightascension>
+  <declination>48 07 53</declination>
+  <name>Kepler-1040</name>
+</system>
+

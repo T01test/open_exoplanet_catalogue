@@ -1,1 +1,23 @@
-<system><rightascension>07 04 30</rightascension><star><mass>1.18</mass><planet><inclination></inclination><period errorminus="-0.4" errorplus="0.4">119.6</period><radius>1.1</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.5</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 52265 b</name><eccentricity>0.35</eccentricity></planet><name>HD 52265</name><radius>1.1</radius><temperature errorminus="-50.0" errorplus="50.0">6060.0</temperature></star><distance errorminus="-0.68" errorplus="0.65">28.07</distance><name>HD 52265</name><declination>-5 22 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>1.1</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="0.4" errorminus="-0.4">119.6</period>
+      <semimajoraxis>0.5</semimajoraxis>
+      <name>HD 52265 b</name>
+      <eccentricity>0.35</eccentricity>
+    </planet>
+    <radius>1.1</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">6060.0</temperature>
+    <mass>1.18</mass>
+    <name>HD 52265</name>
+  </star>
+  <distance errorplus="0.65" errorminus="-0.68">28.07</distance>
+  <rightascension>07 04 30</rightascension>
+  <declination>-5 22 01</declination>
+  <name>HD 52265</name>
+</system>
+

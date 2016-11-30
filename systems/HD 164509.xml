@@ -1,1 +1,23 @@
-<system><rightascension>18 22 48</rightascension><star><mass errorminus="-0.02" errorplus="0.02">1.13</mass><planet><inclination></inclination><period errorminus="-3.8" errorplus="3.8">282.4</period><radius errorminus="-0.03" errorplus="0.03">1.06</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.008" errorplus="0.008">0.875</semimajoraxis><lastupdate>2014-06-25</lastupdate><name>HD 164509 b</name><eccentricity>0.26</eccentricity></planet><name>HD 164509</name><radius errorminus="-0.03" errorplus="0.03">1.06</radius><temperature errorminus="-44.0" errorplus="44.0">5922.0</temperature></star><distance errorminus="-3.04" errorplus="2.72">51.81</distance><name>HD 164509</name><declination>00 06 16</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.06</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-06-25</lastupdate>
+      <inclination/>
+      <period errorplus="3.8" errorminus="-3.8">282.4</period>
+      <semimajoraxis errorplus="0.008" errorminus="-0.008">0.875</semimajoraxis>
+      <name>HD 164509 b</name>
+      <eccentricity>0.26</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.06</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">5922.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">1.13</mass>
+    <name>HD 164509</name>
+  </star>
+  <distance errorplus="2.72" errorminus="-3.04">51.81</distance>
+  <rightascension>18 22 48</rightascension>
+  <declination>00 06 16</declination>
+  <name>HD 164509</name>
+</system>
+

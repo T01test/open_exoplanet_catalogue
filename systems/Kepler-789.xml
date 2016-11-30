@@ -1,1 +1,22 @@
-<system><rightascension>19 58 30</rightascension><star><mass errorminus="-0.07" errorplus="0.09">1.01</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.6</period><radius errorminus="-0.11" errorplus="0.2">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-789 b</name></planet><name>Kepler-789</name><radius errorminus="-0.11" errorplus="0.2">1.02</radius><temperature errorminus="-120.74" errorplus="204.63">5870.0</temperature></star><distance errorminus="-103.69" errorplus="188.14">915.0</distance><name>Kepler-789</name><declination>38 56 47</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.2" errorminus="-0.11">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.6</period>
+      <semimajoraxis/>
+      <name>Kepler-789 b</name>
+    </planet>
+    <radius errorplus="0.2" errorminus="-0.11">1.02</radius>
+    <temperature errorplus="204.63" errorminus="-120.74">5870.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.07">1.01</mass>
+    <name>Kepler-789</name>
+  </star>
+  <distance errorplus="188.14" errorminus="-103.69">915.0</distance>
+  <rightascension>19 58 30</rightascension>
+  <declination>38 56 47</declination>
+  <name>Kepler-789</name>
+</system>
+

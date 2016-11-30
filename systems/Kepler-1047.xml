@@ -1,1 +1,31 @@
-<system><rightascension>19 38 46</rightascension><star><mass errorminus="-0.04" errorplus="0.05">1.08</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">56.2</period><radius errorminus="-0.09" errorplus="0.14">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1047 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.2</period><radius errorminus="-0.09" errorplus="0.14">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1047 c</name></planet><name>Kepler-1047</name><radius errorminus="-0.09" errorplus="0.14">1.13</radius><temperature errorminus="-75.6" errorplus="83.64">5754.0</temperature></star><distance errorminus="-45.45" errorplus="69.13">566.0</distance><name>Kepler-1047</name><declination>50 47 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">56.2</period>
+      <semimajoraxis/>
+      <name>Kepler-1047 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <semimajoraxis/>
+      <name>Kepler-1047 c</name>
+    </planet>
+    <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
+    <temperature errorplus="83.64" errorminus="-75.6">5754.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.04">1.08</mass>
+    <name>Kepler-1047</name>
+  </star>
+  <distance errorplus="69.13" errorminus="-45.45">566.0</distance>
+  <rightascension>19 38 46</rightascension>
+  <declination>50 47 20</declination>
+  <name>Kepler-1047</name>
+</system>
+

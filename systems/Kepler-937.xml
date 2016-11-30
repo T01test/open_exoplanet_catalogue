@@ -1,1 +1,31 @@
-<system><rightascension>19 10 07</rightascension><star><mass errorminus="-0.08" errorplus="0.12">1.15</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">67.7</period><radius errorminus="-0.15" errorplus="0.42">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-937 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">153.3</period><radius errorminus="-0.15" errorplus="0.42">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-937 c</name></planet><name>Kepler-937</name><radius errorminus="-0.15" errorplus="0.42">1.22</radius><temperature errorminus="-127.3" errorplus="81.71">6095.0</temperature></star><distance errorminus="-191.89" errorplus="508.28">1482.0</distance><name>Kepler-937</name><declination>46 42 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">67.7</period>
+      <semimajoraxis/>
+      <name>Kepler-937 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">153.3</period>
+      <semimajoraxis/>
+      <name>Kepler-937 c</name>
+    </planet>
+    <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+    <temperature errorplus="81.71" errorminus="-127.3">6095.0</temperature>
+    <mass errorplus="0.12" errorminus="-0.08">1.15</mass>
+    <name>Kepler-937</name>
+  </star>
+  <distance errorplus="508.28" errorminus="-191.89">1482.0</distance>
+  <rightascension>19 10 07</rightascension>
+  <declination>46 42 52</declination>
+  <name>Kepler-937</name>
+</system>
+

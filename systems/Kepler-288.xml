@@ -1,1 +1,40 @@
-<system><rightascension>19 54 59</rightascension><star><mass>0.89</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">56.6</period><radius errorminus="-0.52" errorplus="0.52">1.09</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.287</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-288 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">19.3</period><radius errorminus="-0.52" errorplus="0.52">1.09</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.14</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-288 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.1</period><radius errorminus="-0.52" errorplus="0.52">1.09</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.065</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-288 b</name></planet><name>Kepler-288</name><radius errorminus="-0.52" errorplus="0.52">1.09</radius><temperature errorminus="-250.0" errorplus="250.0">5918.0</temperature></star><distance></distance><name>Kepler-288</name><declination>39 35 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.52" errorminus="-0.52">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <semimajoraxis>0.065</semimajoraxis>
+      <name>Kepler-288 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.52" errorminus="-0.52">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">19.3</period>
+      <semimajoraxis>0.14</semimajoraxis>
+      <name>Kepler-288 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.52" errorminus="-0.52">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">56.6</period>
+      <semimajoraxis>0.287</semimajoraxis>
+      <name>Kepler-288 d</name>
+    </planet>
+    <radius errorplus="0.52" errorminus="-0.52">1.09</radius>
+    <temperature errorplus="250.0" errorminus="-250.0">5918.0</temperature>
+    <mass>0.89</mass>
+    <name>Kepler-288</name>
+  </star>
+  <distance/>
+  <rightascension>19 54 59</rightascension>
+  <declination>39 35 40</declination>
+  <name>Kepler-288</name>
+</system>
+

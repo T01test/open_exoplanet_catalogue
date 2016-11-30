@@ -1,1 +1,31 @@
-<system><rightascension>19 53 47</rightascension><star><mass>0.79</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.1</period><radius errorminus="-0.05" errorplus="0.05">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.085</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-352 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.3</period><radius errorminus="-0.05" errorplus="0.05">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.118</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-352 c</name></planet><name>Kepler-352</name><radius errorminus="-0.05" errorplus="0.05">0.78</radius><temperature errorminus="-100.0" errorplus="100.0">5212.0</temperature></star><distance></distance><name>Kepler-352</name><declination>46 03 07</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.1</period>
+      <semimajoraxis>0.085</semimajoraxis>
+      <name>Kepler-352 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.3</period>
+      <semimajoraxis>0.118</semimajoraxis>
+      <name>Kepler-352 c</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">0.78</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5212.0</temperature>
+    <mass>0.79</mass>
+    <name>Kepler-352</name>
+  </star>
+  <distance/>
+  <rightascension>19 53 47</rightascension>
+  <declination>46 03 07</declination>
+  <name>Kepler-352</name>
+</system>
+

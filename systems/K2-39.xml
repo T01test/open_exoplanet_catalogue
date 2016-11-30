@@ -1,1 +1,23 @@
-<system><rightascension>22 22 06</rightascension><star><mass errorminus="-0.12" errorplus="0.13">1.53</mass><planet><inclination errorminus="-4.39" errorplus="3.99">80.39</inclination><period errorminus="-0.0" errorplus="0.0">4.6</period><radius errorminus="-0.42" errorplus="0.48">3.88</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.012" errorplus="0.01">0.062</semimajoraxis><lastupdate>2016-06-03</lastupdate><name>K2-39 b</name><eccentricity>0.0</eccentricity></planet><name>K2-39</name><radius errorminus="-0.42" errorplus="0.48">3.88</radius><temperature errorminus="-20.0" errorplus="20.0">4881.0</temperature></star><distance></distance><name>K2-39</name><declination>-9 01 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.42">3.88</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-06-03</lastupdate>
+      <inclination errorplus="3.99" errorminus="-4.39">80.39</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.012">0.062</semimajoraxis>
+      <name>K2-39 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.48" errorminus="-0.42">3.88</radius>
+    <temperature errorplus="20.0" errorminus="-20.0">4881.0</temperature>
+    <mass errorplus="0.13" errorminus="-0.12">1.53</mass>
+    <name>K2-39</name>
+  </star>
+  <distance/>
+  <rightascension>22 22 06</rightascension>
+  <declination>-9 01 21</declination>
+  <name>K2-39</name>
+</system>
+

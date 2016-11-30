@@ -1,1 +1,22 @@
-<system><rightascension>19 10 16</rightascension><star><mass errorminus="-0.17" errorplus="0.19">1.6</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">14.8</period><radius errorminus="-0.4" errorplus="0.55">2.01</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-959 b</name></planet><name>Kepler-959</name><radius errorminus="-0.4" errorplus="0.55">2.01</radius><temperature errorminus="-159.47" errorplus="193.26">7005.0</temperature></star><distance errorminus="-202.88" errorplus="272.0">1003.0</distance><name>Kepler-959</name><declination>40 48 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.55" errorminus="-0.4">2.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.8</period>
+      <semimajoraxis/>
+      <name>Kepler-959 b</name>
+    </planet>
+    <radius errorplus="0.55" errorminus="-0.4">2.01</radius>
+    <temperature errorplus="193.26" errorminus="-159.47">7005.0</temperature>
+    <mass errorplus="0.19" errorminus="-0.17">1.6</mass>
+    <name>Kepler-959</name>
+  </star>
+  <distance errorplus="272.0" errorminus="-202.88">1003.0</distance>
+  <rightascension>19 10 16</rightascension>
+  <declination>40 48 40</declination>
+  <name>Kepler-959</name>
+</system>
+

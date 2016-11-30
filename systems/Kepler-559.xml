@@ -1,1 +1,22 @@
-<system><rightascension>19 38 12</rightascension><star><mass errorminus="-0.06" errorplus="0.07">0.96</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.6</period><radius errorminus="-0.09" errorplus="0.17">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-559 b</name></planet><name>Kepler-559</name><radius errorminus="-0.09" errorplus="0.17">0.95</radius><temperature errorminus="-197.22" errorplus="200.63">5630.0</temperature></star><distance errorminus="-85.15" errorplus="145.36">793.0</distance><name>Kepler-559</name><declination>43 48 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.09">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.6</period>
+      <semimajoraxis/>
+      <name>Kepler-559 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.09">0.95</radius>
+    <temperature errorplus="200.63" errorminus="-197.22">5630.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.06">0.96</mass>
+    <name>Kepler-559</name>
+  </star>
+  <distance errorplus="145.36" errorminus="-85.15">793.0</distance>
+  <rightascension>19 38 12</rightascension>
+  <declination>43 48 10</declination>
+  <name>Kepler-559</name>
+</system>
+

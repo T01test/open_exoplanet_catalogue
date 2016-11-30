@@ -1,1 +1,22 @@
-<system><rightascension>19 29 12</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.85</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.2</period><radius errorminus="-0.02" errorplus="0.03">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-478 b</name></planet><name>Kepler-478</name><radius errorminus="-0.02" errorplus="0.03">0.8</radius><temperature errorminus="-70.31" errorplus="69.43">5210.0</temperature></star><distance errorminus="-13.99" errorplus="14.54">420.0</distance><name>Kepler-478</name><declination>46 11 46</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.2</period>
+      <semimajoraxis/>
+      <name>Kepler-478 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.02">0.8</radius>
+    <temperature errorplus="69.43" errorminus="-70.31">5210.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.85</mass>
+    <name>Kepler-478</name>
+  </star>
+  <distance errorplus="14.54" errorminus="-13.99">420.0</distance>
+  <rightascension>19 29 12</rightascension>
+  <declination>46 11 46</declination>
+  <name>Kepler-478</name>
+</system>
+

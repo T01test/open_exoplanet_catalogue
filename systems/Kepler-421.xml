@@ -1,1 +1,23 @@
-<system><rightascension>18 15 24</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.79</mass><planet><inclination errorminus="-0.031" errorplus="0.024">89.965</inclination><period errorminus="-0.0" errorplus="0.0">704.2</period><radius errorminus="-0.03" errorplus="0.03">0.76</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.089" errorplus="0.089">1.219</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>Kepler-421 b</name><eccentricity>0.041</eccentricity></planet><name>Kepler-421</name><radius errorminus="-0.03" errorplus="0.03">0.76</radius><temperature errorminus="-50.0" errorplus="50.0">5308.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">320.0</distance><name>Kepler-421</name><declination>45 05 15</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination errorplus="0.024" errorminus="-0.031">89.965</inclination>
+      <period errorplus="0.0" errorminus="-0.0">704.2</period>
+      <semimajoraxis errorplus="0.089" errorminus="-0.089">1.219</semimajoraxis>
+      <name>Kepler-421 b</name>
+      <eccentricity>0.041</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">5308.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.79</mass>
+    <name>Kepler-421</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">320.0</distance>
+  <rightascension>18 15 24</rightascension>
+  <declination>45 05 15</declination>
+  <name>Kepler-421</name>
+</system>
+

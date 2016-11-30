@@ -1,1 +1,22 @@
-<system><rightascension>19 31 45</rightascension><star><mass errorminus="-0.04" errorplus="0.03">1.0</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.7</period><radius errorminus="-0.05" errorplus="0.08">0.98</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-556 b</name></planet><name>Kepler-556</name><radius errorminus="-0.05" errorplus="0.08">0.98</radius><temperature errorminus="-49.06" errorplus="57.53">5740.0</temperature></star><distance errorminus="-40.19" errorplus="61.13">729.0</distance><name>Kepler-556</name><declination>38 56 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.05">0.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.7</period>
+      <semimajoraxis/>
+      <name>Kepler-556 b</name>
+    </planet>
+    <radius errorplus="0.08" errorminus="-0.05">0.98</radius>
+    <temperature errorplus="57.53" errorminus="-49.06">5740.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">1.0</mass>
+    <name>Kepler-556</name>
+  </star>
+  <distance errorplus="61.13" errorminus="-40.19">729.0</distance>
+  <rightascension>19 31 45</rightascension>
+  <declination>38 56 33</declination>
+  <name>Kepler-556</name>
+</system>
+

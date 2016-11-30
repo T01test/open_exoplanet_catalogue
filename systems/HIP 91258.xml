@@ -1,1 +1,23 @@
-<system><rightascension>18 13 17</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.95</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.1</period><radius errorminus="-0.04" errorplus="0.04">1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.057</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HIP 91258 b</name><eccentricity>0.024</eccentricity></planet><name>HIP 91258</name><radius errorminus="-0.04" errorplus="0.04">1.0</radius><temperature errorminus="-70.0" errorplus="70.0">5519.0</temperature></star><distance errorminus="-1.47" errorplus="1.38">44.46</distance><name>HIP 91258</name><declination>61 42 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.057</semimajoraxis>
+      <name>HIP 91258 b</name>
+      <eccentricity>0.024</eccentricity>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">1.0</radius>
+    <temperature errorplus="70.0" errorminus="-70.0">5519.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.95</mass>
+    <name>HIP 91258</name>
+  </star>
+  <distance errorplus="1.38" errorminus="-1.47">44.46</distance>
+  <rightascension>18 13 17</rightascension>
+  <declination>61 42 09</declination>
+  <name>HIP 91258</name>
+</system>
+

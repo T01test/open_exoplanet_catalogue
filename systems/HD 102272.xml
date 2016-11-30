@@ -1,1 +1,23 @@
-<system><rightascension>11 35 53</rightascension><star><mass errorminus="-0.3" errorplus="0.3">1.9</mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">127.6</period><radius errorminus="-4.6" errorplus="4.6">10.1</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.614</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 102272 b</name><eccentricity>0.05</eccentricity></planet><name>HD 102272</name><radius errorminus="-4.6" errorplus="4.6">10.1</radius><temperature errorminus="-35.0" errorplus="35.0">4908.0</temperature></star><distance>164.2</distance><name>HD 102272</name><declination>14 07 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">127.6</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.614</semimajoraxis>
+      <name>HD 102272 b</name>
+      <eccentricity>0.05</eccentricity>
+    </planet>
+    <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
+    <temperature errorplus="35.0" errorminus="-35.0">4908.0</temperature>
+    <mass errorplus="0.3" errorminus="-0.3">1.9</mass>
+    <name>HD 102272</name>
+  </star>
+  <distance>164.2</distance>
+  <rightascension>11 35 53</rightascension>
+  <declination>14 07 26</declination>
+  <name>HD 102272</name>
+</system>
+

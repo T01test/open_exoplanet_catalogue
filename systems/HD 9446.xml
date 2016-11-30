@@ -1,1 +1,33 @@
-<system><rightascension>01 20 02</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.0</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">30.1</period><radius>1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.006" errorplus="0.006">0.189</semimajoraxis><lastupdate>2016-03-10</lastupdate><name>HD 9446 b</name><eccentricity>0.2</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.9" errorplus="0.9">192.9</period><radius>1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.022" errorplus="0.022">0.654</semimajoraxis><lastupdate>2016-03-10</lastupdate><name>HD 9446 c</name><eccentricity>0.06</eccentricity></planet><name>HD 9446</name><radius>1.0</radius><temperature errorminus="-22.0" errorplus="22.0">5793.0</temperature></star><distance errorminus="-3.14" errorplus="2.8">52.85</distance><name>HD 9446</name><declination>29 15 54</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-03-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.1</period>
+      <semimajoraxis errorplus="0.006" errorminus="-0.006">0.189</semimajoraxis>
+      <name>HD 9446 b</name>
+      <eccentricity>0.2</eccentricity>
+    </planet>
+    <planet>
+      <radius>1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-03-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.9" errorminus="-0.9">192.9</period>
+      <semimajoraxis errorplus="0.022" errorminus="-0.022">0.654</semimajoraxis>
+      <name>HD 9446 c</name>
+      <eccentricity>0.06</eccentricity>
+    </planet>
+    <radius>1.0</radius>
+    <temperature errorplus="22.0" errorminus="-22.0">5793.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
+    <name>HD 9446</name>
+  </star>
+  <distance errorplus="2.8" errorminus="-3.14">52.85</distance>
+  <rightascension>01 20 02</rightascension>
+  <declination>29 15 54</declination>
+  <name>HD 9446</name>
+</system>
+

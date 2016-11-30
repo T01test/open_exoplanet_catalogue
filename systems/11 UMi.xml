@@ -1,1 +1,23 @@
-<system><rightascension>15 16 28</rightascension><star><mass errorminus="-0.25" errorplus="0.25">1.8</mass><planet><inclination></inclination><period errorminus="-3.2" errorplus="3.2">516.2</period><radius errorminus="-1.84" errorplus="1.84">24.08</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.07" errorplus="0.07">1.54</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>11 UMi b</name><eccentricity>0.08</eccentricity></planet><name>11 UMi</name><radius errorminus="-1.84" errorplus="1.84">24.08</radius><temperature errorminus="-70.0" errorplus="70.0">4340.0</temperature></star><distance errorminus="-6.95" errorplus="6.22">119.47</distance><name>11 UMi</name><declination>71 49 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="1.84" errorminus="-1.84">24.08</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="3.2" errorminus="-3.2">516.2</period>
+      <semimajoraxis errorplus="0.07" errorminus="-0.07">1.54</semimajoraxis>
+      <name>11 UMi b</name>
+      <eccentricity>0.08</eccentricity>
+    </planet>
+    <radius errorplus="1.84" errorminus="-1.84">24.08</radius>
+    <temperature errorplus="70.0" errorminus="-70.0">4340.0</temperature>
+    <mass errorplus="0.25" errorminus="-0.25">1.8</mass>
+    <name>11 UMi</name>
+  </star>
+  <distance errorplus="6.22" errorminus="-6.95">119.47</distance>
+  <rightascension>15 16 28</rightascension>
+  <declination>71 49 26</declination>
+  <name>11 UMi</name>
+</system>
+

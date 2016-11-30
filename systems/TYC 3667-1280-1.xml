@@ -1,1 +1,23 @@
-<system><rightascension>00 53 14</rightascension><star><mass errorminus="-0.17" errorplus="0.17">1.87</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">26.5</period><radius errorminus="-0.86" errorplus="0.86">6.26</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.01" errorplus="0.01">0.21</semimajoraxis><lastupdate>2016-03-31</lastupdate><name>TYC 3667-1280-1 b</name><eccentricity>0.036</eccentricity></planet><name>TYC 3667-1280-1</name><radius errorminus="-0.86" errorplus="0.86">6.26</radius><temperature errorminus="-24.0" errorplus="24.0">5130.0</temperature></star><distance errorminus="-37.0" errorplus="37.0">481.0</distance><name>TYC 3667-1280-1</name><declination>58 25 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.86" errorminus="-0.86">6.26</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-03-31</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">26.5</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.21</semimajoraxis>
+      <name>TYC 3667-1280-1 b</name>
+      <eccentricity>0.036</eccentricity>
+    </planet>
+    <radius errorplus="0.86" errorminus="-0.86">6.26</radius>
+    <temperature errorplus="24.0" errorminus="-24.0">5130.0</temperature>
+    <mass errorplus="0.17" errorminus="-0.17">1.87</mass>
+    <name>TYC 3667-1280-1</name>
+  </star>
+  <distance errorplus="37.0" errorminus="-37.0">481.0</distance>
+  <rightascension>00 53 14</rightascension>
+  <declination>58 25 34</declination>
+  <name>TYC 3667-1280-1</name>
+</system>
+

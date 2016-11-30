@@ -1,1 +1,22 @@
-<system><rightascension>19 22 14</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">33.2</period><radius errorminus="-0.05" errorplus="0.06">0.81</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-819 b</name></planet><name>Kepler-819</name><radius errorminus="-0.05" errorplus="0.06">0.81</radius><temperature errorminus="-111.92" errorplus="165.3">5279.0</temperature></star><distance errorminus="-47.21" errorplus="64.45">722.0</distance><name>Kepler-819</name><declination>39 10 37</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.05">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">33.2</period>
+      <semimajoraxis/>
+      <name>Kepler-819 b</name>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.05">0.81</radius>
+    <temperature errorplus="165.3" errorminus="-111.92">5279.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.86</mass>
+    <name>Kepler-819</name>
+  </star>
+  <distance errorplus="64.45" errorminus="-47.21">722.0</distance>
+  <rightascension>19 22 14</rightascension>
+  <declination>39 10 37</declination>
+  <name>Kepler-819</name>
+</system>
+

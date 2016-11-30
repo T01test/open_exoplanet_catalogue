@@ -1,1 +1,22 @@
-<system><rightascension>11 07 01</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.6</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.5</period><radius errorminus="-0.03" errorplus="0.03">0.57</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00063" errorplus="0.00063">0.03784</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-43 b</name></planet><name>K2-43</name><radius errorminus="-0.03" errorplus="0.03">0.57</radius><temperature errorminus="-87.0" errorplus="87.0">3939.0</temperature></star><distance></distance><name>K2-43</name><declination>-3 58 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <semimajoraxis errorplus="0.00063" errorminus="-0.00063">0.03784</semimajoraxis>
+      <name>K2-43 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+    <temperature errorplus="87.0" errorminus="-87.0">3939.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.6</mass>
+    <name>K2-43</name>
+  </star>
+  <distance/>
+  <rightascension>11 07 01</rightascension>
+  <declination>-3 58 31</declination>
+  <name>K2-43</name>
+</system>
+

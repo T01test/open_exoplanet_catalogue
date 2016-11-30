@@ -1,1 +1,22 @@
-<system><rightascension>19 15 09</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.91</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">31.0</period><radius errorminus="-0.02" errorplus="0.02">0.84</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-632 b</name></planet><name>Kepler-632</name><radius errorminus="-0.02" errorplus="0.02">0.84</radius><temperature errorminus="-82.67" errorplus="89.61">5322.0</temperature></star><distance errorminus="-10.8" errorplus="11.56">349.0</distance><name>Kepler-632</name><declination>40 17 18</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">31.0</period>
+      <semimajoraxis/>
+      <name>Kepler-632 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+    <temperature errorplus="89.61" errorminus="-82.67">5322.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
+    <name>Kepler-632</name>
+  </star>
+  <distance errorplus="11.56" errorminus="-10.8">349.0</distance>
+  <rightascension>19 15 09</rightascension>
+  <declination>40 17 18</declination>
+  <name>Kepler-632</name>
+</system>
+

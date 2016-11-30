@@ -1,1 +1,22 @@
-<system><rightascension>19 16 15</rightascension><star><mass errorminus="-0.1" errorplus="0.16">1.15</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">102.0</period><radius errorminus="-0.18" errorplus="0.48">1.23</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1620 b</name></planet><name>Kepler-1620</name><radius errorminus="-0.18" errorplus="0.48">1.23</radius><temperature errorminus="-167.55" errorplus="120.8">6157.0</temperature></star><distance errorminus="-120.0" errorplus="295.96">773.0</distance><name>Kepler-1620</name><declination>46 55 42</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.18">1.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">102.0</period>
+      <semimajoraxis/>
+      <name>Kepler-1620 b</name>
+    </planet>
+    <radius errorplus="0.48" errorminus="-0.18">1.23</radius>
+    <temperature errorplus="120.8" errorminus="-167.55">6157.0</temperature>
+    <mass errorplus="0.16" errorminus="-0.1">1.15</mass>
+    <name>Kepler-1620</name>
+  </star>
+  <distance errorplus="295.96" errorminus="-120.0">773.0</distance>
+  <rightascension>19 16 15</rightascension>
+  <declination>46 55 42</declination>
+  <name>Kepler-1620</name>
+</system>
+

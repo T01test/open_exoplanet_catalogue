@@ -1,1 +1,22 @@
-<system><rightascension>19 44 30</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.81</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.4</period><radius errorminus="-0.04" errorplus="0.03">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-859 b</name></planet><name>Kepler-859</name><radius errorminus="-0.04" errorplus="0.03">0.77</radius><temperature errorminus="-50.72" errorplus="48.72">5020.0</temperature></star><distance errorminus="-47.43" errorplus="42.0">915.0</distance><name>Kepler-859</name><declination>43 11 24</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.4</period>
+      <semimajoraxis/>
+      <name>Kepler-859 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.77</radius>
+    <temperature errorplus="48.72" errorminus="-50.72">5020.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.81</mass>
+    <name>Kepler-859</name>
+  </star>
+  <distance errorplus="42.0" errorminus="-47.43">915.0</distance>
+  <rightascension>19 44 30</rightascension>
+  <declination>43 11 24</declination>
+  <name>Kepler-859</name>
+</system>
+

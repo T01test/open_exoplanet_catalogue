@@ -1,1 +1,22 @@
-<system><rightascension>18 47 12</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.98</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.8</period><radius errorminus="-0.07" errorplus="0.17">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-613 b</name></planet><name>Kepler-613</name><radius errorminus="-0.07" errorplus="0.17">0.96</radius><temperature errorminus="-67.42" errorplus="68.68">5723.0</temperature></star><distance errorminus="-69.42" errorplus="150.34">864.0</distance><name>Kepler-613</name><declination>46 14 41</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.07">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.8</period>
+      <semimajoraxis/>
+      <name>Kepler-613 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.07">0.96</radius>
+    <temperature errorplus="68.68" errorminus="-67.42">5723.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
+    <name>Kepler-613</name>
+  </star>
+  <distance errorplus="150.34" errorminus="-69.42">864.0</distance>
+  <rightascension>18 47 12</rightascension>
+  <declination>46 14 41</declination>
+  <name>Kepler-613</name>
+</system>
+

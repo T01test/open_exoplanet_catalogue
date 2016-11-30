@@ -1,1 +1,22 @@
-<system><rightascension>19 09 07</rightascension><star><mass errorminus="-0.14" errorplus="0.21">1.49</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.3</period><radius errorminus="-0.31" errorplus="0.62">1.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1364 b</name></planet><name>Kepler-1364</name><radius errorminus="-0.31" errorplus="0.62">1.79</radius><temperature errorminus="-160.28" errorplus="136.21">6805.0</temperature></star><distance errorminus="-197.38" errorplus="398.36">1149.0</distance><name>Kepler-1364</name><declination>49 35 15</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.62" errorminus="-0.31">1.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1364 b</name>
+    </planet>
+    <radius errorplus="0.62" errorminus="-0.31">1.79</radius>
+    <temperature errorplus="136.21" errorminus="-160.28">6805.0</temperature>
+    <mass errorplus="0.21" errorminus="-0.14">1.49</mass>
+    <name>Kepler-1364</name>
+  </star>
+  <distance errorplus="398.36" errorminus="-197.38">1149.0</distance>
+  <rightascension>19 09 07</rightascension>
+  <declination>49 35 15</declination>
+  <name>Kepler-1364</name>
+</system>
+

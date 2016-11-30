@@ -1,1 +1,22 @@
-<system><rightascension>19 51 25</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.14</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.6</period><radius errorminus="-0.1" errorplus="0.14">1.21</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1276 b</name></planet><name>Kepler-1276</name><radius errorminus="-0.1" errorplus="0.14">1.21</radius><temperature errorminus="-55.24" errorplus="65.25">6188.0</temperature></star><distance errorminus="-48.86" errorplus="67.02">587.0</distance><name>Kepler-1276</name><declination>40 32 49</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.1">1.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1276 b</name>
+    </planet>
+    <radius errorplus="0.14" errorminus="-0.1">1.21</radius>
+    <temperature errorplus="65.25" errorminus="-55.24">6188.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.14</mass>
+    <name>Kepler-1276</name>
+  </star>
+  <distance errorplus="67.02" errorminus="-48.86">587.0</distance>
+  <rightascension>19 51 25</rightascension>
+  <declination>40 32 49</declination>
+  <name>Kepler-1276</name>
+</system>
+

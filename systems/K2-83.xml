@@ -1,1 +1,31 @@
-<system><rightascension>03 54 05</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.48</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.7</period><radius errorminus="-0.02" errorplus="0.02">0.42</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00041" errorplus="0.00041">0.03014</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-83 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.0</period><radius errorminus="-0.02" errorplus="0.02">0.42</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00096" errorplus="0.00096">0.07131</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-83 c</name></planet><name>K2-83</name><radius errorminus="-0.02" errorplus="0.02">0.42</radius><temperature errorminus="-49.0" errorplus="49.0">3910.0</temperature></star><distance></distance><name>K2-83</name><declination>15 33 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <semimajoraxis errorplus="0.00096" errorminus="-0.00096">0.07131</semimajoraxis>
+      <name>K2-83 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.03014</semimajoraxis>
+      <name>K2-83 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
+    <temperature errorplus="49.0" errorminus="-49.0">3910.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.48</mass>
+    <name>K2-83</name>
+  </star>
+  <distance/>
+  <rightascension>03 54 05</rightascension>
+  <declination>15 33 31</declination>
+  <name>K2-83</name>
+</system>
+

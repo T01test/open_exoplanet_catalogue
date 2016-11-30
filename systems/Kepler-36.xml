@@ -1,1 +1,33 @@
-<system><rightascension>19 15 00</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.07</mass><planet><inclination errorminus="-0.53" errorplus="0.54">89.98</inclination><period errorminus="-0.0" errorplus="0.0">16.2</period><radius errorminus="-0.02" errorplus="0.02">1.63</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0016" errorplus="0.0016">0.1283</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-36 c</name><eccentricity>0.033</eccentricity></planet><planet><inclination errorminus="-0.71" errorplus="0.69">90.01</inclination><period errorminus="-0.0" errorplus="0.0">13.8</period><radius errorminus="-0.02" errorplus="0.02">1.63</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.0015">0.1153</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-36 b</name><eccentricity>0.039</eccentricity></planet><name>Kepler-36</name><radius errorminus="-0.02" errorplus="0.02">1.63</radius><temperature errorminus="-66.0" errorplus="66.0">5911.0</temperature></star><distance>470.0</distance><name>Kepler-36</name><declination>49 13 54</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.63</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.54" errorminus="-0.53">89.98</inclination>
+      <period errorplus="0.0" errorminus="-0.0">16.2</period>
+      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.1283</semimajoraxis>
+      <name>Kepler-36 c</name>
+      <eccentricity>0.033</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.63</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.69" errorminus="-0.71">90.01</inclination>
+      <period errorplus="0.0" errorminus="-0.0">13.8</period>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.1153</semimajoraxis>
+      <name>Kepler-36 b</name>
+      <eccentricity>0.039</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">1.63</radius>
+    <temperature errorplus="66.0" errorminus="-66.0">5911.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.07</mass>
+    <name>Kepler-36</name>
+  </star>
+  <distance>470.0</distance>
+  <rightascension>19 15 00</rightascension>
+  <declination>49 13 54</declination>
+  <name>Kepler-36</name>
+</system>
+

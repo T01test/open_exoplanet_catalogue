@@ -1,1 +1,31 @@
-<system><rightascension>19 54 35</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.0</period><radius errorminus="-0.02" errorplus="0.02">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-712 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">226.9</period><radius errorminus="-0.02" errorplus="0.02">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-712 c</name></planet><name>Kepler-712</name><radius errorminus="-0.02" errorplus="0.02">0.78</radius><temperature errorminus="-78.09" errorplus="83.48">5148.0</temperature></star><distance errorminus="-31.79" errorplus="31.55">944.0</distance><name>Kepler-712</name><declination>42 56 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.0</period>
+      <semimajoraxis/>
+      <name>Kepler-712 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">226.9</period>
+      <semimajoraxis/>
+      <name>Kepler-712 c</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
+    <temperature errorplus="83.48" errorminus="-78.09">5148.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
+    <name>Kepler-712</name>
+  </star>
+  <distance errorplus="31.55" errorminus="-31.79">944.0</distance>
+  <rightascension>19 54 35</rightascension>
+  <declination>42 56 06</declination>
+  <name>Kepler-712</name>
+</system>
+

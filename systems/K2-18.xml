@@ -1,1 +1,22 @@
-<system><rightascension>11 33 37</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.41</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">32.9</period><radius errorminus="-0.04" errorplus="0.04">0.39</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0055" errorplus="0.0055">0.1491</semimajoraxis><lastupdate>2015-07-16</lastupdate><name>K2-18 b</name></planet><name>K2-18</name><radius errorminus="-0.04" errorplus="0.04">0.39</radius><temperature errorminus="-60.0" errorplus="60.0">3503.0</temperature></star><distance errorminus="-4.0" errorplus="4.0">34.0</distance><name>K2-18</name><declination>07 35 18</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.39</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-07-16</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">32.9</period>
+      <semimajoraxis errorplus="0.0055" errorminus="-0.0055">0.1491</semimajoraxis>
+      <name>K2-18 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.39</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">3503.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.41</mass>
+    <name>K2-18</name>
+  </star>
+  <distance errorplus="4.0" errorminus="-4.0">34.0</distance>
+  <rightascension>11 33 37</rightascension>
+  <declination>07 35 18</declination>
+  <name>K2-18</name>
+</system>
+

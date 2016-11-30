@@ -1,1 +1,31 @@
-<system><rightascension>18 17 49</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.89</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.5</period><radius errorminus="-0.05" errorplus="0.07">0.85</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-920 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">100.8</period><radius errorminus="-0.05" errorplus="0.07">0.85</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-920 c</name></planet><name>Kepler-920</name><radius errorminus="-0.05" errorplus="0.07">0.85</radius><temperature errorminus="-59.44" errorplus="62.18">5403.0</temperature></star><distance errorminus="-60.1" errorplus="79.37">926.0</distance><name>Kepler-920</name><declination>49 09 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.05">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">100.8</period>
+      <semimajoraxis/>
+      <name>Kepler-920 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.05">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <semimajoraxis/>
+      <name>Kepler-920 b</name>
+    </planet>
+    <radius errorplus="0.07" errorminus="-0.05">0.85</radius>
+    <temperature errorplus="62.18" errorminus="-59.44">5403.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.89</mass>
+    <name>Kepler-920</name>
+  </star>
+  <distance errorplus="79.37" errorminus="-60.1">926.0</distance>
+  <rightascension>18 17 49</rightascension>
+  <declination>49 09 31</declination>
+  <name>Kepler-920</name>
+</system>
+

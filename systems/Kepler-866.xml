@@ -1,1 +1,22 @@
-<system><rightascension>19 07 20</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.75</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.6</period><radius errorminus="-0.04" errorplus="0.03">0.71</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-866 b</name></planet><name>Kepler-866</name><radius errorminus="-0.04" errorplus="0.03">0.71</radius><temperature errorminus="-70.26" errorplus="64.17">4751.0</temperature></star><distance errorminus="-44.67" errorplus="31.69">690.0</distance><name>Kepler-866</name><declination>43 05 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.71</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+      <semimajoraxis/>
+      <name>Kepler-866 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.71</radius>
+    <temperature errorplus="64.17" errorminus="-70.26">4751.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.75</mass>
+    <name>Kepler-866</name>
+  </star>
+  <distance errorplus="31.69" errorminus="-44.67">690.0</distance>
+  <rightascension>19 07 20</rightascension>
+  <declination>43 05 08</declination>
+  <name>Kepler-866</name>
+</system>
+

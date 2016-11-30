@@ -1,1 +1,63 @@
-<system><rightascension>19 41 52</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.91</mass><planet><inclination errorminus="-0.14" errorplus="0.16">88.39</inclination><period errorminus="-0.0" errorplus="0.0">10.9</period><radius errorminus="-0.1" errorplus="0.06">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.093</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-20 c</name><eccentricity>0.4</eccentricity></planet><planet><inclination errorminus="-0.17" errorplus="0.14">88.68</inclination><period errorminus="-0.0" errorplus="0.0">19.6</period><radius errorminus="-0.1" errorplus="0.06">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-20 f</name><eccentricity>0.32</eccentricity></planet><planet><inclination errorminus="-0.34" errorplus="0.33">87.5</inclination><period errorminus="-0.0" errorplus="0.0">6.1</period><radius errorminus="-0.1" errorplus="0.06">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-20 e</name><eccentricity>0.28</eccentricity></planet><planet><inclination errorminus="-0.048" errorplus="0.043">89.57</inclination><period errorminus="-0.0" errorplus="0.0">77.6</period><radius errorminus="-0.1" errorplus="0.06">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0046" errorplus="0.0041">0.3453</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-20 d</name><eccentricity>0.6</eccentricity></planet><planet><inclination errorminus="-0.31" errorplus="0.36">86.5</inclination><period errorminus="-0.0" errorplus="0.0">3.7</period><radius errorminus="-0.1" errorplus="0.06">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0006" errorplus="0.00054">0.04537</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-20 b</name><eccentricity>0.32</eccentricity></planet><name>Kepler-20</name><radius errorminus="-0.1" errorplus="0.06">0.94</radius><temperature errorminus="-100.0" errorplus="100.0">5455.0</temperature></star><distance errorminus="-30.0" errorplus="30.0">290.0</distance><name>Kepler-20</name><declination>42 20 19</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.14" errorminus="-0.17">88.68</inclination>
+      <period errorplus="0.0" errorminus="-0.0">19.6</period>
+      <semimajoraxis/>
+      <name>Kepler-20 f</name>
+      <eccentricity>0.32</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.16" errorminus="-0.14">88.39</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.9</period>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.093</semimajoraxis>
+      <name>Kepler-20 c</name>
+      <eccentricity>0.4</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.043" errorminus="-0.048">89.57</inclination>
+      <period errorplus="0.0" errorminus="-0.0">77.6</period>
+      <semimajoraxis errorplus="0.0041" errorminus="-0.0046">0.3453</semimajoraxis>
+      <name>Kepler-20 d</name>
+      <eccentricity>0.6</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.33" errorminus="-0.34">87.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <semimajoraxis/>
+      <name>Kepler-20 e</name>
+      <eccentricity>0.28</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.36" errorminus="-0.31">86.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <semimajoraxis errorplus="0.00054" errorminus="-0.0006">0.04537</semimajoraxis>
+      <name>Kepler-20 b</name>
+      <eccentricity>0.32</eccentricity>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.1">0.94</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5455.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
+    <name>Kepler-20</name>
+  </star>
+  <distance errorplus="30.0" errorminus="-30.0">290.0</distance>
+  <rightascension>19 41 52</rightascension>
+  <declination>42 20 19</declination>
+  <name>Kepler-20</name>
+</system>
+

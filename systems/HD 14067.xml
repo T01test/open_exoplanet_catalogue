@@ -1,1 +1,23 @@
-<system><rightascension>02 17 36</rightascension><star><mass errorminus="-0.2" errorplus="0.2">2.4</mass><planet><inclination></inclination><period errorminus="-12.0" errorplus="13.0">1455.0</period><radius errorminus="-1.1" errorplus="1.1">12.4</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.1" errorplus="0.1">3.4</semimajoraxis><lastupdate>2014-09-25</lastupdate><name>HD 14067 b</name><eccentricity>0.533</eccentricity></planet><name>HD 14067</name><radius errorminus="-1.1" errorplus="1.1">12.4</radius><temperature errorminus="-100.0" errorplus="100.0">4815.0</temperature></star><distance errorminus="-12.3" errorplus="12.3">163.4</distance><name>HD 14067</name><declination>23 46 04</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="1.1" errorminus="-1.1">12.4</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-09-25</lastupdate>
+      <inclination/>
+      <period errorplus="13.0" errorminus="-12.0">1455.0</period>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">3.4</semimajoraxis>
+      <name>HD 14067 b</name>
+      <eccentricity>0.533</eccentricity>
+    </planet>
+    <radius errorplus="1.1" errorminus="-1.1">12.4</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4815.0</temperature>
+    <mass errorplus="0.2" errorminus="-0.2">2.4</mass>
+    <name>HD 14067</name>
+  </star>
+  <distance errorplus="12.3" errorminus="-12.3">163.4</distance>
+  <rightascension>02 17 36</rightascension>
+  <declination>23 46 04</declination>
+  <name>HD 14067</name>
+</system>
+

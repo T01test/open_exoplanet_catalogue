@@ -1,1 +1,40 @@
-<system><rightascension>19 38 04</rightascension><star><mass>0.94</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">23.4</period><radius errorminus="-0.23" errorplus="0.23">1.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.163</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-206 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.1</period><radius errorminus="-0.23" errorplus="0.23">1.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.111</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-206 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.8</period><radius errorminus="-0.23" errorplus="0.23">1.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.078</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-206 b</name></planet><name>Kepler-206</name><radius errorminus="-0.23" errorplus="0.23">1.19</radius><temperature errorminus="-100.0" errorplus="100.0">5764.0</temperature></star><distance></distance><name>Kepler-206</name><declination>41 50 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.1</period>
+      <semimajoraxis>0.111</semimajoraxis>
+      <name>Kepler-206 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">23.4</period>
+      <semimajoraxis>0.163</semimajoraxis>
+      <name>Kepler-206 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <semimajoraxis>0.078</semimajoraxis>
+      <name>Kepler-206 b</name>
+    </planet>
+    <radius errorplus="0.23" errorminus="-0.23">1.19</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5764.0</temperature>
+    <mass>0.94</mass>
+    <name>Kepler-206</name>
+  </star>
+  <distance/>
+  <rightascension>19 38 04</rightascension>
+  <declination>41 50 01</declination>
+  <name>Kepler-206</name>
+</system>
+

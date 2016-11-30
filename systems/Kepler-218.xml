@@ -1,1 +1,40 @@
-<system><rightascension>19 24 46</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">124.5</period><radius errorminus="-0.08" errorplus="0.08">1.06</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-218 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">44.7</period><radius errorminus="-0.08" errorplus="0.08">1.06</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.248</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-218 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.6</period><radius errorminus="-0.08" errorplus="0.08">1.06</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.046</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-218 b</name></planet><name>Kepler-218</name><radius errorminus="-0.08" errorplus="0.08">1.06</radius><temperature errorminus="-74.0" errorplus="74.0">5502.0</temperature></star><distance></distance><name>Kepler-218</name><declination>46 15 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">124.5</period>
+      <semimajoraxis/>
+      <name>Kepler-218 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">44.7</period>
+      <semimajoraxis>0.248</semimajoraxis>
+      <name>Kepler-218 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <semimajoraxis>0.046</semimajoraxis>
+      <name>Kepler-218 b</name>
+    </planet>
+    <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+    <temperature errorplus="74.0" errorminus="-74.0">5502.0</temperature>
+    <mass/>
+    <name>Kepler-218</name>
+  </star>
+  <distance/>
+  <rightascension>19 24 46</rightascension>
+  <declination>46 15 59</declination>
+  <name>Kepler-218</name>
+</system>
+

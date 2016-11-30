@@ -1,1 +1,23 @@
-<system><rightascension>08 06 25</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.84</mass><planet><inclination errorminus="-0.05" errorplus="0.05">88.368</inclination><period errorminus="-0.0" errorplus="0.0">8.5</period><radius errorminus="-0.01" errorplus="0.01">0.75</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.0771</semimajoraxis><lastupdate>2014-10-15</lastupdate><name>WASP-84 b</name><eccentricity>0.0</eccentricity></planet><name>WASP-84</name><radius errorminus="-0.01" errorplus="0.01">0.75</radius><temperature errorminus="-88.0" errorplus="88.0">5314.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">125.0</distance><name>WASP-84</name><declination>01 51 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-10-15</lastupdate>
+      <inclination errorplus="0.05" errorminus="-0.05">88.368</inclination>
+      <period errorplus="0.0" errorminus="-0.0">8.5</period>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0771</semimajoraxis>
+      <name>WASP-84 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+    <temperature errorplus="88.0" errorminus="-88.0">5314.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.84</mass>
+    <name>WASP-84</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">125.0</distance>
+  <rightascension>08 06 25</rightascension>
+  <declination>01 51 36</declination>
+  <name>WASP-84</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 22 23</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.7</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.0</period><radius errorminus="-0.02" errorplus="0.02">0.67</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1378 b</name></planet><name>Kepler-1378</name><radius errorminus="-0.02" errorplus="0.02">0.67</radius><temperature errorminus="-65.02" errorplus="93.22">4407.0</temperature></star><distance errorminus="-20.88" errorplus="21.44">562.0</distance><name>Kepler-1378</name><declination>40 21 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.67</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.0</period>
+      <semimajoraxis/>
+      <name>Kepler-1378 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.67</radius>
+    <temperature errorplus="93.22" errorminus="-65.02">4407.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.7</mass>
+    <name>Kepler-1378</name>
+  </star>
+  <distance errorplus="21.44" errorminus="-20.88">562.0</distance>
+  <rightascension>19 22 23</rightascension>
+  <declination>40 21 59</declination>
+  <name>Kepler-1378</name>
+</system>
+

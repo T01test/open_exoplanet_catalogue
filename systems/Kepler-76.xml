@@ -1,1 +1,22 @@
-<system><rightascension>19 11 31</rightascension><star><mass errorminus="-0.2" errorplus="0.2">1.2</mass><planet><inclination errorminus="-0.17" errorplus="0.2">77.55</inclination><period errorminus="-0.0" errorplus="0.0">1.5</period><radius errorminus="-0.08" errorplus="0.08">1.32</radius><discoverymethod>orbital Brightness Modulation</discoverymethod><semimajoraxis errorminus="-0.0019" errorplus="0.002">0.0274</semimajoraxis><lastupdate>2015-10-15</lastupdate><name>Kepler-76 b</name></planet><name>Kepler-76</name><radius errorminus="-0.08" errorplus="0.08">1.32</radius><temperature errorminus="-95.0" errorplus="95.0">6409.0</temperature></star><distance></distance><name>Kepler-76</name><declination>39 37 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">1.32</radius>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <lastupdate>2015-10-15</lastupdate>
+      <inclination errorplus="0.2" errorminus="-0.17">77.55</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.5</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.0019">0.0274</semimajoraxis>
+      <name>Kepler-76 b</name>
+    </planet>
+    <radius errorplus="0.08" errorminus="-0.08">1.32</radius>
+    <temperature errorplus="95.0" errorminus="-95.0">6409.0</temperature>
+    <mass errorplus="0.2" errorminus="-0.2">1.2</mass>
+    <name>Kepler-76</name>
+  </star>
+  <distance/>
+  <rightascension>19 11 31</rightascension>
+  <declination>39 37 08</declination>
+  <name>Kepler-76</name>
+</system>
+

@@ -1,1 +1,31 @@
-<system><rightascension>19 56 37</rightascension><star><mass>0.95</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.5</period><radius errorminus="-0.43" errorplus="0.43">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.061</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-317 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.8</period><radius errorminus="-0.43" errorplus="0.43">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.083</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-317 c</name></planet><name>Kepler-317</name><radius errorminus="-0.43" errorplus="0.43">0.94</radius><temperature errorminus="-200.0" errorplus="200.0">5497.0</temperature></star><distance></distance><name>Kepler-317</name><declination>39 01 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.43">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <semimajoraxis>0.061</semimajoraxis>
+      <name>Kepler-317 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.43">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.8</period>
+      <semimajoraxis>0.083</semimajoraxis>
+      <name>Kepler-317 c</name>
+    </planet>
+    <radius errorplus="0.43" errorminus="-0.43">0.94</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5497.0</temperature>
+    <mass>0.95</mass>
+    <name>Kepler-317</name>
+  </star>
+  <distance/>
+  <rightascension>19 56 37</rightascension>
+  <declination>39 01 55</declination>
+  <name>Kepler-317</name>
+</system>
+

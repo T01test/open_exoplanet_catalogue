@@ -1,1 +1,58 @@
-<system><rightascension>19 06 42</rightascension><star><mass>0.99</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.6</period><radius errorminus="-0.24" errorplus="0.24">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.155</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-122 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.8</period><radius errorminus="-0.24" errorplus="0.24">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.064</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-122 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">38.0</period><radius errorminus="-0.24" errorplus="0.24">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.227</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-122 e</name></planet><planet><inclination></inclination><period>56.3</period><radius errorminus="-0.24" errorplus="0.24">1.22</radius><discoverymethod>transit Timing Variations</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-28</lastupdate><name>Kepler-122 f</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.5</period><radius errorminus="-0.24" errorplus="0.24">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.108</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-122 c</name></planet><name>Kepler-122</name><radius errorminus="-0.24" errorplus="0.24">1.22</radius><temperature errorminus="-137.0" errorplus="137.0">6050.0</temperature></star><distance></distance><name>Kepler-122</name><declination>39 56 56</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <lastupdate>2014-05-28</lastupdate>
+      <inclination/>
+      <period>56.3</period>
+      <semimajoraxis/>
+      <name>Kepler-122 f</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.5</period>
+      <semimajoraxis>0.108</semimajoraxis>
+      <name>Kepler-122 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">38.0</period>
+      <semimajoraxis>0.227</semimajoraxis>
+      <name>Kepler-122 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.6</period>
+      <semimajoraxis>0.155</semimajoraxis>
+      <name>Kepler-122 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <semimajoraxis>0.064</semimajoraxis>
+      <name>Kepler-122 b</name>
+    </planet>
+    <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+    <temperature errorplus="137.0" errorminus="-137.0">6050.0</temperature>
+    <mass>0.99</mass>
+    <name>Kepler-122</name>
+  </star>
+  <distance/>
+  <rightascension>19 06 42</rightascension>
+  <declination>39 56 56</declination>
+  <name>Kepler-122</name>
+</system>
+

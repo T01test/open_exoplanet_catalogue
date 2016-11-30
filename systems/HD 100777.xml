@@ -1,1 +1,23 @@
-<system><rightascension>11 57 52</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.01</mass><planet><inclination></inclination><period errorminus="-1.2" errorplus="1.2">383.7</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.03" errorplus="0.03">1.03</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 100777 b</name><eccentricity>0.36</eccentricity></planet><name>HD 100777</name><radius></radius><temperature errorminus="-24.0" errorplus="24.0">5582.0</temperature></star><distance errorminus="-3.38" errorplus="3.0">52.8</distance><name>HD 100777</name><declination>-4 45 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="1.2" errorminus="-1.2">383.7</period>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.03</semimajoraxis>
+      <name>HD 100777 b</name>
+      <eccentricity>0.36</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="24.0" errorminus="-24.0">5582.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.01</mass>
+    <name>HD 100777</name>
+  </star>
+  <distance errorplus="3.0" errorminus="-3.38">52.8</distance>
+  <rightascension>11 57 52</rightascension>
+  <declination>-4 45 20</declination>
+  <name>HD 100777</name>
+</system>
+

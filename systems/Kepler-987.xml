@@ -1,1 +1,22 @@
-<system><rightascension>19 24 39</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">105.3</period><radius errorminus="-0.03" errorplus="0.03">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-987 b</name></planet><name>Kepler-987</name><radius errorminus="-0.03" errorplus="0.03">0.91</radius><temperature errorminus="-60.98" errorplus="69.85">5637.0</temperature></star><distance errorminus="-36.0" errorplus="37.28">936.0</distance><name>Kepler-987</name><declination>46 07 51</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">105.3</period>
+      <semimajoraxis/>
+      <name>Kepler-987 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.91</radius>
+    <temperature errorplus="69.85" errorminus="-60.98">5637.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.97</mass>
+    <name>Kepler-987</name>
+  </star>
+  <distance errorplus="37.28" errorminus="-36.0">936.0</distance>
+  <rightascension>19 24 39</rightascension>
+  <declination>46 07 51</declination>
+  <name>Kepler-987</name>
+</system>
+

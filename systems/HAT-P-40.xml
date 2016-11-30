@@ -1,1 +1,23 @@
-<system><rightascension>22 30 46</rightascension><star><mass errorplus="0.11">1.51</mass><planet><inclination errorminus="-0.9" errorplus="0.9">88.3</inclination><period errorminus="-0.0" errorplus="0.0">4.5</period><radius errorplus="0.06">2.21</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.0006">0.0608</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-40 b</name><eccentricity>0.0</eccentricity></planet><name>HAT-P-40</name><radius errorplus="0.06">2.21</radius><temperature errorplus="100.0">6080.0</temperature></star><distance errorminus="-16.0" errorplus="16.0">501.0</distance><name>HAT-P-40</name><declination>45 27 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06">2.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.9" errorminus="-0.9">88.3</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <semimajoraxis errorplus="0.0006" errorminus="-0.0015">0.0608</semimajoraxis>
+      <name>HAT-P-40 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.06">2.21</radius>
+    <temperature errorplus="100.0">6080.0</temperature>
+    <mass errorplus="0.11">1.51</mass>
+    <name>HAT-P-40</name>
+  </star>
+  <distance errorplus="16.0" errorminus="-16.0">501.0</distance>
+  <rightascension>22 30 46</rightascension>
+  <declination>45 27 26</declination>
+  <name>HAT-P-40</name>
+</system>
+

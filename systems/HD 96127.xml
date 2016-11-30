@@ -1,1 +1,23 @@
-<system><rightascension>11 26 29</rightascension><star><mass errorminus="-0.25" errorplus="0.25">0.91</mass><planet><inclination></inclination><period errorminus="-16.8" errorplus="16.8">647.3</period><radius errorminus="-17.0" errorplus="17.0">35.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.4</semimajoraxis><lastupdate>2015-05-14</lastupdate><name>HD 96127 b</name><eccentricity>0.3</eccentricity></planet><name>HD 96127</name><radius errorminus="-17.0" errorplus="17.0">35.0</radius><temperature errorminus="-23.0" errorplus="23.0">4152.0</temperature></star><distance>221.24</distance><name>HD 96127</name><declination>44 18 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="16.8" errorminus="-16.8">647.3</period>
+      <semimajoraxis>1.4</semimajoraxis>
+      <name>HD 96127 b</name>
+      <eccentricity>0.3</eccentricity>
+    </planet>
+    <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
+    <temperature errorplus="23.0" errorminus="-23.0">4152.0</temperature>
+    <mass errorplus="0.25" errorminus="-0.25">0.91</mass>
+    <name>HD 96127</name>
+  </star>
+  <distance>221.24</distance>
+  <rightascension>11 26 29</rightascension>
+  <declination>44 18 05</declination>
+  <name>HD 96127</name>
+</system>
+

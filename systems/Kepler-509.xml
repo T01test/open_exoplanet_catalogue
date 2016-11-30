@@ -1,1 +1,22 @@
-<system><rightascension>19 39 51</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.1</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">41.7</period><radius errorminus="-0.03" errorplus="0.03">1.2</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-509 b</name></planet><name>Kepler-509</name><radius errorminus="-0.03" errorplus="0.03">1.2</radius><temperature errorminus="-63.4" errorplus="69.98">6060.0</temperature></star><distance errorminus="-9.08" errorplus="9.55">339.0</distance><name>Kepler-509</name><declination>48 42 22</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.2</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.7</period>
+      <semimajoraxis/>
+      <name>Kepler-509 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.2</radius>
+    <temperature errorplus="69.98" errorminus="-63.4">6060.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.1</mass>
+    <name>Kepler-509</name>
+  </star>
+  <distance errorplus="9.55" errorminus="-9.08">339.0</distance>
+  <rightascension>19 39 51</rightascension>
+  <declination>48 42 22</declination>
+  <name>Kepler-509</name>
+</system>
+

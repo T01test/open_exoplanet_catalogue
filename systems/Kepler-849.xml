@@ -1,1 +1,22 @@
-<system><rightascension>19 51 06</rightascension><star><mass errorminus="-0.09" errorplus="0.15">1.23</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">394.6</period><radius errorminus="-0.31" errorplus="0.34">1.64</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-849 b</name></planet><name>Kepler-849</name><radius errorminus="-0.31" errorplus="0.34">1.64</radius><temperature errorminus="-66.22" errorplus="81.18">6059.0</temperature></star><distance errorminus="-141.81" errorplus="152.98">747.0</distance><name>Kepler-849</name><declination>48 31 16</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.34" errorminus="-0.31">1.64</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">394.6</period>
+      <semimajoraxis/>
+      <name>Kepler-849 b</name>
+    </planet>
+    <radius errorplus="0.34" errorminus="-0.31">1.64</radius>
+    <temperature errorplus="81.18" errorminus="-66.22">6059.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.09">1.23</mass>
+    <name>Kepler-849</name>
+  </star>
+  <distance errorplus="152.98" errorminus="-141.81">747.0</distance>
+  <rightascension>19 51 06</rightascension>
+  <declination>48 31 16</declination>
+  <name>Kepler-849</name>
+</system>
+

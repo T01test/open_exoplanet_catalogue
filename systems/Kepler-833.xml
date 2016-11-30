@@ -1,1 +1,22 @@
-<system><rightascension>19 28 47</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.64</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.8</period><radius errorminus="-0.02" errorplus="0.02">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-833 b</name></planet><name>Kepler-833</name><radius errorminus="-0.02" errorplus="0.02">0.62</radius><temperature errorminus="-37.41" errorplus="39.28">4339.0</temperature></star><distance errorminus="-19.84" errorplus="21.49">421.0</distance><name>Kepler-833</name><declination>45 36 02</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.8</period>
+      <semimajoraxis/>
+      <name>Kepler-833 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.62</radius>
+    <temperature errorplus="39.28" errorminus="-37.41">4339.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.64</mass>
+    <name>Kepler-833</name>
+  </star>
+  <distance errorplus="21.49" errorminus="-19.84">421.0</distance>
+  <rightascension>19 28 47</rightascension>
+  <declination>45 36 02</declination>
+  <name>Kepler-833</name>
+</system>
+

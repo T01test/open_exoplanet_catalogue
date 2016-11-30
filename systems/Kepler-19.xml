@@ -1,1 +1,32 @@
-<system><rightascension>19 25 15</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.94</mass><planet><inclination></inclination><period>160.0</period><radius errorminus="-0.02" errorplus="0.02">0.85</radius><discoverymethod>transit Timing Variations</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-19 c</name></planet><planet><inclination errorminus="-0.44" errorplus="0.06">89.94</inclination><period errorminus="-0.0" errorplus="0.0">9.3</period><radius errorminus="-0.02" errorplus="0.02">0.85</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-19 b</name><eccentricity>0.0</eccentricity></planet><name>Kepler-19</name><radius errorminus="-0.02" errorplus="0.02">0.85</radius><temperature errorminus="-60.0" errorplus="60.0">5541.0</temperature></star><distance>2119.0</distance><name>Kepler-19</name><declination>37 51 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>160.0</period>
+      <semimajoraxis/>
+      <name>Kepler-19 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.06" errorminus="-0.44">89.94</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.3</period>
+      <semimajoraxis/>
+      <name>Kepler-19 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">5541.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
+    <name>Kepler-19</name>
+  </star>
+  <distance>2119.0</distance>
+  <rightascension>19 25 15</rightascension>
+  <declination>37 51 06</declination>
+  <name>Kepler-19</name>
+</system>
+

@@ -1,1 +1,33 @@
-<system><rightascension>21 03 03</rightascension><star><mass>1.02</mass><planet><inclination></inclination><period errorminus="-3.1" errorplus="3.1">2024.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.12" errorplus="0.12">3.167</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 204313 b</name><eccentricity>0.0946</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">34.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0071" errorplus="0.0071">0.2099</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 204313 c</name><eccentricity>0.155</eccentricity></planet><name>HD 204313</name><radius></radius><temperature errorminus="-22.0" errorplus="22.0">5776.0</temperature></star><distance errorminus="-2.5" errorplus="2.26">47.3</distance><name>HD 204313</name><declination>-21 43 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="3.1" errorminus="-3.1">2024.1</period>
+      <semimajoraxis errorplus="0.12" errorminus="-0.12">3.167</semimajoraxis>
+      <name>HD 204313 b</name>
+      <eccentricity>0.0946</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">34.9</period>
+      <semimajoraxis errorplus="0.0071" errorminus="-0.0071">0.2099</semimajoraxis>
+      <name>HD 204313 c</name>
+      <eccentricity>0.155</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="22.0" errorminus="-22.0">5776.0</temperature>
+    <mass>1.02</mass>
+    <name>HD 204313</name>
+  </star>
+  <distance errorplus="2.26" errorminus="-2.5">47.3</distance>
+  <rightascension>21 03 03</rightascension>
+  <declination>-21 43 34</declination>
+  <name>HD 204313</name>
+</system>
+

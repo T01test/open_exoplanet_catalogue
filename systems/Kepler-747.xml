@@ -1,1 +1,22 @@
-<system><rightascension>19 24 59</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.82</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">35.6</period><radius errorminus="-0.04" errorplus="0.04">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-747 b</name></planet><name>Kepler-747</name><radius errorminus="-0.04" errorplus="0.04">0.78</radius><temperature errorminus="-92.77" errorplus="70.39">5096.0</temperature></star><distance errorminus="-51.03" errorplus="50.21">855.0</distance><name>Kepler-747</name><declination>41 01 47</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">35.6</period>
+      <semimajoraxis/>
+      <name>Kepler-747 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+    <temperature errorplus="70.39" errorminus="-92.77">5096.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.82</mass>
+    <name>Kepler-747</name>
+  </star>
+  <distance errorplus="50.21" errorminus="-51.03">855.0</distance>
+  <rightascension>19 24 59</rightascension>
+  <declination>41 01 47</declination>
+  <name>Kepler-747</name>
+</system>
+

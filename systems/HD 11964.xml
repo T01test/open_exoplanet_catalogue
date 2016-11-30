@@ -1,1 +1,33 @@
-<system><rightascension>01 17 24</rightascension><star><mass>1.12</mass><planet><inclination></inclination><period errorminus="-26.0" errorplus="26.0">1945.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.19" errorplus="0.19">3.16</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 11964 b</name><eccentricity>0.041</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">37.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.013" errorplus="0.013">0.229</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 11964 c</name><eccentricity>0.3</eccentricity></planet><name>HD 11964</name><radius></radius><temperature errorminus="-44.0" errorplus="44.0">5349.0</temperature></star><distance errorminus="-1.08" errorplus="1.02">33.98</distance><name>HD 11964</name><declination>-10 14 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">37.9</period>
+      <semimajoraxis errorplus="0.013" errorminus="-0.013">0.229</semimajoraxis>
+      <name>HD 11964 c</name>
+      <eccentricity>0.3</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="26.0" errorminus="-26.0">1945.0</period>
+      <semimajoraxis errorplus="0.19" errorminus="-0.19">3.16</semimajoraxis>
+      <name>HD 11964 b</name>
+      <eccentricity>0.041</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="44.0" errorminus="-44.0">5349.0</temperature>
+    <mass>1.12</mass>
+    <name>HD 11964</name>
+  </star>
+  <distance errorplus="1.02" errorminus="-1.08">33.98</distance>
+  <rightascension>01 17 24</rightascension>
+  <declination>-10 14 32</declination>
+  <name>HD 11964</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>18 25 22</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.78</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">62.9</period><radius errorminus="-0.03" errorplus="0.02">0.74</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1459 b</name></planet><name>Kepler-1459</name><radius errorminus="-0.03" errorplus="0.02">0.74</radius><temperature errorminus="-40.76" errorplus="42.43">4828.0</temperature></star><distance errorminus="-20.55" errorplus="16.49">435.0</distance><name>Kepler-1459</name><declination>46 00 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">62.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1459 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.03">0.74</radius>
+    <temperature errorplus="42.43" errorminus="-40.76">4828.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.78</mass>
+    <name>Kepler-1459</name>
+  </star>
+  <distance errorplus="16.49" errorminus="-20.55">435.0</distance>
+  <rightascension>18 25 22</rightascension>
+  <declination>46 00 50</declination>
+  <name>Kepler-1459</name>
+</system>
+

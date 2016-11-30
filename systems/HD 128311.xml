@@ -1,1 +1,33 @@
-<system><rightascension>14 00 08</rightascension><star><mass errorminus="-0.01" errorplus="0.01">0.83</mass><planet><inclination errorminus="-14.553" errorplus="14.553">55.95</inclination><period errorminus="-1.1" errorplus="1.1">921.5</period><radius errorminus="-0.02" errorplus="0.02">0.76</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.01" errorplus="0.01">1.74</semimajoraxis><lastupdate>2015-06-25</lastupdate><name>HD 128311 c</name><eccentricity>0.159</eccentricity></planet><planet><inclination>30.0</inclination><period errorminus="-0.4" errorplus="0.4">453.0</period><radius errorminus="-0.02" errorplus="0.02">0.76</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.006" errorplus="0.006">1.084</semimajoraxis><lastupdate>2015-06-25</lastupdate><name>HD 128311 b</name><eccentricity>0.303</eccentricity></planet><name>HD 128311</name><radius errorminus="-0.02" errorplus="0.02">0.76</radius><temperature></temperature></star><distance></distance><name>HD 128311</name><declination>09 44 47</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-06-25</lastupdate>
+      <inclination errorplus="14.553" errorminus="-14.553">55.95</inclination>
+      <period errorplus="1.1" errorminus="-1.1">921.5</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.74</semimajoraxis>
+      <name>HD 128311 c</name>
+      <eccentricity>0.159</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-06-25</lastupdate>
+      <inclination>30.0</inclination>
+      <period errorplus="0.4" errorminus="-0.4">453.0</period>
+      <semimajoraxis errorplus="0.006" errorminus="-0.006">1.084</semimajoraxis>
+      <name>HD 128311 b</name>
+      <eccentricity>0.303</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
+    <temperature/>
+    <mass errorplus="0.01" errorminus="-0.01">0.83</mass>
+    <name>HD 128311</name>
+  </star>
+  <distance/>
+  <rightascension>14 00 08</rightascension>
+  <declination>09 44 47</declination>
+  <name>HD 128311</name>
+</system>
+

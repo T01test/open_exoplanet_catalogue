@@ -1,1 +1,31 @@
-<system><rightascension>19 18 10</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.81</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">210.6</period><radius errorminus="-0.04" errorplus="0.05">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1143 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.9</period><radius errorminus="-0.04" errorplus="0.05">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1143 b</name></planet><name>Kepler-1143</name><radius errorminus="-0.04" errorplus="0.05">0.77</radius><temperature errorminus="-130.21" errorplus="192.88">5053.0</temperature></star><distance errorminus="-39.16" errorplus="50.17">632.0</distance><name>Kepler-1143</name><declination>39 17 22</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">210.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1143 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1143 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
+    <temperature errorplus="192.88" errorminus="-130.21">5053.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.81</mass>
+    <name>Kepler-1143</name>
+  </star>
+  <distance errorplus="50.17" errorminus="-39.16">632.0</distance>
+  <rightascension>19 18 10</rightascension>
+  <declination>39 17 22</declination>
+  <name>Kepler-1143</name>
+</system>
+

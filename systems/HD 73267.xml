@@ -1,1 +1,23 @@
-<system><rightascension>08 04 26</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.89</mass><planet><inclination></inclination><period errorminus="-7.0" errorplus="7.0">1260.0</period><radius>1.04</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.025" errorplus="0.025">2.198</semimajoraxis><lastupdate>2015-03-26</lastupdate><name>HD 73267 b</name><eccentricity>0.256</eccentricity></planet><name>HD 73267</name><radius>1.04</radius><temperature errorminus="-34.0" errorplus="34.0">5317.0</temperature></star><distance errorminus="-3.0" errorplus="3.0">54.91</distance><name>HD 73267</name><declination>-34 27 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>1.04</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-03-26</lastupdate>
+      <inclination/>
+      <period errorplus="7.0" errorminus="-7.0">1260.0</period>
+      <semimajoraxis errorplus="0.025" errorminus="-0.025">2.198</semimajoraxis>
+      <name>HD 73267 b</name>
+      <eccentricity>0.256</eccentricity>
+    </planet>
+    <radius>1.04</radius>
+    <temperature errorplus="34.0" errorminus="-34.0">5317.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
+    <name>HD 73267</name>
+  </star>
+  <distance errorplus="3.0" errorminus="-3.0">54.91</distance>
+  <rightascension>08 04 26</rightascension>
+  <declination>-34 27 35</declination>
+  <name>HD 73267</name>
+</system>
+

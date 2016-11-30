@@ -1,1 +1,31 @@
-<system><rightascension>19 00 42</rightascension><star><mass>0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">23.9</period><radius errorminus="-0.48" errorplus="0.48">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.168</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-346 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.5</period><radius errorminus="-0.48" errorplus="0.48">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.071</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-346 b</name></planet><name>Kepler-346</name><radius errorminus="-0.48" errorplus="0.48">1.02</radius><temperature errorminus="-200.0" errorplus="200.0">6033.0</temperature></star><distance></distance><name>Kepler-346</name><declination>46 07 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.48">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <semimajoraxis>0.071</semimajoraxis>
+      <name>Kepler-346 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.48" errorminus="-0.48">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">23.9</period>
+      <semimajoraxis>0.168</semimajoraxis>
+      <name>Kepler-346 c</name>
+    </planet>
+    <radius errorplus="0.48" errorminus="-0.48">1.02</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">6033.0</temperature>
+    <mass>0.97</mass>
+    <name>Kepler-346</name>
+  </star>
+  <distance/>
+  <rightascension>19 00 42</rightascension>
+  <declination>46 07 03</declination>
+  <name>Kepler-346</name>
+</system>
+

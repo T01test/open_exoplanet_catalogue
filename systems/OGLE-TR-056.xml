@@ -1,1 +1,22 @@
-<system><rightascension>17 08 52</rightascension><star><mass errorplus="0.08">1.23</mass><planet><inclination errorminus="-1.0" errorplus="0.91">77.6</inclination><period>1.2</period><radius errorplus="0.09">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00051" errorplus="0.00046">0.02383</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>OGLE-TR-056 b</name></planet><name>OGLE-TR-056</name><radius errorplus="0.09">1.36</radius><temperature errorplus="100.0">6050.0</temperature></star><distance></distance><name>OGLE-TR-056</name><declination>-29 32 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.91" errorminus="-1.0">77.6</inclination>
+      <period>1.2</period>
+      <semimajoraxis errorplus="0.00046" errorminus="-0.00051">0.02383</semimajoraxis>
+      <name>OGLE-TR-056 b</name>
+    </planet>
+    <radius errorplus="0.09">1.36</radius>
+    <temperature errorplus="100.0">6050.0</temperature>
+    <mass errorplus="0.08">1.23</mass>
+    <name>OGLE-TR-056</name>
+  </star>
+  <distance/>
+  <rightascension>17 08 52</rightascension>
+  <declination>-29 32 21</declination>
+  <name>OGLE-TR-056</name>
+</system>
+

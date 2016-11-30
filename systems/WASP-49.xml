@@ -1,1 +1,23 @@
-<system><rightascension>06 05 21</rightascension><star><mass errorplus="0.08">0.94</mass><planet><inclination errorminus="-0.19" errorplus="0.19">84.89</inclination><period errorminus="-0.0" errorplus="0.0">2.8</period><radius errorplus="0.03">0.98</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0379</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>WASP-49 b</name><eccentricity>0.0</eccentricity></planet><name>WASP-49</name><radius errorplus="0.03">0.98</radius><temperature errorplus="150.0">5600.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">170.0</distance><name>WASP-49</name><declination>-16 57 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03">0.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.19" errorminus="-0.19">84.89</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0379</semimajoraxis>
+      <name>WASP-49 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.03">0.98</radius>
+    <temperature errorplus="150.0">5600.0</temperature>
+    <mass errorplus="0.08">0.94</mass>
+    <name>WASP-49</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">170.0</distance>
+  <rightascension>06 05 21</rightascension>
+  <declination>-16 57 55</declination>
+  <name>WASP-49</name>
+</system>
+

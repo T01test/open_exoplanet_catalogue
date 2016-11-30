@@ -1,1 +1,22 @@
-<system><rightascension>19 49 22</rightascension><star><mass errorminus="-0.09" errorplus="0.14">1.16</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.0</period><radius errorminus="-0.16" errorplus="0.42">1.25</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-904 b</name></planet><name>Kepler-904</name><radius errorminus="-0.16" errorplus="0.42">1.25</radius><temperature errorminus="-149.12" errorplus="119.73">6160.0</temperature></star><distance errorminus="-162.87" errorplus="382.57">1151.0</distance><name>Kepler-904</name><declination>40 23 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.42" errorminus="-0.16">1.25</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <semimajoraxis/>
+      <name>Kepler-904 b</name>
+    </planet>
+    <radius errorplus="0.42" errorminus="-0.16">1.25</radius>
+    <temperature errorplus="119.73" errorminus="-149.12">6160.0</temperature>
+    <mass errorplus="0.14" errorminus="-0.09">1.16</mass>
+    <name>Kepler-904</name>
+  </star>
+  <distance errorplus="382.57" errorminus="-162.87">1151.0</distance>
+  <rightascension>19 49 22</rightascension>
+  <declination>40 23 20</declination>
+  <name>Kepler-904</name>
+</system>
+

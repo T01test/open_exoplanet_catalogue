@@ -1,1 +1,22 @@
-<system><rightascension>10 19 28</rightascension><star><mass errorplus="0.06">0.85</mass><planet><inclination errorminus="-0.2" errorplus="0.3">88.3</inclination><period errorminus="-0.0" errorplus="0.0">4.0</period><radius errorplus="0.04">0.83</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0014" errorplus="0.0015">0.0473</semimajoraxis><lastupdate>2016-02-25</lastupdate><name>OGLE-TR-111 b</name></planet><name>OGLE-TR-111</name><radius errorplus="0.04">0.83</radius><temperature errorplus="80.0">5040.0</temperature></star><distance></distance><name>OGLE-TR-111</name><declination>-61 24 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-02-25</lastupdate>
+      <inclination errorplus="0.3" errorminus="-0.2">88.3</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0014">0.0473</semimajoraxis>
+      <name>OGLE-TR-111 b</name>
+    </planet>
+    <radius errorplus="0.04">0.83</radius>
+    <temperature errorplus="80.0">5040.0</temperature>
+    <mass errorplus="0.06">0.85</mass>
+    <name>OGLE-TR-111</name>
+  </star>
+  <distance/>
+  <rightascension>10 19 28</rightascension>
+  <declination>-61 24 20</declination>
+  <name>OGLE-TR-111</name>
+</system>
+

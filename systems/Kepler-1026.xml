@@ -1,1 +1,22 @@
-<system><rightascension>18 36 18</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.79</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">36.5</period><radius errorminus="-0.04" errorplus="0.03">0.75</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1026 b</name></planet><name>Kepler-1026</name><radius errorminus="-0.04" errorplus="0.03">0.75</radius><temperature errorminus="-89.37" errorplus="85.79">4948.0</temperature></star><distance errorminus="-21.87" errorplus="19.89">389.0</distance><name>Kepler-1026</name><declination>39 59 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">36.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1026 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
+    <temperature errorplus="85.79" errorminus="-89.37">4948.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.79</mass>
+    <name>Kepler-1026</name>
+  </star>
+  <distance errorplus="19.89" errorminus="-21.87">389.0</distance>
+  <rightascension>18 36 18</rightascension>
+  <declination>39 59 52</declination>
+  <name>Kepler-1026</name>
+</system>
+

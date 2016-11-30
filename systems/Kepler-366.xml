@@ -1,1 +1,31 @@
-<system><rightascension>19 51 07</rightascension><star><mass>1.05</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.3</period><radius errorminus="-0.47" errorplus="0.47">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.045</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-366 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.5</period><radius errorminus="-0.47" errorplus="0.47">1.05</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.11</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-366 c</name></planet><name>Kepler-366</name><radius errorminus="-0.47" errorplus="0.47">1.05</radius><temperature errorminus="-200.0" errorplus="200.0">6209.0</temperature></star><distance></distance><name>Kepler-366</name><declination>49 05 04</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <semimajoraxis>0.045</semimajoraxis>
+      <name>Kepler-366 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.5</period>
+      <semimajoraxis>0.11</semimajoraxis>
+      <name>Kepler-366 c</name>
+    </planet>
+    <radius errorplus="0.47" errorminus="-0.47">1.05</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">6209.0</temperature>
+    <mass>1.05</mass>
+    <name>Kepler-366</name>
+  </star>
+  <distance/>
+  <rightascension>19 51 07</rightascension>
+  <declination>49 05 04</declination>
+  <name>Kepler-366</name>
+</system>
+

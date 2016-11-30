@@ -1,1 +1,22 @@
-<system><rightascension>19 55 26</rightascension><star><mass errorminus="-0.04" errorplus="0.03">1.0</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.9</period><radius errorminus="-0.06" errorplus="0.09">1.0</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1156 b</name></planet><name>Kepler-1156</name><radius errorminus="-0.06" errorplus="0.09">1.0</radius><temperature errorminus="-59.01" errorplus="67.42">5778.0</temperature></star><distance errorminus="-48.89" errorplus="70.51">759.0</distance><name>Kepler-1156</name><declination>46 03 27</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1156 b</name>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
+    <temperature errorplus="67.42" errorminus="-59.01">5778.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">1.0</mass>
+    <name>Kepler-1156</name>
+  </star>
+  <distance errorplus="70.51" errorminus="-48.89">759.0</distance>
+  <rightascension>19 55 26</rightascension>
+  <declination>46 03 27</declination>
+  <name>Kepler-1156</name>
+</system>
+

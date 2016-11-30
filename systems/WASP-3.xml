@@ -1,1 +1,23 @@
-<system><rightascension>18 37 54</rightascension><star><mass errorplus="0.11">1.24</mass><planet><inclination errorminus="-0.78" errorplus="1.32">84.93</inclination><period errorminus="-0.0" errorplus="0.0">1.8</period><radius errorplus="0.12">1.31</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.000987" errorplus="0.0015">0.03151</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>WASP-3 b</name><eccentricity>0.0</eccentricity></planet><name>WASP-3</name><radius errorplus="0.12">1.31</radius><temperature errorplus="100.0">6400.0</temperature></star><distance>220.0</distance><name>WASP-3</name><declination>35 39 41</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12">1.31</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.32" errorminus="-0.78">84.93</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.8</period>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.000987">0.03151</semimajoraxis>
+      <name>WASP-3 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.12">1.31</radius>
+    <temperature errorplus="100.0">6400.0</temperature>
+    <mass errorplus="0.11">1.24</mass>
+    <name>WASP-3</name>
+  </star>
+  <distance>220.0</distance>
+  <rightascension>18 37 54</rightascension>
+  <declination>35 39 41</declination>
+  <name>WASP-3</name>
+</system>
+

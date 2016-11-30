@@ -1,1 +1,43 @@
-<system><rightascension>19 17 01</rightascension><star><mass errorminus="-0.08" errorplus="0.08">0.99</mass><planet><inclination errorminus="-0.02" errorplus="0.02">89.841</inclination><period errorminus="-0.0" errorplus="0.0">143.3</period><radius errorminus="-0.12" errorplus="0.12">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.5</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-30 d</name><eccentricity>0.022</eccentricity></planet><planet><inclination errorminus="-0.03" errorplus="0.03">90.323</inclination><period errorminus="-0.0" errorplus="0.0">60.3</period><radius errorminus="-0.12" errorplus="0.12">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.3</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-30 c</name><eccentricity>0.0111</eccentricity></planet><planet><inclination errorminus="-0.167" errorplus="0.167">90.179</inclination><period errorminus="-0.0" errorplus="0.0">29.3</period><radius errorminus="-0.12" errorplus="0.12">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.18</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-30 b</name><eccentricity>0.042</eccentricity></planet><name>Kepler-30</name><radius errorminus="-0.12" errorplus="0.12">0.95</radius><temperature errorminus="-54.0" errorplus="54.0">5498.0</temperature></star><distance>1400.0</distance><name>Kepler-30</name><declination>38 56 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.03" errorminus="-0.03">90.323</inclination>
+      <period errorplus="0.0" errorminus="-0.0">60.3</period>
+      <semimajoraxis>0.3</semimajoraxis>
+      <name>Kepler-30 c</name>
+      <eccentricity>0.0111</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.167" errorminus="-0.167">90.179</inclination>
+      <period errorplus="0.0" errorminus="-0.0">29.3</period>
+      <semimajoraxis>0.18</semimajoraxis>
+      <name>Kepler-30 b</name>
+      <eccentricity>0.042</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.02" errorminus="-0.02">89.841</inclination>
+      <period errorplus="0.0" errorminus="-0.0">143.3</period>
+      <semimajoraxis>0.5</semimajoraxis>
+      <name>Kepler-30 d</name>
+      <eccentricity>0.022</eccentricity>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">0.95</radius>
+    <temperature errorplus="54.0" errorminus="-54.0">5498.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">0.99</mass>
+    <name>Kepler-30</name>
+  </star>
+  <distance>1400.0</distance>
+  <rightascension>19 17 01</rightascension>
+  <declination>38 56 50</declination>
+  <name>Kepler-30</name>
+</system>
+

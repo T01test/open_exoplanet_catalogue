@@ -1,1 +1,31 @@
-<system><rightascension>19 08 13</rightascension><star><mass>0.75</mass><planet><inclination></inclination><period>5.9</period><radius>0.7</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.062</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-28 b</name></planet><planet><inclination></inclination><period>9.0</period><radius>0.7</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.081</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-28 c</name></planet><name>Kepler-28</name><radius>0.7</radius><temperature>4590.0</temperature></star><distance></distance><name>Kepler-28</name><declination>42 25 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>0.7</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>9.0</period>
+      <semimajoraxis>0.081</semimajoraxis>
+      <name>Kepler-28 c</name>
+    </planet>
+    <planet>
+      <radius>0.7</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>5.9</period>
+      <semimajoraxis>0.062</semimajoraxis>
+      <name>Kepler-28 b</name>
+    </planet>
+    <radius>0.7</radius>
+    <temperature>4590.0</temperature>
+    <mass>0.75</mass>
+    <name>Kepler-28</name>
+  </star>
+  <distance/>
+  <rightascension>19 08 13</rightascension>
+  <declination>42 25 45</declination>
+  <name>Kepler-28</name>
+</system>
+

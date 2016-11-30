@@ -1,1 +1,23 @@
-<system><rightascension>20 47 17</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.24</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.0</period><radius errorminus="-0.12" errorplus="0.12">1.35</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0005" errorplus="0.0006">0.0335</semimajoraxis><lastupdate>2014-10-03</lastupdate><name>WASP-94 B b</name><eccentricity>0.0</eccentricity></planet><name>WASP-94 B</name><radius errorminus="-0.12" errorplus="0.12">1.35</radius><temperature errorminus="-90.0" errorplus="90.0">6040.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">180.0</distance><name>WASP-94 B</name><declination>-34 08 07</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">1.35</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-10-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.0</period>
+      <semimajoraxis errorplus="0.0006" errorminus="-0.0005">0.0335</semimajoraxis>
+      <name>WASP-94 B b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">1.35</radius>
+    <temperature errorplus="90.0" errorminus="-90.0">6040.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.24</mass>
+    <name>WASP-94 B</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">180.0</distance>
+  <rightascension>20 47 17</rightascension>
+  <declination>-34 08 07</declination>
+  <name>WASP-94 B</name>
+</system>
+

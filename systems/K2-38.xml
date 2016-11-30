@@ -1,1 +1,31 @@
-<system><rightascension>16 02 00</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.07</mass><planet><inclination errorminus="-1.67" errorplus="1.0">88.61</inclination><period errorminus="-0.0" errorplus="0.0">10.6</period><radius errorminus="-0.09" errorplus="0.09">1.1</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0016" errorplus="0.0016">0.0964</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-38 c</name></planet><planet><inclination errorminus="-3.08" errorplus="1.88">87.28</inclination><period errorminus="-0.0" errorplus="0.0">4.0</period><radius errorminus="-0.09" errorplus="0.09">1.1</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0008" errorplus="0.0008">0.0506</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>K2-38 b</name></planet><name>K2-38</name><radius errorminus="-0.09" errorplus="0.09">1.1</radius><temperature errorminus="-60.0" errorplus="60.0">5757.0</temperature></star><distance></distance><name>K2-38</name><declination>-23 11 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.88" errorminus="-3.08">87.28</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0506</semimajoraxis>
+      <name>K2-38 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.0" errorminus="-1.67">88.61</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.0964</semimajoraxis>
+      <name>K2-38 c</name>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">5757.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.07</mass>
+    <name>K2-38</name>
+  </star>
+  <distance/>
+  <rightascension>16 02 00</rightascension>
+  <declination>-23 11 21</declination>
+  <name>K2-38</name>
+</system>
+

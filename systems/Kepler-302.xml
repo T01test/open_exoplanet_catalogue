@@ -1,1 +1,31 @@
-<system><rightascension>19 19 01</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">127.3</period><radius errorminus="-0.25" errorplus="0.25">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.503</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-302 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">30.2</period><radius errorminus="-0.25" errorplus="0.25">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.193</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-302 b</name></planet><name>Kepler-302</name><radius errorminus="-0.25" errorplus="0.25">1.22</radius><temperature errorminus="-107.0" errorplus="107.0">5740.0</temperature></star><distance></distance><name>Kepler-302</name><declination>43 37 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.2</period>
+      <semimajoraxis>0.193</semimajoraxis>
+      <name>Kepler-302 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">127.3</period>
+      <semimajoraxis>0.503</semimajoraxis>
+      <name>Kepler-302 c</name>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.25">1.22</radius>
+    <temperature errorplus="107.0" errorminus="-107.0">5740.0</temperature>
+    <mass/>
+    <name>Kepler-302</name>
+  </star>
+  <distance/>
+  <rightascension>19 19 01</rightascension>
+  <declination>43 37 45</declination>
+  <name>Kepler-302</name>
+</system>
+

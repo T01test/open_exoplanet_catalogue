@@ -1,1 +1,31 @@
-<system><rightascension>19 42 03</rightascension><star><mass>1.08</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">62.8</period><radius errorminus="-0.24" errorplus="0.24">1.31</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.326</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-379 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.1</period><radius errorminus="-0.24" errorplus="0.24">1.31</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.152</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-379 b</name></planet><name>Kepler-379</name><radius errorminus="-0.24" errorplus="0.24">1.31</radius><temperature errorminus="-100.0" errorplus="100.0">6054.0</temperature></star><distance></distance><name>Kepler-379</name><declination>38 56 44</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.1</period>
+      <semimajoraxis>0.152</semimajoraxis>
+      <name>Kepler-379 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">62.8</period>
+      <semimajoraxis>0.326</semimajoraxis>
+      <name>Kepler-379 c</name>
+    </planet>
+    <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">6054.0</temperature>
+    <mass>1.08</mass>
+    <name>Kepler-379</name>
+  </star>
+  <distance/>
+  <rightascension>19 42 03</rightascension>
+  <declination>38 56 44</declination>
+  <name>Kepler-379</name>
+</system>
+

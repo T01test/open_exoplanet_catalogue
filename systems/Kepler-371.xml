@@ -1,1 +1,31 @@
-<system><rightascension>19 19 35</rightascension><star><mass>0.94</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">68.0</period><radius errorminus="-0.25" errorplus="0.25">0.99</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.313</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-371 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">34.8</period><radius errorminus="-0.25" errorplus="0.25">0.99</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.2</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-371 b</name></planet><name>Kepler-371</name><radius errorminus="-0.25" errorplus="0.25">0.99</radius><temperature errorminus="-146.0" errorplus="146.0">5666.0</temperature></star><distance></distance><name>Kepler-371</name><declination>38 39 27</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">0.99</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">34.8</period>
+      <semimajoraxis>0.2</semimajoraxis>
+      <name>Kepler-371 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">0.99</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">68.0</period>
+      <semimajoraxis>0.313</semimajoraxis>
+      <name>Kepler-371 c</name>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.25">0.99</radius>
+    <temperature errorplus="146.0" errorminus="-146.0">5666.0</temperature>
+    <mass>0.94</mass>
+    <name>Kepler-371</name>
+  </star>
+  <distance/>
+  <rightascension>19 19 35</rightascension>
+  <declination>38 39 27</declination>
+  <name>Kepler-371</name>
+</system>
+

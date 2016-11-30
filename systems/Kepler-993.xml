@@ -1,1 +1,22 @@
-<system><rightascension>19 36 50</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.57</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.1</period><radius errorminus="-0.02" errorplus="0.02">0.54</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-993 b</name></planet><name>Kepler-993</name><radius errorminus="-0.02" errorplus="0.02">0.54</radius><temperature errorminus="-46.25" errorplus="50.16">3843.0</temperature></star><distance errorminus="-14.13" errorplus="14.99">298.0</distance><name>Kepler-993</name><declination>44 23 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.54</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.1</period>
+      <semimajoraxis/>
+      <name>Kepler-993 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.54</radius>
+    <temperature errorplus="50.16" errorminus="-46.25">3843.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.57</mass>
+    <name>Kepler-993</name>
+  </star>
+  <distance errorplus="14.99" errorminus="-14.13">298.0</distance>
+  <rightascension>19 36 50</rightascension>
+  <declination>44 23 40</declination>
+  <name>Kepler-993</name>
+</system>
+

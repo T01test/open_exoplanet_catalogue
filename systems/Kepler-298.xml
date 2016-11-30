@@ -1,1 +1,40 @@
-<system><rightascension>18 02 23</rightascension><star><mass>0.65</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">77.5</period><radius errorminus="-0.03" errorplus="0.03">0.58</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.305</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-298 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.9</period><radius errorminus="-0.03" errorplus="0.03">0.58</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.136</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-298 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.5</period><radius errorminus="-0.03" errorplus="0.03">0.58</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.08</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-298 b</name></planet><name>Kepler-298</name><radius errorminus="-0.03" errorplus="0.03">0.58</radius><temperature errorminus="-100.0" errorplus="100.0">4465.0</temperature></star><distance></distance><name>Kepler-298</name><declination>48 49 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.5</period>
+      <semimajoraxis>0.08</semimajoraxis>
+      <name>Kepler-298 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">77.5</period>
+      <semimajoraxis>0.305</semimajoraxis>
+      <name>Kepler-298 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.9</period>
+      <semimajoraxis>0.136</semimajoraxis>
+      <name>Kepler-298 c</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4465.0</temperature>
+    <mass>0.65</mass>
+    <name>Kepler-298</name>
+  </star>
+  <distance/>
+  <rightascension>18 02 23</rightascension>
+  <declination>48 49 31</declination>
+  <name>Kepler-298</name>
+</system>
+

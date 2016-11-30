@@ -1,1 +1,33 @@
-<system><rightascension>16 26 17</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.38</mass><planet><inclination></inclination><period errorminus="-0.8" errorplus="0.8">491.5</period><radius errorminus="-0.1" errorplus="0.1">2.29</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.05" errorplus="0.05">1.36</semimajoraxis><lastupdate>2016-11-10</lastupdate><name>HD 147873 c</name><eccentricity>0.23</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">116.6</period><radius errorminus="-0.1" errorplus="0.1">2.29</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.018" errorplus="0.018">0.522</semimajoraxis><lastupdate>2016-11-10</lastupdate><name>HD 147873 b</name><eccentricity>0.207</eccentricity></planet><name>HD 147873</name><radius errorminus="-0.1" errorplus="0.1">2.29</radius><temperature errorminus="-100.0" errorplus="100.0">5972.0</temperature></star><distance errorminus="-10.9" errorplus="10.9">104.93</distance><name>HD 147873</name><declination>-33 34 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-11-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.8" errorminus="-0.8">491.5</period>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.36</semimajoraxis>
+      <name>HD 147873 c</name>
+      <eccentricity>0.23</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-11-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">116.6</period>
+      <semimajoraxis errorplus="0.018" errorminus="-0.018">0.522</semimajoraxis>
+      <name>HD 147873 b</name>
+      <eccentricity>0.207</eccentricity>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5972.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.38</mass>
+    <name>HD 147873</name>
+  </star>
+  <distance errorplus="10.9" errorminus="-10.9">104.93</distance>
+  <rightascension>16 26 17</rightascension>
+  <declination>-33 34 01</declination>
+  <name>HD 147873</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 07 57</rightascension><star><mass errorminus="-0.05" errorplus="0.06">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.0</period><radius errorminus="-0.05" errorplus="0.08">0.81</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-931 b</name></planet><name>Kepler-931</name><radius errorminus="-0.05" errorplus="0.08">0.81</radius><temperature errorminus="-198.95" errorplus="223.61">5241.0</temperature></star><distance errorminus="-35.21" errorplus="53.41">490.0</distance><name>Kepler-931</name><declination>42 46 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.05">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <semimajoraxis/>
+      <name>Kepler-931 b</name>
+    </planet>
+    <radius errorplus="0.08" errorminus="-0.05">0.81</radius>
+    <temperature errorplus="223.61" errorminus="-198.95">5241.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.05">0.86</mass>
+    <name>Kepler-931</name>
+  </star>
+  <distance errorplus="53.41" errorminus="-35.21">490.0</distance>
+  <rightascension>19 07 57</rightascension>
+  <declination>42 46 05</declination>
+  <name>Kepler-931</name>
+</system>
+

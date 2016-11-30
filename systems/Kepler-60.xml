@@ -1,1 +1,40 @@
-<system><rightascension>19 57 40</rightascension><star><mass errorminus="-0.08" errorplus="0.08">1.04</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.9</period><radius errorminus="-0.09" errorplus="0.09">1.26</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-04-07</lastupdate><name>Kepler-60 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.1</period><radius errorminus="-0.09" errorplus="0.09">1.26</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-04-07</lastupdate><name>Kepler-60 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.9</period><radius errorminus="-0.09" errorplus="0.09">1.26</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-04-07</lastupdate><name>Kepler-60 d</name></planet><name>Kepler-60</name><radius errorminus="-0.09" errorplus="0.09">1.26</radius><temperature errorminus="-144.0" errorplus="144.0">5905.0</temperature></star><distance></distance><name>Kepler-60</name><declination>42 15 54</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-04-07</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <semimajoraxis/>
+      <name>Kepler-60 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-04-07</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <semimajoraxis/>
+      <name>Kepler-60 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-04-07</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <semimajoraxis/>
+      <name>Kepler-60 d</name>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+    <temperature errorplus="144.0" errorminus="-144.0">5905.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">1.04</mass>
+    <name>Kepler-60</name>
+  </star>
+  <distance/>
+  <rightascension>19 57 40</rightascension>
+  <declination>42 15 54</declination>
+  <name>Kepler-60</name>
+</system>
+

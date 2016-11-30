@@ -1,1 +1,40 @@
-<system><rightascension>19 38 32</rightascension><star><mass>0.55</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.5</period><radius errorminus="-0.02" errorplus="0.02">0.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.029</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-327 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.2</period><radius errorminus="-0.02" errorplus="0.02">0.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.047</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-327 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">14.0</period><radius errorminus="-0.02" errorplus="0.02">0.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.09</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-327 d</name></planet><name>Kepler-327</name><radius errorminus="-0.02" errorplus="0.02">0.49</radius><temperature errorminus="-100.0" errorplus="100.0">3799.0</temperature></star><distance></distance><name>Kepler-327</name><declination>44 05 15</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <semimajoraxis>0.029</semimajoraxis>
+      <name>Kepler-327 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <semimajoraxis>0.047</semimajoraxis>
+      <name>Kepler-327 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.0</period>
+      <semimajoraxis>0.09</semimajoraxis>
+      <name>Kepler-327 d</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">3799.0</temperature>
+    <mass>0.55</mass>
+    <name>Kepler-327</name>
+  </star>
+  <distance/>
+  <rightascension>19 38 32</rightascension>
+  <declination>44 05 15</declination>
+  <name>Kepler-327</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 39 41</rightascension><star><mass errorminus="-0.05" errorplus="0.07">1.21</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.1</period><radius errorminus="-0.14" errorplus="0.21">1.35</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-885 b</name></planet><name>Kepler-885</name><radius errorminus="-0.14" errorplus="0.21">1.35</radius><temperature errorminus="-58.44" errorplus="71.23">6187.0</temperature></star><distance errorminus="-67.37" errorplus="100.88">632.0</distance><name>Kepler-885</name><declination>49 44 13</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.21" errorminus="-0.14">1.35</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.1</period>
+      <semimajoraxis/>
+      <name>Kepler-885 b</name>
+    </planet>
+    <radius errorplus="0.21" errorminus="-0.14">1.35</radius>
+    <temperature errorplus="71.23" errorminus="-58.44">6187.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.05">1.21</mass>
+    <name>Kepler-885</name>
+  </star>
+  <distance errorplus="100.88" errorminus="-67.37">632.0</distance>
+  <rightascension>19 39 41</rightascension>
+  <declination>49 44 13</declination>
+  <name>Kepler-885</name>
+</system>
+

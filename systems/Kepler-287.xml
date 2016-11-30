@@ -1,1 +1,31 @@
-<system><rightascension>19 55 38</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">44.9</period><radius errorminus="-0.47" errorplus="0.47">1.03</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.246</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-287 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.3</period><radius errorminus="-0.47" errorplus="0.47">1.03</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.145</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-287 b</name></planet><name>Kepler-287</name><radius errorminus="-0.47" errorplus="0.47">1.03</radius><temperature errorminus="-200.0" errorplus="200.0">5806.0</temperature></star><distance></distance><name>Kepler-287</name><declination>48 26 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">44.9</period>
+      <semimajoraxis>0.246</semimajoraxis>
+      <name>Kepler-287 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.3</period>
+      <semimajoraxis>0.145</semimajoraxis>
+      <name>Kepler-287 b</name>
+    </planet>
+    <radius errorplus="0.47" errorminus="-0.47">1.03</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5806.0</temperature>
+    <mass/>
+    <name>Kepler-287</name>
+  </star>
+  <distance/>
+  <rightascension>19 55 38</rightascension>
+  <declination>48 26 36</declination>
+  <name>Kepler-287</name>
+</system>
+

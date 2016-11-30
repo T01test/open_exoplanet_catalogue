@@ -1,1 +1,23 @@
-<system><rightascension>11 26 53</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.3</mass><planet><inclination></inclination><period errorminus="-4.5" errorplus="4.5">436.9</period><radius errorminus="-0.1" errorplus="0.1">4.5</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.03" errorplus="0.03">1.23</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 98219 b</name><eccentricity>0.112</eccentricity></planet><name>HD 98219</name><radius errorminus="-0.1" errorplus="0.1">4.5</radius><temperature errorminus="-44.0" errorplus="44.0">4992.0</temperature></star><distance errorminus="-24.75" errorplus="18.62">150.38</distance><name>HD 98219</name><declination>-23 58 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="4.5" errorminus="-4.5">436.9</period>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.23</semimajoraxis>
+      <name>HD 98219 b</name>
+      <eccentricity>0.112</eccentricity>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">4992.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.3</mass>
+    <name>HD 98219</name>
+  </star>
+  <distance errorplus="18.62" errorminus="-24.75">150.38</distance>
+  <rightascension>11 26 53</rightascension>
+  <declination>-23 58 31</declination>
+  <name>HD 98219</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 39 39</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.87</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.9</period><radius errorminus="-0.02" errorplus="0.02">0.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-532 b</name></planet><name>Kepler-532</name><radius errorminus="-0.02" errorplus="0.02">0.79</radius><temperature errorminus="-82.15" errorplus="82.8">5192.0</temperature></star><distance errorminus="-9.95" errorplus="9.28">325.0</distance><name>Kepler-532</name><declination>48 36 22</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.9</period>
+      <semimajoraxis/>
+      <name>Kepler-532 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
+    <temperature errorplus="82.8" errorminus="-82.15">5192.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.87</mass>
+    <name>Kepler-532</name>
+  </star>
+  <distance errorplus="9.28" errorminus="-9.95">325.0</distance>
+  <rightascension>19 39 39</rightascension>
+  <declination>48 36 22</declination>
+  <name>Kepler-532</name>
+</system>
+

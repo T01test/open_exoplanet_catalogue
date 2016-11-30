@@ -1,1 +1,33 @@
-<system><rightascension>19 44 31</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.0</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.0426</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>HD 187123 b</name><eccentricity>0.0103</eccentricity></planet><planet><inclination></inclination><period errorminus="-420.0" errorplus="420.0">3810.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.53" errorplus="0.53">4.89</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>HD 187123 c</name><eccentricity>0.252</eccentricity></planet><name>HD 187123</name><radius></radius><temperature errorminus="-40.0" errorplus="40.0">5830.0</temperature></star><distance errorminus="-1.69" errorplus="1.58">47.92</distance><name>HD 187123</name><declination>34 25 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.0426</semimajoraxis>
+      <name>HD 187123 b</name>
+      <eccentricity>0.0103</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination/>
+      <period errorplus="420.0" errorminus="-420.0">3810.0</period>
+      <semimajoraxis errorplus="0.53" errorminus="-0.53">4.89</semimajoraxis>
+      <name>HD 187123 c</name>
+      <eccentricity>0.252</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="40.0" errorminus="-40.0">5830.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
+    <name>HD 187123</name>
+  </star>
+  <distance errorplus="1.58" errorminus="-1.69">47.92</distance>
+  <rightascension>19 44 31</rightascension>
+  <declination>34 25 10</declination>
+  <name>HD 187123</name>
+</system>
+

@@ -1,1 +1,40 @@
-<system><rightascension>19 44 20</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.6</period><radius errorminus="-0.25" errorplus="0.25">1.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.057</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-219 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">47.9</period><radius errorminus="-0.25" errorplus="0.25">1.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.272</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-219 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.7</period><radius errorminus="-0.25" errorplus="0.25">1.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.165</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-219 c</name></planet><name>Kepler-219</name><radius errorminus="-0.25" errorplus="0.25">1.49</radius><temperature errorminus="-100.0" errorplus="100.0">5786.0</temperature></star><distance></distance><name>Kepler-219</name><declination>46 45 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.7</period>
+      <semimajoraxis>0.165</semimajoraxis>
+      <name>Kepler-219 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <semimajoraxis>0.057</semimajoraxis>
+      <name>Kepler-219 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">47.9</period>
+      <semimajoraxis>0.272</semimajoraxis>
+      <name>Kepler-219 d</name>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.25">1.49</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5786.0</temperature>
+    <mass/>
+    <name>Kepler-219</name>
+  </star>
+  <distance/>
+  <rightascension>19 44 20</rightascension>
+  <declination>46 45 45</declination>
+  <name>Kepler-219</name>
+</system>
+

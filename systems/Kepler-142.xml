@@ -1,1 +1,40 @@
-<system><rightascension>19 07 08</rightascension><star><mass>0.99</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.8</period><radius errorminus="-0.24" errorplus="0.24">1.27</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.057</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-142 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.0</period><radius errorminus="-0.24" errorplus="0.24">1.27</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.032</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-142 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">41.8</period><radius errorminus="-0.24" errorplus="0.24">1.27</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.242</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-142 d</name></planet><name>Kepler-142</name><radius errorminus="-0.24" errorplus="0.24">1.27</radius><temperature errorminus="-100.0" errorplus="100.0">5790.0</temperature></star><distance></distance><name>Kepler-142</name><declination>48 28 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.27</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.8</period>
+      <semimajoraxis>0.057</semimajoraxis>
+      <name>Kepler-142 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.27</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.0</period>
+      <semimajoraxis>0.032</semimajoraxis>
+      <name>Kepler-142 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.27</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.8</period>
+      <semimajoraxis>0.242</semimajoraxis>
+      <name>Kepler-142 d</name>
+    </planet>
+    <radius errorplus="0.24" errorminus="-0.24">1.27</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5790.0</temperature>
+    <mass>0.99</mass>
+    <name>Kepler-142</name>
+  </star>
+  <distance/>
+  <rightascension>19 07 08</rightascension>
+  <declination>48 28 52</declination>
+  <name>Kepler-142</name>
+</system>
+

@@ -1,1 +1,22 @@
-<system><rightascension>19 06 37</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.17</mass><planet><inclination errorminus="-0.079" errorplus="0.084">80.559</inclination><period errorminus="-0.0" errorplus="0.0">1.7</period><radius errorminus="-0.04" errorplus="0.04">1.29</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00092" errorplus="0.00093">0.02897</semimajoraxis><lastupdate>2015-10-15</lastupdate><name>Kepler-412 b</name></planet><name>Kepler-412</name><radius errorminus="-0.04" errorplus="0.04">1.29</radius><temperature errorminus="-90.0" errorplus="90.0">5750.0</temperature></star><distance errorminus="-36.0" errorplus="36.0">1056.0</distance><name>Kepler-412</name><declination>43 40 51</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-10-15</lastupdate>
+      <inclination errorplus="0.084" errorminus="-0.079">80.559</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <semimajoraxis errorplus="0.00093" errorminus="-0.00092">0.02897</semimajoraxis>
+      <name>Kepler-412 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">1.29</radius>
+    <temperature errorplus="90.0" errorminus="-90.0">5750.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.17</mass>
+    <name>Kepler-412</name>
+  </star>
+  <distance errorplus="36.0" errorminus="-36.0">1056.0</distance>
+  <rightascension>19 06 37</rightascension>
+  <declination>43 40 51</declination>
+  <name>Kepler-412</name>
+</system>
+

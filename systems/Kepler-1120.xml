@@ -1,1 +1,22 @@
-<system><rightascension>19 54 52</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.78</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.9</period><radius errorminus="-0.04" errorplus="0.03">0.74</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1120 b</name></planet><name>Kepler-1120</name><radius errorminus="-0.04" errorplus="0.03">0.74</radius><temperature errorminus="-67.83" errorplus="70.02">4904.0</temperature></star><distance errorminus="-33.82" errorplus="27.58">635.0</distance><name>Kepler-1120</name><declination>42 17 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1120 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+    <temperature errorplus="70.02" errorminus="-67.83">4904.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.78</mass>
+    <name>Kepler-1120</name>
+  </star>
+  <distance errorplus="27.58" errorminus="-33.82">635.0</distance>
+  <rightascension>19 54 52</rightascension>
+  <declination>42 17 11</declination>
+  <name>Kepler-1120</name>
+</system>
+

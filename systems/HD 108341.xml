@@ -1,1 +1,23 @@
-<system><rightascension>12 52 50</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.84</mass><planet><inclination></inclination><period errorminus="-8.0" errorplus="6.0">1129.0</period><radius errorminus="-0.03" errorplus="0.03">0.79</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.04">2.0</semimajoraxis><lastupdate>2015-01-08</lastupdate><name>HD 108341 b</name><eccentricity>0.85</eccentricity></planet><name>HD 108341</name><radius errorminus="-0.03" errorplus="0.03">0.79</radius><temperature errorminus="-79.0" errorplus="79.0">5122.0</temperature></star><distance>49.4</distance><name>HD 108341</name><declination>-71 25 22</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.79</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-01-08</lastupdate>
+      <inclination/>
+      <period errorplus="6.0" errorminus="-8.0">1129.0</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">2.0</semimajoraxis>
+      <name>HD 108341 b</name>
+      <eccentricity>0.85</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.79</radius>
+    <temperature errorplus="79.0" errorminus="-79.0">5122.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.84</mass>
+    <name>HD 108341</name>
+  </star>
+  <distance>49.4</distance>
+  <rightascension>12 52 50</rightascension>
+  <declination>-71 25 22</declination>
+  <name>HD 108341</name>
+</system>
+

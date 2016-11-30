@@ -1,1 +1,22 @@
-<system><rightascension>19 47 26</rightascension><star><mass errorminus="-0.07" errorplus="0.06">1.04</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.8</period><radius errorminus="-0.1" errorplus="0.25">1.04</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-592 b</name></planet><name>Kepler-592</name><radius errorminus="-0.1" errorplus="0.25">1.04</radius><temperature errorminus="-74.23" errorplus="83.3">5913.0</temperature></star><distance errorminus="-102.8" errorplus="251.64">1034.0</distance><name>Kepler-592</name><declination>48 40 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.1">1.04</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <semimajoraxis/>
+      <name>Kepler-592 b</name>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.1">1.04</radius>
+    <temperature errorplus="83.3" errorminus="-74.23">5913.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.07">1.04</mass>
+    <name>Kepler-592</name>
+  </star>
+  <distance errorplus="251.64" errorminus="-102.8">1034.0</distance>
+  <rightascension>19 47 26</rightascension>
+  <declination>48 40 59</declination>
+  <name>Kepler-592</name>
+</system>
+

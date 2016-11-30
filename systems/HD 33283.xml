@@ -1,1 +1,23 @@
-<system><rightascension>05 00 15</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.24</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.2</period><radius errorminus="-0.1" errorplus="0.1">1.2</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.145</semimajoraxis><lastupdate>2014-11-19</lastupdate><name>HD 33283 b</name><eccentricity>0.48</eccentricity></planet><name>HD 33283</name><radius errorminus="-0.1" errorplus="0.1">1.2</radius><temperature errorminus="-50.0" errorplus="50.0">5995.0</temperature></star><distance errorminus="-7.37" errorplus="6.3">86.88</distance><name>HD 33283</name><declination>-26 47 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.2</period>
+      <semimajoraxis>0.145</semimajoraxis>
+      <name>HD 33283 b</name>
+      <eccentricity>0.48</eccentricity>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">5995.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.24</mass>
+    <name>HD 33283</name>
+  </star>
+  <distance errorplus="6.3" errorminus="-7.37">86.88</distance>
+  <rightascension>05 00 15</rightascension>
+  <declination>-26 47 50</declination>
+  <name>HD 33283</name>
+</system>
+

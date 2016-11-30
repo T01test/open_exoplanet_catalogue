@@ -1,1 +1,22 @@
-<system><rightascension>19 35 10</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.93</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.1</period><radius errorminus="-0.05" errorplus="0.11">0.9</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1564 b</name></planet><name>Kepler-1564</name><radius errorminus="-0.05" errorplus="0.11">0.9</radius><temperature errorminus="-90.36" errorplus="77.11">5528.0</temperature></star><distance errorminus="-56.91" errorplus="109.15">872.0</distance><name>Kepler-1564</name><declination>46 38 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.11" errorminus="-0.05">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.1</period>
+      <semimajoraxis/>
+      <name>Kepler-1564 b</name>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.05">0.9</radius>
+    <temperature errorplus="77.11" errorminus="-90.36">5528.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.93</mass>
+    <name>Kepler-1564</name>
+  </star>
+  <distance errorplus="109.15" errorminus="-56.91">872.0</distance>
+  <rightascension>19 35 10</rightascension>
+  <declination>46 38 33</declination>
+  <name>Kepler-1564</name>
+</system>
+

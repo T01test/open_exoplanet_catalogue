@@ -1,1 +1,31 @@
-<system><rightascension>18 54 56</rightascension><star><mass>1.03</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.1</period><radius errorminus="-0.24" errorplus="0.24">1.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.094</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-144 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.9</period><radius errorminus="-0.24" errorplus="0.24">1.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.066</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-144 b</name></planet><name>Kepler-144</name><radius errorminus="-0.24" errorplus="0.24">1.24</radius><temperature errorminus="-131.0" errorplus="131.0">6075.0</temperature></star><distance></distance><name>Kepler-144</name><declination>42 46 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.1</period>
+      <semimajoraxis>0.094</semimajoraxis>
+      <name>Kepler-144 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.24" errorminus="-0.24">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <semimajoraxis>0.066</semimajoraxis>
+      <name>Kepler-144 b</name>
+    </planet>
+    <radius errorplus="0.24" errorminus="-0.24">1.24</radius>
+    <temperature errorplus="131.0" errorminus="-131.0">6075.0</temperature>
+    <mass>1.03</mass>
+    <name>Kepler-144</name>
+  </star>
+  <distance/>
+  <rightascension>18 54 56</rightascension>
+  <declination>42 46 31</declination>
+  <name>Kepler-144</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>05 55 08</rightascension><star><mass errorminus="-0.01" errorplus="0.01">0.28</mass><planet><inclination></inclination><period errorminus="-0.2" errorplus="0.2">121.5</period><radius errorminus="-0.03" errorplus="0.03">0.29</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.014" errorplus="0.038">0.311</semimajoraxis><lastupdate>2014-06-04</lastupdate><name>Kapteyn c</name><eccentricity>0.23</eccentricity></planet><name>Kapteyn</name><radius errorminus="-0.03" errorplus="0.03">0.29</radius><temperature errorminus="-50.0" errorplus="50.0">3550.0</temperature></star><distance errorminus="-0.01" errorplus="0.01">3.92</distance><name>Kapteyn</name><declination>-45 01 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-06-04</lastupdate>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">121.5</period>
+      <semimajoraxis errorplus="0.038" errorminus="-0.014">0.311</semimajoraxis>
+      <name>Kapteyn c</name>
+      <eccentricity>0.23</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.29</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">3550.0</temperature>
+    <mass errorplus="0.01" errorminus="-0.01">0.28</mass>
+    <name>Kapteyn</name>
+  </star>
+  <distance errorplus="0.01" errorminus="-0.01">3.92</distance>
+  <rightascension>05 55 08</rightascension>
+  <declination>-45 01 06</declination>
+  <name>Kapteyn</name>
+</system>
+

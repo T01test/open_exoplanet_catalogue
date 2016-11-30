@@ -1,1 +1,22 @@
-<system><rightascension>19 04 03</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.87</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.1</period><radius errorminus="-0.02" errorplus="0.02">0.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-477 b</name></planet><name>Kepler-477</name><radius errorminus="-0.02" errorplus="0.02">0.79</radius><temperature errorminus="-41.14" errorplus="49.3">5240.0</temperature></star><distance errorminus="-11.23" errorplus="10.15">367.0</distance><name>Kepler-477</name><declination>42 21 19</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.1</period>
+      <semimajoraxis/>
+      <name>Kepler-477 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
+    <temperature errorplus="49.3" errorminus="-41.14">5240.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.87</mass>
+    <name>Kepler-477</name>
+  </star>
+  <distance errorplus="10.15" errorminus="-11.23">367.0</distance>
+  <rightascension>19 04 03</rightascension>
+  <declination>42 21 19</declination>
+  <name>Kepler-477</name>
+</system>
+

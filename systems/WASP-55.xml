@@ -1,1 +1,22 @@
-<system><rightascension>13 45 29</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.16</mass><planet><inclination errorminus="-0.59" errorplus="0.59">89.05</inclination><period errorminus="-0.0" errorplus="0.0">4.5</period><radius errorminus="-0.02" errorplus="0.02">1.1</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0006" errorplus="0.0006">0.0558</semimajoraxis><lastupdate>2016-02-25</lastupdate><name>WASP-55 b</name></planet><name>WASP-55</name><radius errorminus="-0.02" errorplus="0.02">1.1</radius><temperature errorminus="-53.0" errorplus="53.0">6070.0</temperature></star><distance errorminus="-50.0" errorplus="50.0">330.0</distance><name>WASP-55</name><declination>-17 30 12</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.1</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-02-25</lastupdate>
+      <inclination errorplus="0.59" errorminus="-0.59">89.05</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <semimajoraxis errorplus="0.0006" errorminus="-0.0006">0.0558</semimajoraxis>
+      <name>WASP-55 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">1.1</radius>
+    <temperature errorplus="53.0" errorminus="-53.0">6070.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.16</mass>
+    <name>WASP-55</name>
+  </star>
+  <distance errorplus="50.0" errorminus="-50.0">330.0</distance>
+  <rightascension>13 45 29</rightascension>
+  <declination>-17 30 12</declination>
+  <name>WASP-55</name>
+</system>
+

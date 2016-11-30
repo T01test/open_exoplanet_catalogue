@@ -1,1 +1,22 @@
-<system><rightascension>19 47 29</rightascension><star><mass errorminus="-0.05" errorplus="0.07">0.99</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">160.9</period><radius errorminus="-0.08" errorplus="0.16">0.97</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1513 b</name></planet><name>Kepler-1513</name><radius errorminus="-0.08" errorplus="0.16">0.97</radius><temperature errorminus="-124.96" errorplus="176.78">5617.0</temperature></star><distance errorminus="-34.78" errorplus="63.99">384.0</distance><name>Kepler-1513</name><declination>39 17 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.16" errorminus="-0.08">0.97</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">160.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1513 b</name>
+    </planet>
+    <radius errorplus="0.16" errorminus="-0.08">0.97</radius>
+    <temperature errorplus="176.78" errorminus="-124.96">5617.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.05">0.99</mass>
+    <name>Kepler-1513</name>
+  </star>
+  <distance errorplus="63.99" errorminus="-34.78">384.0</distance>
+  <rightascension>19 47 29</rightascension>
+  <declination>39 17 06</declination>
+  <name>Kepler-1513</name>
+</system>
+

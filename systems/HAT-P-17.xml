@@ -1,1 +1,33 @@
-<system><rightascension>21 32 11</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.86</mass><planet><inclination errorminus="-0.1" errorplus="0.2">89.2</inclination><period errorminus="-0.0" errorplus="0.0">10.3</period><radius errorminus="-0.02" errorplus="0.02">0.84</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0014" errorplus="0.0014">0.0882</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-17 b</name><eccentricity>0.342</eccentricity></planet><planet><inclination></inclination><period errorminus="-2100.0" errorplus="7700.0">5584.0</period><radius errorminus="-0.02" errorplus="0.02">0.84</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-1.4" errorplus="3.5">5.6</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-17 c</name><eccentricity>0.39</eccentricity></planet><name>HAT-P-17</name><radius errorminus="-0.02" errorplus="0.02">0.84</radius><temperature errorminus="-80.0" errorplus="80.0">5246.0</temperature></star><distance errorminus="-3.0" errorplus="3.0">90.0</distance><name>HAT-P-17</name><declination>30 29 19</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="7700.0" errorminus="-2100.0">5584.0</period>
+      <semimajoraxis errorplus="3.5" errorminus="-1.4">5.6</semimajoraxis>
+      <name>HAT-P-17 c</name>
+      <eccentricity>0.39</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.2" errorminus="-0.1">89.2</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0882</semimajoraxis>
+      <name>HAT-P-17 b</name>
+      <eccentricity>0.342</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+    <temperature errorplus="80.0" errorminus="-80.0">5246.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
+    <name>HAT-P-17</name>
+  </star>
+  <distance errorplus="3.0" errorminus="-3.0">90.0</distance>
+  <rightascension>21 32 11</rightascension>
+  <declination>30 29 19</declination>
+  <name>HAT-P-17</name>
+</system>
+

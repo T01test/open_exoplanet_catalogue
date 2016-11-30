@@ -1,1 +1,42 @@
-<system><rightascension>19 34 26</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.07</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.6</period><radius errorminus="-0.05" errorplus="0.05">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00043" errorplus="0.00042">0.0273</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-9 d</name></planet><planet><inclination></inclination><period>38.9</period><radius errorminus="-0.05" errorplus="0.05">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.225</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-9 c</name><eccentricity>0.13</eccentricity></planet><planet><inclination></inclination><period>19.2</period><radius errorminus="-0.05" errorplus="0.05">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.14</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-9 b</name><eccentricity>0.15</eccentricity></planet><name>Kepler-9</name><radius errorminus="-0.05" errorplus="0.05">1.02</radius><temperature errorminus="-61.0" errorplus="61.0">5777.0</temperature></star><distance>650.0</distance><name>Kepler-9</name><declination>38 24 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <semimajoraxis errorplus="0.00042" errorminus="-0.00043">0.0273</semimajoraxis>
+      <name>Kepler-9 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>19.2</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.14</semimajoraxis>
+      <name>Kepler-9 b</name>
+      <eccentricity>0.15</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>38.9</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.225</semimajoraxis>
+      <name>Kepler-9 c</name>
+      <eccentricity>0.13</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+    <temperature errorplus="61.0" errorminus="-61.0">5777.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.07</mass>
+    <name>Kepler-9</name>
+  </star>
+  <distance>650.0</distance>
+  <rightascension>19 34 26</rightascension>
+  <declination>38 24 03</declination>
+  <name>Kepler-9</name>
+</system>
+

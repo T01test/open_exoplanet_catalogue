@@ -1,1 +1,23 @@
-<system><rightascension>12 01 47</rightascension><star><mass errorminus="-0.11" errorplus="0.11">1.01</mass><planet><inclination></inclination><period errorminus="-0.1" errorplus="0.1">68.3</period><radius errorminus="-0.07" errorplus="0.07">1.02</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.08" errorplus="0.08">0.33</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 109246 b</name><eccentricity>0.12</eccentricity></planet><name>HD 109246</name><radius errorminus="-0.07" errorplus="0.07">1.02</radius><temperature errorminus="-21.0" errorplus="21.0">5844.0</temperature></star><distance>65.6</distance><name>HD 109246</name><declination>74 29 22</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.07">1.02</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">68.3</period>
+      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.33</semimajoraxis>
+      <name>HD 109246 b</name>
+      <eccentricity>0.12</eccentricity>
+    </planet>
+    <radius errorplus="0.07" errorminus="-0.07">1.02</radius>
+    <temperature errorplus="21.0" errorminus="-21.0">5844.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.11">1.01</mass>
+    <name>HD 109246</name>
+  </star>
+  <distance>65.6</distance>
+  <rightascension>12 01 47</rightascension>
+  <declination>74 29 22</declination>
+  <name>HD 109246</name>
+</system>
+

@@ -1,1 +1,31 @@
-<system><rightascension>19 39 38</rightascension><star><mass>1.13</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.4</period><radius errorminus="-0.23" errorplus="0.23">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.093</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-392 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.3</period><radius errorminus="-0.23" errorplus="0.23">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.059</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-392 b</name></planet><name>Kepler-392</name><radius errorminus="-0.23" errorplus="0.23">1.13</radius><temperature errorminus="-226.0" errorplus="226.0">5938.0</temperature></star><distance></distance><name>Kepler-392</name><declination>43 22 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.4</period>
+      <semimajoraxis>0.093</semimajoraxis>
+      <name>Kepler-392 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.3</period>
+      <semimajoraxis>0.059</semimajoraxis>
+      <name>Kepler-392 b</name>
+    </planet>
+    <radius errorplus="0.23" errorminus="-0.23">1.13</radius>
+    <temperature errorplus="226.0" errorminus="-226.0">5938.0</temperature>
+    <mass>1.13</mass>
+    <name>Kepler-392</name>
+  </star>
+  <distance/>
+  <rightascension>19 39 38</rightascension>
+  <declination>43 22 05</declination>
+  <name>Kepler-392</name>
+</system>
+

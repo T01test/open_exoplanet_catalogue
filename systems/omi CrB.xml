@@ -1,1 +1,23 @@
-<system><rightascension>15 02 08</rightascension><star><mass errorplus="0.23">2.13</mass><planet><inclination></inclination><period errorminus="-0.5" errorplus="0.5">187.8</period><radius errorplus="0.7">10.5</radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.83</semimajoraxis><lastupdate>2015-09-03</lastupdate><name>omi CrB b</name><eccentricity>0.191</eccentricity></planet><name>omi CrB</name><radius errorplus="0.7">10.5</radius><temperature errorplus="20.0">4749.0</temperature></star><distance errorminus="-5.57" errorplus="4.92">84.03</distance><name>omi CrB</name><declination>29 36 58</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.7">10.5</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">187.8</period>
+      <semimajoraxis>0.83</semimajoraxis>
+      <name>omi CrB b</name>
+      <eccentricity>0.191</eccentricity>
+    </planet>
+    <radius errorplus="0.7">10.5</radius>
+    <temperature errorplus="20.0">4749.0</temperature>
+    <mass errorplus="0.23">2.13</mass>
+    <name>omi CrB</name>
+  </star>
+  <distance errorplus="4.92" errorminus="-5.57">84.03</distance>
+  <rightascension>15 02 08</rightascension>
+  <declination>29 36 58</declination>
+  <name>omi CrB</name>
+</system>
+

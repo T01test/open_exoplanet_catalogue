@@ -1,1 +1,23 @@
-<system><rightascension>03 12 22</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.75</mass><planet><inclination></inclination><period errorminus="-0.1" errorplus="0.1">528.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.039" errorplus="0.039">1.167</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 22781 b</name><eccentricity>0.8191</eccentricity></planet><name>HD 22781</name><radius></radius><temperature errorminus="-50.0" errorplus="50.0">5027.0</temperature></star><distance errorminus="-1.45" errorplus="1.33">31.79</distance><name>HD 22781</name><declination>31 49 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">528.1</period>
+      <semimajoraxis errorplus="0.039" errorminus="-0.039">1.167</semimajoraxis>
+      <name>HD 22781 b</name>
+      <eccentricity>0.8191</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="50.0" errorminus="-50.0">5027.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.75</mass>
+    <name>HD 22781</name>
+  </star>
+  <distance errorplus="1.33" errorminus="-1.45">31.79</distance>
+  <rightascension>03 12 22</rightascension>
+  <declination>31 49 34</declination>
+  <name>HD 22781</name>
+</system>
+

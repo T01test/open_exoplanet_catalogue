@@ -1,1 +1,23 @@
-<system><rightascension>00 13 05</rightascension><star><mass errorminus="-0.07" errorplus="0.07">1.5</mass><planet><inclination></inclination><period errorminus="-0.9" errorplus="0.8">270.0</period><radius errorminus="-0.49" errorplus="0.49">1.93</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.01">0.94</semimajoraxis><lastupdate>2015-04-01</lastupdate><name>HD 1666 b</name><eccentricity>0.63</eccentricity></planet><name>HD 1666</name><radius errorminus="-0.49" errorplus="0.49">1.93</radius><temperature errorminus="-44.0" errorplus="44.0">6317.0</temperature></star><distance errorminus="-13.91" errorplus="11.12">110.62</distance><name>HD 1666</name><declination>-19 55 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.49" errorminus="-0.49">1.93</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-04-01</lastupdate>
+      <inclination/>
+      <period errorplus="0.8" errorminus="-0.9">270.0</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.02">0.94</semimajoraxis>
+      <name>HD 1666 b</name>
+      <eccentricity>0.63</eccentricity>
+    </planet>
+    <radius errorplus="0.49" errorminus="-0.49">1.93</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">6317.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.07">1.5</mass>
+    <name>HD 1666</name>
+  </star>
+  <distance errorplus="11.12" errorminus="-13.91">110.62</distance>
+  <rightascension>00 13 05</rightascension>
+  <declination>-19 55 52</declination>
+  <name>HD 1666</name>
+</system>
+

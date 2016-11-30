@@ -1,1 +1,22 @@
-<system><rightascension>18 18 59</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.8</period><radius errorminus="-0.08" errorplus="0.22">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-704 b</name></planet><name>Kepler-704</name><radius errorminus="-0.08" errorplus="0.22">0.96</radius><temperature errorminus="-102.76" errorplus="77.94">5616.0</temperature></star><distance errorminus="-91.31" errorplus="239.57">1054.0</distance><name>Kepler-704</name><declination>41 50 13</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.22" errorminus="-0.08">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <semimajoraxis/>
+      <name>Kepler-704 b</name>
+    </planet>
+    <radius errorplus="0.22" errorminus="-0.08">0.96</radius>
+    <temperature errorplus="77.94" errorminus="-102.76">5616.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.97</mass>
+    <name>Kepler-704</name>
+  </star>
+  <distance errorplus="239.57" errorminus="-91.31">1054.0</distance>
+  <rightascension>18 18 59</rightascension>
+  <declination>41 50 13</declination>
+  <name>Kepler-704</name>
+</system>
+

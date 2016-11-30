@@ -1,1 +1,31 @@
-<system><rightascension>19 33 29</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.2</period><radius errorminus="-0.03" errorplus="0.03">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-967 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">198.7</period><radius errorminus="-0.03" errorplus="0.03">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-967 c</name></planet><name>Kepler-967</name><radius errorminus="-0.03" errorplus="0.03">0.8</radius><temperature errorminus="-79.8" errorplus="68.7">5178.0</temperature></star><distance errorminus="-18.0" errorplus="18.68">499.0</distance><name>Kepler-967</name><declination>38 24 19</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.2</period>
+      <semimajoraxis/>
+      <name>Kepler-967 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">198.7</period>
+      <semimajoraxis/>
+      <name>Kepler-967 c</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
+    <temperature errorplus="68.7" errorminus="-79.8">5178.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
+    <name>Kepler-967</name>
+  </star>
+  <distance errorplus="18.68" errorminus="-18.0">499.0</distance>
+  <rightascension>19 33 29</rightascension>
+  <declination>38 24 19</declination>
+  <name>Kepler-967</name>
+</system>
+

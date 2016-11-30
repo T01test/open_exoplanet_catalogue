@@ -1,1 +1,23 @@
-<system><rightascension>19 42 33</rightascension><star><mass errorminus="-0.03" errorplus="0.02">0.81</mass><planet><inclination errorminus="-0.6" errorplus="0.6">88.5</inclination><period errorminus="-0.0" errorplus="0.0">4.9</period><radius errorminus="-0.02" errorplus="0.02">0.75</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0008" errorplus="0.0002">0.053</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-11 b</name><eccentricity>0.198</eccentricity></planet><name>HAT-P-11</name><radius errorminus="-0.02" errorplus="0.02">0.75</radius><temperature errorminus="-50.0" errorplus="50.0">4780.0</temperature></star><distance errorminus="-1.3" errorplus="1.3">38.0</distance><name>HAT-P-11</name><declination>48 04 51</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.6" errorminus="-0.6">88.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0008">0.053</semimajoraxis>
+      <name>HAT-P-11 b</name>
+      <eccentricity>0.198</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.75</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">4780.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.03">0.81</mass>
+    <name>HAT-P-11</name>
+  </star>
+  <distance errorplus="1.3" errorminus="-1.3">38.0</distance>
+  <rightascension>19 42 33</rightascension>
+  <declination>48 04 51</declination>
+  <name>HAT-P-11</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>18 32 15</rightascension><star><mass errorplus="0.09">1.22</mass><planet><inclination errorminus="-2.7" errorplus="1.8">87.1</inclination><period errorminus="-0.0" errorplus="0.0">5.0</period><radius errorplus="0.27">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.015" errorplus="0.015">0.055</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-31 b</name><eccentricity>0.245</eccentricity></planet><name>HAT-P-31</name><radius errorplus="0.27">1.36</radius><temperature errorplus="100.0">6065.0</temperature></star><distance errorminus="-51.0" errorplus="74.0">354.0</distance><name>HAT-P-31</name><declination>26 25 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.27">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.8" errorminus="-2.7">87.1</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.0</period>
+      <semimajoraxis errorplus="0.015" errorminus="-0.015">0.055</semimajoraxis>
+      <name>HAT-P-31 b</name>
+      <eccentricity>0.245</eccentricity>
+    </planet>
+    <radius errorplus="0.27">1.36</radius>
+    <temperature errorplus="100.0">6065.0</temperature>
+    <mass errorplus="0.09">1.22</mass>
+    <name>HAT-P-31</name>
+  </star>
+  <distance errorplus="74.0" errorminus="-51.0">354.0</distance>
+  <rightascension>18 32 15</rightascension>
+  <declination>26 25 35</declination>
+  <name>HAT-P-31</name>
+</system>
+

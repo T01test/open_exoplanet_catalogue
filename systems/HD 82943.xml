@@ -1,1 +1,33 @@
-<system><rightascension>09 42 41</rightascension><star><mass>1.2</mass><planet><inclination>90.0</inclination><period errorminus="-0.1" errorplus="0.1">220.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.00012" errorplus="0.00012">0.74345</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 82943 c</name><eccentricity>0.3663</eccentricity></planet><planet><inclination>90.0</inclination><period errorminus="-0.3" errorplus="0.3">441.5</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.00062" errorplus="0.00062">1.18306</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 82943 b</name><eccentricity>0.162</eccentricity></planet><name>HD 82943</name><radius></radius><temperature>6016.0</temperature></star><distance errorminus="-0.65" errorplus="0.62">27.46</distance><name>HD 82943</name><declination>-12 07 46</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination>90.0</inclination>
+      <period errorplus="0.3" errorminus="-0.3">441.5</period>
+      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">1.18306</semimajoraxis>
+      <name>HD 82943 b</name>
+      <eccentricity>0.162</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination>90.0</inclination>
+      <period errorplus="0.1" errorminus="-0.1">220.1</period>
+      <semimajoraxis errorplus="0.00012" errorminus="-0.00012">0.74345</semimajoraxis>
+      <name>HD 82943 c</name>
+      <eccentricity>0.3663</eccentricity>
+    </planet>
+    <radius/>
+    <temperature>6016.0</temperature>
+    <mass>1.2</mass>
+    <name>HD 82943</name>
+  </star>
+  <distance errorplus="0.62" errorminus="-0.65">27.46</distance>
+  <rightascension>09 42 41</rightascension>
+  <declination>-12 07 46</declination>
+  <name>HD 82943</name>
+</system>
+

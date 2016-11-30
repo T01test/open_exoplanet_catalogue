@@ -1,1 +1,49 @@
-<system><rightascension>18 20 09</rightascension><star><mass errorminus="-0.03" errorplus="0.02">0.63</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.0</period><radius errorminus="-0.03" errorplus="0.02">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1388 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.5</period><radius errorminus="-0.03" errorplus="0.02">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1388 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">37.6</period><radius errorminus="-0.03" errorplus="0.02">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1388 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.3</period><radius errorminus="-0.03" errorplus="0.02">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1388 b</name></planet><name>Kepler-1388</name><radius errorminus="-0.03" errorplus="0.02">0.61</radius><temperature errorminus="-51.9" errorplus="48.16">4098.0</temperature></star><distance errorminus="-30.78" errorplus="23.64">492.0</distance><name>Kepler-1388</name><declination>47 10 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">37.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1388 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1388 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.0</period>
+      <semimajoraxis/>
+      <name>Kepler-1388 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1388 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.03">0.61</radius>
+    <temperature errorplus="48.16" errorminus="-51.9">4098.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.03">0.63</mass>
+    <name>Kepler-1388</name>
+  </star>
+  <distance errorplus="23.64" errorminus="-30.78">492.0</distance>
+  <rightascension>18 20 09</rightascension>
+  <declination>47 10 28</declination>
+  <name>Kepler-1388</name>
+</system>
+

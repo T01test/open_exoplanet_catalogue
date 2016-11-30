@@ -1,1 +1,31 @@
-<system><rightascension>19 12 48</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">17.9</period><radius errorminus="-0.52" errorplus="0.52">1.11</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.142</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-320 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.4</period><radius errorminus="-0.52" errorplus="0.52">1.11</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.085</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-320 b</name></planet><name>Kepler-320</name><radius errorminus="-0.52" errorplus="0.52">1.11</radius><temperature errorminus="-200.0" errorplus="200.0">6435.0</temperature></star><distance></distance><name>Kepler-320</name><declination>46 10 30</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.52" errorminus="-0.52">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.4</period>
+      <semimajoraxis>0.085</semimajoraxis>
+      <name>Kepler-320 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.52" errorminus="-0.52">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.9</period>
+      <semimajoraxis>0.142</semimajoraxis>
+      <name>Kepler-320 c</name>
+    </planet>
+    <radius errorplus="0.52" errorminus="-0.52">1.11</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">6435.0</temperature>
+    <mass/>
+    <name>Kepler-320</name>
+  </star>
+  <distance/>
+  <rightascension>19 12 48</rightascension>
+  <declination>46 10 30</declination>
+  <name>Kepler-320</name>
+</system>
+

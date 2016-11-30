@@ -1,1 +1,23 @@
-<system><rightascension>15 23 48</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.7</mass><planet><inclination></inclination><period errorminus="-0.5" errorplus="0.5">417.9</period><radius>21.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.3</semimajoraxis><lastupdate>2015-09-10</lastupdate><name>eps CrB b</name><eccentricity>0.11</eccentricity></planet><name>eps CrB</name><radius>21.0</radius><temperature errorminus="-15.0" errorplus="15.0">4406.0</temperature></star><distance errorminus="-3.65" errorplus="3.31">70.42</distance><name>eps CrB</name><declination>26 52 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>21.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">417.9</period>
+      <semimajoraxis>1.3</semimajoraxis>
+      <name>eps CrB b</name>
+      <eccentricity>0.11</eccentricity>
+    </planet>
+    <radius>21.0</radius>
+    <temperature errorplus="15.0" errorminus="-15.0">4406.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.7</mass>
+    <name>eps CrB</name>
+  </star>
+  <distance errorplus="3.31" errorminus="-3.65">70.42</distance>
+  <rightascension>15 23 48</rightascension>
+  <declination>26 52 40</declination>
+  <name>eps CrB</name>
+</system>
+

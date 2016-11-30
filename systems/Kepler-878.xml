@@ -1,1 +1,22 @@
-<system><rightascension>19 17 46</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.81</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">25.9</period><radius errorminus="-0.04" errorplus="0.04">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-878 b</name></planet><name>Kepler-878</name><radius errorminus="-0.04" errorplus="0.04">0.77</radius><temperature errorminus="-47.72" errorplus="49.53">5044.0</temperature></star><distance errorminus="-30.37" errorplus="28.37">567.0</distance><name>Kepler-878</name><declination>46 36 12</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">25.9</period>
+      <semimajoraxis/>
+      <name>Kepler-878 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.77</radius>
+    <temperature errorplus="49.53" errorminus="-47.72">5044.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.81</mass>
+    <name>Kepler-878</name>
+  </star>
+  <distance errorplus="28.37" errorminus="-30.37">567.0</distance>
+  <rightascension>19 17 46</rightascension>
+  <declination>46 36 12</declination>
+  <name>Kepler-878</name>
+</system>
+

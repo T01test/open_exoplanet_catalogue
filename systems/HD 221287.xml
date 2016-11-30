@@ -1,1 +1,23 @@
-<system><rightascension>23 50 05</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.25</mass><planet><inclination></inclination><period errorminus="-5.8" errorplus="7.7">456.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.04">1.25</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 221287 b</name><eccentricity>0.08</eccentricity></planet><name>HD 221287</name><radius></radius><temperature errorminus="-45.0" errorplus="45.0">6304.0</temperature></star><distance errorminus="-2.4" errorplus="2.2">52.88</distance><name>HD 221287</name><declination>-58 12 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="7.7" errorminus="-5.8">456.1</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.25</semimajoraxis>
+      <name>HD 221287 b</name>
+      <eccentricity>0.08</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="45.0" errorminus="-45.0">6304.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.25</mass>
+    <name>HD 221287</name>
+  </star>
+  <distance errorplus="2.2" errorminus="-2.4">52.88</distance>
+  <rightascension>23 50 05</rightascension>
+  <declination>-58 12 35</declination>
+  <name>HD 221287</name>
+</system>
+

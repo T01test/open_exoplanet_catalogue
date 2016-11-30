@@ -1,1 +1,22 @@
-<system><rightascension>19 25 37</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.02</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">161.5</period><radius errorminus="-0.08" errorplus="0.11">1.04</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-630 b</name></planet><name>Kepler-630</name><radius errorminus="-0.08" errorplus="0.11">1.04</radius><temperature errorminus="-98.87" errorplus="97.42">5829.0</temperature></star><distance errorminus="-50.36" errorplus="70.56">657.0</distance><name>Kepler-630</name><declination>39 56 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.11" errorminus="-0.08">1.04</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">161.5</period>
+      <semimajoraxis/>
+      <name>Kepler-630 b</name>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.08">1.04</radius>
+    <temperature errorplus="97.42" errorminus="-98.87">5829.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.02</mass>
+    <name>Kepler-630</name>
+  </star>
+  <distance errorplus="70.56" errorminus="-50.36">657.0</distance>
+  <rightascension>19 25 37</rightascension>
+  <declination>39 56 32</declination>
+  <name>Kepler-630</name>
+</system>
+

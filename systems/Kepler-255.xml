@@ -1,1 +1,40 @@
-<system><rightascension>19 03 51</rightascension><star><mass>0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.0</period><radius errorminus="-0.37" errorplus="0.37">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-255 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">9.9</period><radius errorminus="-0.37" errorplus="0.37">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.092</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-255 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.7</period><radius errorminus="-0.37" errorplus="0.37">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.063</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-255 b</name></planet><name>Kepler-255</name><radius errorminus="-0.37" errorplus="0.37">0.93</radius><temperature errorminus="-200.0" errorplus="200.0">5573.0</temperature></star><distance></distance><name>Kepler-255</name><declination>45 58 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <semimajoraxis/>
+      <name>Kepler-255 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.9</period>
+      <semimajoraxis>0.092</semimajoraxis>
+      <name>Kepler-255 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <semimajoraxis>0.063</semimajoraxis>
+      <name>Kepler-255 b</name>
+    </planet>
+    <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5573.0</temperature>
+    <mass>0.97</mass>
+    <name>Kepler-255</name>
+  </star>
+  <distance/>
+  <rightascension>19 03 51</rightascension>
+  <declination>45 58 36</declination>
+  <name>Kepler-255</name>
+</system>
+

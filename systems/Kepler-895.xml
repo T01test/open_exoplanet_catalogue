@@ -1,1 +1,22 @@
-<system><rightascension>19 17 26</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.65</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.8</period><radius errorminus="-0.02" errorplus="0.02">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-895 b</name></planet><name>Kepler-895</name><radius errorminus="-0.02" errorplus="0.02">0.61</radius><temperature errorminus="-38.65" errorplus="42.14">4315.0</temperature></star><distance errorminus="-23.29" errorplus="25.27">516.0</distance><name>Kepler-895</name><declination>51 24 32</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <semimajoraxis/>
+      <name>Kepler-895 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.61</radius>
+    <temperature errorplus="42.14" errorminus="-38.65">4315.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.65</mass>
+    <name>Kepler-895</name>
+  </star>
+  <distance errorplus="25.27" errorminus="-23.29">516.0</distance>
+  <rightascension>19 17 26</rightascension>
+  <declination>51 24 32</declination>
+  <name>Kepler-895</name>
+</system>
+

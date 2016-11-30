@@ -1,1 +1,22 @@
-<system><rightascension>19 24 20</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.06</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">41.7</period><radius errorminus="-0.04" errorplus="0.04">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-906 b</name></planet><name>Kepler-906</name><radius errorminus="-0.04" errorplus="0.04">1.02</radius><temperature errorminus="-62.37" errorplus="72.63">6035.0</temperature></star><distance errorminus="-33.89" errorplus="33.55">758.0</distance><name>Kepler-906</name><declination>40 07 31</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.7</period>
+      <semimajoraxis/>
+      <name>Kepler-906 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">1.02</radius>
+    <temperature errorplus="72.63" errorminus="-62.37">6035.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.06</mass>
+    <name>Kepler-906</name>
+  </star>
+  <distance errorplus="33.55" errorminus="-33.89">758.0</distance>
+  <rightascension>19 24 20</rightascension>
+  <declination>40 07 31</declination>
+  <name>Kepler-906</name>
+</system>
+

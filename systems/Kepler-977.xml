@@ -1,1 +1,22 @@
-<system><rightascension>19 30 58</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.87</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">26.9</period><radius errorminus="-0.04" errorplus="0.06">0.83</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-977 b</name></planet><name>Kepler-977</name><radius errorminus="-0.04" errorplus="0.06">0.83</radius><temperature errorminus="-105.24" errorplus="84.55">5315.0</temperature></star><distance errorminus="-38.36" errorplus="47.59">664.0</distance><name>Kepler-977</name><declination>42 14 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.04">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">26.9</period>
+      <semimajoraxis/>
+      <name>Kepler-977 b</name>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.04">0.83</radius>
+    <temperature errorplus="84.55" errorminus="-105.24">5315.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.87</mass>
+    <name>Kepler-977</name>
+  </star>
+  <distance errorplus="47.59" errorminus="-38.36">664.0</distance>
+  <rightascension>19 30 58</rightascension>
+  <declination>42 14 53</declination>
+  <name>Kepler-977</name>
+</system>
+

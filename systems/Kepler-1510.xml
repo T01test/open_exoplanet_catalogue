@@ -1,1 +1,22 @@
-<system><rightascension>19 57 32</rightascension><star><mass errorminus="-0.12" errorplus="0.15">1.19</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">84.7</period><radius errorminus="-0.2" errorplus="0.46">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1510 b</name></planet><name>Kepler-1510</name><radius errorminus="-0.2" errorplus="0.46">1.28</radius><temperature errorminus="-224.25" errorplus="177.72">6200.0</temperature></star><distance errorminus="-277.47" errorplus="570.79">1615.0</distance><name>Kepler-1510</name><declination>48 15 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.46" errorminus="-0.2">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">84.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1510 b</name>
+    </planet>
+    <radius errorplus="0.46" errorminus="-0.2">1.28</radius>
+    <temperature errorplus="177.72" errorminus="-224.25">6200.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.12">1.19</mass>
+    <name>Kepler-1510</name>
+  </star>
+  <distance errorplus="570.79" errorminus="-277.47">1615.0</distance>
+  <rightascension>19 57 32</rightascension>
+  <declination>48 15 28</declination>
+  <name>Kepler-1510</name>
+</system>
+

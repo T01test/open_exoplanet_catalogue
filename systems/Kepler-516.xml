@@ -1,1 +1,22 @@
-<system><rightascension>19 36 31</rightascension><star><mass errorminus="-0.17" errorplus="0.18">1.62</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">24.9</period><radius errorminus="-0.41" errorplus="0.5">2.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-516 b</name></planet><name>Kepler-516</name><radius errorminus="-0.41" errorplus="0.5">2.02</radius><temperature errorminus="-234.72" errorplus="172.5">7099.0</temperature></star><distance errorminus="-156.53" errorplus="193.38">777.0</distance><name>Kepler-516</name><declination>38 44 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.5" errorminus="-0.41">2.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">24.9</period>
+      <semimajoraxis/>
+      <name>Kepler-516 b</name>
+    </planet>
+    <radius errorplus="0.5" errorminus="-0.41">2.02</radius>
+    <temperature errorplus="172.5" errorminus="-234.72">7099.0</temperature>
+    <mass errorplus="0.18" errorminus="-0.17">1.62</mass>
+    <name>Kepler-516</name>
+  </star>
+  <distance errorplus="193.38" errorminus="-156.53">777.0</distance>
+  <rightascension>19 36 31</rightascension>
+  <declination>38 44 08</declination>
+  <name>Kepler-516</name>
+</system>
+

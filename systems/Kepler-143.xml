@@ -1,1 +1,31 @@
-<system><rightascension>19 04 03</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">27.1</period><radius errorminus="-0.32" errorplus="0.32">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.181</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-143 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.0</period><radius errorminus="-0.32" errorplus="0.32">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.127</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-143 b</name></planet><name>Kepler-143</name><radius errorminus="-0.32" errorplus="0.32">1.36</radius><temperature errorminus="-168.0" errorplus="168.0">5848.0</temperature></star><distance></distance><name>Kepler-143</name><declination>49 24 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.32" errorminus="-0.32">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.0</period>
+      <semimajoraxis>0.127</semimajoraxis>
+      <name>Kepler-143 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.32" errorminus="-0.32">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">27.1</period>
+      <semimajoraxis>0.181</semimajoraxis>
+      <name>Kepler-143 c</name>
+    </planet>
+    <radius errorplus="0.32" errorminus="-0.32">1.36</radius>
+    <temperature errorplus="168.0" errorminus="-168.0">5848.0</temperature>
+    <mass/>
+    <name>Kepler-143</name>
+  </star>
+  <distance/>
+  <rightascension>19 04 03</rightascension>
+  <declination>49 24 45</declination>
+  <name>Kepler-143</name>
+</system>
+

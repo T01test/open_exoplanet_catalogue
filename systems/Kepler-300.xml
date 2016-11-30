@@ -1,1 +1,31 @@
-<system><rightascension>19 17 19</rightascension><star><mass>0.94</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.4</period><radius errorminus="-0.41" errorplus="0.41">0.9</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.094</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-300 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">40.7</period><radius errorminus="-0.41" errorplus="0.41">0.9</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.232</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-300 c</name></planet><name>Kepler-300</name><radius errorminus="-0.41" errorplus="0.41">0.9</radius><temperature errorminus="-200.0" errorplus="200.0">5986.0</temperature></star><distance></distance><name>Kepler-300</name><declination>48 35 58</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.41" errorminus="-0.41">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.4</period>
+      <semimajoraxis>0.094</semimajoraxis>
+      <name>Kepler-300 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.41" errorminus="-0.41">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">40.7</period>
+      <semimajoraxis>0.232</semimajoraxis>
+      <name>Kepler-300 c</name>
+    </planet>
+    <radius errorplus="0.41" errorminus="-0.41">0.9</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5986.0</temperature>
+    <mass>0.94</mass>
+    <name>Kepler-300</name>
+  </star>
+  <distance/>
+  <rightascension>19 17 19</rightascension>
+  <declination>48 35 58</declination>
+  <name>Kepler-300</name>
+</system>
+

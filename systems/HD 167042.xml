@@ -1,1 +1,23 @@
-<system><rightascension>18 37 54</rightascension><star><mass errorminus="-0.2" errorplus="0.2">1.5</mass><planet><inclination></inclination><period errorminus="-3.1" errorplus="3.5">420.8</period><radius errorminus="-0.2" errorplus="0.2">4.5</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.03">1.32</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 167042 b</name><eccentricity>0.089</eccentricity></planet><name>HD 167042</name><radius errorminus="-0.2" errorplus="0.2">4.5</radius><temperature errorminus="-12.0" errorplus="12.0">4943.0</temperature></star><distance errorminus="-1.31" errorplus="1.24">50.0</distance><name>HD 167042</name><declination>54 17 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.2" errorminus="-0.2">4.5</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="3.5" errorminus="-3.1">420.8</period>
+      <semimajoraxis errorplus="0.03" errorminus="-0.04">1.32</semimajoraxis>
+      <name>HD 167042 b</name>
+      <eccentricity>0.089</eccentricity>
+    </planet>
+    <radius errorplus="0.2" errorminus="-0.2">4.5</radius>
+    <temperature errorplus="12.0" errorminus="-12.0">4943.0</temperature>
+    <mass errorplus="0.2" errorminus="-0.2">1.5</mass>
+    <name>HD 167042</name>
+  </star>
+  <distance errorplus="1.24" errorminus="-1.31">50.0</distance>
+  <rightascension>18 37 54</rightascension>
+  <declination>54 17 11</declination>
+  <name>HD 167042</name>
+</system>
+

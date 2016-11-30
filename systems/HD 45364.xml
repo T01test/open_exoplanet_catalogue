@@ -1,1 +1,33 @@
-<system><rightascension>06 24 37</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">342.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.8972</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 45364 c</name><eccentricity>0.0974</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.4" errorplus="0.4">226.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.6813</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 45364 b</name><eccentricity>0.1684</eccentricity></planet><name>HD 45364</name><radius></radius><temperature></temperature></star><distance errorminus="-0.88" errorplus="0.84">32.58</distance><name>HD 45364</name><declination>-31 28 51</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.4" errorminus="-0.4">226.9</period>
+      <semimajoraxis>0.6813</semimajoraxis>
+      <name>HD 45364 b</name>
+      <eccentricity>0.1684</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">342.9</period>
+      <semimajoraxis>0.8972</semimajoraxis>
+      <name>HD 45364 c</name>
+      <eccentricity>0.0974</eccentricity>
+    </planet>
+    <radius/>
+    <temperature/>
+    <mass/>
+    <name>HD 45364</name>
+  </star>
+  <distance errorplus="0.84" errorminus="-0.88">32.58</distance>
+  <rightascension>06 24 37</rightascension>
+  <declination>-31 28 51</declination>
+  <name>HD 45364</name>
+</system>
+

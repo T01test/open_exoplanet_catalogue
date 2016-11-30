@@ -1,1 +1,23 @@
-<system><rightascension>19 35 37</rightascension><star><mass errorminus="-0.17" errorplus="0.17">1.46</mass><planet><inclination errorminus="-0.9" errorplus="0.52">89.21</inclination><period errorminus="-0.0" errorplus="0.0">5.3</period><radius errorminus="-0.25" errorplus="0.25">2.26</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0027" errorplus="0.0027">0.0679</semimajoraxis><lastupdate>2015-01-14</lastupdate><name>Kepler-433 b</name><eccentricity>0.119</eccentricity></planet><name>Kepler-433</name><radius errorminus="-0.25" errorplus="0.25">2.26</radius><temperature errorminus="-140.0" errorplus="140.0">6360.0</temperature></star><distance errorminus="-210.0" errorplus="210.0">1870.0</distance><name>Kepler-433</name><declination>40 58 38</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.25" errorminus="-0.25">2.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-01-14</lastupdate>
+      <inclination errorplus="0.52" errorminus="-0.9">89.21</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.3</period>
+      <semimajoraxis errorplus="0.0027" errorminus="-0.0027">0.0679</semimajoraxis>
+      <name>Kepler-433 b</name>
+      <eccentricity>0.119</eccentricity>
+    </planet>
+    <radius errorplus="0.25" errorminus="-0.25">2.26</radius>
+    <temperature errorplus="140.0" errorminus="-140.0">6360.0</temperature>
+    <mass errorplus="0.17" errorminus="-0.17">1.46</mass>
+    <name>Kepler-433</name>
+  </star>
+  <distance errorplus="210.0" errorminus="-210.0">1870.0</distance>
+  <rightascension>19 35 37</rightascension>
+  <declination>40 58 38</declination>
+  <name>Kepler-433</name>
+</system>
+

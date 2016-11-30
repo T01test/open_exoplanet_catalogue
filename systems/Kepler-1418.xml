@@ -1,1 +1,22 @@
-<system><rightascension>18 59 50</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.77</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.5</period><radius errorminus="-0.03" errorplus="0.02">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1418 b</name></planet><name>Kepler-1418</name><radius errorminus="-0.03" errorplus="0.02">0.72</radius><temperature errorminus="-63.35" errorplus="59.97">4770.0</temperature></star><distance errorminus="-25.12" errorplus="20.11">499.0</distance><name>Kepler-1418</name><declination>41 40 42</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.03">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1418 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.03">0.72</radius>
+    <temperature errorplus="59.97" errorminus="-63.35">4770.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.77</mass>
+    <name>Kepler-1418</name>
+  </star>
+  <distance errorplus="20.11" errorminus="-25.12">499.0</distance>
+  <rightascension>18 59 50</rightascension>
+  <declination>41 40 42</declination>
+  <name>Kepler-1418</name>
+</system>
+

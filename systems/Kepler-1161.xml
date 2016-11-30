@@ -1,1 +1,22 @@
-<system><rightascension>19 04 37</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.59</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.7</period><radius errorminus="-0.03" errorplus="0.03">0.57</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1161 b</name></planet><name>Kepler-1161</name><radius errorminus="-0.03" errorplus="0.03">0.57</radius><temperature errorminus="-52.76" errorplus="55.15">4253.0</temperature></star><distance errorminus="-29.91" errorplus="24.95">428.0</distance><name>Kepler-1161</name><declination>45 26 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1161 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+    <temperature errorplus="55.15" errorminus="-52.76">4253.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.59</mass>
+    <name>Kepler-1161</name>
+  </star>
+  <distance errorplus="24.95" errorminus="-29.91">428.0</distance>
+  <rightascension>19 04 37</rightascension>
+  <declination>45 26 26</declination>
+  <name>Kepler-1161</name>
+</system>
+

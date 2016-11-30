@@ -1,1 +1,31 @@
-<system><rightascension>19 21 21</rightascension><star><mass errorminus="-0.0" errorplus="0.0">0.5</mass><planet><inclination>65.0</inclination><period errorminus="-0.0" errorplus="0.0">0.2</period><radius errorminus="-0.01" errorplus="0.01">0.2</radius><discoverymethod>orbital Brightness Modulation</discoverymethod><semimajoraxis>0.006</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-55 b</name></planet><planet><inclination>65.0</inclination><period errorminus="-0.0" errorplus="0.0">0.3</period><radius errorminus="-0.01" errorplus="0.01">0.2</radius><discoverymethod>orbital Brightness Modulation</discoverymethod><semimajoraxis>0.0076</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-55 c</name></planet><name>KOI-55</name><radius errorminus="-0.01" errorplus="0.01">0.2</radius><temperature errorminus="-270.0" errorplus="270.0">27730.0</temperature></star><distance errorminus="-95.0" errorplus="95.0">1180.0</distance><name>KOI-55</name><declination>41 05 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination>65.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">0.3</period>
+      <semimajoraxis>0.0076</semimajoraxis>
+      <name>KOI-55 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination>65.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">0.2</period>
+      <semimajoraxis>0.006</semimajoraxis>
+      <name>KOI-55 b</name>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+    <temperature errorplus="270.0" errorminus="-270.0">27730.0</temperature>
+    <mass errorplus="0.0" errorminus="-0.0">0.5</mass>
+    <name>KOI-55</name>
+  </star>
+  <distance errorplus="95.0" errorminus="-95.0">1180.0</distance>
+  <rightascension>19 21 21</rightascension>
+  <declination>41 05 33</declination>
+  <name>KOI-55</name>
+</system>
+

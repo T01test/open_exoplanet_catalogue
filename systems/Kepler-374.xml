@@ -1,1 +1,40 @@
-<system><rightascension>19 08 16</rightascension><star><mass>0.84</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.3</period><radius errorminus="-0.47" errorplus="0.47">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.042</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-374 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.9</period><radius errorminus="-0.47" errorplus="0.47">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.029</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-374 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.0</period><radius errorminus="-0.47" errorplus="0.47">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.056</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-374 d</name></planet><name>Kepler-374</name><radius errorminus="-0.47" errorplus="0.47">0.91</radius><temperature errorminus="-200.0" errorplus="200.0">5977.0</temperature></star><distance></distance><name>Kepler-374</name><declination>42 22 13</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.9</period>
+      <semimajoraxis>0.029</semimajoraxis>
+      <name>Kepler-374 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.0</period>
+      <semimajoraxis>0.056</semimajoraxis>
+      <name>Kepler-374 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.47">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <semimajoraxis>0.042</semimajoraxis>
+      <name>Kepler-374 c</name>
+    </planet>
+    <radius errorplus="0.47" errorminus="-0.47">0.91</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5977.0</temperature>
+    <mass>0.84</mass>
+    <name>Kepler-374</name>
+  </star>
+  <distance/>
+  <rightascension>19 08 16</rightascension>
+  <declination>42 22 13</declination>
+  <name>Kepler-374</name>
+</system>
+

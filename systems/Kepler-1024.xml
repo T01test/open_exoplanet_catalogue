@@ -1,1 +1,22 @@
-<system><rightascension>19 57 03</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.81</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">66.4</period><radius errorminus="-0.05" errorplus="0.04">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1024 b</name></planet><name>Kepler-1024</name><radius errorminus="-0.05" errorplus="0.04">0.78</radius><temperature errorminus="-76.37" errorplus="126.73">5143.0</temperature></star><distance errorminus="-69.53" errorplus="64.86">1017.0</distance><name>Kepler-1024</name><declination>38 15 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">66.4</period>
+      <semimajoraxis/>
+      <name>Kepler-1024 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
+    <temperature errorplus="126.73" errorminus="-76.37">5143.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.81</mass>
+    <name>Kepler-1024</name>
+  </star>
+  <distance errorplus="64.86" errorminus="-69.53">1017.0</distance>
+  <rightascension>19 57 03</rightascension>
+  <declination>38 15 06</declination>
+  <name>Kepler-1024</name>
+</system>
+

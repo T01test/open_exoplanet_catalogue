@@ -1,1 +1,23 @@
-<system><rightascension>14 12 05</rightascension><star><mass errorminus="-0.1" errorplus="0.1">1.8</mass><planet><inclination></inclination><period errorminus="-4.5" errorplus="4.5">93.4</period><radius errorminus="-0.4" errorplus="0.4">9.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.03" errorplus="0.03">0.49</semimajoraxis><lastupdate>2015-10-15</lastupdate><name>8 UMi b</name><eccentricity>0.06</eccentricity></planet><name>8 UMi</name><radius errorminus="-0.4" errorplus="0.4">9.9</radius><temperature errorminus="-7.5" errorplus="7.5">4847.4</temperature></star><distance errorminus="-11.0" errorplus="11.0">159.1</distance><name>8 UMi</name><declination>74 54 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.4" errorminus="-0.4">9.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-10-15</lastupdate>
+      <inclination/>
+      <period errorplus="4.5" errorminus="-4.5">93.4</period>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.49</semimajoraxis>
+      <name>8 UMi b</name>
+      <eccentricity>0.06</eccentricity>
+    </planet>
+    <radius errorplus="0.4" errorminus="-0.4">9.9</radius>
+    <temperature errorplus="7.5" errorminus="-7.5">4847.4</temperature>
+    <mass errorplus="0.1" errorminus="-0.1">1.8</mass>
+    <name>8 UMi</name>
+  </star>
+  <distance errorplus="11.0" errorminus="-11.0">159.1</distance>
+  <rightascension>14 12 05</rightascension>
+  <declination>74 54 03</declination>
+  <name>8 UMi</name>
+</system>
+

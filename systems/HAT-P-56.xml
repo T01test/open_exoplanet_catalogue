@@ -1,1 +1,23 @@
-<system><rightascension>06 50 52</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.3</mass><planet><inclination errorminus="-0.18" errorplus="0.18">82.13</inclination><period errorminus="-0.0" errorplus="0.0">2.8</period><radius errorminus="-0.03" errorplus="0.03">1.43</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00039" errorplus="0.00039">0.0423</semimajoraxis><lastupdate>2015-07-23</lastupdate><name>HAT-P-56 b</name><eccentricity>0.246</eccentricity></planet><name>HAT-P-56</name><radius errorminus="-0.03" errorplus="0.03">1.43</radius><temperature errorminus="-50.0" errorplus="50.0">6566.0</temperature></star><distance errorminus="-7.1" errorplus="7.1">310.5</distance><name>HAT-P-56</name><declination>27 15 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.43</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-07-23</lastupdate>
+      <inclination errorplus="0.18" errorminus="-0.18">82.13</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <semimajoraxis errorplus="0.00039" errorminus="-0.00039">0.0423</semimajoraxis>
+      <name>HAT-P-56 b</name>
+      <eccentricity>0.246</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.43</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">6566.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.3</mass>
+    <name>HAT-P-56</name>
+  </star>
+  <distance errorplus="7.1" errorminus="-7.1">310.5</distance>
+  <rightascension>06 50 52</rightascension>
+  <declination>27 15 08</declination>
+  <name>HAT-P-56</name>
+</system>
+

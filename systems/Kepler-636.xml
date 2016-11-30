@@ -1,1 +1,22 @@
-<system><rightascension>19 35 30</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.85</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.1</period><radius errorminus="-0.02" errorplus="0.02">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-636 b</name></planet><name>Kepler-636</name><radius errorminus="-0.02" errorplus="0.02">0.8</radius><temperature errorminus="-72.86" errorplus="56.47">5203.0</temperature></star><distance errorminus="-11.38" errorplus="11.33">341.0</distance><name>Kepler-636</name><declination>41 05 42</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <semimajoraxis/>
+      <name>Kepler-636 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+    <temperature errorplus="56.47" errorminus="-72.86">5203.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.85</mass>
+    <name>Kepler-636</name>
+  </star>
+  <distance errorplus="11.33" errorminus="-11.38">341.0</distance>
+  <rightascension>19 35 30</rightascension>
+  <declination>41 05 42</declination>
+  <name>Kepler-636</name>
+</system>
+

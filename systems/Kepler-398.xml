@@ -1,1 +1,40 @@
-<system><rightascension>19 28 07</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.1</period><radius errorminus="-0.03" errorplus="0.03">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.044</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-398 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.8</period><radius errorminus="-0.03" errorplus="0.03">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-398 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.4</period><radius errorminus="-0.03" errorplus="0.03">0.61</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.087</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-398 c</name></planet><name>Kepler-398</name><radius errorminus="-0.03" errorplus="0.03">0.61</radius><temperature errorminus="-100.0" errorplus="100.0">4493.0</temperature></star><distance></distance><name>Kepler-398</name><declination>40 20 37</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.4</period>
+      <semimajoraxis>0.087</semimajoraxis>
+      <name>Kepler-398 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <semimajoraxis>0.044</semimajoraxis>
+      <name>Kepler-398 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.61</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <semimajoraxis/>
+      <name>Kepler-398 d</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.61</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4493.0</temperature>
+    <mass/>
+    <name>Kepler-398</name>
+  </star>
+  <distance/>
+  <rightascension>19 28 07</rightascension>
+  <declination>40 20 37</declination>
+  <name>Kepler-398</name>
+</system>
+

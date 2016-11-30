@@ -1,1 +1,33 @@
-<system><rightascension>00 07 52</rightascension><star><mass errorminus="-0.11" errorplus="0.11">1.31</mass><planet><inclination></inclination><period errorminus="-4.9" errorplus="5.6">577.9</period><radius errorminus="-0.4" errorplus="0.4">3.8</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.01" errorplus="0.02">1.48</semimajoraxis><lastupdate>2015-04-01</lastupdate><name>HD 1605 b</name><eccentricity>0.078</eccentricity></planet><planet><inclination></inclination><period errorminus="-32.0" errorplus="42.0">2111.0</period><radius errorminus="-0.4" errorplus="0.4">3.8</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.05" errorplus="0.05">3.52</semimajoraxis><lastupdate>2015-04-01</lastupdate><name>HD 1605 c</name><eccentricity>0.098</eccentricity></planet><name>HD 1605</name><radius errorminus="-0.4" errorplus="0.4">3.8</radius><temperature errorminus="-50.0" errorplus="50.0">4757.0</temperature></star><distance errorminus="-7.14" errorplus="6.11">84.6</distance><name>HD 1605</name><declination>30 58 29</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-04-01</lastupdate>
+      <inclination/>
+      <period errorplus="5.6" errorminus="-4.9">577.9</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.01">1.48</semimajoraxis>
+      <name>HD 1605 b</name>
+      <eccentricity>0.078</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-04-01</lastupdate>
+      <inclination/>
+      <period errorplus="42.0" errorminus="-32.0">2111.0</period>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">3.52</semimajoraxis>
+      <name>HD 1605 c</name>
+      <eccentricity>0.098</eccentricity>
+    </planet>
+    <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">4757.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.11">1.31</mass>
+    <name>HD 1605</name>
+  </star>
+  <distance errorplus="6.11" errorminus="-7.14">84.6</distance>
+  <rightascension>00 07 52</rightascension>
+  <declination>30 58 29</declination>
+  <name>HD 1605</name>
+</system>
+

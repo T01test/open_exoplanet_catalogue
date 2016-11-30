@@ -1,1 +1,23 @@
-<system><rightascension>16 32 57</rightascension><star><mass errorplus="0.06">1.03</mass><planet><inclination errorminus="-0.2" errorplus="0.2">88.8</inclination><period errorminus="-0.0" errorplus="0.0">3.9</period><radius errorplus="0.02">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.049</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>XO-1 b</name><eccentricity>0.0</eccentricity></planet><name>XO-1</name><radius errorplus="0.02">0.94</radius><temperature errorplus="75.0">5750.0</temperature></star><distance errorminus="-12.0" errorplus="12.0">172.0</distance><name>XO-1</name><declination>28 10 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.2" errorminus="-0.2">88.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.049</semimajoraxis>
+      <name>XO-1 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02">0.94</radius>
+    <temperature errorplus="75.0">5750.0</temperature>
+    <mass errorplus="0.06">1.03</mass>
+    <name>XO-1</name>
+  </star>
+  <distance errorplus="12.0" errorminus="-12.0">172.0</distance>
+  <rightascension>16 32 57</rightascension>
+  <declination>28 10 10</declination>
+  <name>XO-1</name>
+</system>
+

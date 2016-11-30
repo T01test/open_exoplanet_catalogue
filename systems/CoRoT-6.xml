@@ -1,1 +1,23 @@
-<system><rightascension>18 04 21</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.05</mass><planet><inclination errorminus="-0.3" errorplus="0.3">89.07</inclination><period errorminus="-0.0" errorplus="0.0">8.9</period><radius errorminus="-0.03" errorplus="0.03">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.0015">0.0855</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>CoRoT-6 b</name><eccentricity>0.1</eccentricity></planet><name>CoRoT-6</name><radius errorminus="-0.03" errorplus="0.03">1.02</radius><temperature errorminus="-70.0" errorplus="70.0">6090.0</temperature></star><distance></distance><name>CoRoT-6</name><declination>06 39 47</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.3" errorminus="-0.3">89.07</inclination>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.0855</semimajoraxis>
+      <name>CoRoT-6 b</name>
+      <eccentricity>0.1</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+    <temperature errorplus="70.0" errorminus="-70.0">6090.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.05</mass>
+    <name>CoRoT-6</name>
+  </star>
+  <distance/>
+  <rightascension>18 04 21</rightascension>
+  <declination>06 39 47</declination>
+  <name>CoRoT-6</name>
+</system>
+

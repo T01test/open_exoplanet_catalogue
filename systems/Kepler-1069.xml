@@ -1,1 +1,22 @@
-<system><rightascension>19 58 45</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.99</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">23.9</period><radius errorminus="-0.08" errorplus="0.17">0.98</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1069 b</name></planet><name>Kepler-1069</name><radius errorminus="-0.08" errorplus="0.17">0.98</radius><temperature errorminus="-104.94" errorplus="88.79">5722.0</temperature></star><distance errorminus="-38.7" errorplus="76.6">435.0</distance><name>Kepler-1069</name><declination>47 59 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.08">0.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">23.9</period>
+      <semimajoraxis/>
+      <name>Kepler-1069 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.08">0.98</radius>
+    <temperature errorplus="88.79" errorminus="-104.94">5722.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.99</mass>
+    <name>Kepler-1069</name>
+  </star>
+  <distance errorplus="76.6" errorminus="-38.7">435.0</distance>
+  <rightascension>19 58 45</rightascension>
+  <declination>47 59 20</declination>
+  <name>Kepler-1069</name>
+</system>
+

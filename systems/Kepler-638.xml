@@ -1,1 +1,22 @@
-<system><rightascension>18 55 09</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.88</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.1</period><radius errorminus="-0.09" errorplus="0.29">0.93</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-638 b</name></planet><name>Kepler-638</name><radius errorminus="-0.09" errorplus="0.29">0.93</radius><temperature errorminus="-59.39" errorplus="50.1">5382.0</temperature></star><distance errorminus="-41.61" errorplus="137.23">426.0</distance><name>Kepler-638</name><declination>41 37 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.29" errorminus="-0.09">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <semimajoraxis/>
+      <name>Kepler-638 b</name>
+    </planet>
+    <radius errorplus="0.29" errorminus="-0.09">0.93</radius>
+    <temperature errorplus="50.1" errorminus="-59.39">5382.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.88</mass>
+    <name>Kepler-638</name>
+  </star>
+  <distance errorplus="137.23" errorminus="-41.61">426.0</distance>
+  <rightascension>18 55 09</rightascension>
+  <declination>41 37 01</declination>
+  <name>Kepler-638</name>
+</system>
+

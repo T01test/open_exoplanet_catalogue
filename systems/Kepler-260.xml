@@ -1,1 +1,31 @@
-<system><rightascension>19 55 33</rightascension><star><mass>0.88</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">76.1</period><radius errorminus="-0.23" errorplus="0.23">0.86</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.332</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-260 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.2</period><radius errorminus="-0.23" errorplus="0.23">0.86</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.075</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-260 b</name></planet><name>Kepler-260</name><radius errorminus="-0.23" errorplus="0.23">0.86</radius><temperature errorminus="-257.0" errorplus="257.0">5250.0</temperature></star><distance></distance><name>Kepler-260</name><declination>38 00 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">0.86</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.2</period>
+      <semimajoraxis>0.075</semimajoraxis>
+      <name>Kepler-260 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.23">0.86</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">76.1</period>
+      <semimajoraxis>0.332</semimajoraxis>
+      <name>Kepler-260 c</name>
+    </planet>
+    <radius errorplus="0.23" errorminus="-0.23">0.86</radius>
+    <temperature errorplus="257.0" errorminus="-257.0">5250.0</temperature>
+    <mass>0.88</mass>
+    <name>Kepler-260</name>
+  </star>
+  <distance/>
+  <rightascension>19 55 33</rightascension>
+  <declination>38 00 50</declination>
+  <name>Kepler-260</name>
+</system>
+

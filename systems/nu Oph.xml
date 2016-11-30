@@ -1,1 +1,33 @@
-<system><rightascension>17 45 23</rightascension><star><mass errorplus="0.06">3.04</mass><planet><inclination></inclination><period errorminus="-14.0" errorplus="14.0">3186.0</period><radius errorplus="1.1">15.1</radius><discoverymethod>RV</discoverymethod><semimajoraxis>6.1</semimajoraxis><lastupdate>2015-09-03</lastupdate><name>nu Oph c</name><eccentricity>0.165</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">530.3</period><radius errorplus="1.1">15.1</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.9</semimajoraxis><lastupdate>2015-09-03</lastupdate><name>nu Oph b</name><eccentricity>0.1256</eccentricity></planet><name>nu Oph</name><radius errorplus="1.1">15.1</radius><temperature errorplus="25.0">4928.0</temperature></star><distance errorminus="-1.8" errorplus="1.67">46.84</distance><name>nu Oph</name><declination>-9 46 25</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="1.1">15.1</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-03</lastupdate>
+      <inclination/>
+      <period errorplus="14.0" errorminus="-14.0">3186.0</period>
+      <semimajoraxis>6.1</semimajoraxis>
+      <name>nu Oph c</name>
+      <eccentricity>0.165</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="1.1">15.1</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">530.3</period>
+      <semimajoraxis>1.9</semimajoraxis>
+      <name>nu Oph b</name>
+      <eccentricity>0.1256</eccentricity>
+    </planet>
+    <radius errorplus="1.1">15.1</radius>
+    <temperature errorplus="25.0">4928.0</temperature>
+    <mass errorplus="0.06">3.04</mass>
+    <name>nu Oph</name>
+  </star>
+  <distance errorplus="1.67" errorminus="-1.8">46.84</distance>
+  <rightascension>17 45 23</rightascension>
+  <declination>-9 46 25</declination>
+  <name>nu Oph</name>
+</system>
+

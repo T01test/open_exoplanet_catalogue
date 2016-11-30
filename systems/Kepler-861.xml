@@ -1,1 +1,22 @@
-<system><rightascension>19 21 14</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.82</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.9</period><radius errorminus="-0.04" errorplus="0.04">0.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-861 b</name></planet><name>Kepler-861</name><radius errorminus="-0.04" errorplus="0.04">0.78</radius><temperature errorminus="-72.9" errorplus="65.25">5047.0</temperature></star><distance errorminus="-41.15" errorplus="40.31">806.0</distance><name>Kepler-861</name><declination>46 13 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <semimajoraxis/>
+      <name>Kepler-861 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+    <temperature errorplus="65.25" errorminus="-72.9">5047.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.82</mass>
+    <name>Kepler-861</name>
+  </star>
+  <distance errorplus="40.31" errorminus="-41.15">806.0</distance>
+  <rightascension>19 21 14</rightascension>
+  <declination>46 13 34</declination>
+  <name>Kepler-861</name>
+</system>
+

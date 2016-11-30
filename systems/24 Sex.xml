@@ -1,1 +1,33 @@
-<system><rightascension>10 52 05</rightascension><star><mass errorminus="-0.08" errorplus="0.08">1.54</mass><planet><inclination></inclination><period errorminus="-4.5" errorplus="2.1">452.8</period><radius errorminus="-0.08" errorplus="0.08">4.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.009" errorplus="0.004">1.333</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>24 Sex b</name><eccentricity>0.09</eccentricity></planet><planet><inclination></inclination><period errorminus="-13.8" errorplus="32.4">883.0</period><radius errorminus="-0.08" errorplus="0.08">4.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.05">2.08</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>24 Sex c</name><eccentricity>0.29</eccentricity></planet><name>24 Sex</name><radius errorminus="-0.08" errorplus="0.08">4.9</radius><temperature errorminus="-44.0" errorplus="44.0">5098.0</temperature></star><distance errorminus="-5.21" errorplus="4.57">74.79</distance><name>24 Sex</name><declination>00 54 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="32.4" errorminus="-13.8">883.0</period>
+      <semimajoraxis errorplus="0.05" errorminus="-0.02">2.08</semimajoraxis>
+      <name>24 Sex c</name>
+      <eccentricity>0.29</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="2.1" errorminus="-4.5">452.8</period>
+      <semimajoraxis errorplus="0.004" errorminus="-0.009">1.333</semimajoraxis>
+      <name>24 Sex b</name>
+      <eccentricity>0.09</eccentricity>
+    </planet>
+    <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">5098.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">1.54</mass>
+    <name>24 Sex</name>
+  </star>
+  <distance errorplus="4.57" errorminus="-5.21">74.79</distance>
+  <rightascension>10 52 05</rightascension>
+  <declination>00 54 08</declination>
+  <name>24 Sex</name>
+</system>
+

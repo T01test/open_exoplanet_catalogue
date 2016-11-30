@@ -1,1 +1,33 @@
-<system><rightascension>21 39 57</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.44</mass><planet><inclination></inclination><period errorminus="-1.4" errorplus="1.3">613.8</period><radius errorminus="-0.09" errorplus="0.09">4.3</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.002" errorplus="0.002">1.601</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 200964 b</name><eccentricity>0.04</eccentricity></planet><planet><inclination></inclination><period errorminus="-3.1" errorplus="5.1">825.0</period><radius errorminus="-0.09" errorplus="0.09">4.3</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.005" errorplus="0.008">1.95</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 200964 c</name><eccentricity>0.181</eccentricity></planet><name>HD 200964</name><radius errorminus="-0.09" errorplus="0.09">4.3</radius><temperature errorminus="-44.0" errorplus="44.0">5164.0</temperature></star><distance errorminus="-5.18" errorplus="4.5">68.35</distance><name>HD 200964</name><declination>03 48 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="5.1" errorminus="-3.1">825.0</period>
+      <semimajoraxis errorplus="0.008" errorminus="-0.005">1.95</semimajoraxis>
+      <name>HD 200964 c</name>
+      <eccentricity>0.181</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="1.3" errorminus="-1.4">613.8</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">1.601</semimajoraxis>
+      <name>HD 200964 b</name>
+      <eccentricity>0.04</eccentricity>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">5164.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.44</mass>
+    <name>HD 200964</name>
+  </star>
+  <distance errorplus="4.5" errorminus="-5.18">68.35</distance>
+  <rightascension>21 39 57</rightascension>
+  <declination>03 48 11</declination>
+  <name>HD 200964</name>
+</system>
+

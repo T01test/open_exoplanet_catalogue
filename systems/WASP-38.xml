@@ -1,1 +1,23 @@
-<system><rightascension>16 57 35</rightascension><star><mass errorplus="0.04">1.2</mass><planet><inclination errorminus="-0.25" errorplus="0.3">88.69</inclination><period errorminus="-0.0" errorplus="0.0">6.9</period><radius errorplus="0.03">1.33</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00075" errorplus="0.00074">0.07522</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>WASP-38 b</name><eccentricity>0.0314</eccentricity></planet><name>WASP-38</name><radius errorplus="0.03">1.33</radius><temperature errorplus="80.0">6150.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">110.0</distance><name>WASP-38</name><declination>10 01 57</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03">1.33</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.3" errorminus="-0.25">88.69</inclination>
+      <period errorplus="0.0" errorminus="-0.0">6.9</period>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00075">0.07522</semimajoraxis>
+      <name>WASP-38 b</name>
+      <eccentricity>0.0314</eccentricity>
+    </planet>
+    <radius errorplus="0.03">1.33</radius>
+    <temperature errorplus="80.0">6150.0</temperature>
+    <mass errorplus="0.04">1.2</mass>
+    <name>WASP-38</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">110.0</distance>
+  <rightascension>16 57 35</rightascension>
+  <declination>10 01 57</declination>
+  <name>WASP-38</name>
+</system>
+

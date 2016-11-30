@@ -1,1 +1,58 @@
-<system><rightascension>19 10 06</rightascension><star><mass>0.62</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.6</period><radius errorminus="-0.03" errorplus="0.03">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.048</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-55 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">27.9</period><radius errorminus="-0.03" errorplus="0.03">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-55 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.2</period><radius errorminus="-0.03" errorplus="0.03">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.029</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-55 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.2</period><radius errorminus="-0.03" errorplus="0.03">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.081</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-55 f</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">42.2</period><radius errorminus="-0.03" errorplus="0.03">0.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-55 c</name></planet><name>Kepler-55</name><radius errorminus="-0.03" errorplus="0.03">0.62</radius><temperature errorminus="-100.0" errorplus="100.0">4503.0</temperature></star><distance></distance><name>Kepler-55</name><declination>44 01 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <semimajoraxis>0.048</semimajoraxis>
+      <name>Kepler-55 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">27.9</period>
+      <semimajoraxis/>
+      <name>Kepler-55 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.2</period>
+      <semimajoraxis>0.081</semimajoraxis>
+      <name>Kepler-55 f</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <semimajoraxis>0.029</semimajoraxis>
+      <name>Kepler-55 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">42.2</period>
+      <semimajoraxis/>
+      <name>Kepler-55 c</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4503.0</temperature>
+    <mass>0.62</mass>
+    <name>Kepler-55</name>
+  </star>
+  <distance/>
+  <rightascension>19 10 06</rightascension>
+  <declination>44 01 35</declination>
+  <name>Kepler-55</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>06 00 08</rightascension><star><mass errorminus="-0.06" errorplus="0.06">1.01</mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.4">149.6</period><radius errorminus="-0.09" errorplus="0.09">1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.011" errorplus="0.011">0.554</semimajoraxis><lastupdate>2016-10-27</lastupdate><name>HD 42618 b</name><eccentricity>0.19</eccentricity></planet><name>HD 42618</name><radius errorminus="-0.09" errorplus="0.09">1.0</radius><temperature errorminus="-60.0" errorplus="60.0">5727.0</temperature></star><distance errorminus="-0.3" errorplus="0.3">23.5</distance><name>HD 42618</name><declination>06 46 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.09">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-10-27</lastupdate>
+      <inclination/>
+      <period errorplus="0.4" errorminus="-0.3">149.6</period>
+      <semimajoraxis errorplus="0.011" errorminus="-0.011">0.554</semimajoraxis>
+      <name>HD 42618 b</name>
+      <eccentricity>0.19</eccentricity>
+    </planet>
+    <radius errorplus="0.09" errorminus="-0.09">1.0</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">5727.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.06">1.01</mass>
+    <name>HD 42618</name>
+  </star>
+  <distance errorplus="0.3" errorminus="-0.3">23.5</distance>
+  <rightascension>06 00 08</rightascension>
+  <declination>06 46 59</declination>
+  <name>HD 42618</name>
+</system>
+

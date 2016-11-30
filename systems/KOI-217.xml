@@ -1,1 +1,23 @@
-<system><rightascension>19 51 55</rightascension><star><mass errorplus="0.05">0.95</mass><planet><inclination errorminus="-0.4" errorplus="0.2">89.8</inclination><period errorminus="-0.0" errorplus="0.0">3.9</period><radius errorplus="0.02">0.86</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0007" errorplus="0.0007">0.0477</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-217 b</name><eccentricity>0.0</eccentricity></planet><name>KOI-217</name><radius errorplus="0.02">0.86</radius><temperature>5545.0</temperature></star><distance>800.0</distance><name>KOI-217</name><declination>46 17 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02">0.86</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.2" errorminus="-0.4">89.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0477</semimajoraxis>
+      <name>KOI-217 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02">0.86</radius>
+    <temperature>5545.0</temperature>
+    <mass errorplus="0.05">0.95</mass>
+    <name>KOI-217</name>
+  </star>
+  <distance>800.0</distance>
+  <rightascension>19 51 55</rightascension>
+  <declination>46 17 09</declination>
+  <name>KOI-217</name>
+</system>
+

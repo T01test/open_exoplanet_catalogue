@@ -1,1 +1,22 @@
-<system><rightascension>19 50 28</rightascension><star><mass errorminus="-0.08" errorplus="0.15">1.14</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.4</period><radius errorminus="-0.15" errorplus="0.43">1.21</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1346 b</name></planet><name>Kepler-1346</name><radius errorminus="-0.15" errorplus="0.43">1.21</radius><temperature errorminus="-160.7" errorplus="118.39">6133.0</temperature></star><distance errorminus="-152.85" errorplus="399.75">1123.0</distance><name>Kepler-1346</name><declination>45 10 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.15">1.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <semimajoraxis/>
+      <name>Kepler-1346 b</name>
+    </planet>
+    <radius errorplus="0.43" errorminus="-0.15">1.21</radius>
+    <temperature errorplus="118.39" errorminus="-160.7">6133.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.08">1.14</mass>
+    <name>Kepler-1346</name>
+  </star>
+  <distance errorplus="399.75" errorminus="-152.85">1123.0</distance>
+  <rightascension>19 50 28</rightascension>
+  <declination>45 10 45</declination>
+  <name>Kepler-1346</name>
+</system>
+

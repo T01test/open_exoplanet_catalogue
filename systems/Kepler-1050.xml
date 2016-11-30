@@ -1,1 +1,31 @@
-<system><rightascension>18 55 29</rightascension><star><mass errorminus="-0.07" errorplus="0.08">1.09</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.1</period><radius errorminus="-0.12" errorplus="0.29">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1050 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.4</period><radius errorminus="-0.12" errorplus="0.29">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1050 b</name></planet><name>Kepler-1050</name><radius errorminus="-0.12" errorplus="0.29">1.13</radius><temperature errorminus="-99.65" errorplus="90.67">6010.0</temperature></star><distance errorminus="-61.87" errorplus="138.97">555.0</distance><name>Kepler-1050</name><declination>48 37 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.29" errorminus="-0.12">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.4</period>
+      <semimajoraxis/>
+      <name>Kepler-1050 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.29" errorminus="-0.12">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.1</period>
+      <semimajoraxis/>
+      <name>Kepler-1050 c</name>
+    </planet>
+    <radius errorplus="0.29" errorminus="-0.12">1.13</radius>
+    <temperature errorplus="90.67" errorminus="-99.65">6010.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.07">1.09</mass>
+    <name>Kepler-1050</name>
+  </star>
+  <distance errorplus="138.97" errorminus="-61.87">555.0</distance>
+  <rightascension>18 55 29</rightascension>
+  <declination>48 37 35</declination>
+  <name>Kepler-1050</name>
+</system>
+

@@ -1,1 +1,33 @@
-<system><rightascension>05 09 01</rightascension><star><mass errorminus="-0.18" errorplus="0.18">1.78</mass><planet><inclination></inclination><period errorminus="-29.5" errorplus="29.5">916.0</period><radius errorminus="-0.41" errorplus="0.41">5.29</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.05" errorplus="0.05">2.24</semimajoraxis><lastupdate>2016-01-14</lastupdate><name>HD 33844 c</name><eccentricity>0.13</eccentricity></planet><planet><inclination></inclination><period errorminus="-7.8" errorplus="7.8">551.4</period><radius errorminus="-0.41" errorplus="0.41">5.29</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">1.6</semimajoraxis><lastupdate>2016-01-14</lastupdate><name>HD 33844 b</name><eccentricity>0.15</eccentricity></planet><name>HD 33844</name><radius errorminus="-0.41" errorplus="0.41">5.29</radius><temperature errorminus="-100.0" errorplus="100.0">4861.0</temperature></star><distance errorminus="-6.5" errorplus="6.5">100.9</distance><name>HD 33844</name><declination>-14 57 03</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.41" errorminus="-0.41">5.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-01-14</lastupdate>
+      <inclination/>
+      <period errorplus="7.8" errorminus="-7.8">551.4</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">1.6</semimajoraxis>
+      <name>HD 33844 b</name>
+      <eccentricity>0.15</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.41" errorminus="-0.41">5.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-01-14</lastupdate>
+      <inclination/>
+      <period errorplus="29.5" errorminus="-29.5">916.0</period>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.24</semimajoraxis>
+      <name>HD 33844 c</name>
+      <eccentricity>0.13</eccentricity>
+    </planet>
+    <radius errorplus="0.41" errorminus="-0.41">5.29</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4861.0</temperature>
+    <mass errorplus="0.18" errorminus="-0.18">1.78</mass>
+    <name>HD 33844</name>
+  </star>
+  <distance errorplus="6.5" errorminus="-6.5">100.9</distance>
+  <rightascension>05 09 01</rightascension>
+  <declination>-14 57 03</declination>
+  <name>HD 33844</name>
+</system>
+

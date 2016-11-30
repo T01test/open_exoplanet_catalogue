@@ -1,1 +1,22 @@
-<system><rightascension>19 06 23</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.77</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">33.9</period><radius errorminus="-0.03" errorplus="0.03">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-925 b</name></planet><name>Kepler-925</name><radius errorminus="-0.03" errorplus="0.03">0.72</radius><temperature errorminus="-104.92" errorplus="62.23">4673.0</temperature></star><distance errorminus="-27.64" errorplus="27.48">623.0</distance><name>Kepler-925</name><declination>40 29 26</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">33.9</period>
+      <semimajoraxis/>
+      <name>Kepler-925 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.72</radius>
+    <temperature errorplus="62.23" errorminus="-104.92">4673.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.77</mass>
+    <name>Kepler-925</name>
+  </star>
+  <distance errorplus="27.48" errorminus="-27.64">623.0</distance>
+  <rightascension>19 06 23</rightascension>
+  <declination>40 29 26</declination>
+  <name>Kepler-925</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>09 06 10</rightascension><star><mass errorplus="0.05">1.09</mass><planet><inclination errorminus="-0.26" errorplus="0.26">85.19</inclination><period errorminus="-0.0" errorplus="0.0">4.4</period><radius errorplus="0.04">1.56</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00085" errorplus="0.00074">0.05362</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>WASP-13 b</name><eccentricity>0.0</eccentricity></planet><name>WASP-13</name><radius errorplus="0.04">1.56</radius><temperature errorplus="100.0">5826.0</temperature></star><distance errorminus="-18.0" errorplus="18.0">155.0</distance><name>WASP-13</name><declination>33 52 56</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.26" errorminus="-0.26">85.19</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.4</period>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00085">0.05362</semimajoraxis>
+      <name>WASP-13 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.04">1.56</radius>
+    <temperature errorplus="100.0">5826.0</temperature>
+    <mass errorplus="0.05">1.09</mass>
+    <name>WASP-13</name>
+  </star>
+  <distance errorplus="18.0" errorminus="-18.0">155.0</distance>
+  <rightascension>09 06 10</rightascension>
+  <declination>33 52 56</declination>
+  <name>WASP-13</name>
+</system>
+

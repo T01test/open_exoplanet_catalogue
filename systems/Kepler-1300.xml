@@ -1,1 +1,22 @@
-<system><rightascension>19 01 58</rightascension><star><mass errorminus="-0.15" errorplus="0.16">1.29</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.2</period><radius errorminus="-0.41" errorplus="0.38">1.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1300 b</name></planet><name>Kepler-1300</name><radius errorminus="-0.41" errorplus="0.38">1.79</radius><temperature errorminus="-108.91" errorplus="87.31">6130.0</temperature></star><distance errorminus="-171.32" errorplus="163.1">757.0</distance><name>Kepler-1300</name><declination>40 05 12</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.2</period>
+      <semimajoraxis/>
+      <name>Kepler-1300 b</name>
+    </planet>
+    <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
+    <temperature errorplus="87.31" errorminus="-108.91">6130.0</temperature>
+    <mass errorplus="0.16" errorminus="-0.15">1.29</mass>
+    <name>Kepler-1300</name>
+  </star>
+  <distance errorplus="163.1" errorminus="-171.32">757.0</distance>
+  <rightascension>19 01 58</rightascension>
+  <declination>40 05 12</declination>
+  <name>Kepler-1300</name>
+</system>
+

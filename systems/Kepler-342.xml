@@ -1,1 +1,49 @@
-<system><rightascension>19 40 41</rightascension><star><mass>1.13</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.6</period><radius errorminus="-0.26" errorplus="0.26">1.47</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-342 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">26.2</period><radius errorminus="-0.26" errorplus="0.26">1.47</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.185</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-342 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">39.5</period><radius errorminus="-0.26" errorplus="0.26">1.47</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.242</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-342 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.2</period><radius errorminus="-0.26" errorplus="0.26">1.47</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.128</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-342 b</name></planet><name>Kepler-342</name><radius errorminus="-0.26" errorplus="0.26">1.47</radius><temperature errorminus="-100.0" errorplus="100.0">6175.0</temperature></star><distance></distance><name>Kepler-342</name><declination>46 43 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.47</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.2</period>
+      <semimajoraxis>0.128</semimajoraxis>
+      <name>Kepler-342 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.47</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <semimajoraxis/>
+      <name>Kepler-342 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.47</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">39.5</period>
+      <semimajoraxis>0.242</semimajoraxis>
+      <name>Kepler-342 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.47</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">26.2</period>
+      <semimajoraxis>0.185</semimajoraxis>
+      <name>Kepler-342 c</name>
+    </planet>
+    <radius errorplus="0.26" errorminus="-0.26">1.47</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">6175.0</temperature>
+    <mass>1.13</mass>
+    <name>Kepler-342</name>
+  </star>
+  <distance/>
+  <rightascension>19 40 41</rightascension>
+  <declination>46 43 36</declination>
+  <name>Kepler-342</name>
+</system>
+

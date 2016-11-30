@@ -1,1 +1,33 @@
-<system><rightascension>02 33 38</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.29</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">19.4</period><radius errorminus="-0.1" errorplus="0.1">1.67</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.154</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 13908 b</name><eccentricity>0.02</eccentricity></planet><planet><inclination></inclination><period errorminus="-17.0" errorplus="17.0">931.0</period><radius errorminus="-0.1" errorplus="0.1">1.67</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.04">2.03</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 13908 c</name><eccentricity>0.12</eccentricity></planet><name>HD 13908</name><radius errorminus="-0.1" errorplus="0.1">1.67</radius><temperature errorminus="-66.0" errorplus="66.0">6255.0</temperature></star><distance errorminus="-4.03" errorplus="3.6">66.89</distance><name>HD 13908</name><declination>65 35 39</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="17.0" errorminus="-17.0">931.0</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">2.03</semimajoraxis>
+      <name>HD 13908 c</name>
+      <eccentricity>0.12</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">19.4</period>
+      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.154</semimajoraxis>
+      <name>HD 13908 b</name>
+      <eccentricity>0.02</eccentricity>
+    </planet>
+    <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
+    <temperature errorplus="66.0" errorminus="-66.0">6255.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.29</mass>
+    <name>HD 13908</name>
+  </star>
+  <distance errorplus="3.6" errorminus="-4.03">66.89</distance>
+  <rightascension>02 33 38</rightascension>
+  <declination>65 35 39</declination>
+  <name>HD 13908</name>
+</system>
+

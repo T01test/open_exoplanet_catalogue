@@ -1,1 +1,22 @@
-<system><rightascension>19 01 18</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.86</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.5</period><radius errorminus="-0.02" errorplus="0.03">0.81</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-479 b</name></planet><name>Kepler-479</name><radius errorminus="-0.02" errorplus="0.03">0.81</radius><temperature errorminus="-57.4" errorplus="73.63">5247.0</temperature></star><distance errorminus="-12.22" errorplus="13.02">371.0</distance><name>Kepler-479</name><declination>37 46 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.5</period>
+      <semimajoraxis/>
+      <name>Kepler-479 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.02">0.81</radius>
+    <temperature errorplus="73.63" errorminus="-57.4">5247.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.86</mass>
+    <name>Kepler-479</name>
+  </star>
+  <distance errorplus="13.02" errorminus="-12.22">371.0</distance>
+  <rightascension>19 01 18</rightascension>
+  <declination>37 46 11</declination>
+  <name>Kepler-479</name>
+</system>
+

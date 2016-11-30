@@ -1,1 +1,22 @@
-<system><rightascension>18 33 55</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.83</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.6</period><radius errorminus="-0.04" errorplus="0.04">0.79</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1361 b</name></planet><name>Kepler-1361</name><radius errorminus="-0.04" errorplus="0.04">0.79</radius><temperature errorminus="-57.72" errorplus="55.23">5131.0</temperature></star><distance errorminus="-21.27" errorplus="22.38">404.0</distance><name>Kepler-1361</name><declination>46 54 15</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1361 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+    <temperature errorplus="55.23" errorminus="-57.72">5131.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.83</mass>
+    <name>Kepler-1361</name>
+  </star>
+  <distance errorplus="22.38" errorminus="-21.27">404.0</distance>
+  <rightascension>18 33 55</rightascension>
+  <declination>46 54 15</declination>
+  <name>Kepler-1361</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>21 28 37</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.11</mass><planet><inclination errorminus="-0.65" errorplus="1.24">87.12</inclination><period errorminus="-0.0" errorplus="0.0">3.7</period><radius errorminus="-0.09" errorplus="0.06">1.22</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00062" errorplus="0.00062">0.04853</semimajoraxis><lastupdate>2014-10-15</lastupdate><name>WASP-70 A b</name><eccentricity>0.0</eccentricity></planet><name>WASP-70 A</name><radius errorminus="-0.09" errorplus="0.06">1.22</radius><temperature errorminus="-79.0" errorplus="79.0">5763.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">245.0</distance><name>WASP-70 A</name><declination>-13 25 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06" errorminus="-0.09">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-10-15</lastupdate>
+      <inclination errorplus="1.24" errorminus="-0.65">87.12</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">0.04853</semimajoraxis>
+      <name>WASP-70 A b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.06" errorminus="-0.09">1.22</radius>
+    <temperature errorplus="79.0" errorminus="-79.0">5763.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.11</mass>
+    <name>WASP-70 A</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">245.0</distance>
+  <rightascension>21 28 37</rightascension>
+  <declination>-13 25 59</declination>
+  <name>WASP-70 A</name>
+</system>
+

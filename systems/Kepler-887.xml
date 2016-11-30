@@ -1,1 +1,31 @@
-<system><rightascension>19 05 26</rightascension><star><mass errorminus="-0.04" errorplus="0.05">1.19</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.4</period><radius errorminus="-0.12" errorplus="0.19">1.29</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-887 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.6</period><radius errorminus="-0.12" errorplus="0.19">1.29</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-887 c</name></planet><name>Kepler-887</name><radius errorminus="-0.12" errorplus="0.19">1.29</radius><temperature errorminus="-49.68" errorplus="62.11">6194.0</temperature></star><distance errorminus="-74.76" errorplus="118.63">831.0</distance><name>Kepler-887</name><declination>39 49 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.6</period>
+      <semimajoraxis/>
+      <name>Kepler-887 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.4</period>
+      <semimajoraxis/>
+      <name>Kepler-887 b</name>
+    </planet>
+    <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
+    <temperature errorplus="62.11" errorminus="-49.68">6194.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.04">1.19</mass>
+    <name>Kepler-887</name>
+  </star>
+  <distance errorplus="118.63" errorminus="-74.76">831.0</distance>
+  <rightascension>19 05 26</rightascension>
+  <declination>39 49 01</declination>
+  <name>Kepler-887</name>
+</system>
+

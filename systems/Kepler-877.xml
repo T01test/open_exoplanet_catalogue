@@ -1,1 +1,22 @@
-<system><rightascension>19 51 32</rightascension><star><mass errorminus="-0.05" errorplus="0.04">0.85</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.5</period><radius errorminus="-0.05" errorplus="0.05">0.81</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-877 b</name></planet><name>Kepler-877</name><radius errorminus="-0.05" errorplus="0.05">0.81</radius><temperature errorminus="-67.02" errorplus="66.39">5261.0</temperature></star><distance errorminus="-36.45" errorplus="38.11">572.0</distance><name>Kepler-877</name><declination>46 31 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.5</period>
+      <semimajoraxis/>
+      <name>Kepler-877 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">0.81</radius>
+    <temperature errorplus="66.39" errorminus="-67.02">5261.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.85</mass>
+    <name>Kepler-877</name>
+  </star>
+  <distance errorplus="38.11" errorminus="-36.45">572.0</distance>
+  <rightascension>19 51 32</rightascension>
+  <declination>46 31 21</declination>
+  <name>Kepler-877</name>
+</system>
+

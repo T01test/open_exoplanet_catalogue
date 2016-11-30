@@ -1,1 +1,22 @@
-<system><rightascension>19 14 56</rightascension><star><mass errorminus="-0.03" errorplus="0.02">0.98</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.3</period><radius errorminus="-0.02" errorplus="0.02">0.91</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-461 b</name></planet><name>Kepler-461</name><radius errorminus="-0.02" errorplus="0.02">0.91</radius><temperature errorminus="-45.6" errorplus="43.2">5634.0</temperature></star><distance errorminus="-12.55" errorplus="12.7">468.0</distance><name>Kepler-461</name><declination>46 09 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.3</period>
+      <semimajoraxis/>
+      <name>Kepler-461 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.91</radius>
+    <temperature errorplus="43.2" errorminus="-45.6">5634.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.03">0.98</mass>
+    <name>Kepler-461</name>
+  </star>
+  <distance errorplus="12.7" errorminus="-12.55">468.0</distance>
+  <rightascension>19 14 56</rightascension>
+  <declination>46 09 53</declination>
+  <name>Kepler-461</name>
+</system>
+

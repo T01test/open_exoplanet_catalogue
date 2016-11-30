@@ -1,1 +1,22 @@
-<system><rightascension>11 05 37</rightascension><star><mass errorminus="-0.06" errorplus="0.06">0.97</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">28.7</period><radius errorminus="-0.08" errorplus="0.17">0.96</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0043" errorplus="0.0043">0.1814</semimajoraxis><lastupdate>2015-07-16</lastupdate><name>K2-7 b</name></planet><name>K2-7</name><radius errorminus="-0.08" errorplus="0.17">0.96</radius><temperature errorminus="-91.0" errorplus="72.0">5772.0</temperature></star><distance></distance><name>K2-7</name><declination>-1 03 56</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-07-16</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">28.7</period>
+      <semimajoraxis errorplus="0.0043" errorminus="-0.0043">0.1814</semimajoraxis>
+      <name>K2-7 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
+    <temperature errorplus="72.0" errorminus="-91.0">5772.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.06">0.97</mass>
+    <name>K2-7</name>
+  </star>
+  <distance/>
+  <rightascension>11 05 37</rightascension>
+  <declination>-1 03 56</declination>
+  <name>K2-7</name>
+</system>
+

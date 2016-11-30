@@ -1,1 +1,23 @@
-<system><rightascension>07 47 05</rightascension><star><mass errorminus="-0.3" errorplus="0.3">2.3</mass><planet><inclination></inclination><period errorminus="-0.1" errorplus="0.1">305.5</period><radius errorminus="-0.7" errorplus="0.7">26.8</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.17</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>tau Gem b</name><eccentricity>0.031</eccentricity></planet><name>tau Gem</name><radius errorminus="-0.7" errorplus="0.7">26.8</radius><temperature errorminus="-25.0" errorplus="25.0">4388.0</temperature></star><distance errorminus="-9.12" errorplus="7.62">92.51</distance><name>tau Gem</name><declination>30 14 42</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.7" errorminus="-0.7">26.8</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">305.5</period>
+      <semimajoraxis>1.17</semimajoraxis>
+      <name>tau Gem b</name>
+      <eccentricity>0.031</eccentricity>
+    </planet>
+    <radius errorplus="0.7" errorminus="-0.7">26.8</radius>
+    <temperature errorplus="25.0" errorminus="-25.0">4388.0</temperature>
+    <mass errorplus="0.3" errorminus="-0.3">2.3</mass>
+    <name>tau Gem</name>
+  </star>
+  <distance errorplus="7.62" errorminus="-9.12">92.51</distance>
+  <rightascension>07 47 05</rightascension>
+  <declination>30 14 42</declination>
+  <name>tau Gem</name>
+</system>
+

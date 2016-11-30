@@ -1,1 +1,49 @@
-<system><rightascension>19 01 41</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">14.7</period><radius errorminus="-0.05" errorplus="0.05">1.41</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.123</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-107 e</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">8.0</period><radius errorminus="-0.05" errorplus="0.05">1.41</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.082</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-107 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.2</period><radius errorminus="-0.05" errorplus="0.05">1.41</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.044</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-107 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.9</period><radius errorminus="-0.05" errorplus="0.05">1.41</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.059</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-107 c</name></planet><name>Kepler-107</name><radius errorminus="-0.05" errorplus="0.05">1.41</radius><temperature errorminus="-75.0" errorplus="75.0">5851.0</temperature></star><distance></distance><name>Kepler-107</name><declination>48 12 30</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <semimajoraxis>0.044</semimajoraxis>
+      <name>Kepler-107 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <semimajoraxis>0.059</semimajoraxis>
+      <name>Kepler-107 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.7</period>
+      <semimajoraxis>0.123</semimajoraxis>
+      <name>Kepler-107 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <semimajoraxis>0.082</semimajoraxis>
+      <name>Kepler-107 d</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+    <temperature errorplus="75.0" errorminus="-75.0">5851.0</temperature>
+    <mass/>
+    <name>Kepler-107</name>
+  </star>
+  <distance/>
+  <rightascension>19 01 41</rightascension>
+  <declination>48 12 30</declination>
+  <name>Kepler-107</name>
+</system>
+

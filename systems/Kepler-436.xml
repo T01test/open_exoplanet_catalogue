@@ -1,1 +1,32 @@
-<system><rightascension>20 43 14</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.73</mass><planet><inclination errorminus="-0.18" errorplus="0.07">89.93</inclination><period errorminus="-0.0" errorplus="0.0">64.0</period><radius errorminus="-0.02" errorplus="0.03">0.7</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.053" errorplus="0.134">0.339</semimajoraxis><lastupdate>2015-01-06</lastupdate><name>Kepler-436 b</name><eccentricity>0.19</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.8</period><radius errorminus="-0.02" errorplus="0.03">0.7</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-436 c</name></planet><name>Kepler-436</name><radius errorminus="-0.02" errorplus="0.03">0.7</radius><temperature errorminus="-100.0" errorplus="100.0">4651.0</temperature></star><distance errorminus="-30.0" errorplus="34.0">618.0</distance><name>Kepler-436</name><declination>44 24 43</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.8</period>
+      <semimajoraxis/>
+      <name>Kepler-436 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-01-06</lastupdate>
+      <inclination errorplus="0.07" errorminus="-0.18">89.93</inclination>
+      <period errorplus="0.0" errorminus="-0.0">64.0</period>
+      <semimajoraxis errorplus="0.134" errorminus="-0.053">0.339</semimajoraxis>
+      <name>Kepler-436 b</name>
+      <eccentricity>0.19</eccentricity>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4651.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.73</mass>
+    <name>Kepler-436</name>
+  </star>
+  <distance errorplus="34.0" errorminus="-30.0">618.0</distance>
+  <rightascension>20 43 14</rightascension>
+  <declination>44 24 43</declination>
+  <name>Kepler-436</name>
+</system>
+

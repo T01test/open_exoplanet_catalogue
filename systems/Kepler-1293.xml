@@ -1,1 +1,22 @@
-<system><rightascension>19 01 33</rightascension><star><mass errorminus="-0.1" errorplus="0.18">1.18</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.6</period><radius errorminus="-0.18" errorplus="0.55">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1293 b</name></planet><name>Kepler-1293</name><radius errorminus="-0.18" errorplus="0.55">1.28</radius><temperature errorminus="-99.8" errorplus="114.93">6241.0</temperature></star><distance errorminus="-115.71" errorplus="330.2">770.0</distance><name>Kepler-1293</name><declination>48 20 09</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.55" errorminus="-0.18">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1293 b</name>
+    </planet>
+    <radius errorplus="0.55" errorminus="-0.18">1.28</radius>
+    <temperature errorplus="114.93" errorminus="-99.8">6241.0</temperature>
+    <mass errorplus="0.18" errorminus="-0.1">1.18</mass>
+    <name>Kepler-1293</name>
+  </star>
+  <distance errorplus="330.2" errorminus="-115.71">770.0</distance>
+  <rightascension>19 01 33</rightascension>
+  <declination>48 20 09</declination>
+  <name>Kepler-1293</name>
+</system>
+

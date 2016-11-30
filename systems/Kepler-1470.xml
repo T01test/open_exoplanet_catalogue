@@ -1,1 +1,22 @@
-<system><rightascension>19 41 42</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.8</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.3</period><radius errorminus="-0.04" errorplus="0.03">0.76</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1470 b</name></planet><name>Kepler-1470</name><radius errorminus="-0.04" errorplus="0.03">0.76</radius><temperature errorminus="-94.64" errorplus="84.41">4961.0</temperature></star><distance errorminus="-29.91" errorplus="26.84">569.0</distance><name>Kepler-1470</name><declination>39 52 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.04">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1470 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.76</radius>
+    <temperature errorplus="84.41" errorminus="-94.64">4961.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.8</mass>
+    <name>Kepler-1470</name>
+  </star>
+  <distance errorplus="26.84" errorminus="-29.91">569.0</distance>
+  <rightascension>19 41 42</rightascension>
+  <declination>39 52 59</declination>
+  <name>Kepler-1470</name>
+</system>
+

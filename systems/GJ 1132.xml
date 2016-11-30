@@ -1,1 +1,23 @@
-<system><rightascension>10 42 56</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.18</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.6</period><radius errorminus="-0.02" errorplus="0.02">0.21</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2015-11-12</lastupdate><name>GJ 1132 b</name><eccentricity>0.0</eccentricity></planet><name>GJ 1132</name><radius errorminus="-0.02" errorplus="0.02">0.21</radius><temperature errorminus="-140.0" errorplus="140.0">3270.0</temperature></star><distance errorminus="-0.24" errorplus="0.24">12.04</distance><name>GJ 1132</name><declination>-47 09 24</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-11-12</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <semimajoraxis/>
+      <name>GJ 1132 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
+    <temperature errorplus="140.0" errorminus="-140.0">3270.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.18</mass>
+    <name>GJ 1132</name>
+  </star>
+  <distance errorplus="0.24" errorminus="-0.24">12.04</distance>
+  <rightascension>10 42 56</rightascension>
+  <declination>-47 09 24</declination>
+  <name>GJ 1132</name>
+</system>
+

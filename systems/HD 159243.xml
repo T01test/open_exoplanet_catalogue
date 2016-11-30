@@ -1,1 +1,33 @@
-<system><rightascension>17 20 23</rightascension><star><mass errorminus="-0.03" errorplus="0.03">1.12</mass><planet><inclination></inclination><period errorminus="-4.9" errorplus="4.9">248.4</period><radius errorminus="-0.05" errorplus="0.05">1.12</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">0.8</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 159243 c</name><eccentricity>0.075</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">12.6</period><radius errorminus="-0.05" errorplus="0.05">1.12</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.002" errorplus="0.002">0.11</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 159243 b</name><eccentricity>0.02</eccentricity></planet><name>HD 159243</name><radius errorminus="-0.05" errorplus="0.05">1.12</radius><temperature errorminus="-65.0" errorplus="65.0">6123.0</temperature></star><distance errorminus="-6.43" errorplus="5.42">68.59</distance><name>HD 159243</name><declination>05 42 02</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="4.9" errorminus="-4.9">248.4</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.8</semimajoraxis>
+      <name>HD 159243 c</name>
+      <eccentricity>0.075</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.6</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.11</semimajoraxis>
+      <name>HD 159243 b</name>
+      <eccentricity>0.02</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
+    <temperature errorplus="65.0" errorminus="-65.0">6123.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">1.12</mass>
+    <name>HD 159243</name>
+  </star>
+  <distance errorplus="5.42" errorminus="-6.43">68.59</distance>
+  <rightascension>17 20 23</rightascension>
+  <declination>05 42 02</declination>
+  <name>HD 159243</name>
+</system>
+

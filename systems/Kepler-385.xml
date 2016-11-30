@@ -1,1 +1,31 @@
-<system><rightascension>19 20 18</rightascension><star><mass>1.09</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.2</period><radius errorminus="-0.56" errorplus="0.56">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.127</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-385 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.0</period><radius errorminus="-0.56" errorplus="0.56">1.13</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.097</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-385 b</name></planet><name>Kepler-385</name><radius errorminus="-0.56" errorplus="0.56">1.13</radius><temperature errorminus="-250.0" errorplus="250.0">6326.0</temperature></star><distance></distance><name>Kepler-385</name><declination>50 20 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.56" errorminus="-0.56">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.2</period>
+      <semimajoraxis>0.127</semimajoraxis>
+      <name>Kepler-385 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.56" errorminus="-0.56">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <semimajoraxis>0.097</semimajoraxis>
+      <name>Kepler-385 b</name>
+    </planet>
+    <radius errorplus="0.56" errorminus="-0.56">1.13</radius>
+    <temperature errorplus="250.0" errorminus="-250.0">6326.0</temperature>
+    <mass>1.09</mass>
+    <name>Kepler-385</name>
+  </star>
+  <distance/>
+  <rightascension>19 20 18</rightascension>
+  <declination>50 20 11</declination>
+  <name>Kepler-385</name>
+</system>
+

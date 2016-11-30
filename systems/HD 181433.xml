@@ -1,1 +1,43 @@
-<system><rightascension>19 17 23</rightascension><star><mass>0.78</mass><planet><inclination></inclination><period errorminus="-15.0" errorplus="15.0">962.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.76</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>HD 181433 c</name><eccentricity>0.28</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">9.4</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>0.08</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>HD 181433 b</name><eccentricity>0.396</eccentricity></planet><planet><inclination></inclination><period errorminus="-158.0" errorplus="158.0">2172.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis>3.0</semimajoraxis><lastupdate>2014-07-23</lastupdate><name>HD 181433 d</name><eccentricity>0.48</eccentricity></planet><name>HD 181433</name><radius></radius><temperature errorminus="-134.0" errorplus="134.0">4962.0</temperature></star><distance errorminus="-0.81" errorplus="0.76">26.15</distance><name>HD 181433</name><declination>-66 28 07</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <semimajoraxis>0.08</semimajoraxis>
+      <name>HD 181433 b</name>
+      <eccentricity>0.396</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination/>
+      <period errorplus="158.0" errorminus="-158.0">2172.0</period>
+      <semimajoraxis>3.0</semimajoraxis>
+      <name>HD 181433 d</name>
+      <eccentricity>0.48</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-23</lastupdate>
+      <inclination/>
+      <period errorplus="15.0" errorminus="-15.0">962.0</period>
+      <semimajoraxis>1.76</semimajoraxis>
+      <name>HD 181433 c</name>
+      <eccentricity>0.28</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="134.0" errorminus="-134.0">4962.0</temperature>
+    <mass>0.78</mass>
+    <name>HD 181433</name>
+  </star>
+  <distance errorplus="0.76" errorminus="-0.81">26.15</distance>
+  <rightascension>19 17 23</rightascension>
+  <declination>-66 28 07</declination>
+  <name>HD 181433</name>
+</system>
+

@@ -1,1 +1,73 @@
-<system><rightascension>23 19 14</rightascension><star><mass errorminus="-0.02" errorplus="0.04">0.79</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">22.8</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-2e-05" errorplus="2e-05">0.14574</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 f</name><eccentricity>0.0</eccentricity></planet><planet><inclination></inclination><period errorminus="-43.0" errorplus="43.0">2247.0</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.04" errorplus="0.04">3.11</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 h</name><eccentricity>0.06</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">6.8</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-4e-06" errorplus="4e-06">0.064816</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 c</name><eccentricity>0.0</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.2" errorplus="0.2">94.2</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0004" errorplus="0.0004">0.3753</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 g</name><eccentricity>0.0</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">46.7</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-4e-05" errorplus="4e-05">0.23508</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 d</name><eccentricity>0.0</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.1</period><radius errorminus="-0.02" errorplus="0.02">0.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-1e-06" errorplus="1e-06">0.038474</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 219134 b</name><eccentricity>0.0</eccentricity></planet><name>HD 219134</name><radius errorminus="-0.02" errorplus="0.02">0.77</radius><temperature>4913.0</temperature></star><distance errorminus="-0.01" errorplus="0.01">6.55</distance><name>HD 219134</name><declination>57 10 06</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="43.0" errorminus="-43.0">2247.0</period>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">3.11</semimajoraxis>
+      <name>HD 219134 h</name>
+      <eccentricity>0.06</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <semimajoraxis errorplus="1e-06" errorminus="-1e-06">0.038474</semimajoraxis>
+      <name>HD 219134 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">46.7</period>
+      <semimajoraxis errorplus="4e-05" errorminus="-4e-05">0.23508</semimajoraxis>
+      <name>HD 219134 d</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">22.8</period>
+      <semimajoraxis errorplus="2e-05" errorminus="-2e-05">0.14574</semimajoraxis>
+      <name>HD 219134 f</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <semimajoraxis errorplus="4e-06" errorminus="-4e-06">0.064816</semimajoraxis>
+      <name>HD 219134 c</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">94.2</period>
+      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.3753</semimajoraxis>
+      <name>HD 219134 g</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+    <temperature>4913.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.02">0.79</mass>
+    <name>HD 219134</name>
+  </star>
+  <distance errorplus="0.01" errorminus="-0.01">6.55</distance>
+  <rightascension>23 19 14</rightascension>
+  <declination>57 10 06</declination>
+  <name>HD 219134</name>
+</system>
+

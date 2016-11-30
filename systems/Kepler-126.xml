@@ -1,1 +1,40 @@
-<system><rightascension>19 20 50</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">21.9</period><radius errorminus="-0.02" errorplus="0.02">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.162</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-126 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.5</period><radius errorminus="-0.02" errorplus="0.02">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.099</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-126 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">100.3</period><radius errorminus="-0.02" errorplus="0.02">1.36</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.448</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-126 d</name></planet><name>Kepler-126</name><radius errorminus="-0.02" errorplus="0.02">1.36</radius><temperature errorminus="-94.0" errorplus="94.0">6239.0</temperature></star><distance></distance><name>Kepler-126</name><declination>44 12 30</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">100.3</period>
+      <semimajoraxis>0.448</semimajoraxis>
+      <name>Kepler-126 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.9</period>
+      <semimajoraxis>0.162</semimajoraxis>
+      <name>Kepler-126 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.5</period>
+      <semimajoraxis>0.099</semimajoraxis>
+      <name>Kepler-126 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+    <temperature errorplus="94.0" errorminus="-94.0">6239.0</temperature>
+    <mass/>
+    <name>Kepler-126</name>
+  </star>
+  <distance/>
+  <rightascension>19 20 50</rightascension>
+  <declination>44 12 30</declination>
+  <name>Kepler-126</name>
+</system>
+

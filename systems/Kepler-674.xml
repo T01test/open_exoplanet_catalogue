@@ -1,1 +1,22 @@
-<system><rightascension>19 10 34</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.6</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.2</period><radius errorminus="-0.02" errorplus="0.03">0.57</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-674 b</name></planet><name>Kepler-674</name><radius errorminus="-0.02" errorplus="0.03">0.57</radius><temperature errorminus="-42.83" errorplus="40.95">4192.0</temperature></star><distance errorminus="-17.56" errorplus="18.81">302.0</distance><name>Kepler-674</name><declination>50 08 59</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.02">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <semimajoraxis/>
+      <name>Kepler-674 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.02">0.57</radius>
+    <temperature errorplus="40.95" errorminus="-42.83">4192.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.6</mass>
+    <name>Kepler-674</name>
+  </star>
+  <distance errorplus="18.81" errorminus="-17.56">302.0</distance>
+  <rightascension>19 10 34</rightascension>
+  <declination>50 08 59</declination>
+  <name>Kepler-674</name>
+</system>
+

@@ -1,1 +1,52 @@
-<system><rightascension>17 32 48</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.71</mass><planet><inclination errorminus="-11.0" errorplus="21.0">45.0</inclination><period errorminus="-0.4" errorplus="0.4">1051.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.002">1.812</semimajoraxis><lastupdate>2016-09-29</lastupdate><name>GJ 676 A b</name><eccentricity>0.323</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.6</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-09-29</lastupdate><name>GJ 676 A d</name><eccentricity>0.262</eccentricity></planet><planet><inclination></inclination><period errorminus="-92.0" errorplus="95.0">7337.0</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.1" errorplus="0.1">6.6</semimajoraxis><lastupdate>2016-09-29</lastupdate><name>GJ 676 A c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">35.4</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-09-29</lastupdate><name>GJ 676 A e</name><eccentricity>0.125</eccentricity></planet><name>GJ 676 A</name><radius></radius><temperature></temperature></star><distance errorminus="-0.1" errorplus="0.1">16.9</distance><name>GJ 676 A</name><declination>-51 38 13</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-29</lastupdate>
+      <inclination/>
+      <period errorplus="95.0" errorminus="-92.0">7337.0</period>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">6.6</semimajoraxis>
+      <name>GJ 676 A c</name>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-29</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <semimajoraxis/>
+      <name>GJ 676 A d</name>
+      <eccentricity>0.262</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-29</lastupdate>
+      <inclination errorplus="21.0" errorminus="-11.0">45.0</inclination>
+      <period errorplus="0.4" errorminus="-0.4">1051.1</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.001">1.812</semimajoraxis>
+      <name>GJ 676 A b</name>
+      <eccentricity>0.323</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-29</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">35.4</period>
+      <semimajoraxis/>
+      <name>GJ 676 A e</name>
+      <eccentricity>0.125</eccentricity>
+    </planet>
+    <radius/>
+    <temperature/>
+    <mass errorplus="0.04" errorminus="-0.04">0.71</mass>
+    <name>GJ 676 A</name>
+  </star>
+  <distance errorplus="0.1" errorminus="-0.1">16.9</distance>
+  <rightascension>17 32 48</rightascension>
+  <declination>-51 38 13</declination>
+  <name>GJ 676 A</name>
+</system>
+

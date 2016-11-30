@@ -1,1 +1,33 @@
-<system><rightascension>08 19 07</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.01</mass><planet><inclination></inclination><period errorminus="-0.5" errorplus="0.5">379.1</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.02" errorplus="0.02">1.03</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 73526 c</name><eccentricity>0.28</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.1" errorplus="0.1">188.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.01" errorplus="0.01">0.65</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 73526 b</name><eccentricity>0.29</eccentricity></planet><name>HD 73526</name><radius></radius><temperature></temperature></star><distance errorminus="-9.99" errorplus="8.25">94.61</distance><name>HD 73526</name><declination>-41 19 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">379.1</period>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">1.03</semimajoraxis>
+      <name>HD 73526 c</name>
+      <eccentricity>0.28</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">188.9</period>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.65</semimajoraxis>
+      <name>HD 73526 b</name>
+      <eccentricity>0.29</eccentricity>
+    </planet>
+    <radius/>
+    <temperature/>
+    <mass errorplus="0.05" errorminus="-0.05">1.01</mass>
+    <name>HD 73526</name>
+  </star>
+  <distance errorplus="8.25" errorminus="-9.99">94.61</distance>
+  <rightascension>08 19 07</rightascension>
+  <declination>-41 19 08</declination>
+  <name>HD 73526</name>
+</system>
+

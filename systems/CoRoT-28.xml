@@ -1,1 +1,23 @@
-<system><rightascension>18 41 18</rightascension><star><mass errorminus="-0.14" errorplus="0.14">1.01</mass><planet><inclination errorminus="-0.8" errorplus="0.8">88.1</inclination><period errorminus="-0.0" errorplus="0.0">5.2</period><radius errorminus="-0.11" errorplus="0.11">1.78</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.005" errorplus="0.005">0.0603</semimajoraxis><lastupdate>2015-04-16</lastupdate><name>CoRoT-28 b</name><eccentricity>0.047</eccentricity></planet><name>CoRoT-28</name><radius errorminus="-0.11" errorplus="0.11">1.78</radius><temperature errorminus="-100.0" errorplus="100.0">5150.0</temperature></star><distance errorminus="-70.0" errorplus="70.0">560.0</distance><name>CoRoT-28</name><declination>05 34 25</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.11" errorminus="-0.11">1.78</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-04-16</lastupdate>
+      <inclination errorplus="0.8" errorminus="-0.8">88.1</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.0603</semimajoraxis>
+      <name>CoRoT-28 b</name>
+      <eccentricity>0.047</eccentricity>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.11">1.78</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5150.0</temperature>
+    <mass errorplus="0.14" errorminus="-0.14">1.01</mass>
+    <name>CoRoT-28</name>
+  </star>
+  <distance errorplus="70.0" errorminus="-70.0">560.0</distance>
+  <rightascension>18 41 18</rightascension>
+  <declination>05 34 25</declination>
+  <name>CoRoT-28</name>
+</system>
+

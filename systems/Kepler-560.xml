@@ -1,1 +1,22 @@
-<system><rightascension>20 12 21</rightascension><star><mass errorminus="-0.02" errorplus="0.02">0.34</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.5</period><radius errorminus="-0.02" errorplus="0.02">0.33</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-560 b</name></planet><name>Kepler-560</name><radius errorminus="-0.02" errorplus="0.02">0.33</radius><temperature errorminus="-23.6" errorplus="30.41">3556.0</temperature></star><distance errorminus="-5.22" errorplus="4.78">88.0</distance><name>Kepler-560</name><declination>45 01 05</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.33</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.5</period>
+      <semimajoraxis/>
+      <name>Kepler-560 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.33</radius>
+    <temperature errorplus="30.41" errorminus="-23.6">3556.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">0.34</mass>
+    <name>Kepler-560</name>
+  </star>
+  <distance errorplus="4.78" errorminus="-5.22">88.0</distance>
+  <rightascension>20 12 21</rightascension>
+  <declination>45 01 05</declination>
+  <name>Kepler-560</name>
+</system>
+

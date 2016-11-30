@@ -1,1 +1,31 @@
-<system><rightascension>19 38 28</rightascension><star><mass>0.83</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.7</period><radius>0.73</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-57 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.6</period><radius>0.73</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-57 c</name></planet><name>Kepler-57</name><radius>0.73</radius><temperature>5145.0</temperature></star><distance></distance><name>Kepler-57</name><declination>44 39 25</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius>0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+      <semimajoraxis/>
+      <name>Kepler-57 c</name>
+    </planet>
+    <planet>
+      <radius>0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <semimajoraxis/>
+      <name>Kepler-57 b</name>
+    </planet>
+    <radius>0.73</radius>
+    <temperature>5145.0</temperature>
+    <mass>0.83</mass>
+    <name>Kepler-57</name>
+  </star>
+  <distance/>
+  <rightascension>19 38 28</rightascension>
+  <declination>44 39 25</declination>
+  <name>Kepler-57</name>
+</system>
+

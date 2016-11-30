@@ -1,1 +1,53 @@
-<system><rightascension>19 19 59</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.28</mass><planet><inclination errorminus="-0.57" errorplus="0.57">89.3</inclination><period errorminus="-0.0" errorplus="0.0">3.7</period><radius errorminus="-0.14" errorplus="0.14">1.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00067" errorplus="0.00067">0.05119</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-94 b</name><eccentricity>0.25</eccentricity></planet><planet><inclination errorminus="-0.123" errorplus="0.123">89.871</inclination><period errorminus="-0.0" errorplus="0.0">22.3</period><radius errorminus="-0.14" errorplus="0.14">1.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0022" errorplus="0.0022">0.1684</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-94 d</name><eccentricity>0.022</eccentricity></planet><planet><inclination errorminus="-0.75" errorplus="0.75">88.36</inclination><period errorminus="-0.0" errorplus="0.0">10.4</period><radius errorminus="-0.14" errorplus="0.14">1.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0013" errorplus="0.0013">0.1013</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-94 c</name><eccentricity>0.43</eccentricity></planet><planet><inclination errorminus="-0.15" errorplus="0.15">89.76</inclination><period errorminus="-0.0" errorplus="0.0">54.3</period><radius errorminus="-0.14" errorplus="0.14">1.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.004" errorplus="0.004">0.3046</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KOI-94 e</name><eccentricity>0.019</eccentricity></planet><name>KOI-94</name><radius errorminus="-0.14" errorplus="0.14">1.52</radius><temperature errorminus="-58.0" errorplus="58.0">6182.0</temperature></star><distance></distance><name>KOI-94</name><declination>41 53 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.57" errorminus="-0.57">89.3</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <semimajoraxis errorplus="0.00067" errorminus="-0.00067">0.05119</semimajoraxis>
+      <name>KOI-94 b</name>
+      <eccentricity>0.25</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.75" errorminus="-0.75">88.36</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.4</period>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.1013</semimajoraxis>
+      <name>KOI-94 c</name>
+      <eccentricity>0.43</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.123" errorminus="-0.123">89.871</inclination>
+      <period errorplus="0.0" errorminus="-0.0">22.3</period>
+      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.1684</semimajoraxis>
+      <name>KOI-94 d</name>
+      <eccentricity>0.022</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.15" errorminus="-0.15">89.76</inclination>
+      <period errorplus="0.0" errorminus="-0.0">54.3</period>
+      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.3046</semimajoraxis>
+      <name>KOI-94 e</name>
+      <eccentricity>0.019</eccentricity>
+    </planet>
+    <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+    <temperature errorplus="58.0" errorminus="-58.0">6182.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.28</mass>
+    <name>KOI-94</name>
+  </star>
+  <distance/>
+  <rightascension>19 19 59</rightascension>
+  <declination>41 53 28</declination>
+  <name>KOI-94</name>
+</system>
+

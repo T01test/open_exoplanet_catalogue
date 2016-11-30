@@ -1,1 +1,33 @@
-<system><rightascension>18 37 42</rightascension><star><mass errorminus="-0.01" errorplus="0.01">0.87</mass><planet><inclination></inclination><period errorminus="-0.1" errorplus="0.1">75.8</period><radius errorminus="-0.02" errorplus="0.02">1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.0015">0.3351</semimajoraxis><lastupdate>2016-10-27</lastupdate><name>HD 164922 c</name><eccentricity>0.22</eccentricity></planet><planet><inclination></inclination><period errorminus="-5.5" errorplus="5.6">1201.1</period><radius errorminus="-0.02" errorplus="0.02">1.0</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.012" errorplus="0.012">2.115</semimajoraxis><lastupdate>2016-10-27</lastupdate><name>HD 164922 b</name><eccentricity>0.126</eccentricity></planet><name>HD 164922</name><radius errorminus="-0.02" errorplus="0.02">1.0</radius><temperature errorminus="-32.0" errorplus="32.0">5293.0</temperature></star><distance errorminus="-0.27" errorplus="0.27">22.13</distance><name>HD 164922</name><declination>26 18 46</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-10-27</lastupdate>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">75.8</period>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.3351</semimajoraxis>
+      <name>HD 164922 c</name>
+      <eccentricity>0.22</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-10-27</lastupdate>
+      <inclination/>
+      <period errorplus="5.6" errorminus="-5.5">1201.1</period>
+      <semimajoraxis errorplus="0.012" errorminus="-0.012">2.115</semimajoraxis>
+      <name>HD 164922 b</name>
+      <eccentricity>0.126</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
+    <temperature errorplus="32.0" errorminus="-32.0">5293.0</temperature>
+    <mass errorplus="0.01" errorminus="-0.01">0.87</mass>
+    <name>HD 164922</name>
+  </star>
+  <distance errorplus="0.27" errorminus="-0.27">22.13</distance>
+  <rightascension>18 37 42</rightascension>
+  <declination>26 18 46</declination>
+  <name>HD 164922</name>
+</system>
+

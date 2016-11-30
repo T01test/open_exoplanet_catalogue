@@ -1,1 +1,33 @@
-<system><rightascension>00 40 28</rightascension><star><mass>1.02</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">13.5</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0039" errorplus="0.0039">0.1117</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 1461 c</name><eccentricity>0.305</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.8</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0022" errorplus="0.0022">0.0634</semimajoraxis><lastupdate>2015-11-19</lastupdate><name>HD 1461 b</name><eccentricity>0.172</eccentricity></planet><name>HD 1461</name><radius></radius><temperature errorminus="-18.0" errorplus="18.0">5765.0</temperature></star><distance errorminus="-0.48" errorplus="0.46">23.44</distance><name>HD 1461</name><declination>-8 03 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.0634</semimajoraxis>
+      <name>HD 1461 b</name>
+      <eccentricity>0.172</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-11-19</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.5</period>
+      <semimajoraxis errorplus="0.0039" errorminus="-0.0039">0.1117</semimajoraxis>
+      <name>HD 1461 c</name>
+      <eccentricity>0.305</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="18.0" errorminus="-18.0">5765.0</temperature>
+    <mass>1.02</mass>
+    <name>HD 1461</name>
+  </star>
+  <distance errorplus="0.46" errorminus="-0.48">23.44</distance>
+  <rightascension>00 40 28</rightascension>
+  <declination>-8 03 10</declination>
+  <name>HD 1461</name>
+</system>
+

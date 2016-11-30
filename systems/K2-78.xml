@@ -1,1 +1,22 @@
-<system><rightascension>03 13 31</rightascension><star><mass errorminus="-0.09" errorplus="0.09">0.9</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.3</period><radius errorminus="-0.12" errorplus="0.12">0.88</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0328</semimajoraxis><lastupdate>2016-07-18</lastupdate><name>K2-78 b</name></planet><name>K2-78</name><radius errorminus="-0.12" errorplus="0.12">0.88</radius><temperature errorminus="-203.0" errorplus="203.0">5729.0</temperature></star><distance></distance><name>K2-78</name><declination>13 29 00</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.88</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-18</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.3</period>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0328</semimajoraxis>
+      <name>K2-78 b</name>
+    </planet>
+    <radius errorplus="0.12" errorminus="-0.12">0.88</radius>
+    <temperature errorplus="203.0" errorminus="-203.0">5729.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">0.9</mass>
+    <name>K2-78</name>
+  </star>
+  <distance/>
+  <rightascension>03 13 31</rightascension>
+  <declination>13 29 00</declination>
+  <name>K2-78</name>
+</system>
+

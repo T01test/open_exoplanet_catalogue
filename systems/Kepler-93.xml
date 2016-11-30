@@ -1,1 +1,32 @@
-<system><rightascension>19 25 05</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.91</mass><planet><inclination errorminus="-0.044" errorplus="0.044">89.183</inclination><period errorminus="-0.0" errorplus="0.0">4.7</period><radius errorminus="-0.01" errorplus="0.01">0.92</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.002" errorplus="0.002">0.053</semimajoraxis><lastupdate>2015-04-16</lastupdate><name>Kepler-93 b</name><eccentricity>0.0</eccentricity></planet><planet><inclination></inclination><period>1460.0</period><radius errorminus="-0.01" errorplus="0.01">0.92</radius><discoverymethod>RV</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-93 c</name></planet><name>Kepler-93</name><radius errorminus="-0.01" errorplus="0.01">0.92</radius><temperature errorminus="-75.0" errorplus="75.0">5669.0</temperature></star><distance></distance><name>Kepler-93</name><declination>38 40 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-04-16</lastupdate>
+      <inclination errorplus="0.044" errorminus="-0.044">89.183</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
+      <name>Kepler-93 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>1460.0</period>
+      <semimajoraxis/>
+      <name>Kepler-93 c</name>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+    <temperature errorplus="75.0" errorminus="-75.0">5669.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
+    <name>Kepler-93</name>
+  </star>
+  <distance/>
+  <rightascension>19 25 05</rightascension>
+  <declination>38 40 20</declination>
+  <name>Kepler-93</name>
+</system>
+

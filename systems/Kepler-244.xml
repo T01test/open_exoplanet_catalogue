@@ -1,1 +1,40 @@
-<system><rightascension>19 14 33</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">9.8</period><radius errorminus="-0.34" errorplus="0.34">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.087</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-244 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.1</period><radius errorminus="-0.34" errorplus="0.34">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.14</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-244 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.3</period><radius errorminus="-0.34" errorplus="0.34">0.8</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.05</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-244 b</name></planet><name>Kepler-244</name><radius errorminus="-0.34" errorplus="0.34">0.8</radius><temperature errorminus="-200.0" errorplus="200.0">5554.0</temperature></star><distance></distance><name>Kepler-244</name><declination>42 18 04</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.34" errorminus="-0.34">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.1</period>
+      <semimajoraxis>0.14</semimajoraxis>
+      <name>Kepler-244 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.34" errorminus="-0.34">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.8</period>
+      <semimajoraxis>0.087</semimajoraxis>
+      <name>Kepler-244 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.34" errorminus="-0.34">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <semimajoraxis>0.05</semimajoraxis>
+      <name>Kepler-244 b</name>
+    </planet>
+    <radius errorplus="0.34" errorminus="-0.34">0.8</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5554.0</temperature>
+    <mass/>
+    <name>Kepler-244</name>
+  </star>
+  <distance/>
+  <rightascension>19 14 33</rightascension>
+  <declination>42 18 04</declination>
+  <name>Kepler-244</name>
+</system>
+

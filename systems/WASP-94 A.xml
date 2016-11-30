@@ -1,1 +1,23 @@
-<system><rightascension>20 46 59</rightascension><star><mass errorminus="-0.09" errorplus="0.09">1.45</mass><planet><inclination errorminus="-0.7" errorplus="0.7">88.7</inclination><period errorminus="-0.0" errorplus="0.0">4.0</period><radius errorminus="-0.04" errorplus="0.05">1.62</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.055</semimajoraxis><lastupdate>2014-10-03</lastupdate><name>WASP-94 A b</name><eccentricity>0.13</eccentricity></planet><name>WASP-94 A</name><radius errorminus="-0.04" errorplus="0.05">1.62</radius><temperature errorminus="-76.0" errorplus="75.0">6153.0</temperature></star><distance errorminus="-20.0" errorplus="20.0">180.0</distance><name>WASP-94 A</name><declination>-34 08 07</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">1.62</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-10-03</lastupdate>
+      <inclination errorplus="0.7" errorminus="-0.7">88.7</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.055</semimajoraxis>
+      <name>WASP-94 A b</name>
+      <eccentricity>0.13</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.04">1.62</radius>
+    <temperature errorplus="75.0" errorminus="-76.0">6153.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.09">1.45</mass>
+    <name>WASP-94 A</name>
+  </star>
+  <distance errorplus="20.0" errorminus="-20.0">180.0</distance>
+  <rightascension>20 46 59</rightascension>
+  <declination>-34 08 07</declination>
+  <name>WASP-94 A</name>
+</system>
+

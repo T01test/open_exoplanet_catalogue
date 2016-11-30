@@ -1,1 +1,43 @@
-<system><rightascension>18 15 00</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.22</mass><planet><inclination errorminus="-0.19" errorplus="0.17">88.72</inclination><period errorminus="-0.0" errorplus="0.0">5.1</period><radius errorminus="-0.04" errorplus="0.04">0.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2015-01-14</lastupdate><name>Kepler-446 d</name><eccentricity>0.0</eccentricity></planet><planet><inclination errorminus="-0.37" errorplus="0.62">87.42</inclination><period errorminus="-0.0" errorplus="0.0">1.6</period><radius errorminus="-0.04" errorplus="0.04">0.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2015-01-14</lastupdate><name>Kepler-446 b</name><eccentricity>0.0</eccentricity></planet><planet><inclination errorminus="-0.46" errorplus="0.57">88.97</inclination><period errorminus="-0.0" errorplus="0.0">3.0</period><radius errorminus="-0.04" errorplus="0.04">0.24</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2015-01-14</lastupdate><name>Kepler-446 c</name><eccentricity>0.0</eccentricity></planet><name>Kepler-446</name><radius errorminus="-0.04" errorplus="0.04">0.24</radius><temperature errorminus="-60.0" errorplus="60.0">3359.0</temperature></star><distance>120.0</distance><name>Kepler-446</name><declination>44 55 15</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-01-14</lastupdate>
+      <inclination errorplus="0.17" errorminus="-0.19">88.72</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <semimajoraxis/>
+      <name>Kepler-446 d</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-01-14</lastupdate>
+      <inclination errorplus="0.57" errorminus="-0.46">88.97</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <semimajoraxis/>
+      <name>Kepler-446 c</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-01-14</lastupdate>
+      <inclination errorplus="0.62" errorminus="-0.37">87.42</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <semimajoraxis/>
+      <name>Kepler-446 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.24</radius>
+    <temperature errorplus="60.0" errorminus="-60.0">3359.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.22</mass>
+    <name>Kepler-446</name>
+  </star>
+  <distance>120.0</distance>
+  <rightascension>18 15 00</rightascension>
+  <declination>44 55 15</declination>
+  <name>Kepler-446</name>
+</system>
+

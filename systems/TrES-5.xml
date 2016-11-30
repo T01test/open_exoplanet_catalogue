@@ -1,1 +1,22 @@
-<system><rightascension>20 13 18</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.9</mass><planet><inclination errorminus="-0.26" errorplus="0.26">84.27</inclination><period errorminus="-0.0" errorplus="0.0">1.5</period><radius errorminus="-0.01" errorplus="0.01">0.87</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0007" errorplus="0.0007">0.02459</semimajoraxis><lastupdate>2015-04-16</lastupdate><name>TrES-5 b</name></planet><name>TrES-5</name><radius errorminus="-0.01" errorplus="0.01">0.87</radius><temperature errorminus="-36.0" errorplus="36.0">5171.0</temperature></star><distance errorminus="-11.0" errorplus="11.0">360.0</distance><name>TrES-5</name><declination>59 26 55</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-04-16</lastupdate>
+      <inclination errorplus="0.26" errorminus="-0.26">84.27</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.5</period>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.02459</semimajoraxis>
+      <name>TrES-5 b</name>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">0.87</radius>
+    <temperature errorplus="36.0" errorminus="-36.0">5171.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.9</mass>
+    <name>TrES-5</name>
+  </star>
+  <distance errorplus="11.0" errorminus="-11.0">360.0</distance>
+  <rightascension>20 13 18</rightascension>
+  <declination>59 26 55</declination>
+  <name>TrES-5</name>
+</system>
+

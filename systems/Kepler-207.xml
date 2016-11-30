@@ -1,1 +1,40 @@
-<system><rightascension>19 01 49</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.9</period><radius errorminus="-0.3" errorplus="0.3">1.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.068</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-207 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">1.6</period><radius errorminus="-0.3" errorplus="0.3">1.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.029</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-207 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.1</period><radius errorminus="-0.3" errorplus="0.3">1.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.044</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-207 c</name></planet><name>Kepler-207</name><radius errorminus="-0.3" errorplus="0.3">1.59</radius><temperature errorminus="-116.0" errorplus="116.0">5920.0</temperature></star><distance></distance><name>Kepler-207</name><declination>42 09 57</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.3" errorminus="-0.3">1.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <semimajoraxis>0.029</semimajoraxis>
+      <name>Kepler-207 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.3" errorminus="-0.3">1.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <semimajoraxis>0.044</semimajoraxis>
+      <name>Kepler-207 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.3" errorminus="-0.3">1.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <semimajoraxis>0.068</semimajoraxis>
+      <name>Kepler-207 d</name>
+    </planet>
+    <radius errorplus="0.3" errorminus="-0.3">1.59</radius>
+    <temperature errorplus="116.0" errorminus="-116.0">5920.0</temperature>
+    <mass/>
+    <name>Kepler-207</name>
+  </star>
+  <distance/>
+  <rightascension>19 01 49</rightascension>
+  <declination>42 09 57</declination>
+  <name>Kepler-207</name>
+</system>
+

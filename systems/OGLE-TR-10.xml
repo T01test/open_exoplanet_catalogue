@@ -1,1 +1,22 @@
-<system><rightascension>17 52 03</rightascension><star><mass errorplus="0.12">1.14</mass><planet><inclination errorminus="-3.9" errorplus="0.0">90.0</inclination><period>3.1</period><radius errorplus="0.13">1.17</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.0013">0.0434</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>OGLE-TR-10 b</name></planet><name>OGLE-TR-10</name><radius errorplus="0.13">1.17</radius><temperature errorplus="130.0">5950.0</temperature></star><distance></distance><name>OGLE-TR-10</name><declination>-29 52 34</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.13">1.17</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.0" errorminus="-3.9">90.0</inclination>
+      <period>3.1</period>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0015">0.0434</semimajoraxis>
+      <name>OGLE-TR-10 b</name>
+    </planet>
+    <radius errorplus="0.13">1.17</radius>
+    <temperature errorplus="130.0">5950.0</temperature>
+    <mass errorplus="0.12">1.14</mass>
+    <name>OGLE-TR-10</name>
+  </star>
+  <distance/>
+  <rightascension>17 52 03</rightascension>
+  <declination>-29 52 34</declination>
+  <name>OGLE-TR-10</name>
+</system>
+

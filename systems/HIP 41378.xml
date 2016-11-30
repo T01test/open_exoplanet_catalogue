@@ -1,1 +1,58 @@
-<system><rightascension>08 36 57</rightascension><star><mass errorminus="-0.06" errorplus="0.06">1.15</mass><planet><inclination errorminus="-0.52" errorplus="0.52">89.58</inclination><period errorminus="-0.0" errorplus="0.0">31.7</period><radius errorminus="-0.19" errorplus="0.19">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-07-07</lastupdate><name>HIP 41378 c</name></planet><planet><inclination errorminus="-1.6" errorplus="1.6">88.4</inclination><period errorminus="-0.0" errorplus="0.0">15.6</period><radius errorminus="-0.19" errorplus="0.19">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-07-07</lastupdate><name>HIP 41378 b</name></planet><planet><inclination></inclination><period errorminus="-36.0" errorplus="61.0">131.0</period><radius errorminus="-0.19" errorplus="0.19">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-07-07</lastupdate><name>HIP 41378 e</name></planet><planet><inclination></inclination><period errorminus="-78.0" errorplus="163.0">156.0</period><radius errorminus="-0.19" errorplus="0.19">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-07-07</lastupdate><name>HIP 41378 d</name></planet><planet><inclination></inclination><period errorminus="-126.0" errorplus="121.0">324.0</period><radius errorminus="-0.19" errorplus="0.19">1.4</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-07-07</lastupdate><name>HIP 41378 f</name></planet><name>HIP 41378</name><radius errorminus="-0.19" errorplus="0.19">1.4</radius><temperature errorminus="-50.0" errorplus="50.0">6199.0</temperature></star><distance errorminus="-21.79" errorplus="15.84">116.14</distance><name>HIP 41378</name><declination>10 04 49</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination/>
+      <period errorplus="163.0" errorminus="-78.0">156.0</period>
+      <semimajoraxis/>
+      <name>HIP 41378 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination/>
+      <period errorplus="121.0" errorminus="-126.0">324.0</period>
+      <semimajoraxis/>
+      <name>HIP 41378 f</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination/>
+      <period errorplus="61.0" errorminus="-36.0">131.0</period>
+      <semimajoraxis/>
+      <name>HIP 41378 e</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="0.52" errorminus="-0.52">89.58</inclination>
+      <period errorplus="0.0" errorminus="-0.0">31.7</period>
+      <semimajoraxis/>
+      <name>HIP 41378 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="1.6" errorminus="-1.6">88.4</inclination>
+      <period errorplus="0.0" errorminus="-0.0">15.6</period>
+      <semimajoraxis/>
+      <name>HIP 41378 b</name>
+    </planet>
+    <radius errorplus="0.19" errorminus="-0.19">1.4</radius>
+    <temperature errorplus="50.0" errorminus="-50.0">6199.0</temperature>
+    <mass errorplus="0.06" errorminus="-0.06">1.15</mass>
+    <name>HIP 41378</name>
+  </star>
+  <distance errorplus="15.84" errorminus="-21.79">116.14</distance>
+  <rightascension>08 36 57</rightascension>
+  <declination>10 04 49</declination>
+  <name>HIP 41378</name>
+</system>
+

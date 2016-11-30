@@ -1,1 +1,22 @@
-<system><rightascension>11 44 44</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.63</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.0</period><radius errorminus="-0.02" errorplus="0.02">0.6</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.0777</semimajoraxis><lastupdate>2015-07-16</lastupdate><name>K2-4 b</name></planet><name>K2-4</name><radius errorminus="-0.02" errorplus="0.02">0.6</radius><temperature errorminus="-43.0" errorplus="45.0">4197.0</temperature></star><distance></distance><name>K2-4</name><declination>-3 54 20</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-07-16</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0777</semimajoraxis>
+      <name>K2-4 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
+    <temperature errorplus="45.0" errorminus="-43.0">4197.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.63</mass>
+    <name>K2-4</name>
+  </star>
+  <distance/>
+  <rightascension>11 44 44</rightascension>
+  <declination>-3 54 20</declination>
+  <name>K2-4</name>
+</system>
+

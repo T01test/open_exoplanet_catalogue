@@ -1,1 +1,23 @@
-<system><rightascension>19 36 55</rightascension><star><mass errorminus="-0.09" errorplus="0.05">1.22</mass><planet><inclination errorminus="-2.05" errorplus="0.24">89.76</inclination><period errorminus="-0.0" errorplus="0.0">3.2</period><radius errorminus="-0.08" errorplus="0.07">1.49</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0456</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-4 b</name><eccentricity>0.0</eccentricity></planet><name>Kepler-4</name><radius errorminus="-0.08" errorplus="0.07">1.49</radius><temperature errorminus="-120.0" errorplus="120.0">5857.0</temperature></star><distance errorminus="-80.0" errorplus="80.0">550.0</distance><name>Kepler-4</name><declination>50 08 08</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.08">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.24" errorminus="-2.05">89.76</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0456</semimajoraxis>
+      <name>Kepler-4 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.07" errorminus="-0.08">1.49</radius>
+    <temperature errorplus="120.0" errorminus="-120.0">5857.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.09">1.22</mass>
+    <name>Kepler-4</name>
+  </star>
+  <distance errorplus="80.0" errorminus="-80.0">550.0</distance>
+  <rightascension>19 36 55</rightascension>
+  <declination>50 08 08</declination>
+  <name>Kepler-4</name>
+</system>
+

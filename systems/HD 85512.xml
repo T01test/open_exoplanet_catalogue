@@ -1,1 +1,23 @@
-<system><rightascension>09 46 45</rightascension><star><mass>0.69</mass><planet><inclination>90.0</inclination><period errorminus="-0.1" errorplus="0.1">58.4</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.005" errorplus="0.005">0.26</semimajoraxis><lastupdate>2015-04-16</lastupdate><name>HD 85512 b</name><eccentricity>0.11</eccentricity></planet><name>HD 85512</name><radius></radius><temperature errorminus="-102.0" errorplus="102.0">4715.0</temperature></star><distance errorminus="-0.1" errorplus="0.1">11.15</distance><name>HD 85512</name><declination>-43 30 10</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-04-16</lastupdate>
+      <inclination>90.0</inclination>
+      <period errorplus="0.1" errorminus="-0.1">58.4</period>
+      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.26</semimajoraxis>
+      <name>HD 85512 b</name>
+      <eccentricity>0.11</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="102.0" errorminus="-102.0">4715.0</temperature>
+    <mass>0.69</mass>
+    <name>HD 85512</name>
+  </star>
+  <distance errorplus="0.1" errorminus="-0.1">11.15</distance>
+  <rightascension>09 46 45</rightascension>
+  <declination>-43 30 10</declination>
+  <name>HD 85512</name>
+</system>
+

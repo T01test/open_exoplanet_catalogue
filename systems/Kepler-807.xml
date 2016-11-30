@@ -1,1 +1,22 @@
-<system><rightascension>19 01 12</rightascension><star><mass errorminus="-0.07" errorplus="0.07">1.04</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">117.9</period><radius errorminus="-0.11" errorplus="0.2">1.06</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-807 b</name></planet><name>Kepler-807</name><radius errorminus="-0.11" errorplus="0.2">1.06</radius><temperature errorminus="-92.14" errorplus="92.34">5965.0</temperature></star><distance errorminus="-138.23" errorplus="248.77">1312.0</distance><name>Kepler-807</name><declination>48 07 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.2" errorminus="-0.11">1.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">117.9</period>
+      <semimajoraxis/>
+      <name>Kepler-807 b</name>
+    </planet>
+    <radius errorplus="0.2" errorminus="-0.11">1.06</radius>
+    <temperature errorplus="92.34" errorminus="-92.14">5965.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.07">1.04</mass>
+    <name>Kepler-807</name>
+  </star>
+  <distance errorplus="248.77" errorminus="-138.23">1312.0</distance>
+  <rightascension>19 01 12</rightascension>
+  <declination>48 07 11</declination>
+  <name>Kepler-807</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>00 21 43</rightascension><star><mass errorplus="0.03">1.32</mass><planet><inclination errorminus="-1.9" errorplus="1.3">87.8</inclination><period errorminus="-0.0" errorplus="0.0">1.2</period><radius errorplus="0.04">1.46</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00016" errorplus="0.00016">0.02466</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>KELT-1 b</name><eccentricity>0.0099</eccentricity></planet><name>KELT-1</name><radius errorplus="0.04">1.46</radius><temperature errorplus="50.0">6518.0</temperature></star><distance errorminus="-14.0" errorplus="14.0">262.0</distance><name>KELT-1</name><declination>39 23 01</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04">1.46</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.3" errorminus="-1.9">87.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.2</period>
+      <semimajoraxis errorplus="0.00016" errorminus="-0.00016">0.02466</semimajoraxis>
+      <name>KELT-1 b</name>
+      <eccentricity>0.0099</eccentricity>
+    </planet>
+    <radius errorplus="0.04">1.46</radius>
+    <temperature errorplus="50.0">6518.0</temperature>
+    <mass errorplus="0.03">1.32</mass>
+    <name>KELT-1</name>
+  </star>
+  <distance errorplus="14.0" errorminus="-14.0">262.0</distance>
+  <rightascension>00 21 43</rightascension>
+  <declination>39 23 01</declination>
+  <name>KELT-1</name>
+</system>
+

@@ -1,1 +1,33 @@
-<system><rightascension>19 07 20</rightascension><star><mass errorminus="-0.04" errorplus="0.04">1.05</mass><planet><inclination errorminus="-0.086" errorplus="0.086">89.845</inclination><period errorminus="-0.0" errorplus="0.0">125.6</period><radius errorminus="-0.02" errorplus="0.02">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0067" errorplus="0.0067">0.4988</semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-539 b</name><eccentricity>0.39</eccentricity></planet><planet><inclination></inclination><period>1000.0</period><radius errorminus="-0.02" errorplus="0.02">0.95</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.51" errorplus="0.5">2.42</semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-539 c</name><eccentricity>0.5</eccentricity></planet><name>Kepler-539</name><radius errorminus="-0.02" errorplus="0.02">0.95</radius><temperature errorminus="-80.0" errorplus="80.0">5820.0</temperature></star><distance errorminus="-12.73" errorplus="13.2">313.0</distance><name>Kepler-539</name><declination>41 52 00</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period>1000.0</period>
+      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
+      <name>Kepler-539 c</name>
+      <eccentricity>0.5</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
+      <period errorplus="0.0" errorminus="-0.0">125.6</period>
+      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
+      <name>Kepler-539 b</name>
+      <eccentricity>0.39</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
+    <name>Kepler-539</name>
+  </star>
+  <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
+  <rightascension>19 07 20</rightascension>
+  <declination>41 52 00</declination>
+  <name>Kepler-539</name>
+</system>
+

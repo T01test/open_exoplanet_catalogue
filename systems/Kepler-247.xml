@@ -1,1 +1,40 @@
-<system><rightascension>19 38 33</rightascension><star><mass></mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.5</period><radius errorminus="-0.21" errorplus="0.21">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.14</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-247 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">9.4</period><radius errorminus="-0.21" errorplus="0.21">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.084</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-247 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">3.3</period><radius errorminus="-0.21" errorplus="0.21">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.042</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-247 b</name></planet><name>Kepler-247</name><radius errorminus="-0.21" errorplus="0.21">0.77</radius><temperature errorminus="-200.0" errorplus="200.0">5100.0</temperature></star><distance></distance><name>Kepler-247</name><declination>43 02 21</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.21" errorminus="-0.21">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <semimajoraxis>0.042</semimajoraxis>
+      <name>Kepler-247 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.21" errorminus="-0.21">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.5</period>
+      <semimajoraxis>0.14</semimajoraxis>
+      <name>Kepler-247 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.21" errorminus="-0.21">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <semimajoraxis>0.084</semimajoraxis>
+      <name>Kepler-247 c</name>
+    </planet>
+    <radius errorplus="0.21" errorminus="-0.21">0.77</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5100.0</temperature>
+    <mass/>
+    <name>Kepler-247</name>
+  </star>
+  <distance/>
+  <rightascension>19 38 33</rightascension>
+  <declination>43 02 21</declination>
+  <name>Kepler-247</name>
+</system>
+

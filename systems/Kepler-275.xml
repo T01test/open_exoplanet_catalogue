@@ -1,1 +1,40 @@
-<system><rightascension>19 28 46</rightascension><star><mass>1.24</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">16.1</period><radius errorminus="-0.26" errorplus="0.26">1.38</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.132</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-275 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">35.7</period><radius errorminus="-0.26" errorplus="0.26">1.38</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.224</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-275 d</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.3</period><radius errorminus="-0.26" errorplus="0.26">1.38</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.098</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-275 b</name></planet><name>Kepler-275</name><radius errorminus="-0.26" errorplus="0.26">1.38</radius><temperature errorminus="-100.0" errorplus="100.0">6165.0</temperature></star><distance></distance><name>Kepler-275</name><declination>38 30 53</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">35.7</period>
+      <semimajoraxis>0.224</semimajoraxis>
+      <name>Kepler-275 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
+      <semimajoraxis>0.098</semimajoraxis>
+      <name>Kepler-275 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <semimajoraxis>0.132</semimajoraxis>
+      <name>Kepler-275 c</name>
+    </planet>
+    <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">6165.0</temperature>
+    <mass>1.24</mass>
+    <name>Kepler-275</name>
+  </star>
+  <distance/>
+  <rightascension>19 28 46</rightascension>
+  <declination>38 30 53</declination>
+  <name>Kepler-275</name>
+</system>
+

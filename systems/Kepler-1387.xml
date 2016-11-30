@@ -1,1 +1,22 @@
-<system><rightascension>19 26 25</rightascension><star><mass errorminus="-0.04" errorplus="0.04">0.82</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.3</period><radius errorminus="-0.03" errorplus="0.04">0.77</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1387 b</name></planet><name>Kepler-1387</name><radius errorminus="-0.03" errorplus="0.04">0.77</radius><temperature errorminus="-88.55" errorplus="67.56">5046.0</temperature></star><distance errorminus="-24.61" errorplus="25.69">491.0</distance><name>Kepler-1387</name><declination>43 12 33</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.03">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.3</period>
+      <semimajoraxis/>
+      <name>Kepler-1387 b</name>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.03">0.77</radius>
+    <temperature errorplus="67.56" errorminus="-88.55">5046.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.04">0.82</mass>
+    <name>Kepler-1387</name>
+  </star>
+  <distance errorplus="25.69" errorminus="-24.61">491.0</distance>
+  <rightascension>19 26 25</rightascension>
+  <declination>43 12 33</declination>
+  <name>Kepler-1387</name>
+</system>
+

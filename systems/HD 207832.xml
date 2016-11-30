@@ -1,1 +1,33 @@
-<system><rightascension>21 09 04</rightascension><star><mass errorplus="0.1">0.94</mass><planet><inclination></inclination><period errorminus="-37.0" errorplus="71.9">1155.7</period><radius errorplus="0.06">0.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.045" errorplus="0.087">2.112</semimajoraxis><lastupdate>2015-09-10</lastupdate><name>HD 207832 c</name><eccentricity>0.27</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.8" errorplus="1.0">162.0</period><radius errorplus="0.06">0.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.002" errorplus="0.002">0.57</semimajoraxis><lastupdate>2015-09-10</lastupdate><name>HD 207832 b</name><eccentricity>0.13</eccentricity></planet><name>HD 207832</name><radius errorplus="0.06">0.9</radius><temperature errorplus="81.0">5710.0</temperature></star><distance errorminus="-3.9" errorplus="3.42">55.31</distance><name>HD 207832</name><declination>-26 01 35</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06">0.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-10</lastupdate>
+      <inclination/>
+      <period errorplus="71.9" errorminus="-37.0">1155.7</period>
+      <semimajoraxis errorplus="0.087" errorminus="-0.045">2.112</semimajoraxis>
+      <name>HD 207832 c</name>
+      <eccentricity>0.27</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.06">0.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-09-10</lastupdate>
+      <inclination/>
+      <period errorplus="1.0" errorminus="-0.8">162.0</period>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.57</semimajoraxis>
+      <name>HD 207832 b</name>
+      <eccentricity>0.13</eccentricity>
+    </planet>
+    <radius errorplus="0.06">0.9</radius>
+    <temperature errorplus="81.0">5710.0</temperature>
+    <mass errorplus="0.1">0.94</mass>
+    <name>HD 207832</name>
+  </star>
+  <distance errorplus="3.42" errorminus="-3.9">55.31</distance>
+  <rightascension>21 09 04</rightascension>
+  <declination>-26 01 35</declination>
+  <name>HD 207832</name>
+</system>
+

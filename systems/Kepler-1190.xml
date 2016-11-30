@@ -1,1 +1,22 @@
-<system><rightascension>18 59 58</rightascension><star><mass errorminus="-0.04" errorplus="0.03">0.76</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">10.5</period><radius errorminus="-0.04" errorplus="0.02">0.72</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1190 b</name></planet><name>Kepler-1190</name><radius errorminus="-0.04" errorplus="0.02">0.72</radius><temperature errorminus="-39.65" errorplus="39.96">4730.0</temperature></star><distance errorminus="-19.49" errorplus="14.62">384.0</distance><name>Kepler-1190</name><declination>49 28 47</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.04">0.72</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.5</period>
+      <semimajoraxis/>
+      <name>Kepler-1190 b</name>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.04">0.72</radius>
+    <temperature errorplus="39.96" errorminus="-39.65">4730.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.76</mass>
+    <name>Kepler-1190</name>
+  </star>
+  <distance errorplus="14.62" errorminus="-19.49">384.0</distance>
+  <rightascension>18 59 58</rightascension>
+  <declination>49 28 47</declination>
+  <name>Kepler-1190</name>
+</system>
+

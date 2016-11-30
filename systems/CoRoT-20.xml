@@ -1,1 +1,23 @@
-<system><rightascension>06 43 13</rightascension><star><mass errorminus="-0.08" errorplus="0.08">1.14</mass><planet><inclination errorminus="-0.53" errorplus="0.53">88.21</inclination><period errorminus="-0.0" errorplus="0.0">9.2</period><radius errorminus="-0.05" errorplus="0.05">1.02</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0021" errorplus="0.0021">0.0902</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>CoRoT-20 b</name><eccentricity>0.562</eccentricity></planet><name>CoRoT-20</name><radius errorminus="-0.05" errorplus="0.05">1.02</radius><temperature errorminus="-90.0" errorplus="90.0">5880.0</temperature></star><distance errorminus="-120.0" errorplus="120.0">1230.0</distance><name>CoRoT-20</name><declination>00 13 36</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.53" errorminus="-0.53">88.21</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.2</period>
+      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.0902</semimajoraxis>
+      <name>CoRoT-20 b</name>
+      <eccentricity>0.562</eccentricity>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
+    <temperature errorplus="90.0" errorminus="-90.0">5880.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">1.14</mass>
+    <name>CoRoT-20</name>
+  </star>
+  <distance errorplus="120.0" errorminus="-120.0">1230.0</distance>
+  <rightascension>06 43 13</rightascension>
+  <declination>00 13 36</declination>
+  <name>CoRoT-20</name>
+</system>
+

@@ -1,1 +1,23 @@
-<system><rightascension>00 17 35</rightascension><star><mass errorminus="-0.09" errorplus="0.12">2.54</mass><planet><inclination></inclination><period errorminus="-1.9" errorplus="1.7">311.6</period><radius errorminus="-1.06" errorplus="1.16">12.02</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.2</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 2952 b</name><eccentricity>0.129</eccentricity></planet><name>HD 2952</name><radius errorminus="-1.06" errorplus="1.16">12.02</radius><temperature errorminus="-20.0" errorplus="20.0">4844.0</temperature></star><distance errorminus="-10.26" errorplus="8.71">115.21</distance><name>HD 2952</name><declination>54 53 41</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="1.16" errorminus="-1.06">12.02</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="1.7" errorminus="-1.9">311.6</period>
+      <semimajoraxis>1.2</semimajoraxis>
+      <name>HD 2952 b</name>
+      <eccentricity>0.129</eccentricity>
+    </planet>
+    <radius errorplus="1.16" errorminus="-1.06">12.02</radius>
+    <temperature errorplus="20.0" errorminus="-20.0">4844.0</temperature>
+    <mass errorplus="0.12" errorminus="-0.09">2.54</mass>
+    <name>HD 2952</name>
+  </star>
+  <distance errorplus="8.71" errorminus="-10.26">115.21</distance>
+  <rightascension>00 17 35</rightascension>
+  <declination>54 53 41</declination>
+  <name>HD 2952</name>
+</system>
+

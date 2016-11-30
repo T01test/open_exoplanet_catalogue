@@ -1,1 +1,22 @@
-<system><rightascension>22 26 42</rightascension><star><mass errorminus="-0.05" errorplus="0.05">1.15</mass><planet><inclination errorminus="-0.056" errorplus="0.056">85.634</inclination><period errorminus="-0.0" errorplus="0.0">4.5</period><radius errorminus="-0.03" errorplus="0.03">1.17</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00083" errorplus="0.00082">0.05561</semimajoraxis><lastupdate>2015-09-10</lastupdate><name>HAT-P-1 b</name></planet><name>HAT-P-1</name><radius errorminus="-0.03" errorplus="0.03">1.17</radius><temperature errorminus="-49.0" errorplus="49.0">5980.0</temperature></star><distance errorminus="-19.0" errorplus="22.0">139.0</distance><name>HAT-P-1</name><declination>38 40 29</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.17</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-09-10</lastupdate>
+      <inclination errorplus="0.056" errorminus="-0.056">85.634</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <semimajoraxis errorplus="0.00082" errorminus="-0.00083">0.05561</semimajoraxis>
+      <name>HAT-P-1 b</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">1.17</radius>
+    <temperature errorplus="49.0" errorminus="-49.0">5980.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">1.15</mass>
+    <name>HAT-P-1</name>
+  </star>
+  <distance errorplus="22.0" errorminus="-19.0">139.0</distance>
+  <rightascension>22 26 42</rightascension>
+  <declination>38 40 29</declination>
+  <name>HAT-P-1</name>
+</system>
+

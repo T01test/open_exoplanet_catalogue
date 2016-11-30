@@ -1,1 +1,40 @@
-<system><rightascension>19 13 08</rightascension><star><mass errorminus="-0.12" errorplus="0.09">1.11</mass><planet><inclination></inclination><period>7.1</period><radius errorminus="-0.05" errorplus="0.05">1.55</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.075</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-23 b</name></planet><planet><inclination></inclination><period>10.7</period><radius errorminus="-0.05" errorplus="0.05">1.55</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.099</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-23 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">15.3</period><radius errorminus="-0.05" errorplus="0.05">1.55</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.124</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-23 d</name></planet><name>Kepler-23</name><radius errorminus="-0.05" errorplus="0.05">1.55</radius><temperature errorminus="-100.0" errorplus="100.0">5828.0</temperature></star><distance>800.0</distance><name>Kepler-23</name><declination>49 28 45</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>10.7</period>
+      <semimajoraxis>0.099</semimajoraxis>
+      <name>Kepler-23 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>7.1</period>
+      <semimajoraxis>0.075</semimajoraxis>
+      <name>Kepler-23 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.3</period>
+      <semimajoraxis>0.124</semimajoraxis>
+      <name>Kepler-23 d</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">5828.0</temperature>
+    <mass errorplus="0.09" errorminus="-0.12">1.11</mass>
+    <name>Kepler-23</name>
+  </star>
+  <distance>800.0</distance>
+  <rightascension>19 13 08</rightascension>
+  <declination>49 28 45</declination>
+  <name>Kepler-23</name>
+</system>
+

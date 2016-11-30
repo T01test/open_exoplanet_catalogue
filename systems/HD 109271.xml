@@ -1,1 +1,33 @@
-<system><rightascension>12 23 53</rightascension><star><mass errorminus="-0.02" errorplus="0.02">1.05</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.079</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 109271 b</name><eccentricity>0.25</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">30.9</period><radius></radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.003" errorplus="0.003">0.196</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HD 109271 c</name><eccentricity>0.15</eccentricity></planet><name>HD 109271</name><radius></radius><temperature errorminus="-62.0" errorplus="62.0">5783.0</temperature></star><distance errorminus="-3.22" errorplus="2.89">56.92</distance><name>HD 109271</name><declination>-11 37 18</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.9</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.079</semimajoraxis>
+      <name>HD 109271 b</name>
+      <eccentricity>0.25</eccentricity>
+    </planet>
+    <planet>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.9</period>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.196</semimajoraxis>
+      <name>HD 109271 c</name>
+      <eccentricity>0.15</eccentricity>
+    </planet>
+    <radius/>
+    <temperature errorplus="62.0" errorminus="-62.0">5783.0</temperature>
+    <mass errorplus="0.02" errorminus="-0.02">1.05</mass>
+    <name>HD 109271</name>
+  </star>
+  <distance errorplus="2.89" errorminus="-3.22">56.92</distance>
+  <rightascension>12 23 53</rightascension>
+  <declination>-11 37 18</declination>
+  <name>HD 109271</name>
+</system>
+

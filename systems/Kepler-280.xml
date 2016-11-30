@@ -1,1 +1,31 @@
-<system><rightascension>19 23 25</rightascension><star><mass>0.91</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.1</period><radius errorminus="-0.43" errorplus="0.43">0.89</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.032</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-280 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.8</period><radius errorminus="-0.43" errorplus="0.43">0.89</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.056</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-280 c</name></planet><name>Kepler-280</name><radius errorminus="-0.43" errorplus="0.43">0.89</radius><temperature errorminus="-200.0" errorplus="200.0">5744.0</temperature></star><distance></distance><name>Kepler-280</name><declination>42 10 50</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.43">0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.8</period>
+      <semimajoraxis>0.056</semimajoraxis>
+      <name>Kepler-280 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.43" errorminus="-0.43">0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <semimajoraxis>0.032</semimajoraxis>
+      <name>Kepler-280 b</name>
+    </planet>
+    <radius errorplus="0.43" errorminus="-0.43">0.89</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">5744.0</temperature>
+    <mass>0.91</mass>
+    <name>Kepler-280</name>
+  </star>
+  <distance/>
+  <rightascension>19 23 25</rightascension>
+  <declination>42 10 50</declination>
+  <name>Kepler-280</name>
+</system>
+

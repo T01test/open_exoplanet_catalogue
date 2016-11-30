@@ -1,1 +1,22 @@
-<system><rightascension>19 24 28</rightascension><star><mass errorminus="-0.07" errorplus="0.1">1.11</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.6</period><radius errorminus="-0.14" errorplus="0.34">1.16</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1590 b</name></planet><name>Kepler-1590</name><radius errorminus="-0.14" errorplus="0.34">1.16</radius><temperature errorminus="-137.0" errorplus="122.92">6053.0</temperature></star><distance errorminus="-116.7" errorplus="260.6">900.0</distance><name>Kepler-1590</name><declination>48 01 04</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.34" errorminus="-0.14">1.16</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.6</period>
+      <semimajoraxis/>
+      <name>Kepler-1590 b</name>
+    </planet>
+    <radius errorplus="0.34" errorminus="-0.14">1.16</radius>
+    <temperature errorplus="122.92" errorminus="-137.0">6053.0</temperature>
+    <mass errorplus="0.1" errorminus="-0.07">1.11</mass>
+    <name>Kepler-1590</name>
+  </star>
+  <distance errorplus="260.6" errorminus="-116.7">900.0</distance>
+  <rightascension>19 24 28</rightascension>
+  <declination>48 01 04</declination>
+  <name>Kepler-1590</name>
+</system>
+

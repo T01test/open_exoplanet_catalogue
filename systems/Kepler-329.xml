@@ -1,1 +1,31 @@
-<system><rightascension>19 16 04</rightascension><star><mass>0.53</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">18.7</period><radius errorminus="-0.05" errorplus="0.05">0.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.113</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-329 c</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">7.4</period><radius errorminus="-0.05" errorplus="0.05">0.52</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.061</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-329 b</name></planet><name>Kepler-329</name><radius errorminus="-0.05" errorplus="0.05">0.52</radius><temperature errorminus="-200.0" errorplus="200.0">4257.0</temperature></star><distance></distance><name>Kepler-329</name><declination>45 13 38</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.7</period>
+      <semimajoraxis>0.113</semimajoraxis>
+      <name>Kepler-329 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <semimajoraxis>0.061</semimajoraxis>
+      <name>Kepler-329 b</name>
+    </planet>
+    <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
+    <temperature errorplus="200.0" errorminus="-200.0">4257.0</temperature>
+    <mass>0.53</mass>
+    <name>Kepler-329</name>
+  </star>
+  <distance/>
+  <rightascension>19 16 04</rightascension>
+  <declination>45 13 38</declination>
+  <name>Kepler-329</name>
+</system>
+

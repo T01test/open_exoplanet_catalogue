@@ -1,1 +1,23 @@
-<system><rightascension>02 47 36</rightascension><star><mass errorplus="0.2">1.5</mass><planet><inclination></inclination><period errorminus="-0.3" errorplus="0.3">380.8</period><radius errorplus="0.3">13.9</radius><discoverymethod>RV</discoverymethod><semimajoraxis>1.2</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>alf Ari b</name><eccentricity>0.25</eccentricity></planet><name>alf Ari</name><radius errorplus="0.3">13.9</radius><temperature errorplus="15.0">4553.0</temperature></star><distance errorminus="-0.41" errorplus="0.4">20.21</distance><name>alf Ari</name><declination>23 27 44</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.3">13.9</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">380.8</period>
+      <semimajoraxis>1.2</semimajoraxis>
+      <name>alf Ari b</name>
+      <eccentricity>0.25</eccentricity>
+    </planet>
+    <radius errorplus="0.3">13.9</radius>
+    <temperature errorplus="15.0">4553.0</temperature>
+    <mass errorplus="0.2">1.5</mass>
+    <name>alf Ari</name>
+  </star>
+  <distance errorplus="0.4" errorminus="-0.41">20.21</distance>
+  <rightascension>02 47 36</rightascension>
+  <declination>23 27 44</declination>
+  <name>alf Ari</name>
+</system>
+

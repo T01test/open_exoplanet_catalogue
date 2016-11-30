@@ -1,1 +1,22 @@
-<system><rightascension>19 06 53</rightascension><star><mass errorminus="-0.09" errorplus="0.15">1.15</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">11.0</period><radius errorminus="-0.15" errorplus="0.47">1.21</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-919 b</name></planet><name>Kepler-919</name><radius errorminus="-0.15" errorplus="0.47">1.21</radius><temperature errorminus="-172.0" errorplus="132.9">6113.0</temperature></star><distance errorminus="-159.1" errorplus="467.51">1219.0</distance><name>Kepler-919</name><declination>48 29 39</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.47" errorminus="-0.15">1.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.0</period>
+      <semimajoraxis/>
+      <name>Kepler-919 b</name>
+    </planet>
+    <radius errorplus="0.47" errorminus="-0.15">1.21</radius>
+    <temperature errorplus="132.9" errorminus="-172.0">6113.0</temperature>
+    <mass errorplus="0.15" errorminus="-0.09">1.15</mass>
+    <name>Kepler-919</name>
+  </star>
+  <distance errorplus="467.51" errorminus="-159.1">1219.0</distance>
+  <rightascension>19 06 53</rightascension>
+  <declination>48 29 39</declination>
+  <name>Kepler-919</name>
+</system>
+

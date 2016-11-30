@@ -1,1 +1,23 @@
-<system><rightascension>15 59 28</rightascension><star><mass errorplus="0.14">1.26</mass><planet><inclination errorminus="-2.2" errorplus="0.09">89.91</inclination><period>3.1</period><radius errorplus="0.06">1.6</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0015" errorplus="0.00081">0.04438</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>HAT-P-4 b</name><eccentricity>0.0</eccentricity></planet><name>HAT-P-4</name><radius errorplus="0.06">1.6</radius><temperature errorplus="80.0">5860.0</temperature></star><distance errorminus="-24.0" errorplus="24.0">314.0</distance><name>HAT-P-4</name><declination>36 13 46</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.06">1.6</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="0.09" errorminus="-2.2">89.91</inclination>
+      <period>3.1</period>
+      <semimajoraxis errorplus="0.00081" errorminus="-0.0015">0.04438</semimajoraxis>
+      <name>HAT-P-4 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.06">1.6</radius>
+    <temperature errorplus="80.0">5860.0</temperature>
+    <mass errorplus="0.14">1.26</mass>
+    <name>HAT-P-4</name>
+  </star>
+  <distance errorplus="24.0" errorminus="-24.0">314.0</distance>
+  <rightascension>15 59 28</rightascension>
+  <declination>36 13 46</declination>
+  <name>HAT-P-4</name>
+</system>
+

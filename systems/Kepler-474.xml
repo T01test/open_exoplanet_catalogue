@@ -1,1 +1,22 @@
-<system><rightascension>19 19 17</rightascension><star><mass errorminus="-0.05" errorplus="0.05">0.99</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">5.7</period><radius errorminus="-0.12" errorplus="0.17">1.08</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-474 b</name></planet><name>Kepler-474</name><radius errorminus="-0.12" errorplus="0.17">1.08</radius><temperature errorminus="-97.56" errorplus="92.56">5785.0</temperature></star><distance errorminus="-64.84" errorplus="90.99">568.0</distance><name>Kepler-474</name><declination>43 52 52</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.12">1.08</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <semimajoraxis/>
+      <name>Kepler-474 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.12">1.08</radius>
+    <temperature errorplus="92.56" errorminus="-97.56">5785.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.05">0.99</mass>
+    <name>Kepler-474</name>
+  </star>
+  <distance errorplus="90.99" errorminus="-64.84">568.0</distance>
+  <rightascension>19 19 17</rightascension>
+  <declination>43 52 52</declination>
+  <name>Kepler-474</name>
+</system>
+

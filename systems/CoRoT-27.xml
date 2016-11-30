@@ -1,1 +1,23 @@
-<system><rightascension>18 29 44</rightascension><star><mass errorminus="-0.11" errorplus="0.11">1.05</mass><planet><inclination errorminus="-0.87" errorplus="1.2">86.7</inclination><period errorminus="-0.0" errorplus="0.0">3.6</period><radius errorminus="-0.06" errorplus="0.18">1.08</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0066" errorplus="0.0066">0.0476</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>CoRoT-27 b</name><eccentricity>0.065</eccentricity></planet><name>CoRoT-27</name><radius errorminus="-0.06" errorplus="0.18">1.08</radius><temperature errorminus="-120.0" errorplus="120.0">5900.0</temperature></star><distance></distance><name>CoRoT-27</name><declination>05 32 18</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.18" errorminus="-0.06">1.08</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination errorplus="1.2" errorminus="-0.87">86.7</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <semimajoraxis errorplus="0.0066" errorminus="-0.0066">0.0476</semimajoraxis>
+      <name>CoRoT-27 b</name>
+      <eccentricity>0.065</eccentricity>
+    </planet>
+    <radius errorplus="0.18" errorminus="-0.06">1.08</radius>
+    <temperature errorplus="120.0" errorminus="-120.0">5900.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.11">1.05</mass>
+    <name>CoRoT-27</name>
+  </star>
+  <distance/>
+  <rightascension>18 29 44</rightascension>
+  <declination>05 32 18</declination>
+  <name>CoRoT-27</name>
+</system>
+

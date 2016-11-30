@@ -1,1 +1,23 @@
-<system><rightascension>11 54 30</rightascension><star><mass errorminus="-0.08" errorplus="0.08">1.09</mass><planet><inclination errorminus="-0.03" errorplus="0.11">89.69</inclination><period errorminus="-0.0" errorplus="0.0">2.7</period><radius errorminus="-0.02" errorplus="0.02">0.94</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.039</semimajoraxis><lastupdate>2016-07-07</lastupdate><name>WASP-85 A b</name><eccentricity>0.0</eccentricity></planet><name>WASP-85 A</name><radius errorminus="-0.02" errorplus="0.02">0.94</radius><temperature errorminus="-27.0" errorplus="27.0">6112.0</temperature></star><distance></distance><name>WASP-85 A</name><declination>06 33 49</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.02" errorminus="-0.02">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-07-07</lastupdate>
+      <inclination errorplus="0.11" errorminus="-0.03">89.69</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.039</semimajoraxis>
+      <name>WASP-85 A b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <radius errorplus="0.02" errorminus="-0.02">0.94</radius>
+    <temperature errorplus="27.0" errorminus="-27.0">6112.0</temperature>
+    <mass errorplus="0.08" errorminus="-0.08">1.09</mass>
+    <name>WASP-85 A</name>
+  </star>
+  <distance/>
+  <rightascension>11 54 30</rightascension>
+  <declination>06 33 49</declination>
+  <name>WASP-85 A</name>
+</system>
+

@@ -1,1 +1,43 @@
-<system><rightascension>13 36 04</rightascension><star><mass errorminus="-0.03" errorplus="0.03">0.94</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">38.0</period><radius errorminus="-0.01" errorplus="0.01">0.96</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.0001" errorplus="0.0001">0.2175</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>61 Vir c</name><eccentricity>0.14</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">4.2</period><radius errorminus="-0.01" errorplus="0.01">0.96</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-5e-06" errorplus="5e-06">0.050201</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>61 Vir b</name><eccentricity>0.12</eccentricity></planet><planet><inclination></inclination><period errorminus="-0.6" errorplus="0.6">123.0</period><radius errorminus="-0.01" errorplus="0.01">0.96</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.001" errorplus="0.001">0.476</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>61 Vir d</name><eccentricity>0.35</eccentricity></planet><name>61 Vir</name><radius errorminus="-0.01" errorplus="0.01">0.96</radius><temperature errorminus="-33.0" errorplus="33.0">5577.0</temperature></star><distance errorminus="-0.05" errorplus="0.05">8.52</distance><name>61 Vir</name><declination>-18 18 40</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.96</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">38.0</period>
+      <semimajoraxis errorplus="0.0001" errorminus="-0.0001">0.2175</semimajoraxis>
+      <name>61 Vir c</name>
+      <eccentricity>0.14</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.96</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <semimajoraxis errorplus="5e-06" errorminus="-5e-06">0.050201</semimajoraxis>
+      <name>61 Vir b</name>
+      <eccentricity>0.12</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">0.96</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">123.0</period>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.476</semimajoraxis>
+      <name>61 Vir d</name>
+      <eccentricity>0.35</eccentricity>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">0.96</radius>
+    <temperature errorplus="33.0" errorminus="-33.0">5577.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.94</mass>
+    <name>61 Vir</name>
+  </star>
+  <distance errorplus="0.05" errorminus="-0.05">8.52</distance>
+  <rightascension>13 36 04</rightascension>
+  <declination>-18 18 40</declination>
+  <name>61 Vir</name>
+</system>
+

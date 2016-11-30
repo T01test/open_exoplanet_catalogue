@@ -1,1 +1,23 @@
-<system><rightascension>12 17 47</rightascension><star><mass errorminus="-0.12" errorplus="0.12">1.18</mass><planet><inclination></inclination><period errorminus="-6.2" errorplus="6.2">825.9</period><radius errorminus="-0.07" errorplus="0.07">1.45</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.07" errorplus="0.07">1.82</semimajoraxis><lastupdate>2016-09-08</lastupdate><name>HD 111998 b</name><eccentricity>0.03</eccentricity></planet><name>HD 111998</name><radius errorminus="-0.07" errorplus="0.07">1.45</radius><temperature errorminus="-96.0" errorplus="96.0">6557.0</temperature></star><distance errorminus="-0.32" errorplus="0.32">32.73</distance><name>HD 111998</name><declination>-3 33 11</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.07" errorminus="-0.07">1.45</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-09-08</lastupdate>
+      <inclination/>
+      <period errorplus="6.2" errorminus="-6.2">825.9</period>
+      <semimajoraxis errorplus="0.07" errorminus="-0.07">1.82</semimajoraxis>
+      <name>HD 111998 b</name>
+      <eccentricity>0.03</eccentricity>
+    </planet>
+    <radius errorplus="0.07" errorminus="-0.07">1.45</radius>
+    <temperature errorplus="96.0" errorminus="-96.0">6557.0</temperature>
+    <mass errorplus="0.12" errorminus="-0.12">1.18</mass>
+    <name>HD 111998</name>
+  </star>
+  <distance errorplus="0.32" errorminus="-0.32">32.73</distance>
+  <rightascension>12 17 47</rightascension>
+  <declination>-3 33 11</declination>
+  <name>HD 111998</name>
+</system>
+

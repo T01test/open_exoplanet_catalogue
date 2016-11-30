@@ -1,1 +1,22 @@
-<system><rightascension>10 38 40</rightascension><star><mass errorminus="-0.07" errorplus="0.07">1.3</mass><planet><inclination errorminus="-1.3" errorplus="2.9">83.4</inclination><period>1.7</period><radius errorminus="-0.12" errorplus="0.17">1.32</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.00053" errorplus="0.00057">0.03035</semimajoraxis><lastupdate>2014-10-29</lastupdate><name>OGLE-TR-132 b</name></planet><name>OGLE-TR-132</name><radius errorminus="-0.12" errorplus="0.17">1.32</radius><temperature errorminus="-75.0" errorplus="75.0">6210.0</temperature></star><distance errorminus="-250.0" errorplus="250.0">2500.0</distance><name>OGLE-TR-132</name><declination>-61 57 25</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.12">1.32</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-10-29</lastupdate>
+      <inclination errorplus="2.9" errorminus="-1.3">83.4</inclination>
+      <period>1.7</period>
+      <semimajoraxis errorplus="0.00057" errorminus="-0.00053">0.03035</semimajoraxis>
+      <name>OGLE-TR-132 b</name>
+    </planet>
+    <radius errorplus="0.17" errorminus="-0.12">1.32</radius>
+    <temperature errorplus="75.0" errorminus="-75.0">6210.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.07">1.3</mass>
+    <name>OGLE-TR-132</name>
+  </star>
+  <distance errorplus="250.0" errorminus="-250.0">2500.0</distance>
+  <rightascension>10 38 40</rightascension>
+  <declination>-61 57 25</declination>
+  <name>OGLE-TR-132</name>
+</system>
+

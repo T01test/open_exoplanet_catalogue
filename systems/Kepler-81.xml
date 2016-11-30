@@ -1,1 +1,40 @@
-<system><rightascension>19 38 13</rightascension><star><mass errorminus="-0.23" errorplus="0.38">0.64</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">20.8</period><radius errorminus="-0.03" errorplus="0.03">0.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis>0.128</semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-81 d</name></planet><planet><inclination></inclination><period>12.0</period><radius errorminus="-0.03" errorplus="0.03">0.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-81 c</name></planet><planet><inclination></inclination><period>6.0</period><radius errorminus="-0.03" errorplus="0.03">0.59</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2014-05-14</lastupdate><name>Kepler-81 b</name></planet><name>Kepler-81</name><radius errorminus="-0.03" errorplus="0.03">0.59</radius><temperature errorminus="-116.0" errorplus="116.0">4500.0</temperature></star><distance></distance><name>Kepler-81</name><declination>42 49 29</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.8</period>
+      <semimajoraxis>0.128</semimajoraxis>
+      <name>Kepler-81 d</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>6.0</period>
+      <semimajoraxis/>
+      <name>Kepler-81 b</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2014-05-14</lastupdate>
+      <inclination/>
+      <period>12.0</period>
+      <semimajoraxis/>
+      <name>Kepler-81 c</name>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+    <temperature errorplus="116.0" errorminus="-116.0">4500.0</temperature>
+    <mass errorplus="0.38" errorminus="-0.23">0.64</mass>
+    <name>Kepler-81</name>
+  </star>
+  <distance/>
+  <rightascension>19 38 13</rightascension>
+  <declination>42 49 29</declination>
+  <name>Kepler-81</name>
+</system>
+

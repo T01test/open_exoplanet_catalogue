@@ -1,1 +1,33 @@
-<system><rightascension>19 28 42</rightascension><star><mass errorminus="-0.03" errorplus="0.04">1.03</mass><planet><inclination></inclination><period errorminus="-0.7" errorplus="0.7">523.9</period><radius errorminus="-0.01" errorplus="0.01">1.07</radius><discoverymethod>RV</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2015-12-03</lastupdate><name>Kepler-454 c</name><eccentricity>0.0214</eccentricity></planet><planet><inclination errorminus="-0.203" errorplus="0.203">87.09</inclination><period errorminus="-0.0" errorplus="0.0">10.6</period><radius errorminus="-0.01" errorplus="0.01">1.07</radius><discoverymethod>transit</discoverymethod><semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.0954</semimajoraxis><lastupdate>2015-12-03</lastupdate><name>Kepler-454 b</name><eccentricity>0.0</eccentricity></planet><name>Kepler-454</name><radius errorminus="-0.01" errorplus="0.01">1.07</radius><temperature errorminus="-34.0" errorplus="34.0">5701.0</temperature></star><distance></distance><name>Kepler-454</name><declination>38 13 43</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2015-12-03</lastupdate>
+      <inclination errorplus="0.203" errorminus="-0.203">87.09</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0954</semimajoraxis>
+      <name>Kepler-454 b</name>
+      <eccentricity>0.0</eccentricity>
+    </planet>
+    <planet>
+      <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-12-03</lastupdate>
+      <inclination/>
+      <period errorplus="0.7" errorminus="-0.7">523.9</period>
+      <semimajoraxis/>
+      <name>Kepler-454 c</name>
+      <eccentricity>0.0214</eccentricity>
+    </planet>
+    <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
+    <temperature errorplus="34.0" errorminus="-34.0">5701.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.03">1.03</mass>
+    <name>Kepler-454</name>
+  </star>
+  <distance/>
+  <rightascension>19 28 42</rightascension>
+  <declination>38 13 43</declination>
+  <name>Kepler-454</name>
+</system>
+

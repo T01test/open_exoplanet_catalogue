@@ -1,1 +1,22 @@
-<system><rightascension>19 06 07</rightascension><star><mass errorminus="-0.06" errorplus="0.07">1.12</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">2.1</period><radius errorminus="-0.17" errorplus="0.27">1.28</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1084 b</name></planet><name>Kepler-1084</name><radius errorminus="-0.17" errorplus="0.27">1.28</radius><temperature errorminus="-75.56" errorplus="63.72">6113.0</temperature></star><distance errorminus="-58.07" errorplus="88.85">427.0</distance><name>Kepler-1084</name><declination>48 15 04</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.27" errorminus="-0.17">1.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <semimajoraxis/>
+      <name>Kepler-1084 b</name>
+    </planet>
+    <radius errorplus="0.27" errorminus="-0.17">1.28</radius>
+    <temperature errorplus="63.72" errorminus="-75.56">6113.0</temperature>
+    <mass errorplus="0.07" errorminus="-0.06">1.12</mass>
+    <name>Kepler-1084</name>
+  </star>
+  <distance errorplus="88.85" errorminus="-58.07">427.0</distance>
+  <rightascension>19 06 07</rightascension>
+  <declination>48 15 04</declination>
+  <name>Kepler-1084</name>
+</system>
+

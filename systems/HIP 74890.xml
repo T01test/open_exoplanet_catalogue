@@ -1,1 +1,23 @@
-<system><rightascension>15 34 19</rightascension><star><mass errorminus="-0.21" errorplus="0.21">1.74</mass><planet><inclination></inclination><period errorminus="-16.8" errorplus="16.8">822.3</period><radius errorminus="-0.53" errorplus="0.53">5.77</radius><discoverymethod>RV</discoverymethod><semimajoraxis errorminus="-0.09" errorplus="0.09">2.1</semimajoraxis><lastupdate>2016-03-17</lastupdate><name>HIP 74890 b</name><eccentricity>0.07</eccentricity></planet><name>HIP 74890</name><radius errorminus="-0.53" errorplus="0.53">5.77</radius><temperature errorminus="-100.0" errorplus="100.0">4850.0</temperature></star><distance errorminus="-5.27" errorplus="5.27">91.49</distance><name>HIP 74890</name><declination>-41 25 14</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.53" errorminus="-0.53">5.77</radius>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2016-03-17</lastupdate>
+      <inclination/>
+      <period errorplus="16.8" errorminus="-16.8">822.3</period>
+      <semimajoraxis errorplus="0.09" errorminus="-0.09">2.1</semimajoraxis>
+      <name>HIP 74890 b</name>
+      <eccentricity>0.07</eccentricity>
+    </planet>
+    <radius errorplus="0.53" errorminus="-0.53">5.77</radius>
+    <temperature errorplus="100.0" errorminus="-100.0">4850.0</temperature>
+    <mass errorplus="0.21" errorminus="-0.21">1.74</mass>
+    <name>HIP 74890</name>
+  </star>
+  <distance errorplus="5.27" errorminus="-5.27">91.49</distance>
+  <rightascension>15 34 19</rightascension>
+  <declination>-41 25 14</declination>
+  <name>HIP 74890</name>
+</system>
+

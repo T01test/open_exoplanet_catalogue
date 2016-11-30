@@ -1,1 +1,31 @@
-<system><rightascension>19 21 33</rightascension><star><mass errorminus="-0.12" errorplus="0.16">1.12</mass><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">19.7</period><radius errorminus="-0.19" errorplus="0.4">1.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1641 b</name></planet><planet><inclination></inclination><period errorminus="-0.0" errorplus="0.0">32.7</period><radius errorminus="-0.19" errorplus="0.4">1.19</radius><discoverymethod>transit</discoverymethod><semimajoraxis></semimajoraxis><lastupdate>2016-05-10</lastupdate><name>Kepler-1641 c</name></planet><name>Kepler-1641</name><radius errorminus="-0.19" errorplus="0.4">1.19</radius><temperature errorminus="-233.57" errorplus="173.97">6152.0</temperature></star><distance errorminus="-166.05" errorplus="325.32">961.0</distance><name>Kepler-1641</name><declination>41 34 28</declination></system>
+<system>
+  <star>
+    <planet>
+      <radius errorplus="0.4" errorminus="-0.19">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">32.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1641 c</name>
+    </planet>
+    <planet>
+      <radius errorplus="0.4" errorminus="-0.19">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">19.7</period>
+      <semimajoraxis/>
+      <name>Kepler-1641 b</name>
+    </planet>
+    <radius errorplus="0.4" errorminus="-0.19">1.19</radius>
+    <temperature errorplus="173.97" errorminus="-233.57">6152.0</temperature>
+    <mass errorplus="0.16" errorminus="-0.12">1.12</mass>
+    <name>Kepler-1641</name>
+  </star>
+  <distance errorplus="325.32" errorminus="-166.05">961.0</distance>
+  <rightascension>19 21 33</rightascension>
+  <declination>41 34 28</declination>
+  <name>Kepler-1641</name>
+</system>
+
