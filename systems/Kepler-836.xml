@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-836</name>
-  <rightascension>19 27 10</rightascension>
+  <distance errorplus="224.21" errorminus="-96.42">1003.0</distance>
   <declination>45 42 15</declination>
+  <rightascension>19 27 10</rightascension>
   <star>
+    <temperature errorplus="74.32" errorminus="-83.11">5895.0</temperature>
     <name>Kepler-836</name>
     <mass errorplus="0.06" errorminus="-0.07">1.03</mass>
-    <temperature errorplus="74.32" errorminus="-83.11">5895.0</temperature>
     <radius errorplus="0.24" errorminus="-0.1">1.04</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.24" errorminus="-0.1">1.04</radius>
-      <period errorplus="0.0" errorminus="-0.0">11.4</period>
       <name>Kepler-836 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.24" errorminus="-0.1">1.04</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.4</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="224.21" errorminus="-96.42">1003.0</distance>
 </system>
 

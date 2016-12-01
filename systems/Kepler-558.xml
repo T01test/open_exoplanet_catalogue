@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-558</name>
-  <rightascension>18 39 28</rightascension>
+  <distance errorplus="42.26" errorminus="-39.71">652.0</distance>
   <declination>42 39 09</declination>
+  <rightascension>18 39 28</rightascension>
   <star>
+    <temperature errorplus="93.27" errorminus="-66.35">5242.0</temperature>
     <name>Kepler-558</name>
     <mass errorplus="0.04" errorminus="-0.05">0.85</mass>
-    <temperature errorplus="93.27" errorminus="-66.35">5242.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.81</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.81</radius>
-      <period errorplus="0.0" errorminus="-0.0">29.0</period>
       <name>Kepler-558 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">29.0</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="42.26" errorminus="-39.71">652.0</distance>
 </system>
 

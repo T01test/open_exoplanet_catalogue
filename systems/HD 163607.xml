@@ -1,33 +1,33 @@
 <system>
   <name>HD 163607</name>
-  <rightascension>17 25 07</rightascension>
+  <distance errorplus="2.95" errorminus="-3.23">69.44</distance>
   <declination>56 23 31</declination>
+  <rightascension>17 25 07</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5543.0</temperature>
     <name>HD 163607</name>
     <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5543.0</temperature>
     <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
     <planet>
-      <inclination/>
+      <name>HD 163607 c</name>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">2.42</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
-      <period errorplus="0.0" errorminus="-0.0">75.3</period>
-      <name>HD 163607 b</name>
-      <lastupdate>2015-02-05</lastupdate>
+      <eccentricity>0.12</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.73</eccentricity>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
+      <inclination/>
+      <period errorplus="8.0" errorminus="-8.0">1314.0</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 163607 b</name>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
-      <period errorplus="8.0" errorminus="-8.0">1314.0</period>
-      <name>HD 163607 c</name>
-      <lastupdate>2014-06-25</lastupdate>
+      <eccentricity>0.73</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.12</eccentricity>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">2.42</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">75.3</period>
+      <lastupdate>2015-02-05</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.95" errorminus="-3.23">69.44</distance>
 </system>
 

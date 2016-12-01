@@ -1,22 +1,22 @@
 <system>
   <name>K2-66</name>
-  <rightascension>22 31 36</rightascension>
+  <distance/>
   <declination>-10 42 41</declination>
+  <rightascension>22 31 36</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5958.0</temperature>
     <name>K2-66</name>
     <mass errorplus="0.05" errorminus="-0.05">1.16</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5958.0</temperature>
     <radius errorplus="0.14" errorminus="-0.14">1.71</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.14" errorminus="-0.14">1.71</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
       <name>K2-66 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.00087" errorminus="-0.00087">0.06069</semimajoraxis>
+      <radius errorplus="0.14" errorminus="-0.14">1.71</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

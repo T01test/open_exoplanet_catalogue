@@ -1,40 +1,40 @@
 <system>
   <name>KIC 10001893</name>
-  <rightascension>19 23 21</rightascension>
+  <distance/>
   <declination>46 59 04</declination>
+  <rightascension>19 23 21</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-500.0">27500.0</temperature>
     <name>KIC 10001893</name>
     <mass/>
-    <temperature errorplus="200.0" errorminus="-500.0">27500.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period>0.2</period>
-      <name>KIC 10001893 b</name>
-      <lastupdate>2014-10-03</lastupdate>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius/>
-      <period>0.8</period>
       <name>KIC 10001893 d</name>
-      <lastupdate>2014-10-03</lastupdate>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
       <semimajoraxis/>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <period>0.8</period>
+      <lastupdate>2014-10-03</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period>0.3</period>
-      <name>KIC 10001893 c</name>
-      <lastupdate>2014-10-03</lastupdate>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <name>KIC 10001893 b</name>
       <semimajoraxis/>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <period>0.2</period>
+      <lastupdate>2014-10-03</lastupdate>
+    </planet>
+    <planet>
+      <name>KIC 10001893 c</name>
+      <semimajoraxis/>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <period>0.3</period>
+      <lastupdate>2014-10-03</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

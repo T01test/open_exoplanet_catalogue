@@ -1,33 +1,33 @@
 <system>
   <name>HD 11964</name>
-  <rightascension>01 17 24</rightascension>
+  <distance errorplus="1.02" errorminus="-1.08">33.98</distance>
   <declination>-10 14 32</declination>
+  <rightascension>01 17 24</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5349.0</temperature>
     <name>HD 11964</name>
     <mass>1.12</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5349.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="26.0" errorminus="-26.0">1945.0</period>
       <name>HD 11964 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.041</eccentricity>
       <semimajoraxis errorplus="0.19" errorminus="-0.19">3.16</semimajoraxis>
+      <radius/>
+      <eccentricity>0.041</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="26.0" errorminus="-26.0">1945.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">37.9</period>
       <name>HD 11964 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.3</eccentricity>
       <semimajoraxis errorplus="0.013" errorminus="-0.013">0.229</semimajoraxis>
+      <radius/>
+      <eccentricity>0.3</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">37.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.02" errorminus="-1.08">33.98</distance>
 </system>
 

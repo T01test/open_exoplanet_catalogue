@@ -1,23 +1,23 @@
 <system>
   <name>HIP 12961</name>
-  <rightascension>02 40 43</rightascension>
+  <distance errorplus="0.86" errorminus="-0.93">23.8</distance>
   <declination>-23 05 11</declination>
+  <rightascension>02 40 43</rightascension>
   <star>
+    <temperature/>
     <name>HIP 12961</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">57.4</period>
       <name>HIP 12961 b</name>
-      <lastupdate>2015-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.166</eccentricity>
       <semimajoraxis>0.25</semimajoraxis>
+      <radius/>
+      <eccentricity>0.166</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">57.4</period>
+      <lastupdate>2015-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.86" errorminus="-0.93">23.8</distance>
 </system>
 

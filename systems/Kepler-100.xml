@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-100</name>
-  <rightascension>19 23 09</rightascension>
+  <distance/>
   <declination>41 59 24</declination>
+  <rightascension>19 23 09</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5825.0</temperature>
     <name>Kepler-100</name>
     <mass errorplus="0.06" errorminus="-0.06">1.08</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5825.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <period>12.8</period>
-      <name>Kepler-100 c</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <period>35.3</period>
       <name>Kepler-100 d</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>35.3</period>
+      <lastupdate>2016-10-13</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <period>6.9</period>
       <name>Kepler-100 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>6.9</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-100 c</name>
+      <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>12.8</period>
+      <lastupdate>2016-10-13</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

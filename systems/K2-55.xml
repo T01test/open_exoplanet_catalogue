@@ -1,22 +1,22 @@
 <system>
   <name>K2-55</name>
-  <rightascension>22 45 06</rightascension>
+  <distance/>
   <declination>-17 15 02</declination>
+  <rightascension>22 45 06</rightascension>
   <star>
+    <temperature errorplus="148.0" errorminus="-148.0">4456.0</temperature>
     <name>K2-55</name>
     <mass errorplus="0.05" errorminus="-0.05">0.7</mass>
-    <temperature errorplus="148.0" errorminus="-148.0">4456.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.63</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.63</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
       <name>K2-55 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.00078" errorminus="-0.00078">0.03486</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.63</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

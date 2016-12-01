@@ -1,23 +1,23 @@
 <system>
   <name>PH1</name>
-  <rightascension>19 12 54</rightascension>
+  <distance>1000.0</distance>
   <declination>39 57 18</declination>
+  <rightascension>19 12 54</rightascension>
   <star>
+    <temperature errorplus="150.0" errorminus="-150.0">6407.0</temperature>
     <name>PH1</name>
     <mass errorplus="0.09" errorminus="-0.09">1.53</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">6407.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
     <planet>
-      <inclination errorplus="0.053" errorminus="-0.053">90.05</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
-      <period errorplus="0.0" errorminus="-0.0">138.3</period>
       <name>PH1 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0702</eccentricity>
       <semimajoraxis errorplus="0.012" errorminus="-0.012">0.652</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
+      <eccentricity>0.0702</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.053" errorminus="-0.053">90.05</inclination>
+      <period errorplus="0.0" errorminus="-0.0">138.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>1000.0</distance>
 </system>
 

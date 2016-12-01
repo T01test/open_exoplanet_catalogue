@@ -1,33 +1,33 @@
 <system>
   <name>HD 74156</name>
-  <rightascension>08 36 16</rightascension>
+  <distance errorplus="4.6" errorminus="-4.6">64.6</distance>
   <declination>04 34 41</declination>
+  <rightascension>08 36 16</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">6068.0</temperature>
     <name>HD 74156</name>
     <mass errorplus="0.04" errorminus="-0.04">1.24</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">6068.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">51.6</period>
       <name>HD 74156 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.627</eccentricity>
       <semimajoraxis errorplus="0.004" errorminus="-0.004">0.292</semimajoraxis>
+      <radius/>
+      <eccentricity>0.627</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">51.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="13.0" errorminus="-13.0">2473.0</period>
       <name>HD 74156 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.432</eccentricity>
       <semimajoraxis errorplus="0.054" errorminus="-0.054">3.85</semimajoraxis>
+      <radius/>
+      <eccentricity>0.432</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="13.0" errorminus="-13.0">2473.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="4.6" errorminus="-4.6">64.6</distance>
 </system>
 

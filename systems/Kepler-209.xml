@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-209</name>
-  <rightascension>19 10 10</rightascension>
+  <distance/>
   <declination>42 38 26</declination>
+  <rightascension>19 10 10</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5513.0</temperature>
     <name>Kepler-209</name>
     <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">5513.0</temperature>
     <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-209 c</name>
+      <semimajoraxis>0.231</semimajoraxis>
       <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">16.1</period>
-      <name>Kepler-209 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.122</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-209 b</name>
+      <semimajoraxis>0.122</semimajoraxis>
       <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">41.7</period>
-      <name>Kepler-209 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.231</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

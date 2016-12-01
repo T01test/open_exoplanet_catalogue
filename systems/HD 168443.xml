@@ -1,33 +1,33 @@
 <system>
   <name>HD 168443</name>
-  <rightascension>18 00 58</rightascension>
+  <distance errorplus="1.18" errorminus="-1.26">37.88</distance>
   <declination>-9 35 44</declination>
+  <rightascension>18 00 58</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5491.0</temperature>
     <name>HD 168443</name>
     <mass errorplus="0.02" errorminus="-0.02">0.99</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5491.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">1.51</radius>
     <planet>
-      <inclination/>
+      <name>HD 168443 c</name>
+      <semimajoraxis errorplus="0.018" errorminus="-0.018">2.8373</semimajoraxis>
       <radius errorplus="0.06" errorminus="-0.06">1.51</radius>
-      <period errorplus="0.0" errorminus="-0.0">58.1</period>
-      <name>HD 168443 b</name>
-      <lastupdate>2014-06-25</lastupdate>
+      <eccentricity>0.2113</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.52883</eccentricity>
-      <semimajoraxis errorplus="0.00181">0.2931</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">1749.8</period>
+      <lastupdate>2015-02-05</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 168443 b</name>
+      <semimajoraxis errorplus="0.00181">0.2931</semimajoraxis>
       <radius errorplus="0.06" errorminus="-0.06">1.51</radius>
-      <period errorplus="0.6" errorminus="-0.6">1749.8</period>
-      <name>HD 168443 c</name>
-      <lastupdate>2015-02-05</lastupdate>
+      <eccentricity>0.52883</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2113</eccentricity>
-      <semimajoraxis errorplus="0.018" errorminus="-0.018">2.8373</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">58.1</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.18" errorminus="-1.26">37.88</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 208487</name>
-  <rightascension>21 19 57</rightascension>
+  <distance errorplus="2.0" errorminus="-2.0">44.0</distance>
   <declination>-37 45 49</declination>
+  <rightascension>21 19 57</rightascension>
   <star>
+    <temperature>6067.0</temperature>
     <name>HD 208487</name>
     <mass>1.13</mass>
-    <temperature>6067.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.5" errorminus="-0.5">130.1</period>
       <name>HD 208487 b</name>
-      <lastupdate>2014-11-05</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.24</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">0.524</semimajoraxis>
+      <radius/>
+      <eccentricity>0.24</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">130.1</period>
+      <lastupdate>2014-11-05</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.0" errorminus="-2.0">44.0</distance>
 </system>
 

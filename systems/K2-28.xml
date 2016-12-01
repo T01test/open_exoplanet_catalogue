@@ -1,23 +1,23 @@
 <system>
   <name>K2-28</name>
-  <rightascension>22 37 27</rightascension>
+  <distance errorplus="8.0" errorminus="-8.0">53.0</distance>
   <declination>-7 57 19</declination>
+  <rightascension>22 37 27</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">3214.0</temperature>
     <name>K2-28</name>
     <mass errorplus="0.05" errorminus="-0.05">0.26</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">3214.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.29</radius>
     <planet>
-      <inclination errorplus="0.8" errorminus="-1.2">88.9</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">0.29</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.3</period>
       <name>K2-28 b</name>
-      <lastupdate>2016-02-25</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0214</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.29</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.8" errorminus="-1.2">88.9</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.3</period>
+      <lastupdate>2016-02-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="8.0" errorminus="-8.0">53.0</distance>
 </system>
 

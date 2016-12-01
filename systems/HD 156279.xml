@@ -1,23 +1,23 @@
 <system>
   <name>HD 156279</name>
-  <rightascension>17 05 48</rightascension>
+  <distance errorplus="0.76" errorminus="-0.79">35.37</distance>
   <declination>63 21 07</declination>
+  <rightascension>17 05 48</rightascension>
   <star>
+    <temperature errorplus="40.0" errorminus="-40.0">5453.0</temperature>
     <name>HD 156279</name>
     <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5453.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.5" errorminus="-0.5">131.1</period>
       <name>HD 156279 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.708</eccentricity>
       <semimajoraxis errorplus="0.017" errorminus="-0.017">0.495</semimajoraxis>
+      <radius/>
+      <eccentricity>0.708</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">131.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.76" errorminus="-0.79">35.37</distance>
 </system>
 

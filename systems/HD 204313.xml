@@ -1,33 +1,33 @@
 <system>
   <name>HD 204313</name>
-  <rightascension>21 03 03</rightascension>
+  <distance errorplus="2.26" errorminus="-2.5">47.3</distance>
   <declination>-21 43 34</declination>
+  <rightascension>21 03 03</rightascension>
   <star>
+    <temperature errorplus="22.0" errorminus="-22.0">5776.0</temperature>
     <name>HD 204313</name>
     <mass>1.02</mass>
-    <temperature errorplus="22.0" errorminus="-22.0">5776.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">34.9</period>
       <name>HD 204313 c</name>
-      <lastupdate>2015-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.155</eccentricity>
       <semimajoraxis errorplus="0.0071" errorminus="-0.0071">0.2099</semimajoraxis>
+      <radius/>
+      <eccentricity>0.155</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">34.9</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="3.1" errorminus="-3.1">2024.1</period>
       <name>HD 204313 b</name>
-      <lastupdate>2015-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0946</eccentricity>
       <semimajoraxis errorplus="0.12" errorminus="-0.12">3.167</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0946</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="3.1" errorminus="-3.1">2024.1</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.26" errorminus="-2.5">47.3</distance>
 </system>
 

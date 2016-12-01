@@ -1,22 +1,22 @@
 <system>
   <name>SWEEPS-4</name>
-  <rightascension>17 43 28</rightascension>
+  <distance>8500.0</distance>
   <declination>-29 11 20</declination>
+  <rightascension>17 43 28</rightascension>
   <star>
+    <temperature/>
     <name>SWEEPS-4</name>
     <mass>1.24</mass>
-    <temperature/>
     <radius>1.18</radius>
     <planet>
-      <inclination/>
-      <radius>1.18</radius>
-      <period>4.2</period>
       <name>SWEEPS-4 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.055</semimajoraxis>
+      <radius>1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>4.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>8500.0</distance>
 </system>
 

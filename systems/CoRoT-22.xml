@@ -1,23 +1,23 @@
 <system>
   <name>CoRoT-22</name>
-  <rightascension>18 40 01</rightascension>
+  <distance errorplus="25.0" errorminus="-42.0">592.0</distance>
   <declination>06 13 08</declination>
+  <rightascension>18 40 01</rightascension>
   <star>
+    <temperature errorplus="54.0" errorminus="-120.0">5939.0</temperature>
     <name>CoRoT-22</name>
     <mass errorplus="0.05" errorminus="-0.05">1.1</mass>
-    <temperature errorplus="54.0" errorminus="-120.0">5939.0</temperature>
     <radius errorplus="0.04" errorminus="-0.09">1.14</radius>
     <planet>
-      <inclination errorplus="0.032" errorminus="-0.9">89.749</inclination>
-      <radius errorplus="0.04" errorminus="-0.09">1.14</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.8</period>
       <name>CoRoT-22 b</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.077</eccentricity>
       <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.092</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.09">1.14</radius>
+      <eccentricity>0.077</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.032" errorminus="-0.9">89.749</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.8</period>
+      <lastupdate>2014-08-21</lastupdate>
     </planet>
   </star>
-  <distance errorplus="25.0" errorminus="-42.0">592.0</distance>
 </system>
 

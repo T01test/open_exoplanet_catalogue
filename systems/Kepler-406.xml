@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-406</name>
-  <rightascension>19 50 52</rightascension>
+  <distance/>
   <declination>44 58 05</declination>
+  <rightascension>19 50 52</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5538.0</temperature>
     <name>Kepler-406</name>
     <mass errorplus="0.06" errorminus="-0.06">1.07</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5538.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">1.07</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">1.07</radius>
-      <period>4.6</period>
       <name>Kepler-406 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.02">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>4.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">1.07</radius>
-      <period>2.4</period>
       <name>Kepler-406 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.02">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>2.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

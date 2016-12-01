@@ -1,23 +1,23 @@
 <system>
   <name>HD 114729</name>
-  <rightascension>13 11 03</rightascension>
+  <distance errorplus="1.15" errorminus="-1.23">35.0</distance>
   <declination>-31 52 24</declination>
+  <rightascension>13 11 03</rightascension>
   <star>
+    <temperature>5821.0</temperature>
     <name>HD 114729</name>
     <mass>1.0</mass>
-    <temperature>5821.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="15.0" errorminus="-15.0">1114.0</period>
       <name>HD 114729 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.167</eccentricity>
       <semimajoraxis errorplus="0.12" errorminus="-0.12">2.11</semimajoraxis>
+      <radius/>
+      <eccentricity>0.167</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="15.0" errorminus="-15.0">1114.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.15" errorminus="-1.23">35.0</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HATS-14</name>
-  <rightascension>20 12 55</rightascension>
+  <distance errorplus="14.0" errorminus="-14.0">513.0</distance>
   <declination>-25 41 14</declination>
+  <rightascension>20 12 55</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">5346.0</temperature>
     <name>HATS-14</name>
     <mass errorplus="0.02" errorminus="-0.02">0.97</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5346.0</temperature>
     <radius errorplus="0.02" errorminus="-0.01">0.93</radius>
     <planet>
-      <inclination errorplus="0.66" errorminus="-0.66">88.83</inclination>
-      <radius errorplus="0.02" errorminus="-0.01">0.93</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
       <name>HATS-14 b</name>
-      <lastupdate>2015-08-13</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.142</eccentricity>
       <semimajoraxis errorplus="0.00032" errorminus="-0.00032">0.03815</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.01">0.93</radius>
+      <eccentricity>0.142</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.66" errorminus="-0.66">88.83</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <lastupdate>2015-08-13</lastupdate>
     </planet>
   </star>
-  <distance errorplus="14.0" errorminus="-14.0">513.0</distance>
 </system>
 

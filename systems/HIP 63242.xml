@@ -1,23 +1,23 @@
 <system>
   <name>HIP 63242</name>
-  <rightascension>12 22 59</rightascension>
+  <distance errorplus="13.94" errorminus="-17.14">149.25</distance>
   <declination>-65 38 47</declination>
+  <rightascension>12 22 59</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4830.0</temperature>
     <name>HIP 63242</name>
     <mass errorplus="0.05" errorminus="-0.05">1.54</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4830.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period>124.6</period>
       <name>HIP 63242 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.23</eccentricity>
       <semimajoraxis>0.565</semimajoraxis>
+      <radius/>
+      <eccentricity>0.23</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period>124.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="13.94" errorminus="-17.14">149.25</distance>
 </system>
 

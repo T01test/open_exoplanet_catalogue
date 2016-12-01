@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-127</name>
-  <rightascension>19 11 23</rightascension>
+  <distance/>
   <declination>46 01 40</declination>
+  <rightascension>19 11 23</rightascension>
   <star>
+    <temperature errorplus="106.0" errorminus="-106.0">6106.0</temperature>
     <name>Kepler-127</name>
     <mass/>
-    <temperature errorplus="106.0" errorminus="-106.0">6106.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">48.6</period>
-      <name>Kepler-127 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.28</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">14.4</period>
       <name>Kepler-127 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.125</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">29.4</period>
       <name>Kepler-127 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.2</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">29.4</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-127 d</name>
+      <semimajoraxis>0.28</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">48.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

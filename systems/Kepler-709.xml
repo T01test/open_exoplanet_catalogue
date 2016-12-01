@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-709</name>
-  <rightascension>19 06 18</rightascension>
+  <distance errorplus="41.44" errorminus="-45.96">668.0</distance>
   <declination>42 22 49</declination>
+  <rightascension>19 06 18</rightascension>
   <star>
+    <temperature errorplus="83.59" errorminus="-83.42">5071.0</temperature>
     <name>Kepler-709</name>
     <mass errorplus="0.04" errorminus="-0.05">0.8</mass>
-    <temperature errorplus="83.59" errorminus="-83.42">5071.0</temperature>
     <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
-      <period errorplus="0.0" errorminus="-0.0">16.1</period>
       <name>Kepler-709 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="41.44" errorminus="-45.96">668.0</distance>
 </system>
 

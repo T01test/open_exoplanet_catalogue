@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-192</name>
-  <rightascension>19 55 04</rightascension>
+  <distance/>
   <declination>45 35 34</declination>
+  <rightascension>19 55 04</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5479.0</temperature>
     <name>Kepler-192</name>
     <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">5479.0</temperature>
     <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.9</period>
       <name>Kepler-192 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.09</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-      <period errorplus="0.0" errorminus="-0.0">21.2</period>
-      <name>Kepler-192 c</name>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.9</period>
       <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.15</semimajoraxis>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-      <period errorplus="0.0" errorminus="-0.0">6.5</period>
       <name>Kepler-192 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <lastupdate>2016-05-10</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-192 c</name>
+      <semimajoraxis>0.15</semimajoraxis>
+      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

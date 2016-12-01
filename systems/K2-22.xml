@@ -1,22 +1,22 @@
 <system>
   <name>K2-22</name>
-  <rightascension>11 28 58</rightascension>
+  <distance errorplus="50.0" errorminus="-50.0">225.0</distance>
   <declination>02 37 08</declination>
+  <rightascension>11 28 58</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">3830.0</temperature>
     <name>K2-22</name>
     <mass errorplus="0.07" errorminus="-0.07">0.6</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">3830.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">0.57</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.06">0.57</radius>
-      <period errorplus="0.0" errorminus="-0.0">0.4</period>
       <name>K2-22 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0088</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">0.4</period>
+      <lastupdate>2015-10-15</lastupdate>
     </planet>
   </star>
-  <distance errorplus="50.0" errorminus="-50.0">225.0</distance>
 </system>
 

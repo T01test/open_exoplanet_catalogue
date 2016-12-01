@@ -1,23 +1,23 @@
 <system>
   <name>HIP 57050</name>
-  <rightascension>11 26 09</rightascension>
+  <distance errorplus="0.36" errorminus="-0.38">11.03</distance>
   <declination>42 45 07</declination>
+  <rightascension>11 26 09</rightascension>
   <star>
+    <temperature/>
     <name>HIP 57050</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">41.4</period>
       <name>HIP 57050 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.314</eccentricity>
       <semimajoraxis errorplus="4.2e-05" errorminus="-4.2e-05">0.163506</semimajoraxis>
+      <radius/>
+      <eccentricity>0.314</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.36" errorminus="-0.38">11.03</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 137388 A</name>
-  <rightascension>15 54 58</rightascension>
+  <distance errorplus="2.59" errorminus="-2.99">38.45</distance>
   <declination>-80 12 16</declination>
+  <rightascension>15 54 58</rightascension>
   <star>
+    <temperature errorplus="53.0" errorminus="-53.0">5240.0</temperature>
     <name>HD 137388 A</name>
     <mass>0.86</mass>
-    <temperature errorplus="53.0" errorminus="-53.0">5240.0</temperature>
     <radius>0.82</radius>
     <planet>
-      <inclination/>
-      <radius>0.82</radius>
-      <period errorplus="2.0" errorminus="-4.0">330.0</period>
       <name>HD 137388 A b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.36</eccentricity>
       <semimajoraxis errorplus="0.02" errorminus="-0.02">0.89</semimajoraxis>
+      <radius>0.82</radius>
+      <eccentricity>0.36</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.0" errorminus="-4.0">330.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.59" errorminus="-2.99">38.45</distance>
 </system>
 

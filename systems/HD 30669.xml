@@ -1,23 +1,23 @@
 <system>
   <name>HD 30669</name>
-  <rightascension>04 07 07</rightascension>
+  <distance>57.1</distance>
   <declination>-28 25 09</declination>
+  <rightascension>04 07 07</rightascension>
   <star>
+    <temperature errorplus="74.0" errorminus="-74.0">5400.0</temperature>
     <name>HD 30669</name>
     <mass errorplus="0.03" errorminus="-0.03">0.92</mass>
-    <temperature errorplus="74.0" errorminus="-74.0">5400.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.91</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">0.91</radius>
-      <period errorplus="61.0" errorminus="-61.0">1684.0</period>
       <name>HD 30669 b</name>
-      <lastupdate>2015-01-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.18</eccentricity>
       <semimajoraxis errorplus="0.08" errorminus="-0.08">2.69</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.91</radius>
+      <eccentricity>0.18</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="61.0" errorminus="-61.0">1684.0</period>
+      <lastupdate>2015-01-08</lastupdate>
     </planet>
   </star>
-  <distance>57.1</distance>
 </system>
 

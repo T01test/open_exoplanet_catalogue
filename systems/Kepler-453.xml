@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-453</name>
-  <rightascension>18 14 28</rightascension>
+  <distance/>
   <declination>46 22 42</declination>
+  <rightascension>18 14 28</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5527.0</temperature>
     <name>Kepler-453</name>
     <mass errorplus="0.01" errorminus="-0.01">0.94</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5527.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
     <planet>
-      <inclination errorplus="0.009" errorminus="-0.009">89.443</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <period errorplus="0.1" errorminus="-0.1">240.5</period>
       <name>Kepler-453 b</name>
-      <lastupdate>2015-07-09</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0359</eccentricity>
       <semimajoraxis errorplus="0.0028" errorminus="-0.0028">0.7903</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
+      <eccentricity>0.0359</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.009" errorminus="-0.009">89.443</inclination>
+      <period errorplus="0.1" errorminus="-0.1">240.5</period>
+      <lastupdate>2015-07-09</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

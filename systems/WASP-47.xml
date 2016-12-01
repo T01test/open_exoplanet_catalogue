@@ -1,50 +1,50 @@
 <system>
   <name>WASP-47</name>
-  <rightascension>22 12 10</rightascension>
+  <distance errorplus="30.0" errorminus="-30.0">200.0</distance>
   <declination>-12 01 07</declination>
+  <rightascension>22 12 10</rightascension>
   <star>
+    <temperature errorplus="67.0" errorminus="-67.0">5576.0</temperature>
     <name>WASP-47</name>
     <mass errorplus="0.08" errorminus="-0.08">1.04</mass>
-    <temperature errorplus="67.0" errorminus="-67.0">5576.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
     <planet>
-      <inclination errorplus="0.27" errorminus="-0.27">89.03</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <name>WASP-47 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination errorplus="3.1" errorminus="-3.1">87.0</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
-      <period errorplus="0.0" errorminus="-0.0">0.8</period>
-      <name>WASP-47 e</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination errorplus="0.67" errorminus="-0.67">89.36</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
       <name>WASP-47 d</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.67" errorminus="-0.67">89.36</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.0</period>
+      <lastupdate>2015-10-15</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>WASP-47 e</name>
+      <semimajoraxis/>
       <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
-      <period errorplus="7.0" errorminus="-7.0">572.0</period>
-      <name>WASP-47 c</name>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="3.1" errorminus="-3.1">87.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">0.8</period>
       <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.13</eccentricity>
+    </planet>
+    <planet>
+      <name>WASP-47 b</name>
+      <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.27" errorminus="-0.27">89.03</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2015-10-15</lastupdate>
+    </planet>
+    <planet>
+      <name>WASP-47 c</name>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">1.36</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.15</radius>
+      <eccentricity>0.13</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="7.0" errorminus="-7.0">572.0</period>
+      <lastupdate>2015-10-15</lastupdate>
     </planet>
   </star>
-  <distance errorplus="30.0" errorminus="-30.0">200.0</distance>
 </system>
 

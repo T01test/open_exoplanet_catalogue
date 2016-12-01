@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-1161</name>
-  <rightascension>19 04 37</rightascension>
+  <distance errorplus="24.95" errorminus="-29.91">428.0</distance>
   <declination>45 26 26</declination>
+  <rightascension>19 04 37</rightascension>
   <star>
+    <temperature errorplus="55.15" errorminus="-52.76">4253.0</temperature>
     <name>Kepler-1161</name>
     <mass errorplus="0.03" errorminus="-0.04">0.59</mass>
-    <temperature errorplus="55.15" errorminus="-52.76">4253.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
-      <period errorplus="0.0" errorminus="-0.0">10.7</period>
       <name>Kepler-1161 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.7</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="24.95" errorminus="-29.91">428.0</distance>
 </system>
 

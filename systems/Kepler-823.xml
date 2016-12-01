@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-823</name>
-  <rightascension>18 34 57</rightascension>
+  <distance errorplus="173.94" errorminus="-78.47">896.0</distance>
   <declination>39 13 12</declination>
+  <rightascension>18 34 57</rightascension>
   <star>
+    <temperature errorplus="122.3" errorminus="-122.13">5643.0</temperature>
     <name>Kepler-823</name>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="122.3" errorminus="-122.13">5643.0</temperature>
     <radius errorplus="0.18" errorminus="-0.08">0.96</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.18" errorminus="-0.08">0.96</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>Kepler-823 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.18" errorminus="-0.08">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="173.94" errorminus="-78.47">896.0</distance>
 </system>
 

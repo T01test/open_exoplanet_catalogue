@@ -1,23 +1,23 @@
 <system>
   <name>HD 131496</name>
-  <rightascension>14 20 45</rightascension>
+  <distance errorplus="12.9" errorminus="-16.38">121.36</distance>
   <declination>18 14 07</declination>
+  <rightascension>14 20 45</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">4927.0</temperature>
     <name>HD 131496</name>
     <mass errorplus="0.11" errorminus="-0.11">1.61</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">4927.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.3</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.3</radius>
-      <period errorplus="29.0" errorminus="-29.0">883.0</period>
       <name>HD 131496 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.163</eccentricity>
       <semimajoraxis errorplus="0.07" errorminus="-0.07">2.09</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.3</radius>
+      <eccentricity>0.163</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="29.0" errorminus="-29.0">883.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="12.9" errorminus="-16.38">121.36</distance>
 </system>
 

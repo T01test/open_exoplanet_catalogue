@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-7</name>
-  <rightascension>19 34 53</rightascension>
+  <distance/>
   <declination>41 05 23</declination>
+  <rightascension>19 34 53</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5933.0</temperature>
     <name>Kepler-7</name>
     <mass errorplus="0.03" errorminus="-0.03">1.36</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5933.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">1.97</radius>
     <planet>
-      <inclination errorplus="0.055" errorminus="-0.054">85.161</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">1.97</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
       <name>Kepler-7 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.00059" errorminus="-0.00059">0.06067</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">1.97</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.055" errorminus="-0.054">85.161</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <lastupdate>2015-10-15</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 4113</name>
-  <rightascension>00 48 08</rightascension>
+  <distance errorplus="1.84" errorminus="-2.01">44.05</distance>
   <declination>-37 58 57</declination>
+  <rightascension>00 48 08</rightascension>
   <star>
+    <temperature errorplus="26.0" errorminus="-26.0">5688.0</temperature>
     <name>HD 4113</name>
     <mass>0.99</mass>
-    <temperature errorplus="26.0" errorminus="-26.0">5688.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.3" errorminus="-0.3">526.6</period>
       <name>HD 4113 b</name>
-      <lastupdate>2014-12-03</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.903</eccentricity>
       <semimajoraxis>1.28</semimajoraxis>
+      <radius/>
+      <eccentricity>0.903</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">526.6</period>
+      <lastupdate>2014-12-03</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.84" errorminus="-2.01">44.05</distance>
 </system>
 

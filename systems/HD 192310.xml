@@ -1,33 +1,33 @@
 <system>
   <name>HD 192310</name>
-  <rightascension>20 49 20</rightascension>
+  <distance errorplus="0.07" errorminus="-0.07">8.82</distance>
   <declination>-27 01 58</declination>
+  <rightascension>20 49 20</rightascension>
   <star>
+    <temperature errorplus="49.0" errorminus="-49.0">5166.0</temperature>
     <name>HD 192310</name>
     <mass>0.8</mass>
-    <temperature errorplus="49.0" errorminus="-49.0">5166.0</temperature>
     <radius/>
     <planet>
-      <inclination>90.0</inclination>
+      <name>HD 192310 c</name>
+      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.18</semimajoraxis>
       <radius/>
-      <period errorplus="0.1" errorminus="-0.1">74.7</period>
-      <name>HD 192310 b</name>
-      <lastupdate>2015-07-02</lastupdate>
+      <eccentricity>0.32</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.13</eccentricity>
-      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.32</semimajoraxis>
+      <inclination>90.0</inclination>
+      <period errorplus="9.2" errorminus="-9.2">525.8</period>
+      <lastupdate>2015-07-02</lastupdate>
     </planet>
     <planet>
-      <inclination>90.0</inclination>
+      <name>HD 192310 b</name>
+      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.32</semimajoraxis>
       <radius/>
-      <period errorplus="9.2" errorminus="-9.2">525.8</period>
-      <name>HD 192310 c</name>
-      <lastupdate>2015-07-02</lastupdate>
+      <eccentricity>0.13</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.32</eccentricity>
-      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.18</semimajoraxis>
+      <inclination>90.0</inclination>
+      <period errorplus="0.1" errorminus="-0.1">74.7</period>
+      <lastupdate>2015-07-02</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.07" errorminus="-0.07">8.82</distance>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
   <name>HD 147873</name>
-  <rightascension>16 26 17</rightascension>
+  <distance errorplus="10.9" errorminus="-10.9">104.93</distance>
   <declination>-33 34 01</declination>
+  <rightascension>16 26 17</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5972.0</temperature>
     <name>HD 147873</name>
     <mass errorplus="0.05" errorminus="-0.05">1.38</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5972.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
-      <period errorplus="0.0" errorminus="-0.0">116.6</period>
       <name>HD 147873 b</name>
-      <lastupdate>2016-11-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.207</eccentricity>
       <semimajoraxis errorplus="0.018" errorminus="-0.018">0.522</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
+      <eccentricity>0.207</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">116.6</period>
+      <lastupdate>2016-11-10</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
-      <period errorplus="0.8" errorminus="-0.8">491.5</period>
       <name>HD 147873 c</name>
-      <lastupdate>2016-11-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.23</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">1.36</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">2.29</radius>
+      <eccentricity>0.23</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.8" errorminus="-0.8">491.5</period>
+      <lastupdate>2016-11-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.9" errorminus="-10.9">104.93</distance>
 </system>
 

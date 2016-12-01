@@ -1,22 +1,22 @@
 <system>
   <name>KIC 5951458</name>
-  <rightascension>19 59 29</rightascension>
+  <distance/>
   <declination>41 13 22</declination>
+  <rightascension>19 59 29</rightascension>
   <star>
+    <temperature errorplus="170.0" errorminus="-183.0">6258.0</temperature>
     <name>KIC 5951458</name>
     <mass errorplus="0.21" errorminus="-0.21">0.98</mass>
-    <temperature errorplus="170.0" errorminus="-183.0">6258.0</temperature>
     <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
     <planet>
-      <inclination errorplus="0.09" errorminus="-0.12">89.799</inclination>
-      <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
-      <period errorplus="12401.8" errorminus="-152.5">1320.1</period>
       <name>KIC 5951458 b</name>
-      <lastupdate>2016-01-05</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.09" errorminus="-0.12">89.799</inclination>
+      <period errorplus="12401.8" errorminus="-152.5">1320.1</period>
+      <lastupdate>2016-01-05</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

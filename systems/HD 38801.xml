@@ -1,23 +1,23 @@
 <system>
   <name>HD 38801</name>
-  <rightascension>05 59 47</rightascension>
+  <distance errorplus="14.66" errorminus="-20.79">99.4</distance>
   <declination>-8 19 39</declination>
+  <rightascension>05 59 47</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5222.0</temperature>
     <name>HD 38801</name>
     <mass errorplus="0.09" errorminus="-0.09">1.36</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5222.0</temperature>
     <radius errorplus="0.13" errorminus="-0.13">2.53</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.13" errorminus="-0.13">2.53</radius>
-      <period errorplus="2.7" errorminus="-2.7">696.3</period>
       <name>HD 38801 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.037" errorminus="-0.037">1.7</semimajoraxis>
+      <radius errorplus="0.13" errorminus="-0.13">2.53</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.7" errorminus="-2.7">696.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="14.66" errorminus="-20.79">99.4</distance>
 </system>
 

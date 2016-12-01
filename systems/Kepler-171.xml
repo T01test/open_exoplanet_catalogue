@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-171</name>
-  <rightascension>19 46 18</rightascension>
+  <distance/>
   <declination>41 45 19</declination>
+  <rightascension>19 46 18</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">5642.0</temperature>
     <name>Kepler-171</name>
     <mass/>
-    <temperature errorplus="200.0" errorminus="-200.0">5642.0</temperature>
     <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">39.6</period>
-      <name>Kepler-171 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.223</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">11.5</period>
-      <name>Kepler-171 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.098</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>Kepler-171 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.05</semimajoraxis>
+      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-171 d</name>
+      <semimajoraxis>0.223</semimajoraxis>
+      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">39.6</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-171 c</name>
+      <semimajoraxis>0.098</semimajoraxis>
+      <radius errorplus="0.38" errorminus="-0.38">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 39091</name>
-  <rightascension>05 17 28</rightascension>
+  <distance errorplus="0.15" errorminus="-0.15">18.21</distance>
   <declination>-80 28 08</declination>
+  <rightascension>05 17 28</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5950.0</temperature>
     <name>HD 39091</name>
     <mass>1.1</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5950.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="85.0" errorminus="-85.0">2151.0</period>
       <name>HD 39091 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.6405</eccentricity>
       <semimajoraxis errorplus="0.22" errorminus="-0.22">3.38</semimajoraxis>
+      <radius/>
+      <eccentricity>0.6405</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="85.0" errorminus="-85.0">2151.0</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.15" errorminus="-0.15">18.21</distance>
 </system>
 

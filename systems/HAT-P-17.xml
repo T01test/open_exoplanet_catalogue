@@ -1,33 +1,33 @@
 <system>
   <name>HAT-P-17</name>
-  <rightascension>21 32 11</rightascension>
+  <distance errorplus="3.0" errorminus="-3.0">90.0</distance>
   <declination>30 29 19</declination>
+  <rightascension>21 32 11</rightascension>
   <star>
+    <temperature errorplus="80.0" errorminus="-80.0">5246.0</temperature>
     <name>HAT-P-17</name>
     <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5246.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
-      <period errorplus="7700.0" errorminus="-2100.0">5584.0</period>
       <name>HAT-P-17 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.39</eccentricity>
       <semimajoraxis errorplus="3.5" errorminus="-1.4">5.6</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+      <eccentricity>0.39</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="7700.0" errorminus="-2100.0">5584.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.2" errorminus="-0.1">89.2</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">10.3</period>
       <name>HAT-P-17 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.342</eccentricity>
       <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0882</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
+      <eccentricity>0.342</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.2" errorminus="-0.1">89.2</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.0" errorminus="-3.0">90.0</distance>
 </system>
 

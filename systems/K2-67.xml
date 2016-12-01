@@ -1,22 +1,22 @@
 <system>
   <name>K2-67</name>
-  <rightascension>22 36 22</rightascension>
+  <distance/>
   <declination>-10 39 10</declination>
+  <rightascension>22 36 22</rightascension>
   <star>
+    <temperature errorplus="119.0" errorminus="-119.0">5984.0</temperature>
     <name>K2-67</name>
     <mass errorplus="0.1" errorminus="-0.1">0.94</mass>
-    <temperature errorplus="119.0" errorminus="-119.0">5984.0</temperature>
     <radius errorplus="0.22" errorminus="-0.22">1.12</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.22" errorminus="-0.22">1.12</radius>
-      <period errorplus="0.0" errorminus="-0.0">24.4</period>
       <name>K2-67 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0056" errorminus="-0.0056">0.1611</semimajoraxis>
+      <radius errorplus="0.22" errorminus="-0.22">1.12</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">24.4</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,49 +1,49 @@
 <system>
   <name>Kepler-245</name>
-  <rightascension>19 38 20</rightascension>
+  <distance/>
   <declination>42 26 10</declination>
+  <rightascension>19 38 20</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5100.0</temperature>
     <name>Kepler-245</name>
     <mass>0.8</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5100.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">36.3</period>
-      <name>Kepler-245 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.202</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">17.5</period>
       <name>Kepler-245 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.124</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.5</period>
-      <name>Kepler-245 b</name>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.5</period>
       <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.071</semimajoraxis>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-245 d</name>
+      <semimajoraxis>0.202</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <name>Kepler-245 e</name>
-      <lastupdate>2016-05-10</lastupdate>
       <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">36.3</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-245 b</name>
+      <semimajoraxis>0.071</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.5</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-245 e</name>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

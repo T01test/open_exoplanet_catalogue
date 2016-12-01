@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-34</name>
-  <rightascension>19 26 08</rightascension>
+  <distance errorplus="33.0" errorminus="-33.0">1499.0</distance>
   <declination>44 38 29</declination>
+  <rightascension>19 26 08</rightascension>
   <star>
+    <temperature errorplus="130.0" errorminus="-130.0">5913.0</temperature>
     <name>Kepler-34</name>
     <mass errorplus="0.0" errorminus="-0.0">1.05</mass>
-    <temperature errorplus="130.0" errorminus="-130.0">5913.0</temperature>
     <radius errorplus="0.0" errorminus="-0.0">1.16</radius>
     <planet>
-      <inclination errorplus="0.026" errorminus="-0.018">90.355</inclination>
-      <radius errorplus="0.0" errorminus="-0.0">1.16</radius>
-      <period errorplus="0.1" errorminus="-0.1">288.8</period>
       <name>Kepler-34 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.182</eccentricity>
       <semimajoraxis errorplus="0.0009" errorminus="-0.0009">1.0896</semimajoraxis>
+      <radius errorplus="0.0" errorminus="-0.0">1.16</radius>
+      <eccentricity>0.182</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.026" errorminus="-0.018">90.355</inclination>
+      <period errorplus="0.1" errorminus="-0.1">288.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="33.0" errorminus="-33.0">1499.0</distance>
 </system>
 

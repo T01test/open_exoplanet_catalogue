@@ -1,23 +1,23 @@
 <system>
   <name>HIP 75458</name>
-  <rightascension>15 13 56</rightascension>
+  <distance errorplus="0.49" errorminus="-0.51">31.33</distance>
   <declination>58 57 57</declination>
+  <rightascension>15 13 56</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4530.0</temperature>
     <name>HIP 75458</name>
     <mass>1.05</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4530.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">511.1</period>
       <name>HIP 75458 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.7124</eccentricity>
       <semimajoraxis errorplus="0.074" errorminus="-0.074">1.275</semimajoraxis>
+      <radius/>
+      <eccentricity>0.7124</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">511.1</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.49" errorminus="-0.51">31.33</distance>
 </system>
 

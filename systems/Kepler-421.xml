@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-421</name>
-  <rightascension>18 15 24</rightascension>
+  <distance errorplus="20.0" errorminus="-20.0">320.0</distance>
   <declination>45 05 15</declination>
+  <rightascension>18 15 24</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5308.0</temperature>
     <name>Kepler-421</name>
     <mass errorplus="0.03" errorminus="-0.03">0.79</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5308.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
     <planet>
-      <inclination errorplus="0.024" errorminus="-0.031">89.965</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">704.2</period>
       <name>Kepler-421 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.041</eccentricity>
       <semimajoraxis errorplus="0.089" errorminus="-0.089">1.219</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+      <eccentricity>0.041</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.024" errorminus="-0.031">89.965</inclination>
+      <period errorplus="0.0" errorminus="-0.0">704.2</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="20.0" errorminus="-20.0">320.0</distance>
 </system>
 

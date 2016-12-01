@@ -1,33 +1,33 @@
 <system>
   <name>HD 60532</name>
-  <rightascension>07 30 47</rightascension>
+  <distance errorplus="0.17" errorminus="-0.17">25.3</distance>
   <declination>-22 17 45</declination>
+  <rightascension>07 30 47</rightascension>
   <star>
+    <temperature errorplus="80.0" errorminus="-80.0">6245.0</temperature>
     <name>HD 60532</name>
     <mass errorplus="0.09" errorminus="-0.09">1.5</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">6245.0</temperature>
     <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
     <planet>
-      <inclination/>
+      <name>HD 60532 c</name>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.6</semimajoraxis>
       <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
-      <period errorplus="0.3" errorminus="-0.3">201.9</period>
-      <name>HD 60532 b</name>
-      <lastupdate>2016-09-08</lastupdate>
+      <eccentricity>0.03</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.26</eccentricity>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.77</semimajoraxis>
+      <inclination/>
+      <period errorplus="2.4" errorminus="-2.4">600.1</period>
+      <lastupdate>2016-09-08</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 60532 b</name>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.77</semimajoraxis>
       <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
-      <period errorplus="2.4" errorminus="-2.4">600.1</period>
-      <name>HD 60532 c</name>
-      <lastupdate>2016-09-08</lastupdate>
+      <eccentricity>0.26</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.03</eccentricity>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.6</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">201.9</period>
+      <lastupdate>2016-09-08</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.17" errorminus="-0.17">25.3</distance>
 </system>
 

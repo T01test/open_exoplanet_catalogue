@@ -1,23 +1,23 @@
 <system>
   <name>HD 233604</name>
-  <rightascension>09 27 12</rightascension>
+  <distance/>
   <declination>53 34 05</declination>
+  <rightascension>09 27 12</rightascension>
   <star>
+    <temperature errorplus="45.0" errorminus="-45.0">4791.0</temperature>
     <name>HD 233604</name>
     <mass errorplus="0.3" errorminus="-0.3">1.5</mass>
-    <temperature errorplus="45.0" errorminus="-45.0">4791.0</temperature>
     <radius errorplus="0.6" errorminus="-0.6">10.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.6" errorminus="-0.6">10.9</radius>
-      <period errorplus="0.2" errorminus="-0.2">192.0</period>
       <name>HD 233604 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.05</eccentricity>
       <semimajoraxis>0.747</semimajoraxis>
+      <radius errorplus="0.6" errorminus="-0.6">10.9</radius>
+      <eccentricity>0.05</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">192.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

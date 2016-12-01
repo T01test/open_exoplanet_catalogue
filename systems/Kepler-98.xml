@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-98</name>
-  <rightascension>19 39 41</rightascension>
+  <distance/>
   <declination>37 57 52</declination>
+  <rightascension>19 39 41</rightascension>
   <star>
+    <temperature errorplus="73.0" errorminus="-73.0">5539.0</temperature>
     <name>Kepler-98</name>
     <mass errorplus="0.06" errorminus="-0.06">0.99</mass>
-    <temperature errorplus="73.0" errorminus="-73.0">5539.0</temperature>
     <radius errorplus="0.12" errorminus="-0.12">1.11</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.12" errorminus="-0.12">1.11</radius>
-      <period>1.5</period>
       <name>Kepler-98 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.12" errorminus="-0.12">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>1.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

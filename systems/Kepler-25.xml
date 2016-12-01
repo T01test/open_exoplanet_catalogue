@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-25</name>
-  <rightascension>19 38 18</rightascension>
+  <distance/>
   <declination>39 29 16</declination>
+  <rightascension>19 38 18</rightascension>
   <star>
+    <temperature errorplus="79.0" errorminus="-79.0">6270.0</temperature>
     <name>Kepler-25</name>
     <mass errorplus="0.06" errorminus="-0.06">1.19</mass>
-    <temperature errorplus="79.0" errorminus="-79.0">6270.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <period errorplus="2.0" errorminus="-2.0">123.0</period>
-      <name>Kepler-25 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <period>6.2</period>
       <name>Kepler-25 b</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>6.2</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <period>12.7</period>
-      <name>Kepler-25 c</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-25 d</name>
       <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.0" errorminus="-2.0">123.0</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-25 c</name>
+      <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>12.7</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

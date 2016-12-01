@@ -1,23 +1,23 @@
 <system>
   <name>GJ 649</name>
-  <rightascension>16 32 12</rightascension>
+  <distance errorplus="0.16" errorminus="-0.16">10.32</distance>
   <declination>25 44 38</declination>
+  <rightascension>16 32 12</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">3700.0</temperature>
     <name>GJ 649</name>
     <mass errorplus="0.05" errorminus="-0.05">0.54</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">3700.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="4.2" errorminus="-4.2">598.3</period>
       <name>GJ 649 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.3</eccentricity>
       <semimajoraxis errorplus="0.035" errorminus="-0.035">1.135</semimajoraxis>
+      <radius/>
+      <eccentricity>0.3</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="4.2" errorminus="-4.2">598.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.16" errorminus="-0.16">10.32</distance>
 </system>
 

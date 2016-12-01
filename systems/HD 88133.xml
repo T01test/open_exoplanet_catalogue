@@ -1,23 +1,23 @@
 <system>
   <name>HD 88133</name>
-  <rightascension>10 31 55</rightascension>
+  <distance errorplus="5.92" errorminus="-7.04">74.46</distance>
   <declination>18 11 12</declination>
+  <rightascension>10 31 55</rightascension>
   <star>
+    <temperature errorplus="34.0" errorminus="-34.0">5438.0</temperature>
     <name>HD 88133</name>
     <mass errorplus="0.06" errorminus="-0.06">1.18</mass>
-    <temperature errorplus="34.0" errorminus="-34.0">5438.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">1.94</radius>
     <planet>
-      <inclination errorplus="6.0" errorminus="-5.0">15.0</inclination>
-      <radius errorplus="0.06" errorminus="-0.06">1.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
       <name>HD 88133 b</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.05</eccentricity>
       <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.04691</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">1.94</radius>
+      <eccentricity>0.05</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorplus="6.0" errorminus="-5.0">15.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <lastupdate>2016-10-13</lastupdate>
     </planet>
   </star>
-  <distance errorplus="5.92" errorminus="-7.04">74.46</distance>
 </system>
 

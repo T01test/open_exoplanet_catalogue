@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-177</name>
-  <rightascension>19 02 49</rightascension>
+  <distance/>
   <declination>45 03 11</declination>
+  <rightascension>19 02 49</rightascension>
   <star>
+    <temperature>5942.0</temperature>
     <name>Kepler-177</name>
     <mass errorplus="0.25" errorminus="-0.12">1.07</mass>
-    <temperature>5942.0</temperature>
     <radius errorplus="0.56" errorminus="-0.11">1.07</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.56" errorminus="-0.11">1.07</radius>
-      <period>49.4</period>
-      <name>Kepler-177 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-177 b</name>
       <semimajoraxis/>
+      <radius errorplus="0.56" errorminus="-0.11">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>36.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.56" errorminus="-0.11">1.07</radius>
-      <period>36.9</period>
-      <name>Kepler-177 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-177 c</name>
       <semimajoraxis/>
+      <radius errorplus="0.56" errorminus="-0.11">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>49.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

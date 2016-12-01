@@ -1,33 +1,33 @@
 <system>
   <name>HD 128311</name>
-  <rightascension>14 00 08</rightascension>
+  <distance/>
   <declination>09 44 47</declination>
+  <rightascension>14 00 08</rightascension>
   <star>
+    <temperature/>
     <name>HD 128311</name>
     <mass errorplus="0.01" errorminus="-0.01">0.83</mass>
-    <temperature/>
     <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
     <planet>
-      <inclination errorplus="14.553" errorminus="-14.553">55.95</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
-      <period errorplus="1.1" errorminus="-1.1">921.5</period>
       <name>HD 128311 c</name>
-      <lastupdate>2015-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.159</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">1.74</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
+      <eccentricity>0.159</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorplus="14.553" errorminus="-14.553">55.95</inclination>
+      <period errorplus="1.1" errorminus="-1.1">921.5</period>
+      <lastupdate>2015-06-25</lastupdate>
     </planet>
     <planet>
-      <inclination>30.0</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
-      <period errorplus="0.4" errorminus="-0.4">453.0</period>
       <name>HD 128311 b</name>
-      <lastupdate>2015-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.303</eccentricity>
       <semimajoraxis errorplus="0.006" errorminus="-0.006">1.084</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.76</radius>
+      <eccentricity>0.303</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>30.0</inclination>
+      <period errorplus="0.4" errorminus="-0.4">453.0</period>
+      <lastupdate>2015-06-25</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

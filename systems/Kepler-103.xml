@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-103</name>
-  <rightascension>19 59 04</rightascension>
+  <distance/>
   <declination>40 03 52</declination>
+  <rightascension>19 59 04</rightascension>
   <star>
+    <temperature errorplus="88.0" errorminus="-88.0">5845.0</temperature>
     <name>Kepler-103</name>
     <mass errorplus="0.07" errorminus="-0.07">1.09</mass>
-    <temperature errorplus="88.0" errorminus="-88.0">5845.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.44</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.44</radius>
-      <period>179.6</period>
       <name>Kepler-103 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.44</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>179.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.44</radius>
-      <period>16.0</period>
       <name>Kepler-103 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.44</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>16.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

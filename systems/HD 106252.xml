@@ -1,23 +1,23 @@
 <system>
   <name>HD 106252</name>
-  <rightascension>12 22 22</rightascension>
+  <distance errorplus="1.3" errorminus="-1.3">37.4</distance>
   <declination>10 02 29</declination>
+  <rightascension>12 22 22</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5870.0</temperature>
     <name>HD 106252</name>
     <mass errorplus="0.02" errorminus="-0.02">1.01</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5870.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="4.7" errorminus="-4.7">1531.0</period>
       <name>HD 106252 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.482</eccentricity>
       <semimajoraxis errorplus="0.026" errorminus="-0.026">2.611</semimajoraxis>
+      <radius/>
+      <eccentricity>0.482</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="4.7" errorminus="-4.7">1531.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.3" errorminus="-1.3">37.4</distance>
 </system>
 

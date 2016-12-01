@@ -1,23 +1,23 @@
 <system>
   <name>HD 145457</name>
-  <rightascension>16 30 58</rightascension>
+  <distance errorplus="10.63" errorminus="-12.78">126.1</distance>
   <declination>26 44 33</declination>
+  <rightascension>16 30 58</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4757.0</temperature>
     <name>HD 145457</name>
     <mass errorplus="0.3" errorminus="-0.3">1.9</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4757.0</temperature>
     <radius errorplus="0.5" errorminus="-0.5">9.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.5" errorminus="-0.5">9.9</radius>
-      <period errorplus="0.4" errorminus="-0.4">176.3</period>
       <name>HD 145457 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.112</eccentricity>
       <semimajoraxis>0.76</semimajoraxis>
+      <radius errorplus="0.5" errorminus="-0.5">9.9</radius>
+      <eccentricity>0.112</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.4" errorminus="-0.4">176.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.63" errorminus="-12.78">126.1</distance>
 </system>
 

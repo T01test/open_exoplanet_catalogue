@@ -1,23 +1,23 @@
 <system>
   <name>WASP-73</name>
-  <rightascension>21 56 58</rightascension>
+  <distance/>
   <declination>-58 08 55</declination>
+  <rightascension>21 56 58</rightascension>
   <star>
+    <temperature errorplus="120.0" errorminus="-120.0">6036.0</temperature>
     <name>WASP-73</name>
     <mass errorplus="0.05" errorminus="-0.04">1.34</mass>
-    <temperature errorplus="120.0" errorminus="-120.0">6036.0</temperature>
     <radius errorplus="0.19" errorminus="-0.08">2.07</radius>
     <planet>
-      <inclination errorplus="1.8" errorminus="-2.4">87.4</inclination>
-      <radius errorplus="0.19" errorminus="-0.08">2.07</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <name>WASP-73 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0006" errorminus="-0.00053">0.05512</semimajoraxis>
+      <radius errorplus="0.19" errorminus="-0.08">2.07</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.8" errorminus="-2.4">87.4</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

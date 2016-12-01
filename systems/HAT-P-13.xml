@@ -1,33 +1,33 @@
 <system>
   <name>HAT-P-13</name>
-  <rightascension>08 52 57</rightascension>
+  <distance errorplus="12.0" errorminus="-12.0">214.0</distance>
   <declination>47 21 07</declination>
+  <rightascension>08 52 57</rightascension>
   <star>
+    <temperature errorplus="90.0" errorminus="-90.0">5653.0</temperature>
     <name>HAT-P-13</name>
     <mass errorplus="0.05" errorminus="-0.1">1.22</mass>
-    <temperature errorplus="90.0" errorminus="-90.0">5653.0</temperature>
     <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <period errorplus="0.2" errorminus="-0.2">446.3</period>
-      <name>HAT-P-13 c</name>
-      <lastupdate>2014-05-16</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.6616</eccentricity>
+      <name>HAT-P-13 b</name>
       <semimajoraxis/>
+      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
+      <eccentricity>0.0133</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.68" errorminus="-0.68">83.4</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <lastupdate>2014-10-15</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.68" errorminus="-0.68">83.4</inclination>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <name>HAT-P-13 b</name>
-      <lastupdate>2014-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0133</eccentricity>
+      <name>HAT-P-13 c</name>
       <semimajoraxis/>
+      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
+      <eccentricity>0.6616</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">446.3</period>
+      <lastupdate>2014-05-16</lastupdate>
     </planet>
   </star>
-  <distance errorplus="12.0" errorminus="-12.0">214.0</distance>
 </system>
 

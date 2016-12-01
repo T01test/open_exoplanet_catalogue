@@ -1,23 +1,23 @@
 <system>
   <name>BD-10 3166</name>
-  <rightascension>10 37 12</rightascension>
+  <distance errorplus="10.0" errorminus="-10.0">80.0</distance>
   <declination>-10 46 13</declination>
+  <rightascension>10 37 12</rightascension>
   <star>
+    <temperature>5393.0</temperature>
     <name>BD-10 3166</name>
     <mass>1.01</mass>
-    <temperature>5393.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
       <name>BD-10 3166 b</name>
-      <lastupdate>2014-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.019</eccentricity>
       <semimajoraxis errorplus="0.0026" errorminus="-0.0026">0.0452</semimajoraxis>
+      <radius/>
+      <eccentricity>0.019</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <lastupdate>2014-08-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.0" errorminus="-10.0">80.0</distance>
 </system>
 

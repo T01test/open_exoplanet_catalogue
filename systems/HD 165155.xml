@@ -1,23 +1,23 @@
 <system>
   <name>HD 165155</name>
-  <rightascension>18 29 20</rightascension>
+  <distance errorplus="7.26" errorminus="-7.26">64.98</distance>
   <declination>-29 55 02</declination>
+  <rightascension>18 29 20</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5426.0</temperature>
     <name>HD 165155</name>
     <mass errorplus="0.05" errorminus="-0.05">1.02</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5426.0</temperature>
     <radius errorplus="0.11" errorminus="-0.11">0.95</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.11" errorminus="-0.11">0.95</radius>
-      <period errorplus="2.1" errorminus="-2.1">434.5</period>
       <name>HD 165155 b</name>
-      <lastupdate>2016-11-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">1.13</semimajoraxis>
+      <radius errorplus="0.11" errorminus="-0.11">0.95</radius>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.1" errorminus="-2.1">434.5</period>
+      <lastupdate>2016-11-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="7.26" errorminus="-7.26">64.98</distance>
 </system>
 

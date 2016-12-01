@@ -1,33 +1,33 @@
 <system>
   <name>rho CrB</name>
-  <rightascension>16 15 39</rightascension>
+  <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
   <declination>33 18 12</declination>
+  <rightascension>16 15 39</rightascension>
   <star>
+    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
     <name>rho CrB</name>
     <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
-    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
     <planet>
-      <inclination/>
+      <name>rho CrB b</name>
+      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
       <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <period errorplus="0.2" errorminus="-0.2">102.5</period>
-      <name>rho CrB c</name>
-      <lastupdate>2016-10-27</lastupdate>
+      <eccentricity>0.0373</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.052</eccentricity>
-      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">39.8</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>rho CrB c</name>
+      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
       <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">39.8</period>
-      <name>rho CrB b</name>
-      <lastupdate>2016-10-27</lastupdate>
+      <eccentricity>0.052</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0373</eccentricity>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">102.5</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
 </system>
 

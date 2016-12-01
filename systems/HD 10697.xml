@@ -1,23 +1,23 @@
 <system>
   <name>HD 10697</name>
-  <rightascension>01 13 57</rightascension>
+  <distance errorplus="0.9" errorminus="-0.9">32.6</distance>
   <declination>20 04 59</declination>
+  <rightascension>01 13 57</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5680.0</temperature>
     <name>HD 10697</name>
     <mass errorplus="0.03" errorminus="-0.03">1.11</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5680.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="1.5" errorminus="-1.5">1075.2</period>
       <name>HD 10697 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.099</eccentricity>
       <semimajoraxis errorplus="0.018" errorminus="-0.018">2.131</semimajoraxis>
+      <radius/>
+      <eccentricity>0.099</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.5" errorminus="-1.5">1075.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.9" errorminus="-0.9">32.6</distance>
 </system>
 

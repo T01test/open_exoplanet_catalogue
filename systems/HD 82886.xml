@@ -1,23 +1,23 @@
 <system>
   <name>HD 82886</name>
-  <rightascension>09 56 17</rightascension>
+  <distance errorplus="10.5" errorminus="-12.92">112.23</distance>
   <declination>34 46 50</declination>
+  <rightascension>09 56 17</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5112.0</temperature>
     <name>HD 82886</name>
     <mass errorplus="0.07" errorminus="-0.07">1.06</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5112.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
-      <period errorplus="34.0" errorminus="-34.0">705.0</period>
       <name>HD 82886 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.066</eccentricity>
       <semimajoraxis errorplus="0.06" errorminus="-0.06">1.65</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
+      <eccentricity>0.066</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="34.0" errorminus="-34.0">705.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.5" errorminus="-12.92">112.23</distance>
 </system>
 

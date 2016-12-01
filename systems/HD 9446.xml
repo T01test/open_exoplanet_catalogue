@@ -1,33 +1,33 @@
 <system>
   <name>HD 9446</name>
-  <rightascension>01 20 02</rightascension>
+  <distance errorplus="2.8" errorminus="-3.14">52.85</distance>
   <declination>29 15 54</declination>
+  <rightascension>01 20 02</rightascension>
   <star>
+    <temperature errorplus="22.0" errorminus="-22.0">5793.0</temperature>
     <name>HD 9446</name>
     <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
-    <temperature errorplus="22.0" errorminus="-22.0">5793.0</temperature>
     <radius>1.0</radius>
     <planet>
-      <inclination/>
-      <radius>1.0</radius>
-      <period errorplus="0.9" errorminus="-0.9">192.9</period>
       <name>HD 9446 c</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.06</eccentricity>
       <semimajoraxis errorplus="0.022" errorminus="-0.022">0.654</semimajoraxis>
+      <radius>1.0</radius>
+      <eccentricity>0.06</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.9" errorminus="-0.9">192.9</period>
+      <lastupdate>2016-03-10</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius>1.0</radius>
-      <period errorplus="0.0" errorminus="-0.0">30.1</period>
       <name>HD 9446 b</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis errorplus="0.006" errorminus="-0.006">0.189</semimajoraxis>
+      <radius>1.0</radius>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.1</period>
+      <lastupdate>2016-03-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.8" errorminus="-3.14">52.85</distance>
 </system>
 

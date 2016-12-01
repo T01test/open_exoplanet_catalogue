@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-897</name>
-  <rightascension>19 35 12</rightascension>
+  <distance errorplus="311.52" errorminus="-127.69">1147.0</distance>
   <declination>51 41 44</declination>
+  <rightascension>19 35 12</rightascension>
   <star>
+    <temperature errorplus="103.48" errorminus="-143.96">5839.0</temperature>
     <name>Kepler-897</name>
     <mass errorplus="0.06" errorminus="-0.07">1.03</mass>
-    <temperature errorplus="103.48" errorminus="-143.96">5839.0</temperature>
     <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.0</period>
       <name>Kepler-897 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="311.52" errorminus="-127.69">1147.0</distance>
 </system>
 

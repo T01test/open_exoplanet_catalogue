@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-1443</name>
-  <rightascension>18 26 08</rightascension>
+  <distance errorplus="44.73" errorminus="-34.36">475.0</distance>
   <declination>47 04 00</declination>
+  <rightascension>18 26 08</rightascension>
   <star>
+    <temperature errorplus="83.36" errorminus="-68.31">6289.0</temperature>
     <name>Kepler-1443</name>
     <mass errorplus="0.05" errorminus="-0.05">1.19</mass>
-    <temperature errorplus="83.36" errorminus="-68.31">6289.0</temperature>
     <radius errorplus="0.12" errorminus="-0.09">1.27</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.12" errorminus="-0.09">1.27</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
       <name>Kepler-1443 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.12" errorminus="-0.09">1.27</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="44.73" errorminus="-34.36">475.0</distance>
 </system>
 

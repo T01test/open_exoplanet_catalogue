@@ -1,23 +1,23 @@
 <system>
   <name>HD 240237</name>
-  <rightascension>23 55 33</rightascension>
+  <distance>307.69</distance>
   <declination>58 02 35</declination>
+  <rightascension>23 55 33</rightascension>
   <star>
+    <temperature errorplus="10.0" errorminus="-10.0">4361.0</temperature>
     <name>HD 240237</name>
     <mass errorplus="0.42" errorminus="-0.42">1.69</mass>
-    <temperature errorplus="10.0" errorminus="-10.0">4361.0</temperature>
     <radius errorplus="1.0" errorminus="-1.0">32.0</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="1.0" errorminus="-1.0">32.0</radius>
-      <period errorplus="13.8" errorminus="-13.8">745.7</period>
       <name>HD 240237 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.4</eccentricity>
       <semimajoraxis>1.9</semimajoraxis>
+      <radius errorplus="1.0" errorminus="-1.0">32.0</radius>
+      <eccentricity>0.4</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="13.8" errorminus="-13.8">745.7</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance>307.69</distance>
 </system>
 

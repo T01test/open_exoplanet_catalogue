@@ -1,23 +1,23 @@
 <system>
   <name>HIP 79431</name>
-  <rightascension>16 10 26</rightascension>
+  <distance errorplus="0.75" errorminus="-0.83">14.9</distance>
   <declination>-18 52 31</declination>
+  <rightascension>16 10 26</rightascension>
   <star>
+    <temperature/>
     <name>HIP 79431</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.7" errorminus="-0.7">111.7</period>
       <name>HIP 79431 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.29</eccentricity>
       <semimajoraxis>0.36</semimajoraxis>
+      <radius/>
+      <eccentricity>0.29</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.7" errorminus="-0.7">111.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.75" errorminus="-0.83">14.9</distance>
 </system>
 

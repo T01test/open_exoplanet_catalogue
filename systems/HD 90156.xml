@@ -1,23 +1,23 @@
 <system>
   <name>HD 90156</name>
-  <rightascension>10 58 49</rightascension>
+  <distance errorplus="0.36" errorminus="-0.37">22.09</distance>
   <declination>-29 38 43</declination>
+  <rightascension>10 58 49</rightascension>
   <star>
+    <temperature errorplus="12.0" errorminus="-12.0">5599.0</temperature>
     <name>HD 90156</name>
     <mass>0.84</mass>
-    <temperature errorplus="12.0" errorminus="-12.0">5599.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">49.8</period>
       <name>HD 90156 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.31</eccentricity>
       <semimajoraxis errorplus="0.004" errorminus="-0.004">0.25</semimajoraxis>
+      <radius/>
+      <eccentricity>0.31</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">49.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.36" errorminus="-0.37">22.09</distance>
 </system>
 

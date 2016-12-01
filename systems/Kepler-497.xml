@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-497</name>
-  <rightascension>19 45 57</rightascension>
+  <distance errorplus="282.16" errorminus="-123.29">1070.0</distance>
   <declination>38 55 40</declination>
+  <rightascension>19 45 57</rightascension>
   <star>
+    <temperature errorplus="110.98" errorminus="-141.15">5834.0</temperature>
     <name>Kepler-497</name>
     <mass errorplus="0.1" errorminus="-0.06">1.09</mass>
-    <temperature errorplus="110.98" errorminus="-141.15">5834.0</temperature>
     <radius errorplus="0.29" errorminus="-0.12">1.11</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.29" errorminus="-0.12">1.11</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <name>Kepler-497 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.29" errorminus="-0.12">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="282.16" errorminus="-123.29">1070.0</distance>
 </system>
 

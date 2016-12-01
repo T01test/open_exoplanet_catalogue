@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-145</name>
-  <rightascension>19 23 15</rightascension>
+  <distance/>
   <declination>44 31 44</declination>
+  <rightascension>19 23 15</rightascension>
   <star>
+    <temperature>6022.0</temperature>
     <name>Kepler-145</name>
     <mass errorplus="0.1" errorminus="-0.1">1.32</mass>
-    <temperature>6022.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.85</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">1.85</radius>
-      <period>42.9</period>
       <name>Kepler-145 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">1.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>42.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">1.85</radius>
-      <period>23.0</period>
       <name>Kepler-145 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">1.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>23.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

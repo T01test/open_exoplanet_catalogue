@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-109</name>
-  <rightascension>19 23 33</rightascension>
+  <distance/>
   <declination>40 17 05</declination>
+  <rightascension>19 23 33</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5952.0</temperature>
     <name>Kepler-109</name>
     <mass errorplus="0.06" errorminus="-0.06">1.04</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5952.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.32</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.32</radius>
-      <period>6.5</period>
       <name>Kepler-109 b</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.32</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>6.5</period>
+      <lastupdate>2016-10-13</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.32</radius>
-      <period>21.2</period>
       <name>Kepler-109 c</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.32</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>21.2</period>
+      <lastupdate>2016-10-13</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

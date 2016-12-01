@@ -1,23 +1,23 @@
 <system>
   <name>HD 210277</name>
-  <rightascension>22 22 28</rightascension>
+  <distance errorplus="0.35" errorminus="-0.36">21.29</distance>
   <declination>-7 32 55</declination>
+  <rightascension>22 22 28</rightascension>
   <star>
+    <temperature>5555.0</temperature>
     <name>HD 210277</name>
     <mass>1.01</mass>
-    <temperature>5555.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.5" errorminus="-0.5">442.2</period>
       <name>HD 210277 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.476</eccentricity>
       <semimajoraxis errorplus="0.066" errorminus="-0.066">1.138</semimajoraxis>
+      <radius/>
+      <eccentricity>0.476</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">442.2</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.35" errorminus="-0.36">21.29</distance>
 </system>
 

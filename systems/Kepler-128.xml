@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-128</name>
-  <rightascension>18 29 32</rightascension>
+  <distance/>
   <declination>43 58 48</declination>
+  <rightascension>18 29 32</rightascension>
   <star>
+    <temperature>6090.0</temperature>
     <name>Kepler-128</name>
     <mass errorplus="0.07" errorminus="-0.07">1.18</mass>
-    <temperature>6090.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.66</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.66</radius>
-      <period>22.8</period>
-      <name>Kepler-128 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-128 b</name>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.66</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>15.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.66</radius>
-      <period>15.1</period>
-      <name>Kepler-128 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-128 c</name>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">1.66</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>22.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

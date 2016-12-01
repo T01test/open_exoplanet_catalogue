@@ -1,23 +1,23 @@
 <system>
   <name>HD 216770</name>
-  <rightascension>22 58 25</rightascension>
+  <distance errorplus="1.46" errorminus="-1.59">37.89</distance>
   <declination>-26 39 31</declination>
+  <rightascension>22 58 25</rightascension>
   <star>
+    <temperature/>
     <name>HD 216770</name>
     <mass>0.9</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.6" errorminus="-0.6">118.5</period>
       <name>HD 216770 b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.37</eccentricity>
       <semimajoraxis>0.46</semimajoraxis>
+      <radius/>
+      <eccentricity>0.37</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">118.5</period>
+      <lastupdate>2015-04-24</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.46" errorminus="-1.59">37.89</distance>
 </system>
 

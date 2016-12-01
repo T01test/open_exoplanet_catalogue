@@ -1,23 +1,23 @@
 <system>
   <name>HD 113337</name>
-  <rightascension>13 26 43</rightascension>
+  <distance errorplus="0.73" errorminus="-0.76">37.42</distance>
   <declination>63 36 36</declination>
+  <rightascension>13 26 43</rightascension>
   <star>
+    <temperature errorplus="153.2" errorminus="-149.7">6576.6</temperature>
     <name>HD 113337</name>
     <mass errorplus="0.14" errorminus="-0.14">1.4</mass>
-    <temperature errorplus="153.2" errorminus="-149.7">6576.6</temperature>
     <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
-      <period errorplus="1.7" errorminus="-3.3">324.0</period>
       <name>HD 113337 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.46</eccentricity>
       <semimajoraxis errorplus="0.09" errorminus="-0.09">0.92</semimajoraxis>
+      <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
+      <eccentricity>0.46</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.7" errorminus="-3.3">324.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.73" errorminus="-0.76">37.42</distance>
 </system>
 

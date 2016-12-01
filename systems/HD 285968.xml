@@ -1,23 +1,23 @@
 <system>
   <name>HD 285968</name>
-  <rightascension>04 43 56</rightascension>
+  <distance errorplus="0.22" errorminus="-0.23">9.42</distance>
   <declination>18 57 29</declination>
+  <rightascension>04 43 56</rightascension>
   <star>
+    <temperature errorplus="77.0" errorminus="-77.0">3679.0</temperature>
     <name>HD 285968</name>
     <mass>0.45</mass>
-    <temperature errorplus="77.0" errorminus="-77.0">3679.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.45</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">0.45</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.8</period>
       <name>HD 285968 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis>0.066</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.45</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.8</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.22" errorminus="-0.23">9.42</distance>
 </system>
 

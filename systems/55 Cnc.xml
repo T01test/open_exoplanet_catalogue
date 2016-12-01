@@ -1,62 +1,62 @@
 <system>
   <name>55 Cnc</name>
-  <rightascension>08 08 57</rightascension>
+  <distance errorplus="0.13" errorminus="-0.13">12.53</distance>
   <declination>28 19 50</declination>
+  <rightascension>08 08 57</rightascension>
   <star>
+    <temperature errorplus="24.0" errorminus="-24.0">5196.0</temperature>
     <name>55 Cnc</name>
     <mass errorplus="0.01" errorminus="-0.01">0.91</mass>
-    <temperature errorplus="24.0" errorminus="-24.0">5196.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
     <planet>
-      <inclination errorplus="0.9" errorminus="-0.8">83.3</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
-      <name>55 Cnc e</name>
-      <lastupdate>2016-07-07</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <semimajoraxis errorplus="9e-05" errorminus="-9e-05">0.01544</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>90.0</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">44.4</period>
-      <name>55 Cnc c</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.02</eccentricity>
-      <semimajoraxis errorplus="2.6e-05" errorminus="-2.6e-05">0.241376</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>90.0</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
-      <period errorplus="0.5" errorminus="-0.5">262.0</period>
-      <name>55 Cnc f</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.305</eccentricity>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.788</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>90.0</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">14.7</period>
       <name>55 Cnc b</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0034</eccentricity>
       <semimajoraxis errorplus="1e-06" errorminus="-1e-06">0.115227</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
+      <eccentricity>0.0034</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">14.7</period>
+      <lastupdate>2014-10-29</lastupdate>
     </planet>
     <planet>
-      <inclination>90.0</inclination>
+      <name>55 Cnc f</name>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.788</semimajoraxis>
       <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
-      <period errorplus="39.0" errorminus="-39.0">4825.0</period>
-      <name>55 Cnc d</name>
-      <lastupdate>2014-10-29</lastupdate>
+      <eccentricity>0.305</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.019</eccentricity>
+      <inclination>90.0</inclination>
+      <period errorplus="0.5" errorminus="-0.5">262.0</period>
+      <lastupdate>2014-10-29</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc e</name>
+      <semimajoraxis errorplus="9e-05" errorminus="-9e-05">0.01544</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorplus="0.9" errorminus="-0.8">83.3</inclination>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <lastupdate>2016-07-07</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc d</name>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">5.503</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
+      <eccentricity>0.019</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="39.0" errorminus="-39.0">4825.0</period>
+      <lastupdate>2014-10-29</lastupdate>
+    </planet>
+    <planet>
+      <name>55 Cnc c</name>
+      <semimajoraxis errorplus="2.6e-05" errorminus="-2.6e-05">0.241376</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.94</radius>
+      <eccentricity>0.02</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">44.4</period>
+      <lastupdate>2014-10-29</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.13" errorminus="-0.13">12.53</distance>
 </system>
 

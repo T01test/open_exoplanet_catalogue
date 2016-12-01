@@ -1,23 +1,23 @@
 <system>
   <name>HD 44219</name>
-  <rightascension>06 03 34</rightascension>
+  <distance errorplus="2.1" errorminus="-1.9">50.4</distance>
   <declination>-10 43 30</declination>
+  <rightascension>06 03 34</rightascension>
   <star>
+    <temperature errorplus="16.0" errorminus="-16.0">5752.0</temperature>
     <name>HD 44219</name>
     <mass>1.0</mass>
-    <temperature errorplus="16.0" errorminus="-16.0">5752.0</temperature>
     <radius errorplus="0.07" errorminus="-0.07">1.32</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.07" errorminus="-0.07">1.32</radius>
-      <period errorplus="6.3" errorminus="-5.0">472.3</period>
       <name>HD 44219 b</name>
-      <lastupdate>2015-01-22</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.61</eccentricity>
       <semimajoraxis errorplus="0.02" errorminus="-0.02">1.19</semimajoraxis>
+      <radius errorplus="0.07" errorminus="-0.07">1.32</radius>
+      <eccentricity>0.61</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="6.3" errorminus="-5.0">472.3</period>
+      <lastupdate>2015-01-22</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.1" errorminus="-1.9">50.4</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 96063</name>
-  <rightascension>11 11 06</rightascension>
+  <distance errorplus="16.39" errorminus="-21.76">132.8</distance>
   <declination>-2 30 47</declination>
+  <rightascension>11 11 06</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5148.0</temperature>
     <name>HD 96063</name>
     <mass errorplus="0.07" errorminus="-0.07">1.02</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5148.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
-      <period errorplus="9.9" errorminus="-9.9">361.1</period>
       <name>HD 96063 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.03</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">0.99</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+      <eccentricity>0.03</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="9.9" errorminus="-9.9">361.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="16.39" errorminus="-21.76">132.8</distance>
 </system>
 

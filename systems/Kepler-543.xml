@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-543</name>
-  <rightascension>19 13 07</rightascension>
+  <distance errorplus="11.16" errorminus="-9.23">212.0</distance>
   <declination>38 51 45</declination>
+  <rightascension>19 13 07</rightascension>
   <star>
+    <temperature errorplus="85.64" errorminus="-76.72">4671.0</temperature>
     <name>Kepler-543</name>
     <mass errorplus="0.05" errorminus="-0.04">0.7</mass>
-    <temperature errorplus="85.64" errorminus="-76.72">4671.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <period errorplus="0.0" errorminus="-0.0">13.9</period>
       <name>Kepler-543 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.9</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="11.16" errorminus="-9.23">212.0</distance>
 </system>
 

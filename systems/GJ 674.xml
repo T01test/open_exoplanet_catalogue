@@ -1,23 +1,23 @@
 <system>
   <name>GJ 674</name>
-  <rightascension>17 09 59</rightascension>
+  <distance errorplus="0.03" errorminus="-0.03">4.54</distance>
   <declination>-46 53 42</declination>
+  <rightascension>17 09 59</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">3600.0</temperature>
     <name>GJ 674</name>
     <mass>0.35</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">3600.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">4.7</period>
       <name>GJ 674 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis>0.039</semimajoraxis>
+      <radius/>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.03" errorminus="-0.03">4.54</distance>
 </system>
 

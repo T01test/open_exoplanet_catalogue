@@ -1,33 +1,33 @@
 <system>
   <name>Kepler-47</name>
-  <rightascension>19 17 52</rightascension>
+  <distance>1500.0</distance>
   <declination>46 55 13</declination>
+  <rightascension>19 17 52</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5636.0</temperature>
     <name>Kepler-47</name>
     <mass errorplus="0.05" errorminus="-0.06">1.05</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5636.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.96</radius>
     <planet>
-      <inclination errorplus="0.009" errorminus="-0.01">89.825</inclination>
+      <name>Kepler-47 b</name>
+      <semimajoraxis errorplus="0.0044" errorminus="-0.0047">0.2962</semimajoraxis>
       <radius errorplus="0.02" errorminus="-0.02">0.96</radius>
-      <period errorplus="0.1" errorminus="-0.0">303.1</period>
-      <name>Kepler-47 c</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.035</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.411</eccentricity>
-      <semimajoraxis errorplus="0.015" errorminus="-0.016">0.991</semimajoraxis>
+      <inclination errorplus="0.5" errorminus="-0.16">89.7</inclination>
+      <period errorplus="0.0" errorminus="-0.0">49.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.5" errorminus="-0.16">89.7</inclination>
+      <name>Kepler-47 c</name>
+      <semimajoraxis errorplus="0.015" errorminus="-0.016">0.991</semimajoraxis>
       <radius errorplus="0.02" errorminus="-0.02">0.96</radius>
-      <period errorplus="0.0" errorminus="-0.0">49.5</period>
-      <name>Kepler-47 b</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.411</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.035</eccentricity>
-      <semimajoraxis errorplus="0.0044" errorminus="-0.0047">0.2962</semimajoraxis>
+      <inclination errorplus="0.009" errorminus="-0.01">89.825</inclination>
+      <period errorplus="0.1" errorminus="-0.0">303.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>1500.0</distance>
 </system>
 

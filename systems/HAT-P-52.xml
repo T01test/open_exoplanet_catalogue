@@ -1,23 +1,23 @@
 <system>
   <name>HAT-P-52</name>
-  <rightascension>02 43 18</rightascension>
+  <distance errorplus="21.0" errorminus="-21.0">385.0</distance>
   <declination>29 01 20</declination>
+  <rightascension>02 43 18</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5131.0</temperature>
     <name>HAT-P-52</name>
     <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5131.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
     <planet>
-      <inclination errorplus="0.86" errorminus="-0.86">87.02</inclination>
-      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
       <name>HAT-P-52 b</name>
-      <lastupdate>2015-11-19</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.047</eccentricity>
       <semimajoraxis errorplus="0.00038" errorminus="-0.00038">0.03694</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
+      <eccentricity>0.047</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.86" errorminus="-0.86">87.02</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="21.0" errorminus="-21.0">385.0</distance>
 </system>
 

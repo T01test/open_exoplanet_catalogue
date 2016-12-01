@@ -1,23 +1,23 @@
 <system>
   <name>BD+15 2940</name>
-  <rightascension>16 05 44</rightascension>
+  <distance>175.44</distance>
   <declination>15 32 48</declination>
+  <rightascension>16 05 44</rightascension>
   <star>
+    <temperature errorplus="117.0" errorminus="-117.0">4796.0</temperature>
     <name>BD+15 2940</name>
     <mass errorplus="0.2" errorminus="-0.2">1.1</mass>
-    <temperature errorplus="117.0" errorminus="-117.0">4796.0</temperature>
     <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
-      <period errorplus="0.3" errorminus="-0.3">137.5</period>
       <name>BD+15 2940 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.26</eccentricity>
       <semimajoraxis>0.539</semimajoraxis>
+      <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
+      <eccentricity>0.26</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">137.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>175.44</distance>
 </system>
 

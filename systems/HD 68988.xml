@@ -1,23 +1,23 @@
 <system>
   <name>HD 68988</name>
-  <rightascension>08 35 32</rightascension>
+  <distance errorplus="3.14" errorminus="-3.52">58.82</distance>
   <declination>61 27 38</declination>
+  <rightascension>08 35 32</rightascension>
   <star>
+    <temperature>5960.0</temperature>
     <name>HD 68988</name>
     <mass>1.18</mass>
-    <temperature>5960.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">6.3</period>
       <name>HD 68988 b</name>
-      <lastupdate>2015-03-26</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.1249</eccentricity>
       <semimajoraxis errorplus="0.0041" errorminus="-0.0041">0.0704</semimajoraxis>
+      <radius/>
+      <eccentricity>0.1249</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.3</period>
+      <lastupdate>2015-03-26</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.14" errorminus="-3.52">58.82</distance>
 </system>
 

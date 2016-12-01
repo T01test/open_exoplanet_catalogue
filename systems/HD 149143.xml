@@ -1,23 +1,23 @@
 <system>
   <name>HD 149143</name>
-  <rightascension>16 12 45</rightascension>
+  <distance errorplus="4.04" errorminus="-4.63">63.49</distance>
   <declination>02 05 05</declination>
+  <rightascension>16 12 45</rightascension>
   <star>
+    <temperature errorplus="150.0" errorminus="-150.0">5730.0</temperature>
     <name>HD 149143</name>
     <mass errorplus="0.1" errorminus="-0.1">1.1</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">5730.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <name>HD 149143 b</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.08</eccentricity>
       <semimajoraxis>0.052</semimajoraxis>
+      <radius/>
+      <eccentricity>0.08</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2016-03-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="4.04" errorminus="-4.63">63.49</distance>
 </system>
 

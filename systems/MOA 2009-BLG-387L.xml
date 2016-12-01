@@ -1,22 +1,22 @@
 <system>
   <name>MOA 2009-BLG-387L</name>
-  <rightascension>17 27 41</rightascension>
+  <distance errorplus="2180.0" errorminus="-2190.0">5690.0</distance>
   <declination>-33 59 25</declination>
+  <rightascension>17 27 41</rightascension>
   <star>
+    <temperature/>
     <name>MOA 2009-BLG-387L</name>
     <mass errorplus="0.3" errorminus="-0.12">0.19</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination errorplus="20.0" errorminus="-12.0">52.0</inclination>
-      <radius/>
-      <period errorplus="785.0" errorminus="-588.0">1982.0</period>
       <name>MOA 2009-BLG-387L b</name>
-      <lastupdate>2015-06-04</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="0.84" errorminus="-0.73">1.82</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination errorplus="20.0" errorminus="-12.0">52.0</inclination>
+      <period errorplus="785.0" errorminus="-588.0">1982.0</period>
+      <lastupdate>2015-06-04</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2180.0" errorminus="-2190.0">5690.0</distance>
 </system>
 

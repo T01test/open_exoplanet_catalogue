@@ -1,33 +1,33 @@
 <system>
   <name>KELT-6</name>
-  <rightascension>13 58 54</rightascension>
+  <distance errorplus="8.0" errorminus="-8.0">222.0</distance>
   <declination>30 38 24</declination>
+  <rightascension>13 58 54</rightascension>
   <star>
+    <temperature errorplus="61.0" errorminus="-61.0">6272.0</temperature>
     <name>KELT-6</name>
     <mass errorplus="0.06" errorminus="-0.06">1.13</mass>
-    <temperature errorplus="61.0" errorminus="-61.0">6272.0</temperature>
     <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
-      <period errorplus="81.0" errorminus="-67.0">1276.0</period>
       <name>KELT-6 c</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.21</eccentricity>
       <semimajoraxis errorplus="0.11" errorminus="-0.11">2.39</semimajoraxis>
+      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
+      <eccentricity>0.21</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="81.0" errorminus="-67.0">1276.0</period>
+      <lastupdate>2015-09-03</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.79" errorminus="-0.91">88.81</inclination>
-      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
       <name>KELT-6 b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.029</eccentricity>
       <semimajoraxis errorplus="0.001" errorminus="-0.001">0.08</semimajoraxis>
+      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
+      <eccentricity>0.029</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.79" errorminus="-0.91">88.81</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <lastupdate>2015-09-03</lastupdate>
     </planet>
   </star>
-  <distance errorplus="8.0" errorminus="-8.0">222.0</distance>
 </system>
 

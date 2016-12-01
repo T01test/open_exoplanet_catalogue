@@ -1,23 +1,23 @@
 <system>
   <name>BD-13 2130</name>
-  <rightascension>07 17 18</rightascension>
+  <distance>766.0</distance>
   <declination>-13 54 23</declination>
+  <rightascension>07 17 18</rightascension>
   <star>
+    <temperature/>
     <name>BD-13 2130</name>
     <mass errorplus="0.2" errorminus="-0.2">2.4</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="5.3" errorminus="-5.3">714.3</period>
       <name>BD-13 2130 b</name>
-      <lastupdate>2015-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.21</eccentricity>
       <semimajoraxis>2.1</semimajoraxis>
+      <radius/>
+      <eccentricity>0.21</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="5.3" errorminus="-5.3">714.3</period>
+      <lastupdate>2015-05-14</lastupdate>
     </planet>
   </star>
-  <distance>766.0</distance>
 </system>
 

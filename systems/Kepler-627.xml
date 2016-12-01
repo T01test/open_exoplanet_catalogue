@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-627</name>
-  <rightascension>19 06 15</rightascension>
+  <distance errorplus="482.07" errorminus="-215.07">1143.0</distance>
   <declination>39 46 04</declination>
+  <rightascension>19 06 15</rightascension>
   <star>
+    <temperature errorplus="160.13" errorminus="-213.39">6424.0</temperature>
     <name>Kepler-627</name>
     <mass errorplus="0.21" errorminus="-0.14">1.3</mass>
-    <temperature errorplus="160.13" errorminus="-213.39">6424.0</temperature>
     <radius errorplus="0.64" errorminus="-0.27">1.49</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.64" errorminus="-0.27">1.49</radius>
-      <period errorplus="0.0" errorminus="-0.0">40.7</period>
       <name>Kepler-627 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.64" errorminus="-0.27">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">40.7</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="482.07" errorminus="-215.07">1143.0</distance>
 </system>
 

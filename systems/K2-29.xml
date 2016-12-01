@@ -1,23 +1,23 @@
 <system>
   <name>K2-29</name>
-  <rightascension>04 40 14</rightascension>
+  <distance errorplus="3.0" errorminus="-3.0">185.0</distance>
   <declination>24 24 07</declination>
+  <rightascension>04 40 14</rightascension>
   <star>
+    <temperature errorplus="38.0" errorminus="-38.0">5358.0</temperature>
     <name>K2-29</name>
     <mass errorplus="0.02" errorminus="-0.02">0.94</mass>
-    <temperature errorplus="38.0" errorminus="-38.0">5358.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.86</radius>
     <planet>
-      <inclination errorplus="0.11" errorminus="-0.08">86.656</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.86</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
       <name>K2-29 b</name>
-      <lastupdate>2016-03-24</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.066</eccentricity>
       <semimajoraxis errorplus="0.00024" errorminus="-0.00024">0.04217</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.86</radius>
+      <eccentricity>0.066</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.11" errorminus="-0.08">86.656</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <lastupdate>2016-03-24</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.0" errorminus="-3.0">185.0</distance>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
   <name>GJ 3293</name>
-  <rightascension>04 08 55</rightascension>
+  <distance/>
   <declination>-25 10 09</declination>
+  <rightascension>04 08 55</rightascension>
   <star>
+    <temperature errorplus="49.0" errorminus="-49.0">3466.0</temperature>
     <name>GJ 3293</name>
     <mass>0.42</mass>
-    <temperature errorplus="49.0" errorminus="-49.0">3466.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
-      <period errorplus="0.3" errorminus="-0.3">123.8</period>
       <name>GJ 3293 c</name>
-      <lastupdate>2014-12-03</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.33</eccentricity>
       <semimajoraxis>0.364</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
+      <eccentricity>0.33</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">123.8</period>
+      <lastupdate>2014-12-03</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
-      <period errorplus="0.0" errorminus="-0.0">30.6</period>
       <name>GJ 3293 b</name>
-      <lastupdate>2014-12-03</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.07</eccentricity>
       <semimajoraxis>0.1434</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.4</radius>
+      <eccentricity>0.07</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.6</period>
+      <lastupdate>2014-12-03</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

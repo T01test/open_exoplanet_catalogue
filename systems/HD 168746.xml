@@ -1,23 +1,23 @@
 <system>
   <name>HD 168746</name>
-  <rightascension>18 27 26</rightascension>
+  <distance errorplus="1.71" errorminus="-1.86">43.12</distance>
   <declination>-11 55 21</declination>
+  <rightascension>18 27 26</rightascension>
   <star>
+    <temperature>5564.0</temperature>
     <name>HD 168746</name>
     <mass>0.93</mass>
-    <temperature>5564.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">6.4</period>
       <name>HD 168746 b</name>
-      <lastupdate>2014-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.107</eccentricity>
       <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0659</semimajoraxis>
+      <radius/>
+      <eccentricity>0.107</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.4</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.71" errorminus="-1.86">43.12</distance>
 </system>
 

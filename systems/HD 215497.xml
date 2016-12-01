@@ -1,33 +1,33 @@
 <system>
   <name>HD 215497</name>
-  <rightascension>22 39 11</rightascension>
+  <distance errorplus="2.25" errorminus="-2.51">43.53</distance>
   <declination>-56 35 58</declination>
+  <rightascension>22 39 11</rightascension>
   <star>
+    <temperature errorplus="93.0" errorminus="-93.0">5113.0</temperature>
     <name>HD 215497</name>
     <mass errorplus="0.02" errorminus="-0.02">0.87</mass>
-    <temperature errorplus="93.0" errorminus="-93.0">5113.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
+      <name>HD 215497 c</name>
+      <semimajoraxis>1.282</semimajoraxis>
       <radius/>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <name>HD 215497 b</name>
-      <lastupdate>2014-11-19</lastupdate>
+      <eccentricity>0.49</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.16</eccentricity>
-      <semimajoraxis>0.047</semimajoraxis>
+      <inclination/>
+      <period errorplus="2.7" errorminus="-2.7">567.9</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 215497 b</name>
+      <semimajoraxis>0.047</semimajoraxis>
       <radius/>
-      <period errorplus="2.7" errorminus="-2.7">567.9</period>
-      <name>HD 215497 c</name>
-      <lastupdate>2014-11-19</lastupdate>
+      <eccentricity>0.16</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.49</eccentricity>
-      <semimajoraxis>1.282</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.25" errorminus="-2.51">43.53</distance>
 </system>
 

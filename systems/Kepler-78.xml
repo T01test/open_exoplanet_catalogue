@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-78</name>
-  <rightascension>19 44 30</rightascension>
+  <distance/>
   <declination>44 26 53</declination>
+  <rightascension>19 44 30</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5058.0</temperature>
     <name>Kepler-78</name>
     <mass errorplus="0.05" errorminus="-0.05">0.76</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5058.0</temperature>
     <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
     <planet>
-      <inclination errorplus="9.0" errorminus="-14.0">79.0</inclination>
-      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
-      <period errorplus="0.0" errorminus="-0.0">0.4</period>
       <name>Kepler-78 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="9.0" errorminus="-14.0">79.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">0.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

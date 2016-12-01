@@ -1,23 +1,23 @@
 <system>
   <name>HD 19994</name>
-  <rightascension>03 11 36</rightascension>
+  <distance errorplus="0.37" errorminus="-0.38">22.38</distance>
   <declination>-1 11 45</declination>
+  <rightascension>03 11 36</rightascension>
   <star>
+    <temperature>6190.0</temperature>
     <name>HD 19994</name>
     <mass>1.37</mass>
-    <temperature>6190.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="1.7" errorminus="-1.7">466.2</period>
       <name>HD 19994 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.063</eccentricity>
       <semimajoraxis errorplus="0.016" errorminus="-0.016">1.305</semimajoraxis>
+      <radius/>
+      <eccentricity>0.063</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.7" errorminus="-1.7">466.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.37" errorminus="-0.38">22.38</distance>
 </system>
 

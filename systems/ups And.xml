@@ -1,43 +1,43 @@
 <system>
   <name>ups And</name>
-  <rightascension>01 11 57</rightascension>
+  <distance errorplus="0.13" errorminus="-0.13">13.47</distance>
   <declination>41 24 19</declination>
+  <rightascension>01 11 57</rightascension>
   <star>
+    <temperature/>
     <name>ups And</name>
     <mass>1.3</mass>
-    <temperature/>
     <radius>1.56</radius>
     <planet>
-      <inclination/>
-      <radius>1.56</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
       <name>ups And b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0215</eccentricity>
       <semimajoraxis errorplus="0.0" errorminus="-0.0">0.059222</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius>1.56</radius>
-      <period errorplus="0.1" errorminus="-0.1">241.3</period>
-      <name>ups And c</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.0215</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2596</eccentricity>
-      <semimajoraxis errorplus="1.5e-05" errorminus="-1.5e-05">0.827774</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius>1.56</radius>
-      <period errorplus="0.6" errorminus="-0.6">1276.5</period>
       <name>ups And d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2987</eccentricity>
       <semimajoraxis errorplus="0.00075" errorminus="-0.00075">2.51329</semimajoraxis>
+      <radius>1.56</radius>
+      <eccentricity>0.2987</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">1276.5</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>ups And c</name>
+      <semimajoraxis errorplus="1.5e-05" errorminus="-1.5e-05">0.827774</semimajoraxis>
+      <radius>1.56</radius>
+      <eccentricity>0.2596</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">241.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.13" errorminus="-0.13">13.47</distance>
 </system>
 

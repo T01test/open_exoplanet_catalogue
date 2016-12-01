@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-869</name>
-  <rightascension>19 25 28</rightascension>
+  <distance errorplus="220.03" errorminus="-79.0">957.0</distance>
   <declination>50 59 38</declination>
+  <rightascension>19 25 28</rightascension>
   <star>
+    <temperature errorplus="72.29" errorminus="-95.26">5664.0</temperature>
     <name>Kepler-869</name>
     <mass errorplus="0.05" errorminus="-0.05">0.97</mass>
-    <temperature errorplus="72.29" errorminus="-95.26">5664.0</temperature>
     <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
-      <period errorplus="0.0" errorminus="-0.0">40.4</period>
       <name>Kepler-869 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">40.4</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="220.03" errorminus="-79.0">957.0</distance>
 </system>
 

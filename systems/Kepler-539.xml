@@ -1,33 +1,33 @@
 <system>
   <name>Kepler-539</name>
-  <rightascension>19 07 20</rightascension>
+  <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
   <declination>41 52 00</declination>
+  <rightascension>19 07 20</rightascension>
   <star>
+    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
     <name>Kepler-539</name>
     <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-539 b</name>
+      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
       <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <period>1000.0</period>
-      <name>Kepler-539 c</name>
-      <lastupdate>2016-05-10</lastupdate>
+      <eccentricity>0.39</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.5</eccentricity>
-      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
+      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
+      <period errorplus="0.0" errorminus="-0.0">125.6</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
+      <name>Kepler-539 c</name>
+      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
       <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <period errorplus="0.0" errorminus="-0.0">125.6</period>
-      <name>Kepler-539 b</name>
-      <lastupdate>2016-05-10</lastupdate>
+      <eccentricity>0.5</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.39</eccentricity>
-      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
+      <inclination/>
+      <period>1000.0</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
 </system>
 

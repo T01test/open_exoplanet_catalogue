@@ -1,33 +1,33 @@
 <system>
   <name>WASP-8</name>
-  <rightascension>23 54 01</rightascension>
+  <distance errorplus="7.0" errorminus="-7.0">87.0</distance>
   <declination>-35 01 53</declination>
+  <rightascension>23 54 01</rightascension>
   <star>
+    <temperature errorplus="80.0">5600.0</temperature>
     <name>WASP-8</name>
     <mass errorplus="0.06">1.03</mass>
-    <temperature errorplus="80.0">5600.0</temperature>
     <radius errorplus="0.05">0.94</radius>
     <planet>
-      <inclination errorplus="0.15" errorminus="-0.17">88.55</inclination>
-      <radius errorplus="0.05">0.94</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.2</period>
       <name>WASP-8 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.31</eccentricity>
       <semimajoraxis errorplus="0.0014" errorminus="-0.0016">0.0801</semimajoraxis>
+      <radius errorplus="0.05">0.94</radius>
+      <eccentricity>0.31</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.15" errorminus="-0.17">88.55</inclination>
+      <period errorplus="0.0" errorminus="-0.0">8.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05">0.94</radius>
-      <period errorplus="740.0" errorminus="-380.0">4323.0</period>
       <name>WASP-8 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.63" errorminus="-0.34">5.28</semimajoraxis>
+      <radius errorplus="0.05">0.94</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="740.0" errorminus="-380.0">4323.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="7.0" errorminus="-7.0">87.0</distance>
 </system>
 

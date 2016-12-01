@@ -1,23 +1,23 @@
 <system>
   <name>HD 156411</name>
-  <rightascension>17 57 51</rightascension>
+  <distance errorplus="2.41" errorminus="-2.64">55.1</distance>
   <declination>-48 32 57</declination>
+  <rightascension>17 57 51</rightascension>
   <star>
+    <temperature errorplus="15.0" errorminus="-15.0">5900.0</temperature>
     <name>HD 156411</name>
     <mass>1.25</mass>
-    <temperature errorplus="15.0" errorminus="-15.0">5900.0</temperature>
     <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
-      <period errorplus="14.5" errorminus="-14.5">842.2</period>
       <name>HD 156411 b</name>
-      <lastupdate>2014-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.22</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.04">1.88</semimajoraxis>
+      <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
+      <eccentricity>0.22</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="14.5" errorminus="-14.5">842.2</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.41" errorminus="-2.64">55.1</distance>
 </system>
 

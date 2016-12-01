@@ -1,49 +1,49 @@
 <system>
   <name>K2-72</name>
-  <rightascension>22 37 19</rightascension>
+  <distance/>
   <declination>-9 36 44</declination>
+  <rightascension>22 37 19</rightascension>
   <star>
+    <temperature errorplus="150.0" errorminus="-150.0">3497.0</temperature>
     <name>K2-72</name>
     <mass errorplus="0.08" errorminus="-0.08">0.22</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">3497.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <name>K2-72 d</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0058" errorminus="-0.0058">0.0461</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">15.2</period>
       <name>K2-72 c</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0091" errorminus="-0.0091">0.0722</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">24.2</period>
-      <name>K2-72 e</name>
-      <lastupdate>2016-07-18</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.098</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.2</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>K2-72 d</name>
+      <semimajoraxis errorplus="0.0058" errorminus="-0.0058">0.0461</semimajoraxis>
       <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <lastupdate>2016-07-18</lastupdate>
+    </planet>
+    <planet>
       <name>K2-72 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0047" errorminus="-0.0047">0.037</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <lastupdate>2016-07-18</lastupdate>
+    </planet>
+    <planet>
+      <name>K2-72 e</name>
+      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.098</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">0.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">24.2</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

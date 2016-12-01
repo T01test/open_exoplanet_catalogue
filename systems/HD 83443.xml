@@ -1,23 +1,23 @@
 <system>
   <name>HD 83443</name>
-  <rightascension>09 17 57</rightascension>
+  <distance errorplus="1.64" errorminus="-1.77">43.53</distance>
   <declination>-43 16 19</declination>
+  <rightascension>09 17 57</rightascension>
   <star>
+    <temperature>5454.0</temperature>
     <name>HD 83443</name>
     <mass>0.9</mass>
-    <temperature>5454.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
       <name>HD 83443 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.012</eccentricity>
       <semimajoraxis errorplus="0.0023" errorminus="-0.0023">0.0406</semimajoraxis>
+      <radius/>
+      <eccentricity>0.012</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.64" errorminus="-1.77">43.53</distance>
 </system>
 

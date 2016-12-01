@@ -1,23 +1,23 @@
 <system>
   <name>HD 147513</name>
-  <rightascension>16 00 19</rightascension>
+  <distance errorplus="0.14" errorminus="-0.14">12.87</distance>
   <declination>-39 11 34</declination>
+  <rightascension>16 00 19</rightascension>
   <star>
+    <temperature>5883.0</temperature>
     <name>HD 147513</name>
     <mass>1.11</mass>
-    <temperature>5883.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="6.3" errorminus="-6.3">528.4</period>
       <name>HD 147513 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.26</eccentricity>
       <semimajoraxis>1.32</semimajoraxis>
+      <radius/>
+      <eccentricity>0.26</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="6.3" errorminus="-6.3">528.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.14" errorminus="-0.14">12.87</distance>
 </system>
 

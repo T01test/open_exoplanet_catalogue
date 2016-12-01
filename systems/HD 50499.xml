@@ -1,23 +1,23 @@
 <system>
   <name>HD 50499</name>
-  <rightascension>06 00 30</rightascension>
+  <distance errorplus="1.47" errorminus="-1.57">47.26</distance>
   <declination>-33 54 56</declination>
+  <rightascension>06 00 30</rightascension>
   <star>
+    <temperature/>
     <name>HD 50499</name>
     <mass errorplus="0.1" errorminus="-0.1">1.24</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="110.0" errorminus="-110.0">2482.7</period>
       <name>HD 50499 b</name>
-      <lastupdate>2014-12-17</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.23</eccentricity>
       <semimajoraxis errorplus="0.6" errorminus="-0.6">3.86</semimajoraxis>
+      <radius/>
+      <eccentricity>0.23</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="110.0" errorminus="-110.0">2482.7</period>
+      <lastupdate>2014-12-17</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.47" errorminus="-1.57">47.26</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 117618</name>
-  <rightascension>13 06 23</rightascension>
+  <distance errorplus="1.3" errorminus="-1.39">38.02</distance>
   <declination>-47 16 16</declination>
+  <rightascension>13 06 23</rightascension>
   <star>
+    <temperature errorplus="13.0" errorminus="-13.0">5990.0</temperature>
     <name>HD 117618</name>
     <mass>1.08</mass>
-    <temperature errorplus="13.0" errorminus="-13.0">5990.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">25.8</period>
       <name>HD 117618 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.42</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">0.176</semimajoraxis>
+      <radius/>
+      <eccentricity>0.42</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">25.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.3" errorminus="-1.39">38.02</distance>
 </system>
 

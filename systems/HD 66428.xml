@@ -1,23 +1,23 @@
 <system>
   <name>HD 66428</name>
-  <rightascension>08 52 09</rightascension>
+  <distance errorplus="3.52" errorminus="-4.03">55.04</distance>
   <declination>-1 09 45</declination>
+  <rightascension>08 52 09</rightascension>
   <star>
+    <temperature>5752.0</temperature>
     <name>HD 66428</name>
     <mass>1.1</mass>
-    <temperature>5752.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="31.0" errorminus="-31.0">1973.0</period>
       <name>HD 66428 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.465</eccentricity>
       <semimajoraxis errorplus="0.19" errorminus="-0.19">3.18</semimajoraxis>
+      <radius/>
+      <eccentricity>0.465</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="31.0" errorminus="-31.0">1973.0</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.52" errorminus="-4.03">55.04</distance>
 </system>
 

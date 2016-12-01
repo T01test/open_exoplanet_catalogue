@@ -1,23 +1,23 @@
 <system>
   <name>WASP-14</name>
-  <rightascension>14 16 35</rightascension>
+  <distance errorplus="20.0" errorminus="-20.0">160.0</distance>
   <declination>21 53 40</declination>
+  <rightascension>14 16 35</rightascension>
   <star>
+    <temperature errorplus="100.0">6475.0</temperature>
     <name>WASP-14</name>
     <mass errorplus="0.13">1.21</mass>
-    <temperature errorplus="100.0">6475.0</temperature>
     <radius errorplus="0.07">1.31</radius>
     <planet>
-      <inclination errorplus="0.67" errorminus="-0.57">84.32</inclination>
-      <radius errorplus="0.07">1.31</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
       <name>WASP-14 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.091</eccentricity>
       <semimajoraxis errorplus="0.001" errorminus="-0.001">0.036</semimajoraxis>
+      <radius errorplus="0.07">1.31</radius>
+      <eccentricity>0.091</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.67" errorminus="-0.57">84.32</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="20.0" errorminus="-20.0">160.0</distance>
 </system>
 

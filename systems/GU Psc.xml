@@ -1,22 +1,22 @@
 <system>
   <name>GU Psc</name>
-  <rightascension>01 08 45</rightascension>
+  <distance errorplus="5.0" errorminus="-5.0">48.0</distance>
   <declination>17 03 55</declination>
+  <rightascension>01 08 45</rightascension>
   <star>
+    <temperature/>
     <name>GU Psc</name>
     <mass errorplus="0.03" errorminus="-0.03">0.33</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period/>
       <name>GU Psc b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>imaging</discoverymethod>
       <semimajoraxis errorplus="200.0" errorminus="-200.0">2000.0</semimajoraxis>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination/>
+      <period/>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="5.0" errorminus="-5.0">48.0</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 86081</name>
-  <rightascension>09 01 28</rightascension>
+  <distance errorplus="9.06" errorminus="-11.3">91.16</distance>
   <declination>-3 48 30</declination>
+  <rightascension>09 01 28</rightascension>
   <star>
+    <temperature/>
     <name>HD 86081</name>
     <mass errorplus="0.09" errorminus="-0.09">1.21</mass>
-    <temperature/>
     <radius errorplus="0.1" errorminus="-0.1">1.22</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">1.22</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
       <name>HD 86081 b</name>
-      <lastupdate>2015-04-16</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.008</eccentricity>
       <semimajoraxis>0.035</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">1.22</radius>
+      <eccentricity>0.008</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <lastupdate>2015-04-16</lastupdate>
     </planet>
   </star>
-  <distance errorplus="9.06" errorminus="-11.3">91.16</distance>
 </system>
 

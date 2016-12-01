@@ -1,23 +1,23 @@
 <system>
   <name>HD 18742</name>
-  <rightascension>03 02 39</rightascension>
+  <distance errorplus="15.27" errorminus="-20.05">127.88</distance>
   <declination>-20 48 09</declination>
+  <rightascension>03 02 39</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5048.0</temperature>
     <name>HD 18742</name>
     <mass errorplus="0.11" errorminus="-0.11">1.6</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5048.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
-      <period errorplus="11.0" errorminus="-11.0">772.0</period>
       <name>HD 18742 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.12</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">1.92</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
+      <eccentricity>0.12</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="11.0" errorminus="-11.0">772.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="15.27" errorminus="-20.05">127.88</distance>
 </system>
 

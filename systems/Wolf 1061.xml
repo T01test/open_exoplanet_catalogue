@@ -1,43 +1,43 @@
 <system>
   <name>Wolf 1061</name>
-  <rightascension>16 34 30</rightascension>
+  <distance>4.29</distance>
   <declination>-12 39 45</declination>
+  <rightascension>16 34 30</rightascension>
   <star>
+    <temperature>3393.0</temperature>
     <name>Wolf 1061</name>
     <mass>0.25</mass>
-    <temperature>3393.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">67.3</period>
-      <name>Wolf 1061 d</name>
-      <lastupdate>2016-01-05</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.32</eccentricity>
-      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.2039</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <name>Wolf 1061 b</name>
-      <lastupdate>2016-01-05</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
-      <semimajoraxis errorplus="7e-06" errorminus="-7e-06">0.035509</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">17.9</period>
       <name>Wolf 1061 c</name>
-      <lastupdate>2016-01-05</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.19</eccentricity>
       <semimajoraxis errorplus="4e-05" errorminus="-4e-05">0.08427</semimajoraxis>
+      <radius/>
+      <eccentricity>0.19</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.9</period>
+      <lastupdate>2016-01-05</lastupdate>
+    </planet>
+    <planet>
+      <name>Wolf 1061 b</name>
+      <semimajoraxis errorplus="7e-06" errorminus="-7e-06">0.035509</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <lastupdate>2016-01-05</lastupdate>
+    </planet>
+    <planet>
+      <name>Wolf 1061 d</name>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.2039</semimajoraxis>
+      <radius/>
+      <eccentricity>0.32</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">67.3</period>
+      <lastupdate>2016-01-05</lastupdate>
     </planet>
   </star>
-  <distance>4.29</distance>
 </system>
 

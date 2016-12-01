@@ -1,23 +1,23 @@
 <system>
   <name>HD 224693</name>
-  <rightascension>23 58 27</rightascension>
+  <distance errorplus="9.33" errorminus="-11.64">94.07</distance>
   <declination>-22 25 41</declination>
+  <rightascension>23 58 27</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">6037.0</temperature>
     <name>HD 224693</name>
     <mass errorplus="0.1" errorminus="-0.1">1.33</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">6037.0</temperature>
     <radius errorplus="0.3" errorminus="-0.3">1.7</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.3" errorminus="-0.3">1.7</radius>
-      <period errorplus="0.0" errorminus="-0.0">26.7</period>
       <name>HD 224693 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.05</eccentricity>
       <semimajoraxis>0.192</semimajoraxis>
+      <radius errorplus="0.3" errorminus="-0.3">1.7</radius>
+      <eccentricity>0.05</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">26.7</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="9.33" errorminus="-11.64">94.07</distance>
 </system>
 

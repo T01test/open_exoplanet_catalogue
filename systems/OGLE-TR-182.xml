@@ -1,23 +1,23 @@
 <system>
   <name>OGLE-TR-182</name>
-  <rightascension>11 19 40</rightascension>
+  <distance/>
   <declination>-61 05 42</declination>
+  <rightascension>11 19 40</rightascension>
   <star>
+    <temperature errorplus="64.0">5924.0</temperature>
     <name>OGLE-TR-182</name>
     <mass errorplus="0.05">1.14</mass>
-    <temperature errorplus="64.0">5924.0</temperature>
     <radius errorplus="0.23">1.14</radius>
     <planet>
-      <inclination errorplus="0.3" errorminus="-0.3">85.7</inclination>
-      <radius errorplus="0.23">1.14</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
       <name>OGLE-TR-182 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.001" errorminus="-0.001">0.051</semimajoraxis>
+      <radius errorplus="0.23">1.14</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.3" errorminus="-0.3">85.7</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-588</name>
-  <rightascension>18 15 25</rightascension>
+  <distance errorplus="179.87" errorminus="-87.14">972.0</distance>
   <declination>47 41 20</declination>
+  <rightascension>18 15 25</rightascension>
   <star>
+    <temperature errorplus="73.84" errorminus="-83.13">5835.0</temperature>
     <name>Kepler-588</name>
     <mass errorplus="0.05" errorminus="-0.07">1.01</mass>
-    <temperature errorplus="73.84" errorminus="-83.13">5835.0</temperature>
     <radius errorplus="0.19" errorminus="-0.08">1.0</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.19" errorminus="-0.08">1.0</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>Kepler-588 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.19" errorminus="-0.08">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="179.87" errorminus="-87.14">972.0</distance>
 </system>
 

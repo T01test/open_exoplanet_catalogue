@@ -1,23 +1,23 @@
 <system>
   <name>eps Tau</name>
-  <rightascension>04 09 15</rightascension>
+  <distance errorplus="1.78" errorminus="-1.93">47.53</distance>
   <declination>19 10 49</declination>
+  <rightascension>04 09 15</rightascension>
   <star>
+    <temperature errorplus="20.0">4901.0</temperature>
     <name>eps Tau</name>
     <mass errorplus="0.1">2.7</mass>
-    <temperature errorplus="20.0">4901.0</temperature>
     <radius errorplus="0.6">13.7</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.6">13.7</radius>
-      <period errorplus="5.3" errorminus="-5.3">594.9</period>
       <name>eps Tau b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.151</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">1.93</semimajoraxis>
+      <radius errorplus="0.6">13.7</radius>
+      <eccentricity>0.151</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="5.3" errorminus="-5.3">594.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.78" errorminus="-1.93">47.53</distance>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
   <name>Kepler-117</name>
-  <rightascension>19 47 34</rightascension>
+  <distance errorplus="50.0" errorminus="-50.0">1430.0</distance>
   <declination>48 02 24</declination>
+  <rightascension>19 47 34</rightascension>
   <star>
+    <temperature errorplus="110.0" errorminus="-110.0">6150.0</temperature>
     <name>Kepler-117</name>
     <mass errorplus="0.13" errorminus="-0.02">1.13</mass>
-    <temperature errorplus="110.0" errorminus="-110.0">6150.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
     <planet>
-      <inclination errorplus="0.12" errorminus="-0.12">88.74</inclination>
+      <name>Kepler-117 c</name>
+      <semimajoraxis errorplus="0.0092" errorminus="-0.0028">0.2804</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
-      <period errorplus="0.0" errorminus="-0.0">18.8</period>
-      <name>Kepler-117 b</name>
-      <lastupdate>2014-11-19</lastupdate>
+      <eccentricity>0.0323</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0493</eccentricity>
-      <semimajoraxis errorplus="0.0047" errorminus="-0.0014">0.1445</semimajoraxis>
+      <inclination errorplus="0.1" errorminus="-0.1">89.64</inclination>
+      <period errorplus="0.0" errorminus="-0.0">50.8</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.1" errorminus="-0.1">89.64</inclination>
+      <name>Kepler-117 b</name>
+      <semimajoraxis errorplus="0.0047" errorminus="-0.0014">0.1445</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
-      <period errorplus="0.0" errorminus="-0.0">50.8</period>
-      <name>Kepler-117 c</name>
-      <lastupdate>2014-11-19</lastupdate>
+      <eccentricity>0.0493</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0323</eccentricity>
-      <semimajoraxis errorplus="0.0092" errorminus="-0.0028">0.2804</semimajoraxis>
+      <inclination errorplus="0.12" errorminus="-0.12">88.74</inclination>
+      <period errorplus="0.0" errorminus="-0.0">18.8</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="50.0" errorminus="-50.0">1430.0</distance>
 </system>
 

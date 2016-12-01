@@ -1,43 +1,43 @@
 <system>
   <name>HD 37124</name>
-  <rightascension>05 15 37</rightascension>
+  <distance errorplus="1.22" errorminus="-1.32">33.24</distance>
   <declination>20 43 50</declination>
+  <rightascension>05 15 37</rightascension>
   <star>
+    <temperature/>
     <name>HD 37124</name>
     <mass>0.85</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="5.1" errorminus="-5.1">885.5</period>
       <name>HD 37124 c</name>
-      <lastupdate>2016-08-18</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.125</eccentricity>
       <semimajoraxis errorplus="0.0065" errorminus="-0.0065">1.71</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius/>
-      <period errorplus="0.1" errorminus="-0.1">154.4</period>
-      <name>HD 37124 b</name>
-      <lastupdate>2016-08-18</lastupdate>
+      <eccentricity>0.125</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.054</eccentricity>
-      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.53364</semimajoraxis>
+      <inclination/>
+      <period errorplus="5.1" errorminus="-5.1">885.5</period>
+      <lastupdate>2016-08-18</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="38.0" errorminus="-38.0">1862.0</period>
       <name>HD 37124 d</name>
-      <lastupdate>2016-08-18</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.16</eccentricity>
       <semimajoraxis errorplus="0.038" errorminus="-0.038">2.807</semimajoraxis>
+      <radius/>
+      <eccentricity>0.16</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="38.0" errorminus="-38.0">1862.0</period>
+      <lastupdate>2016-08-18</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 37124 b</name>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.53364</semimajoraxis>
+      <radius/>
+      <eccentricity>0.054</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">154.4</period>
+      <lastupdate>2016-08-18</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.22" errorminus="-1.32">33.24</distance>
 </system>
 

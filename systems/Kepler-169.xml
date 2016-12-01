@@ -1,58 +1,58 @@
 <system>
   <name>Kepler-169</name>
-  <rightascension>19 59 59</rightascension>
+  <distance/>
   <declination>40 55 09</declination>
+  <rightascension>19 59 59</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4997.0</temperature>
     <name>Kepler-169</name>
     <mass>0.86</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4997.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
-      <name>Kepler-169 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.04</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">87.1</period>
       <name>Kepler-169 f</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.359</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">87.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-169 b</name>
+      <semimajoraxis>0.04</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.3</period>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
       <name>Kepler-169 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.075</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">6.2</period>
       <name>Kepler-169 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.062</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">13.8</period>
       <name>Kepler-169 e</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.105</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

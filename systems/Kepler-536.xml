@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-536</name>
-  <rightascension>19 44 10</rightascension>
+  <distance errorplus="57.08" errorminus="-35.14">446.0</distance>
   <declination>49 38 13</declination>
+  <rightascension>19 44 10</rightascension>
   <star>
+    <temperature errorplus="91.48" errorminus="-143.16">5524.0</temperature>
     <name>Kepler-536</name>
     <mass errorplus="0.05" errorminus="-0.06">0.92</mass>
-    <temperature errorplus="91.48" errorminus="-143.16">5524.0</temperature>
     <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.8</period>
       <name>Kepler-536 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.8</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="57.08" errorminus="-35.14">446.0</distance>
 </system>
 

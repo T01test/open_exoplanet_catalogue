@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-4</name>
-  <rightascension>19 36 55</rightascension>
+  <distance errorplus="80.0" errorminus="-80.0">550.0</distance>
   <declination>50 08 08</declination>
+  <rightascension>19 36 55</rightascension>
   <star>
+    <temperature errorplus="120.0" errorminus="-120.0">5857.0</temperature>
     <name>Kepler-4</name>
     <mass errorplus="0.05" errorminus="-0.09">1.22</mass>
-    <temperature errorplus="120.0" errorminus="-120.0">5857.0</temperature>
     <radius errorplus="0.07" errorminus="-0.08">1.49</radius>
     <planet>
-      <inclination errorplus="0.24" errorminus="-2.05">89.76</inclination>
-      <radius errorplus="0.07" errorminus="-0.08">1.49</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <name>Kepler-4 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0456</semimajoraxis>
+      <radius errorplus="0.07" errorminus="-0.08">1.49</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.24" errorminus="-2.05">89.76</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="80.0" errorminus="-80.0">550.0</distance>
 </system>
 

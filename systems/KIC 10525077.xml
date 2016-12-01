@@ -1,22 +1,22 @@
 <system>
   <name>KIC 10525077</name>
-  <rightascension>19 22 41</rightascension>
+  <distance/>
   <declination>47 46 16</declination>
+  <rightascension>19 22 41</rightascension>
   <star>
+    <temperature errorplus="164.0" errorminus="-213.0">6091.0</temperature>
     <name>KIC 10525077</name>
     <mass errorplus="0.12" errorminus="-0.12">1.01</mass>
-    <temperature errorplus="164.0" errorminus="-213.0">6091.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">1.01</radius>
     <planet>
-      <inclination errorplus="0.096" errorminus="-0.098">89.861</inclination>
-      <radius errorplus="0.1" errorminus="-0.1">1.01</radius>
-      <period errorplus="0.0" errorminus="-0.0">854.1</period>
       <name>KIC 10525077 b</name>
-      <lastupdate>2016-01-05</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.1" errorminus="-0.1">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.096" errorminus="-0.098">89.861</inclination>
+      <period errorplus="0.0" errorminus="-0.0">854.1</period>
+      <lastupdate>2016-01-05</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

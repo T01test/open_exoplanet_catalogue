@@ -1,23 +1,23 @@
 <system>
   <name>HD 175167</name>
-  <rightascension>19 00 12</rightascension>
+  <distance errorplus="3.85" errorminus="-4.35">67.02</distance>
   <declination>-69 56 39</declination>
+  <rightascension>19 00 12</rightascension>
   <star>
+    <temperature/>
     <name>HD 175167</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="22.0" errorminus="-22.0">1290.0</period>
       <name>HD 175167 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.54</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">2.4</semimajoraxis>
+      <radius/>
+      <eccentricity>0.54</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="22.0" errorminus="-22.0">1290.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.85" errorminus="-4.35">67.02</distance>
 </system>
 

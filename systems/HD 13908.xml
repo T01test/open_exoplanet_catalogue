@@ -1,33 +1,33 @@
 <system>
   <name>HD 13908</name>
-  <rightascension>02 33 38</rightascension>
+  <distance errorplus="3.6" errorminus="-4.03">66.89</distance>
   <declination>65 35 39</declination>
+  <rightascension>02 33 38</rightascension>
   <star>
+    <temperature errorplus="66.0" errorminus="-66.0">6255.0</temperature>
     <name>HD 13908</name>
     <mass errorplus="0.04" errorminus="-0.04">1.29</mass>
-    <temperature errorplus="66.0" errorminus="-66.0">6255.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
-      <period errorplus="17.0" errorminus="-17.0">931.0</period>
       <name>HD 13908 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.12</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">2.03</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
+      <eccentricity>0.12</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="17.0" errorminus="-17.0">931.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
-      <period errorplus="0.0" errorminus="-0.0">19.4</period>
       <name>HD 13908 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.02</eccentricity>
       <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.154</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">1.67</radius>
+      <eccentricity>0.02</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">19.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.6" errorminus="-4.03">66.89</distance>
 </system>
 

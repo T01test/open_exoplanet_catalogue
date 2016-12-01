@@ -1,58 +1,58 @@
 <system>
   <name>Kepler-80</name>
-  <rightascension>19 06 45</rightascension>
+  <distance>357.0</distance>
   <declination>39 58 43</declination>
+  <rightascension>19 06 45</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4540.0</temperature>
     <name>Kepler-80</name>
     <mass errorplus="0.03" errorminus="-0.03">0.73</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4540.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
     <planet>
-      <inclination errorplus="2.36" errorminus="-2.59">86.5</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.0</period>
-      <name>Kepler-80 f</name>
-      <lastupdate>2016-08-04</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.0175</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="0.46" errorminus="-0.62">89.34</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <name>Kepler-80 b</name>
-      <lastupdate>2016-08-04</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0648</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="0.84" errorminus="-1.07">88.79</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <name>Kepler-80 e</name>
-      <lastupdate>2016-08-04</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0491</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="0.47" errorminus="-0.57">89.33</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.5</period>
       <name>Kepler-80 c</name>
-      <lastupdate>2016-08-04</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0792</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.47" errorminus="-0.57">89.33</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.5</period>
+      <lastupdate>2016-08-04</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="1.12" errorminus="-1.51">88.35</inclination>
+      <name>Kepler-80 f</name>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.0175</semimajoraxis>
       <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <name>Kepler-80 d</name>
-      <lastupdate>2016-08-04</lastupdate>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="2.36" errorminus="-2.59">86.5</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <lastupdate>2016-08-04</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 e</name>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0491</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.84" errorminus="-1.07">88.79</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <lastupdate>2016-08-04</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 b</name>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0648</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.46" errorminus="-0.62">89.34</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <lastupdate>2016-08-04</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-80 d</name>
       <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0372</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.12" errorminus="-1.51">88.35</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <lastupdate>2016-08-04</lastupdate>
     </planet>
   </star>
-  <distance>357.0</distance>
 </system>
 

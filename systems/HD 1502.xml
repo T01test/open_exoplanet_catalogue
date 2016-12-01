@@ -1,23 +1,23 @@
 <system>
   <name>HD 1502</name>
-  <rightascension>00 49 15</rightascension>
+  <distance errorplus="25.26" errorminus="-36.16">167.5</distance>
   <declination>14 03 17</declination>
+  <rightascension>00 49 15</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5049.0</temperature>
     <name>HD 1502</name>
     <mass errorplus="0.11" errorminus="-0.11">1.61</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5049.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
-      <period errorplus="3.5" errorminus="-3.5">431.8</period>
       <name>HD 1502 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.101</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">1.31</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+      <eccentricity>0.101</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="3.5" errorminus="-3.5">431.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="25.26" errorminus="-36.16">167.5</distance>
 </system>
 

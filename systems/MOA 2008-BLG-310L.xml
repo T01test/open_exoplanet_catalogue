@@ -1,22 +1,22 @@
 <system>
   <name>MOA 2008-BLG-310L</name>
-  <rightascension>17 33 37</rightascension>
+  <distance>6000.0</distance>
   <declination>-34 46 40</declination>
+  <rightascension>17 33 37</rightascension>
   <star>
+    <temperature/>
     <name>MOA 2008-BLG-310L</name>
     <mass errorplus="0.14" errorminus="-0.14">0.67</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period/>
       <name>MOA 2008-BLG-310L b</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="0.1" errorminus="-0.1">1.25</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <period/>
+      <lastupdate>2014-10-29</lastupdate>
     </planet>
   </star>
-  <distance>6000.0</distance>
 </system>
 

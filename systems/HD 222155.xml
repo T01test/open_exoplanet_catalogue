@@ -1,23 +1,23 @@
 <system>
   <name>HD 222155</name>
-  <rightascension>23 30 04</rightascension>
+  <distance errorplus="2.0" errorminus="-2.18">50.45</distance>
   <declination>48 59 47</declination>
+  <rightascension>23 30 04</rightascension>
   <star>
+    <temperature errorplus="22.0" errorminus="-22.0">5765.0</temperature>
     <name>HD 222155</name>
     <mass errorplus="0.11" errorminus="-0.11">1.13</mass>
-    <temperature errorplus="22.0" errorminus="-22.0">5765.0</temperature>
     <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
-      <period errorplus="469.0" errorminus="-541.0">3999.0</period>
       <name>HD 222155 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.16</eccentricity>
       <semimajoraxis errorplus="0.6" errorminus="-0.7">5.1</semimajoraxis>
+      <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
+      <eccentricity>0.16</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="469.0" errorminus="-541.0">3999.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.0" errorminus="-2.18">50.45</distance>
 </system>
 

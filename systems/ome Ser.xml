@@ -1,23 +1,23 @@
 <system>
   <name>ome Ser</name>
-  <rightascension>15 34 23</rightascension>
+  <distance errorplus="4.48" errorminus="-5.05">80.64</distance>
   <declination>02 11 47</declination>
+  <rightascension>15 34 23</rightascension>
   <star>
+    <temperature errorplus="10.0" errorminus="-10.0">4770.0</temperature>
     <name>ome Ser</name>
     <mass errorplus="0.21" errorminus="-0.29">2.17</mass>
-    <temperature errorplus="10.0" errorminus="-10.0">4770.0</temperature>
     <radius errorplus="0.88" errorminus="-0.82">12.3</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.88" errorminus="-0.82">12.3</radius>
-      <period errorplus="0.5" errorminus="-0.5">277.0</period>
       <name>ome Ser b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.106</eccentricity>
       <semimajoraxis>1.1</semimajoraxis>
+      <radius errorplus="0.88" errorminus="-0.82">12.3</radius>
+      <eccentricity>0.106</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">277.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="4.48" errorminus="-5.05">80.64</distance>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-1278</name>
-  <rightascension>18 57 24</rightascension>
+  <distance errorplus="223.95" errorminus="-88.31">743.0</distance>
   <declination>42 49 32</declination>
+  <rightascension>18 57 24</rightascension>
   <star>
+    <temperature errorplus="112.24" errorminus="-128.32">6074.0</temperature>
     <name>Kepler-1278</name>
     <mass errorplus="0.11" errorminus="-0.08">1.11</mass>
-    <temperature errorplus="112.24" errorminus="-128.32">6074.0</temperature>
     <radius errorplus="0.35" errorminus="-0.13">1.16</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.35" errorminus="-0.13">1.16</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <name>Kepler-1278 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.35" errorminus="-0.13">1.16</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="223.95" errorminus="-88.31">743.0</distance>
 </system>
 

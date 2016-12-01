@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-316</name>
-  <rightascension>19 49 33</rightascension>
+  <distance/>
   <declination>44 11 02</declination>
+  <rightascension>19 49 33</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">4204.0</temperature>
     <name>Kepler-316</name>
     <mass>0.53</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">4204.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-316 b</name>
+      <semimajoraxis>0.027</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
-      <name>Kepler-316 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.058</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-316 c</name>
+      <semimajoraxis>0.058</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">0.52</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
-      <name>Kepler-316 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.027</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

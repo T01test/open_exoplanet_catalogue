@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-1361</name>
-  <rightascension>18 33 55</rightascension>
+  <distance errorplus="22.38" errorminus="-21.27">404.0</distance>
   <declination>46 54 15</declination>
+  <rightascension>18 33 55</rightascension>
   <star>
+    <temperature errorplus="55.23" errorminus="-57.72">5131.0</temperature>
     <name>Kepler-1361</name>
     <mass errorplus="0.04" errorminus="-0.04">0.83</mass>
-    <temperature errorplus="55.23" errorminus="-57.72">5131.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <name>Kepler-1361 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="22.38" errorminus="-21.27">404.0</distance>
 </system>
 

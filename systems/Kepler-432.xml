@@ -1,33 +1,33 @@
 <system>
   <name>Kepler-432</name>
-  <rightascension>19 16 55</rightascension>
+  <distance errorplus="20.0" errorminus="-20.0">870.0</distance>
   <declination>48 17 09</declination>
+  <rightascension>19 16 55</rightascension>
   <star>
+    <temperature errorplus="78.0" errorminus="-78.0">4995.0</temperature>
     <name>Kepler-432</name>
     <mass errorplus="0.1" errorminus="-0.07">1.32</mass>
-    <temperature errorplus="78.0" errorminus="-78.0">4995.0</temperature>
     <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
-      <period errorplus="3.9" errorminus="-2.5">406.2</period>
       <name>Kepler-432 c</name>
-      <lastupdate>2015-04-30</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.498</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
+      <eccentricity>0.498</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="3.9" errorminus="-2.5">406.2</period>
+      <lastupdate>2015-04-30</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="0.61" errorminus="-0.33">88.17</inclination>
-      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
-      <period errorplus="0.0" errorminus="-0.0">52.5</period>
       <name>Kepler-432 b</name>
-      <lastupdate>2015-04-30</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.5134</eccentricity>
       <semimajoraxis errorplus="0.016" errorminus="-0.011">0.301</semimajoraxis>
+      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
+      <eccentricity>0.5134</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.61" errorminus="-0.33">88.17</inclination>
+      <period errorplus="0.0" errorminus="-0.0">52.5</period>
+      <lastupdate>2015-04-30</lastupdate>
     </planet>
   </star>
-  <distance errorplus="20.0" errorminus="-20.0">870.0</distance>
 </system>
 

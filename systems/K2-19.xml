@@ -1,40 +1,40 @@
 <system>
   <name>K2-19</name>
-  <rightascension>11 57 37</rightascension>
+  <distance errorplus="33.0" errorminus="-20.0">291.0</distance>
   <declination>00 36 12</declination>
+  <rightascension>11 57 37</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">5430.0</temperature>
     <name>K2-19</name>
     <mass errorplus="0.05" errorminus="-0.05">0.93</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5430.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
     <planet>
-      <inclination errorplus="0.41" errorminus="-0.41">89.47</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.9</period>
-      <name>K2-19 b</name>
-      <lastupdate>2016-07-07</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.074</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="2.97" errorminus="-4.74">85.83</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
       <name>K2-19 d</name>
-      <lastupdate>2016-07-07</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0006" errorminus="-0.0006">0.0344</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="2.97" errorminus="-4.74">85.83</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="1.42" errorminus="-1.99">87.99</inclination>
+      <name>K2-19 b</name>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.074</semimajoraxis>
       <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
-      <name>K2-19 c</name>
-      <lastupdate>2016-07-07</lastupdate>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.41" errorminus="-0.41">89.47</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.9</period>
+      <lastupdate>2016-07-07</lastupdate>
+    </planet>
+    <planet>
+      <name>K2-19 c</name>
       <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.0971</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.42" errorminus="-1.99">87.99</inclination>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
   </star>
-  <distance errorplus="33.0" errorminus="-20.0">291.0</distance>
 </system>
 

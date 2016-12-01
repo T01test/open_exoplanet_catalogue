@@ -1,63 +1,63 @@
 <system>
   <name>Kepler-444</name>
-  <rightascension>19 45 08</rightascension>
+  <distance errorplus="1.1" errorminus="-1.1">35.7</distance>
   <declination>41 38 04</declination>
+  <rightascension>19 45 08</rightascension>
   <star>
+    <temperature errorplus="74.0" errorminus="-74.0">5046.0</temperature>
     <name>Kepler-444</name>
     <mass errorplus="0.04" errorminus="-0.04">0.76</mass>
-    <temperature errorplus="74.0" errorminus="-74.0">5046.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
     <planet>
-      <inclination errorplus="0.54" errorminus="-0.52">89.13</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.7</period>
-      <name>Kepler-444 e</name>
-      <lastupdate>2015-01-29</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.1</eccentricity>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0696</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="0.81" errorminus="-0.55">88.16</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">6.2</period>
       <name>Kepler-444 d</name>
-      <lastupdate>2015-01-29</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.18</eccentricity>
       <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.06</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="0.36" errorminus="-0.31">87.96</inclination>
       <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.7</period>
-      <name>Kepler-444 f</name>
-      <lastupdate>2015-01-29</lastupdate>
+      <eccentricity>0.18</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.29</eccentricity>
-      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.0811</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination errorplus="1.2" errorminus="-0.6">88.0</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <name>Kepler-444 b</name>
+      <inclination errorplus="0.81" errorminus="-0.55">88.16</inclination>
+      <period errorplus="0.0" errorminus="-0.0">6.2</period>
       <lastupdate>2015-01-29</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.16</eccentricity>
-      <semimajoraxis errorplus="0.00079" errorminus="-0.00079">0.04178</semimajoraxis>
     </planet>
     <planet>
-      <inclination errorplus="1.2" errorminus="-1.0">88.2</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.5</period>
       <name>Kepler-444 c</name>
-      <lastupdate>2015-01-29</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.31</eccentricity>
       <semimajoraxis errorplus="0.00093" errorminus="-0.00093">0.04881</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+      <eccentricity>0.31</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.2" errorminus="-1.0">88.2</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <lastupdate>2015-01-29</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-444 e</name>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0696</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+      <eccentricity>0.1</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.54" errorminus="-0.52">89.13</inclination>
+      <period errorplus="0.0" errorminus="-0.0">7.7</period>
+      <lastupdate>2015-01-29</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-444 f</name>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.0811</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+      <eccentricity>0.29</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.36" errorminus="-0.31">87.96</inclination>
+      <period errorplus="0.0" errorminus="-0.0">9.7</period>
+      <lastupdate>2015-01-29</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-444 b</name>
+      <semimajoraxis errorplus="0.00079" errorminus="-0.00079">0.04178</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.75</radius>
+      <eccentricity>0.16</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.2" errorminus="-0.6">88.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <lastupdate>2015-01-29</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.1" errorminus="-1.1">35.7</distance>
 </system>
 

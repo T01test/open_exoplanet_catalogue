@@ -1,23 +1,23 @@
 <system>
   <name>CoRoT-1</name>
-  <rightascension>06 04 47</rightascension>
+  <distance/>
   <declination>-3 06 07</declination>
+  <rightascension>06 04 47</rightascension>
   <star>
+    <temperature errorplus="150.0" errorminus="-150.0">5950.0</temperature>
     <name>CoRoT-1</name>
     <mass errorplus="0.15" errorminus="-0.15">0.95</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">5950.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.11</radius>
     <planet>
-      <inclination errorplus="0.5" errorminus="-0.5">85.1</inclination>
-      <radius errorplus="0.05" errorminus="-0.05">1.11</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.5</period>
       <name>CoRoT-1 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">1.11</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.5" errorminus="-0.5">85.1</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

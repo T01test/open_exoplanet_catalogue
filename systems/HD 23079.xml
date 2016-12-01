@@ -1,23 +1,23 @@
 <system>
   <name>HD 23079</name>
-  <rightascension>03 55 46</rightascension>
+  <distance errorplus="0.66" errorminus="-0.68">34.6</distance>
   <declination>-52 54 57</declination>
+  <rightascension>03 55 46</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5927.0</temperature>
     <name>HD 23079</name>
     <mass>1.01</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5927.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="5.7" errorminus="-5.7">730.6</period>
       <name>HD 23079 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.102</eccentricity>
       <semimajoraxis errorplus="0.093" errorminus="-0.093">1.596</semimajoraxis>
+      <radius/>
+      <eccentricity>0.102</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="5.7" errorminus="-5.7">730.6</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.66" errorminus="-0.68">34.6</distance>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
   <name>K2-59</name>
-  <rightascension>22 56 32</rightascension>
+  <distance/>
   <declination>-14 01 39</declination>
+  <rightascension>22 56 32</rightascension>
   <star>
+    <temperature errorplus="93.0" errorminus="-93.0">5055.0</temperature>
     <name>K2-59</name>
     <mass errorplus="0.07" errorminus="-0.07">0.77</mass>
-    <temperature errorplus="93.0" errorminus="-93.0">5055.0</temperature>
     <radius errorplus="0.07" errorminus="-0.07">0.73</radius>
     <planet>
-      <inclination/>
+      <name>K2-59 c</name>
+      <semimajoraxis errorplus="0.0028" errorminus="-0.0028">0.0905</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">0.73</radius>
-      <period errorplus="0.0" errorminus="-0.0">20.7</period>
-      <name>K2-59 b</name>
-      <lastupdate>2016-07-18</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0043" errorminus="-0.0043">0.1354</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.3</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>K2-59 b</name>
+      <semimajoraxis errorplus="0.0043" errorminus="-0.0043">0.1354</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">0.73</radius>
-      <period errorplus="0.0" errorminus="-0.0">11.3</period>
-      <name>K2-59 c</name>
-      <lastupdate>2016-07-18</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0028" errorminus="-0.0028">0.0905</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">20.7</period>
+      <lastupdate>2016-07-18</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

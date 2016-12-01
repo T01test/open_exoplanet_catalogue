@@ -1,33 +1,33 @@
 <system>
   <name>HD 202206</name>
-  <rightascension>21 44 26</rightascension>
+  <distance errorplus="2.33" errorminus="-2.58">46.34</distance>
   <declination>-20 47 21</declination>
+  <rightascension>21 44 26</rightascension>
   <star>
+    <temperature errorplus="40.0" errorminus="-40.0">5765.0</temperature>
     <name>HD 202206</name>
     <mass>1.15</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5765.0</temperature>
     <radius/>
     <planet>
-      <inclination>90.0</inclination>
+      <name>HD 202206 c</name>
+      <semimajoraxis>2.55</semimajoraxis>
       <radius/>
-      <period errorplus="0.1" errorminus="-0.1">255.9</period>
-      <name>HD 202206 b</name>
-      <lastupdate>2015-08-27</lastupdate>
+      <eccentricity>0.267</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.435</eccentricity>
-      <semimajoraxis>0.83</semimajoraxis>
+      <inclination>90.0</inclination>
+      <period errorplus="18.4" errorminus="-18.4">1383.4</period>
+      <lastupdate>2015-08-27</lastupdate>
     </planet>
     <planet>
-      <inclination>90.0</inclination>
+      <name>HD 202206 b</name>
+      <semimajoraxis>0.83</semimajoraxis>
       <radius/>
-      <period errorplus="18.4" errorminus="-18.4">1383.4</period>
-      <name>HD 202206 c</name>
-      <lastupdate>2015-08-27</lastupdate>
+      <eccentricity>0.435</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.267</eccentricity>
-      <semimajoraxis>2.55</semimajoraxis>
+      <inclination>90.0</inclination>
+      <period errorplus="0.1" errorminus="-0.1">255.9</period>
+      <lastupdate>2015-08-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.33" errorminus="-2.58">46.34</distance>
 </system>
 

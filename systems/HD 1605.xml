@@ -1,33 +1,33 @@
 <system>
   <name>HD 1605</name>
-  <rightascension>00 07 52</rightascension>
+  <distance errorplus="6.11" errorminus="-7.14">84.6</distance>
   <declination>30 58 29</declination>
+  <rightascension>00 07 52</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">4757.0</temperature>
     <name>HD 1605</name>
     <mass errorplus="0.11" errorminus="-0.11">1.31</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">4757.0</temperature>
     <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
     <planet>
-      <inclination/>
+      <name>HD 1605 c</name>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">3.52</semimajoraxis>
       <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
-      <period errorplus="5.6" errorminus="-4.9">577.9</period>
-      <name>HD 1605 b</name>
-      <lastupdate>2015-04-01</lastupdate>
+      <eccentricity>0.098</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.078</eccentricity>
-      <semimajoraxis errorplus="0.02" errorminus="-0.01">1.48</semimajoraxis>
+      <inclination/>
+      <period errorplus="42.0" errorminus="-32.0">2111.0</period>
+      <lastupdate>2015-04-01</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 1605 b</name>
+      <semimajoraxis errorplus="0.02" errorminus="-0.01">1.48</semimajoraxis>
       <radius errorplus="0.4" errorminus="-0.4">3.8</radius>
-      <period errorplus="42.0" errorminus="-32.0">2111.0</period>
-      <name>HD 1605 c</name>
-      <lastupdate>2015-04-01</lastupdate>
+      <eccentricity>0.078</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.098</eccentricity>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">3.52</semimajoraxis>
+      <inclination/>
+      <period errorplus="5.6" errorminus="-4.9">577.9</period>
+      <lastupdate>2015-04-01</lastupdate>
     </planet>
   </star>
-  <distance errorplus="6.11" errorminus="-7.14">84.6</distance>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
   <name>K2-38</name>
-  <rightascension>16 02 00</rightascension>
+  <distance/>
   <declination>-23 11 21</declination>
+  <rightascension>16 02 00</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">5757.0</temperature>
     <name>K2-38</name>
     <mass errorplus="0.05" errorminus="-0.05">1.07</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5757.0</temperature>
     <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
     <planet>
-      <inclination errorplus="1.88" errorminus="-3.08">87.28</inclination>
+      <name>K2-38 c</name>
+      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.0964</semimajoraxis>
       <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
-      <name>K2-38 b</name>
-      <lastupdate>2016-07-07</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0506</semimajoraxis>
+      <inclination errorplus="1.0" errorminus="-1.67">88.61</inclination>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="1.0" errorminus="-1.67">88.61</inclination>
+      <name>K2-38 b</name>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0506</semimajoraxis>
       <radius errorplus="0.09" errorminus="-0.09">1.1</radius>
-      <period errorplus="0.0" errorminus="-0.0">10.6</period>
-      <name>K2-38 c</name>
-      <lastupdate>2016-07-07</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.0964</semimajoraxis>
+      <inclination errorplus="1.88" errorminus="-3.08">87.28</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

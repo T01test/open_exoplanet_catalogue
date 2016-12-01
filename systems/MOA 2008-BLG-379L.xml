@@ -1,22 +1,22 @@
 <system>
   <name>MOA 2008-BLG-379L</name>
-  <rightascension>17 42 21</rightascension>
+  <distance errorplus="1300.0" errorminus="-1200.0">3300.0</distance>
   <declination>-30 11 48</declination>
+  <rightascension>17 42 21</rightascension>
   <star>
+    <temperature/>
     <name>MOA 2008-BLG-379L</name>
     <mass errorplus="0.24" errorminus="-0.27">0.56</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period/>
       <name>MOA 2008-BLG-379L b</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="1.7" errorminus="-1.2">3.3</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <period/>
+      <lastupdate>2014-10-29</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1300.0" errorminus="-1200.0">3300.0</distance>
 </system>
 

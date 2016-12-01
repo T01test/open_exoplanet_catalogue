@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-148</name>
-  <rightascension>19 47 10</rightascension>
+  <distance/>
   <declination>46 51 31</declination>
+  <rightascension>19 47 10</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">5272.0</temperature>
     <name>Kepler-148</name>
     <mass/>
-    <temperature errorplus="200.0" errorminus="-200.0">5272.0</temperature>
     <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">51.8</period>
-      <name>Kepler-148 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.7</period>
-      <name>Kepler-148 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.028</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>Kepler-148 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.05</semimajoraxis>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-148 d</name>
+      <semimajoraxis/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">51.8</period>
+      <lastupdate>2016-05-10</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-148 b</name>
+      <semimajoraxis>0.028</semimajoraxis>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

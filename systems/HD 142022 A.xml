@@ -1,23 +1,23 @@
 <system>
   <name>HD 142022 A</name>
-  <rightascension>16 33 45</rightascension>
+  <distance errorplus="0.85" errorminus="-0.9">35.87</distance>
   <declination>-84 13 53</declination>
+  <rightascension>16 33 45</rightascension>
   <star>
+    <temperature errorplus="27.0" errorminus="-27.0">5499.0</temperature>
     <name>HD 142022 A</name>
     <mass>0.99</mass>
-    <temperature errorplus="27.0" errorminus="-27.0">5499.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="53.0" errorminus="-39.0">1928.0</period>
       <name>HD 142022 A b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.53</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">3.03</semimajoraxis>
+      <radius/>
+      <eccentricity>0.53</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="53.0" errorminus="-39.0">1928.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.85" errorminus="-0.9">35.87</distance>
 </system>
 

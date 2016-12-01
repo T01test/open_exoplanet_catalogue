@@ -1,23 +1,23 @@
 <system>
   <name>Qatar-2</name>
-  <rightascension>13 39 21</rightascension>
+  <distance/>
   <declination>-6 48 14</declination>
+  <rightascension>13 39 21</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">4645.0</temperature>
     <name>Qatar-2</name>
     <mass errorplus="0.02" errorminus="-0.02">0.74</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">4645.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.78</radius>
     <planet>
-      <inclination errorplus="0.08" errorminus="-0.08">86.12</inclination>
-      <radius errorplus="0.01" errorminus="-0.01">0.78</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.3</period>
       <name>Qatar-2 b</name>
-      <lastupdate>2014-11-05</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.02153</semimajoraxis>
+      <radius errorplus="0.01" errorminus="-0.01">0.78</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.08" errorminus="-0.08">86.12</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.3</period>
+      <lastupdate>2014-11-05</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

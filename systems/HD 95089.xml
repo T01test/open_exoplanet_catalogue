@@ -1,23 +1,23 @@
 <system>
   <name>HD 95089</name>
-  <rightascension>10 41 56</rightascension>
+  <distance errorplus="19.67" errorminus="-26.72">149.03</distance>
   <declination>01 43 45</declination>
+  <rightascension>10 41 56</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5002.0</temperature>
     <name>HD 95089</name>
     <mass errorplus="0.11" errorminus="-0.11">1.58</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5002.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
-      <period errorplus="16.0" errorminus="-16.0">507.0</period>
       <name>HD 95089 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.157</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">1.51</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
+      <eccentricity>0.157</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="16.0" errorminus="-16.0">507.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="19.67" errorminus="-26.72">149.03</distance>
 </system>
 

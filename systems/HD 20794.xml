@@ -1,43 +1,43 @@
 <system>
   <name>HD 20794</name>
-  <rightascension>03 58 54</rightascension>
+  <distance errorplus="0.02" errorminus="-0.02">6.06</distance>
   <declination>-43 04 11</declination>
+  <rightascension>03 58 54</rightascension>
   <star>
+    <temperature errorplus="17.0" errorminus="-17.0">5401.0</temperature>
     <name>HD 20794</name>
     <mass>0.7</mass>
-    <temperature errorplus="17.0" errorminus="-17.0">5401.0</temperature>
     <radius/>
     <planet>
-      <inclination>90.0</inclination>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">18.3</period>
-      <name>HD 20794 b</name>
-      <lastupdate>2015-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.1207</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>90.0</inclination>
-      <radius/>
-      <period errorplus="0.2" errorminus="-0.2">90.3</period>
-      <name>HD 20794 d</name>
-      <lastupdate>2015-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
-      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.3499</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>90.0</inclination>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">40.1</period>
       <name>HD 20794 c</name>
-      <lastupdate>2015-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0034" errorminus="-0.0034">0.2036</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="0.1" errorminus="-0.1">40.1</period>
+      <lastupdate>2015-08-27</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 20794 d</name>
+      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.3499</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="0.2" errorminus="-0.2">90.3</period>
+      <lastupdate>2015-08-27</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 20794 b</name>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.1207</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">18.3</period>
+      <lastupdate>2015-08-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.02" errorminus="-0.02">6.06</distance>
 </system>
 

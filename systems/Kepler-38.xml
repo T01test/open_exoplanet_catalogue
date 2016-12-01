@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-38</name>
-  <rightascension>19 49 49</rightascension>
+  <distance>600.0</distance>
   <declination>42 16 45</declination>
+  <rightascension>19 49 49</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5623.0</temperature>
     <name>Kepler-38</name>
     <mass errorplus="0.06" errorminus="-0.06">0.94</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5623.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">1.75</radius>
     <planet>
-      <inclination errorplus="0.03" errorminus="-0.026">89.442</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">1.75</radius>
-      <period errorplus="0.0" errorminus="-0.1">105.6</period>
       <name>Kepler-38 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.032</eccentricity>
       <semimajoraxis errorplus="0.0082" errorminus="-0.0092">0.4632</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">1.75</radius>
+      <eccentricity>0.032</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.03" errorminus="-0.026">89.442</inclination>
+      <period errorplus="0.0" errorminus="-0.1">105.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>600.0</distance>
 </system>
 

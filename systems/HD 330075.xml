@@ -1,23 +1,23 @@
 <system>
   <name>HD 330075</name>
-  <rightascension>15 24 25</rightascension>
+  <distance errorplus="3.49" errorminus="-4.06">50.2</distance>
   <declination>-49 57 48</declination>
+  <rightascension>15 24 25</rightascension>
   <star>
+    <temperature errorplus="53.0" errorminus="-53.0">5017.0</temperature>
     <name>HD 330075</name>
     <mass errorplus="0.1" errorminus="-0.1">0.7</mass>
-    <temperature errorplus="53.0" errorminus="-53.0">5017.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
       <name>HD 330075 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis>0.039</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <lastupdate>2014-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.49" errorminus="-4.06">50.2</distance>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
   <name>HD 177830</name>
-  <rightascension>19 20 11</rightascension>
+  <distance errorplus="2.54" errorminus="-2.77">59.03</distance>
   <declination>25 55 14</declination>
+  <rightascension>19 20 11</rightascension>
   <star>
+    <temperature>4949.0</temperature>
     <name>HD 177830</name>
     <mass>1.47</mass>
-    <temperature>4949.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
     <planet>
-      <inclination/>
+      <name>HD 177830 b</name>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">1.2218</semimajoraxis>
       <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
-      <period errorplus="0.1" errorminus="-0.1">110.9</period>
-      <name>HD 177830 c</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.009</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.3</eccentricity>
-      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.5137</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.4" errorminus="-0.4">406.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 177830 c</name>
+      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.5137</semimajoraxis>
       <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
-      <period errorplus="0.4" errorminus="-0.4">406.6</period>
-      <name>HD 177830 b</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.3</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.009</eccentricity>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">1.2218</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">110.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.54" errorminus="-2.77">59.03</distance>
 </system>
 

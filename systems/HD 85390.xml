@@ -1,23 +1,23 @@
 <system>
   <name>HD 85390</name>
-  <rightascension>09 30 37</rightascension>
+  <distance errorplus="0.94" errorminus="-1.0">33.96</distance>
   <declination>-49 47 24</declination>
+  <rightascension>09 30 37</rightascension>
   <star>
+    <temperature errorplus="54.0" errorminus="-54.0">5186.0</temperature>
     <name>HD 85390</name>
     <mass>0.76</mass>
-    <temperature errorplus="54.0" errorminus="-54.0">5186.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="25.0" errorminus="-25.0">788.0</period>
       <name>HD 85390 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.41</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">1.52</semimajoraxis>
+      <radius/>
+      <eccentricity>0.41</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="25.0" errorminus="-25.0">788.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.94" errorminus="-1.0">33.96</distance>
 </system>
 

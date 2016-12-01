@@ -1,23 +1,23 @@
 <system>
   <name>K2-77</name>
-  <rightascension>03 13 42</rightascension>
+  <distance errorplus="6.0" errorminus="-6.0">141.0</distance>
   <declination>12 34 21</declination>
+  <rightascension>03 13 42</rightascension>
   <star>
+    <temperature errorplus="45.0" errorminus="-45.0">4970.0</temperature>
     <name>K2-77</name>
     <mass errorplus="0.12" errorminus="-0.12">0.8</mass>
-    <temperature errorplus="45.0" errorminus="-45.0">4970.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
     <planet>
-      <inclination errorplus="0.8" errorminus="-0.8">88.7</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.2</period>
       <name>K2-77 b</name>
-      <lastupdate>2016-09-29</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.14</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+      <eccentricity>0.14</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.8" errorminus="-0.8">88.7</inclination>
+      <period errorplus="0.0" errorminus="-0.0">8.2</period>
+      <lastupdate>2016-09-29</lastupdate>
     </planet>
   </star>
-  <distance errorplus="6.0" errorminus="-6.0">141.0</distance>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
   <name>OGLE2-TR-L9</name>
-  <rightascension>11 58 47</rightascension>
+  <distance/>
   <declination>-61 08 46</declination>
+  <rightascension>11 58 47</rightascension>
   <star>
+    <temperature errorplus="58.0">6933.0</temperature>
     <name>OGLE2-TR-L9</name>
     <mass errorplus="0.08">1.52</mass>
-    <temperature errorplus="58.0">6933.0</temperature>
     <radius errorplus="0.04">1.53</radius>
     <planet>
-      <inclination errorplus="0.3" errorminus="-0.3">79.8</inclination>
-      <radius errorplus="0.04">1.53</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
       <name>OGLE2-TR-L9 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0308</semimajoraxis>
+      <radius errorplus="0.04">1.53</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.3" errorminus="-0.3">79.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

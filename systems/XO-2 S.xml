@@ -1,33 +1,33 @@
 <system>
   <name>XO-2 S</name>
-  <rightascension>07 01 52</rightascension>
+  <distance errorplus="2.8" errorminus="-2.9">148.0</distance>
   <declination>50 13 03</declination>
+  <rightascension>07 01 52</rightascension>
   <star>
+    <temperature errorplus="55.0" errorminus="-55.0">5399.0</temperature>
     <name>XO-2 S</name>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="55.0" errorminus="-55.0">5399.0</temperature>
     <radius errorplus="0.09" errorminus="-0.07">1.02</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.09" errorminus="-0.07">1.02</radius>
-      <period errorplus="0.0" errorminus="-0.0">18.2</period>
       <name>XO-2 S b</name>
-      <lastupdate>2014-07-09</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.18</eccentricity>
       <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1344</semimajoraxis>
+      <radius errorplus="0.09" errorminus="-0.07">1.02</radius>
+      <eccentricity>0.18</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.2</period>
+      <lastupdate>2014-07-09</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.09" errorminus="-0.07">1.02</radius>
-      <period errorplus="0.3" errorminus="-0.3">120.8</period>
       <name>XO-2 S c</name>
-      <lastupdate>2014-07-09</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.1528</eccentricity>
       <semimajoraxis errorplus="0.0087" errorminus="-0.0087">0.4756</semimajoraxis>
+      <radius errorplus="0.09" errorminus="-0.07">1.02</radius>
+      <eccentricity>0.1528</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.3" errorminus="-0.3">120.8</period>
+      <lastupdate>2014-07-09</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.8" errorminus="-2.9">148.0</distance>
 </system>
 

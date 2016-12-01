@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-348</name>
-  <rightascension>19 15 18</rightascension>
+  <distance/>
   <declination>40 32 54</declination>
+  <rightascension>19 15 18</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">6177.0</temperature>
     <name>Kepler-348</name>
     <mass>1.15</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6177.0</temperature>
     <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
       <name>Kepler-348 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.076</semimajoraxis>
+      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
-      <period errorplus="0.0" errorminus="-0.0">17.3</period>
       <name>Kepler-348 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.138</semimajoraxis>
+      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

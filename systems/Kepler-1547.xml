@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-1547</name>
-  <rightascension>18 45 50</rightascension>
+  <distance errorplus="204.08" errorminus="-83.13">665.0</distance>
   <declination>42 13 19</declination>
+  <rightascension>18 45 50</rightascension>
   <star>
+    <temperature errorplus="94.46" errorminus="-139.23">6078.0</temperature>
     <name>Kepler-1547</name>
     <mass errorplus="0.1" errorminus="-0.08">1.12</mass>
-    <temperature errorplus="94.46" errorminus="-139.23">6078.0</temperature>
     <radius errorplus="0.36" errorminus="-0.14">1.18</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.36" errorminus="-0.14">1.18</radius>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
       <name>Kepler-1547 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.36" errorminus="-0.14">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="204.08" errorminus="-83.13">665.0</distance>
 </system>
 

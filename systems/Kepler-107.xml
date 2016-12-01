@@ -1,49 +1,49 @@
 <system>
   <name>Kepler-107</name>
-  <rightascension>19 01 41</rightascension>
+  <distance/>
   <declination>48 12 30</declination>
+  <rightascension>19 01 41</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5851.0</temperature>
     <name>Kepler-107</name>
     <mass/>
-    <temperature errorplus="75.0" errorminus="-75.0">5851.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <name>Kepler-107 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.044</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <name>Kepler-107 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.059</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.0</period>
       <name>Kepler-107 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.082</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-107 c</name>
+      <semimajoraxis>0.059</semimajoraxis>
       <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
-      <period errorplus="0.0" errorminus="-0.0">14.7</period>
-      <name>Kepler-107 e</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-107 e</name>
       <semimajoraxis>0.123</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

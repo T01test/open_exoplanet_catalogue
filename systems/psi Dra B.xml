@@ -1,23 +1,23 @@
 <system>
   <name>psi Dra B</name>
-  <rightascension>17 29 31</rightascension>
+  <distance>22.16</distance>
   <declination>72 09 24</declination>
+  <rightascension>17 29 31</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">6212.0</temperature>
     <name>psi Dra B</name>
     <mass errorplus="0.07" errorminus="-0.07">1.19</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">6212.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="42.0" errorminus="-42.0">3117.0</period>
       <name>psi Dra B b</name>
-      <lastupdate>2015-12-17</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.4</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">4.43</semimajoraxis>
+      <radius/>
+      <eccentricity>0.4</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="42.0" errorminus="-42.0">3117.0</period>
+      <lastupdate>2015-12-17</lastupdate>
     </planet>
   </star>
-  <distance>22.16</distance>
 </system>
 

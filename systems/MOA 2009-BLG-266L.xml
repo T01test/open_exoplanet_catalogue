@@ -1,22 +1,22 @@
 <system>
   <name>MOA 2009-BLG-266L</name>
-  <rightascension>17 00 29</rightascension>
+  <distance errorplus="330.0" errorminus="-330.0">3040.0</distance>
   <declination>-35 00 19</declination>
+  <rightascension>17 00 29</rightascension>
   <star>
+    <temperature/>
     <name>MOA 2009-BLG-266L</name>
     <mass errorplus="0.09" errorminus="-0.09">0.56</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="2810.5" errorminus="-547.5">2774.0</period>
       <name>MOA 2009-BLG-266L b</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="1.9" errorminus="-0.5">3.2</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <period errorplus="2810.5" errorminus="-547.5">2774.0</period>
+      <lastupdate>2014-10-29</lastupdate>
     </planet>
   </star>
-  <distance errorplus="330.0" errorminus="-330.0">3040.0</distance>
 </system>
 

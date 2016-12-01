@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-388</name>
-  <rightascension>18 49 40</rightascension>
+  <distance/>
   <declination>44 36 31</declination>
+  <rightascension>18 49 40</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">4498.0</temperature>
     <name>Kepler-388</name>
     <mass>0.59</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">4498.0</temperature>
     <radius errorplus="0.07" errorminus="-0.07">0.59</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-388 b</name>
+      <semimajoraxis>0.036</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">0.59</radius>
-      <period errorplus="0.0" errorminus="-0.0">13.3</period>
-      <name>Kepler-388 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.093</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-388 c</name>
+      <semimajoraxis>0.093</semimajoraxis>
       <radius errorplus="0.07" errorminus="-0.07">0.59</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <name>Kepler-388 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.036</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

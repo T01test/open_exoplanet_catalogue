@@ -1,33 +1,33 @@
 <system>
   <name>HIP 65407</name>
-  <rightascension>13 05 15</rightascension>
+  <distance errorplus="4.6" errorminus="-4.6">55.5</distance>
   <declination>48 53 06</declination>
+  <rightascension>13 05 15</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5460.0</temperature>
     <name>HIP 65407</name>
     <mass errorplus="0.07" errorminus="-0.07">0.93</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5460.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
+      <name>HIP 65407 c</name>
+      <semimajoraxis errorplus="0.008" errorminus="-0.008">0.316</semimajoraxis>
       <radius/>
-      <period errorplus="0.0" errorminus="-0.0">28.1</period>
-      <name>HIP 65407 b</name>
-      <lastupdate>2016-02-25</lastupdate>
+      <eccentricity>0.12</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.14</eccentricity>
-      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.177</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">67.3</period>
+      <lastupdate>2016-02-25</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HIP 65407 b</name>
+      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.177</semimajoraxis>
       <radius/>
-      <period errorplus="0.1" errorminus="-0.1">67.3</period>
-      <name>HIP 65407 c</name>
-      <lastupdate>2016-02-25</lastupdate>
+      <eccentricity>0.14</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.12</eccentricity>
-      <semimajoraxis errorplus="0.008" errorminus="-0.008">0.316</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">28.1</period>
+      <lastupdate>2016-02-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="4.6" errorminus="-4.6">55.5</distance>
 </system>
 

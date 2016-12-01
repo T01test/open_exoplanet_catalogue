@@ -1,23 +1,23 @@
 <system>
   <name>HAT-P-38</name>
-  <rightascension>02 22 59</rightascension>
+  <distance errorplus="26.0" errorminus="-19.0">249.0</distance>
   <declination>32 14 46</declination>
+  <rightascension>02 22 59</rightascension>
   <star>
+    <temperature errorplus="100.0">5330.0</temperature>
     <name>HAT-P-38</name>
     <mass errorplus="0.04">0.89</mass>
-    <temperature errorplus="100.0">5330.0</temperature>
     <radius errorplus="0.1">0.92</radius>
     <planet>
-      <inclination errorplus="0.7" errorminus="-0.7">88.3</inclination>
-      <radius errorplus="0.1">0.92</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
       <name>HAT-P-38 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.067</eccentricity>
       <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0523</semimajoraxis>
+      <radius errorplus="0.1">0.92</radius>
+      <eccentricity>0.067</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.7" errorminus="-0.7">88.3</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="26.0" errorminus="-19.0">249.0</distance>
 </system>
 

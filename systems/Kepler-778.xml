@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-778</name>
-  <rightascension>19 28 38</rightascension>
+  <distance errorplus="49.81" errorminus="-63.02">899.0</distance>
   <declination>44 14 15</declination>
+  <rightascension>19 28 38</rightascension>
   <star>
+    <temperature errorplus="71.96" errorminus="-62.12">5102.0</temperature>
     <name>Kepler-778</name>
     <mass errorplus="0.04" errorminus="-0.05">0.81</mass>
-    <temperature errorplus="71.96" errorminus="-62.12">5102.0</temperature>
     <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
       <name>Kepler-778 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.05">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="49.81" errorminus="-63.02">899.0</distance>
 </system>
 

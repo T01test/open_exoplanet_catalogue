@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-403</name>
-  <rightascension>19 55 17</rightascension>
+  <distance/>
   <declination>46 44 40</declination>
+  <rightascension>19 55 17</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">6090.0</temperature>
     <name>Kepler-403</name>
     <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">6090.0</temperature>
     <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <period errorplus="0.0" errorminus="-0.0">13.6</period>
-      <name>Kepler-403 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <name>Kepler-403 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.076</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <period errorplus="0.0" errorminus="-0.0">54.3</period>
       <name>Kepler-403 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.297</semimajoraxis>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">54.3</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-403 b</name>
+      <semimajoraxis>0.076</semimajoraxis>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-403 d</name>
+      <semimajoraxis/>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.6</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

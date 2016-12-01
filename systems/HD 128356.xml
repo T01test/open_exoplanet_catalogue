@@ -1,23 +1,23 @@
 <system>
   <name>HD 128356</name>
-  <rightascension>14 16 13</rightascension>
+  <distance errorplus="0.52" errorminus="-0.52">26.03</distance>
   <declination>-25 48 09</declination>
+  <rightascension>14 16 13</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4875.0</temperature>
     <name>HD 128356</name>
     <mass errorplus="0.05" errorminus="-0.05">0.65</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4875.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <period errorplus="1.6" errorminus="-1.6">298.2</period>
       <name>HD 128356 b</name>
-      <lastupdate>2016-11-10</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.57</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">0.87</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+      <eccentricity>0.57</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.6" errorminus="-1.6">298.2</period>
+      <lastupdate>2016-11-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.52" errorminus="-0.52">26.03</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 145377</name>
-  <rightascension>16 54 06</rightascension>
+  <distance errorplus="3.16" errorminus="-3.57">55.19</distance>
   <declination>-27 04 41</declination>
+  <rightascension>16 54 06</rightascension>
   <star>
+    <temperature errorplus="15.0" errorminus="-15.0">6046.0</temperature>
     <name>HD 145377</name>
     <mass errorplus="0.03" errorminus="-0.03">1.12</mass>
-    <temperature errorplus="15.0" errorminus="-15.0">6046.0</temperature>
     <radius>1.14</radius>
     <planet>
-      <inclination/>
-      <radius>1.14</radius>
-      <period errorplus="0.1" errorminus="-0.1">104.0</period>
       <name>HD 145377 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.307</eccentricity>
       <semimajoraxis errorplus="0.004" errorminus="-0.004">0.45</semimajoraxis>
+      <radius>1.14</radius>
+      <eccentricity>0.307</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">104.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.16" errorminus="-3.57">55.19</distance>
 </system>
 

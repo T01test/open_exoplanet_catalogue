@@ -1,23 +1,23 @@
 <system>
   <name>tau Boo</name>
-  <rightascension>13 48 56</rightascension>
+  <distance errorplus="0.17" errorminus="-0.17">15.6</distance>
   <declination>17 27 24</declination>
+  <rightascension>13 48 56</rightascension>
   <star>
+    <temperature>6400.0</temperature>
     <name>tau Boo</name>
     <mass errorplus="0.05" errorminus="-0.05">1.34</mass>
-    <temperature>6400.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.46</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.05" errorminus="-0.05">1.46</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
       <name>tau Boo b</name>
-      <lastupdate>2015-04-16</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.011</eccentricity>
       <semimajoraxis errorplus="0.003" errorminus="-0.003">0.049</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.05">1.46</radius>
+      <eccentricity>0.011</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <lastupdate>2015-04-16</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.17" errorminus="-0.17">15.6</distance>
 </system>
 

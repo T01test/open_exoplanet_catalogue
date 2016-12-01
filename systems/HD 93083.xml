@@ -1,23 +1,23 @@
 <system>
   <name>HD 93083</name>
-  <rightascension>10 05 13</rightascension>
+  <distance errorplus="0.81" errorminus="-0.86">28.9</distance>
   <declination>-33 34 37</declination>
+  <rightascension>10 05 13</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">4995.0</temperature>
     <name>HD 93083</name>
     <mass errorplus="0.04" errorminus="-0.04">0.7</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">4995.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.6" errorminus="-0.6">143.6</period>
       <name>HD 93083 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.14</eccentricity>
       <semimajoraxis>0.477</semimajoraxis>
+      <radius/>
+      <eccentricity>0.14</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.6" errorminus="-0.6">143.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.81" errorminus="-0.86">28.9</distance>
 </system>
 

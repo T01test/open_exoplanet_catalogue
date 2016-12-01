@@ -1,22 +1,22 @@
 <system>
   <name>MOA-bin-1L</name>
-  <rightascension>17 47 33</rightascension>
+  <distance errorplus="1200.0" errorminus="-1900.0">5100.0</distance>
   <declination>-29 47 38</declination>
+  <rightascension>17 47 33</rightascension>
   <star>
+    <temperature/>
     <name>MOA-bin-1L</name>
     <mass errorplus="0.33" errorminus="-0.41">0.75</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period/>
       <name>MOA-bin-1L b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="4.5" errorminus="-2.7">8.3</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <period/>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1200.0" errorminus="-1900.0">5100.0</distance>
 </system>
 

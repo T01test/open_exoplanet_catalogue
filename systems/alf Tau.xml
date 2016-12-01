@@ -1,23 +1,23 @@
 <system>
   <name>alf Tau</name>
-  <rightascension>04 58 48</rightascension>
+  <distance errorplus="0.32" errorminus="-0.32">20.43</distance>
   <declination>16 30 33</declination>
+  <rightascension>04 58 48</rightascension>
   <star>
+    <temperature errorplus="70.0" errorminus="-70.0">4055.0</temperature>
     <name>alf Tau</name>
     <mass errorplus="0.11" errorminus="-0.11">1.13</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">4055.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">45.1</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">45.1</radius>
-      <period errorplus="0.9" errorminus="-0.9">629.0</period>
       <name>alf Tau b</name>
-      <lastupdate>2015-06-04</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.1</eccentricity>
       <semimajoraxis errorplus="0.27" errorminus="-0.27">1.46</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">45.1</radius>
+      <eccentricity>0.1</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.9" errorminus="-0.9">629.0</period>
+      <lastupdate>2015-06-04</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.32" errorminus="-0.32">20.43</distance>
 </system>
 

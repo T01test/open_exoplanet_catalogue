@@ -1,23 +1,23 @@
 <system>
   <name>HD 30562</name>
-  <rightascension>04 09 05</rightascension>
+  <distance errorplus="0.61" errorminus="-0.64">26.5</distance>
   <declination>-5 40 26</declination>
+  <rightascension>04 09 05</rightascension>
   <star>
+    <temperature errorplus="46.0" errorminus="-46.0">5994.0</temperature>
     <name>HD 30562</name>
     <mass errorplus="0.03" errorminus="-0.03">1.23</mass>
-    <temperature errorplus="46.0" errorminus="-46.0">5994.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">1.53</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">1.53</radius>
-      <period errorplus="2.8" errorminus="-2.8">1159.2</period>
       <name>HD 30562 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.778</eccentricity>
       <semimajoraxis errorplus="0.004" errorminus="-0.004">2.315</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">1.53</radius>
+      <eccentricity>0.778</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.8" errorminus="-2.8">1159.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.61" errorminus="-0.64">26.5</distance>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
   <name>HD 190360</name>
-  <rightascension>20 54 21</rightascension>
+  <distance errorplus="0.16" errorminus="-0.16">15.89</distance>
   <declination>29 53 48</declination>
+  <rightascension>20 54 21</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">5590.0</temperature>
     <name>HD 190360</name>
     <mass>0.96</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5590.0</temperature>
     <radius>1.13</radius>
     <planet>
-      <inclination/>
-      <radius>1.13</radius>
-      <period errorplus="29.0" errorminus="-29.0">2915.0</period>
       <name>HD 190360 b</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.313</eccentricity>
       <semimajoraxis errorplus="0.23" errorminus="-0.23">4.01</semimajoraxis>
+      <radius>1.13</radius>
+      <eccentricity>0.313</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="29.0" errorminus="-29.0">2915.0</period>
+      <lastupdate>2014-08-21</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius>1.13</radius>
-      <period errorplus="0.0" errorminus="-0.0">17.1</period>
       <name>HD 190360 c</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.237</eccentricity>
       <semimajoraxis errorplus="0.0075" errorminus="-0.0075">0.1304</semimajoraxis>
+      <radius>1.13</radius>
+      <eccentricity>0.237</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.1</period>
+      <lastupdate>2014-08-21</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.16" errorminus="-0.16">15.89</distance>
 </system>
 

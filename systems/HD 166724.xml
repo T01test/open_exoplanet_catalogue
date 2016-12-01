@@ -1,23 +1,23 @@
 <system>
   <name>HD 166724</name>
-  <rightascension>18 29 55</rightascension>
+  <distance errorplus="2.54" errorminus="-2.88">42.99</distance>
   <declination>-42 34 31</declination>
+  <rightascension>18 29 55</rightascension>
   <star>
+    <temperature errorplus="52.0" errorminus="-52.0">5127.0</temperature>
     <name>HD 166724</name>
     <mass errorplus="0.02" errorminus="-0.02">0.81</mass>
-    <temperature errorplus="52.0" errorminus="-52.0">5127.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="705.0" errorminus="-467.0">5144.0</period>
       <name>HD 166724 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.734</eccentricity>
       <semimajoraxis errorplus="0.43" errorminus="-0.43">5.42</semimajoraxis>
+      <radius/>
+      <eccentricity>0.734</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="705.0" errorminus="-467.0">5144.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.54" errorminus="-2.88">42.99</distance>
 </system>
 

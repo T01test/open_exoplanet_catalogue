@@ -1,22 +1,22 @@
 <system>
   <name>OGLE-TR-056</name>
-  <rightascension>17 08 52</rightascension>
+  <distance/>
   <declination>-29 32 21</declination>
+  <rightascension>17 08 52</rightascension>
   <star>
+    <temperature errorplus="100.0">6050.0</temperature>
     <name>OGLE-TR-056</name>
     <mass errorplus="0.08">1.23</mass>
-    <temperature errorplus="100.0">6050.0</temperature>
     <radius errorplus="0.09">1.36</radius>
     <planet>
-      <inclination errorplus="0.91" errorminus="-1.0">77.6</inclination>
-      <radius errorplus="0.09">1.36</radius>
-      <period>1.2</period>
       <name>OGLE-TR-056 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.00046" errorminus="-0.00051">0.02383</semimajoraxis>
+      <radius errorplus="0.09">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.91" errorminus="-1.0">77.6</inclination>
+      <period>1.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

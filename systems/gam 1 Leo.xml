@@ -1,23 +1,23 @@
 <system>
   <name>gam 1 Leo</name>
-  <rightascension>10 59 35</rightascension>
+  <distance errorplus="1.19" errorminus="-1.27">38.52</distance>
   <declination>19 50 29</declination>
+  <rightascension>10 59 35</rightascension>
   <star>
+    <temperature errorplus="15.0">4330.0</temperature>
     <name>gam 1 Leo</name>
     <mass errorplus="0.21">1.23</mass>
-    <temperature errorplus="15.0">4330.0</temperature>
     <radius errorplus="1.61">31.88</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="1.61">31.88</radius>
-      <period errorplus="1.2" errorminus="-1.2">428.5</period>
       <name>gam 1 Leo b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.144</eccentricity>
       <semimajoraxis errorplus="0.02" errorminus="-0.02">1.19</semimajoraxis>
+      <radius errorplus="1.61">31.88</radius>
+      <eccentricity>0.144</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.2" errorminus="-1.2">428.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.19" errorminus="-1.27">38.52</distance>
 </system>
 

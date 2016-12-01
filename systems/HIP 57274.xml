@@ -1,43 +1,43 @@
 <system>
   <name>HIP 57274</name>
-  <rightascension>11 10 14</rightascension>
+  <distance errorplus="0.71" errorminus="-0.75">25.87</distance>
   <declination>30 57 33</declination>
+  <rightascension>11 10 14</rightascension>
   <star>
+    <temperature/>
     <name>HIP 57274</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">32.0</period>
-      <name>HIP 57274 c</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.05</eccentricity>
-      <semimajoraxis>0.178</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">8.1</period>
       <name>HIP 57274 b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.187</eccentricity>
       <semimajoraxis>0.07</semimajoraxis>
+      <radius/>
+      <eccentricity>0.187</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.1</period>
+      <lastupdate>2015-04-24</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HIP 57274 c</name>
+      <semimajoraxis>0.178</semimajoraxis>
       <radius/>
-      <period errorplus="8.5" errorminus="-8.5">431.7</period>
-      <name>HIP 57274 d</name>
-      <lastupdate>2015-03-26</lastupdate>
+      <eccentricity>0.05</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.27</eccentricity>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">32.0</period>
+      <lastupdate>2015-04-24</lastupdate>
+    </planet>
+    <planet>
+      <name>HIP 57274 d</name>
       <semimajoraxis>1.01</semimajoraxis>
+      <radius/>
+      <eccentricity>0.27</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="8.5" errorminus="-8.5">431.7</period>
+      <lastupdate>2015-03-26</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.71" errorminus="-0.75">25.87</distance>
 </system>
 

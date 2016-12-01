@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-351</name>
-  <rightascension>19 27 09</rightascension>
+  <distance/>
   <declination>42 39 28</declination>
+  <rightascension>19 27 09</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">5643.0</temperature>
     <name>Kepler-351</name>
     <mass>0.89</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5643.0</temperature>
     <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">37.1</period>
       <name>Kepler-351 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.214</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">142.5</period>
-      <name>Kepler-351 d</name>
-      <lastupdate>2016-05-10</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
       <inclination/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">57.2</period>
-      <name>Kepler-351 c</name>
+      <period errorplus="0.0" errorminus="-0.0">37.1</period>
       <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <planet>
+      <name>Kepler-351 c</name>
       <semimajoraxis>0.287</semimajoraxis>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">57.2</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-351 d</name>
+      <semimajoraxis/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">142.5</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

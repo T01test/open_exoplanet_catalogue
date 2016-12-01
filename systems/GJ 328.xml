@@ -1,23 +1,23 @@
 <system>
   <name>GJ 328</name>
-  <rightascension>08 46 54</rightascension>
+  <distance errorplus="0.85" errorminus="-0.92">20.03</distance>
   <declination>01 32 47</declination>
+  <rightascension>08 46 54</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">3900.0</temperature>
     <name>GJ 328</name>
     <mass errorplus="0.05" errorminus="-0.05">0.69</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">3900.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="300.0" errorminus="-300.0">4100.0</period>
       <name>GJ 328 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.37</eccentricity>
       <semimajoraxis errorplus="0.2" errorminus="-0.2">4.5</semimajoraxis>
+      <radius/>
+      <eccentricity>0.37</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="300.0" errorminus="-300.0">4100.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.85" errorminus="-0.92">20.03</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 101930</name>
-  <rightascension>11 52 31</rightascension>
+  <distance errorplus="0.87" errorminus="-0.92">30.5</distance>
   <declination>-58 00 24</declination>
+  <rightascension>11 52 31</rightascension>
   <star>
+    <temperature errorplus="62.0" errorminus="-62.0">5079.0</temperature>
     <name>HD 101930</name>
     <mass errorplus="0.05" errorminus="-0.05">0.74</mass>
-    <temperature errorplus="62.0" errorminus="-62.0">5079.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.2" errorminus="-0.2">70.5</period>
       <name>HD 101930 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.11</eccentricity>
       <semimajoraxis>0.302</semimajoraxis>
+      <radius/>
+      <eccentricity>0.11</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">70.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.87" errorminus="-0.92">30.5</distance>
 </system>
 

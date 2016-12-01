@@ -1,22 +1,22 @@
 <system>
   <name>K2-11</name>
-  <rightascension>11 02 31</rightascension>
+  <distance errorplus="71.0" errorminus="-1728.0">2019.0</distance>
   <declination>01 59 12</declination>
+  <rightascension>11 02 31</rightascension>
   <star>
+    <temperature errorplus="49.0" errorminus="-144.0">5433.0</temperature>
     <name>K2-11</name>
     <mass errorplus="0.04" errorminus="-0.56">1.35</mass>
-    <temperature errorplus="49.0" errorminus="-144.0">5433.0</temperature>
     <radius errorplus="0.2" errorminus="-4.39">5.15</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.2" errorminus="-4.39">5.15</radius>
-      <period errorplus="0.2" errorminus="-0.2">39.9</period>
       <name>K2-11 b</name>
-      <lastupdate>2015-07-16</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0143" errorminus="-0.0143">0.2257</semimajoraxis>
+      <radius errorplus="0.2" errorminus="-4.39">5.15</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">39.9</period>
+      <lastupdate>2015-07-16</lastupdate>
     </planet>
   </star>
-  <distance errorplus="71.0" errorminus="-1728.0">2019.0</distance>
 </system>
 

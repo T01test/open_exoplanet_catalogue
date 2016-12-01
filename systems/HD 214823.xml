@@ -1,23 +1,23 @@
 <system>
   <name>HD 214823</name>
-  <rightascension>22 04 58</rightascension>
+  <distance errorplus="7.7" errorminus="-9.14">97.47</distance>
   <declination>31 47 15</declination>
+  <rightascension>22 04 58</rightascension>
   <star>
+    <temperature errorplus="30.0" errorminus="-30.0">6215.0</temperature>
     <name>HD 214823</name>
     <mass errorplus="0.13" errorminus="-0.13">1.22</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">6215.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="15.0" errorminus="-15.0">1877.0</period>
       <name>HD 214823 b</name>
-      <lastupdate>2016-05-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.154</eccentricity>
       <semimajoraxis errorplus="0.12" errorminus="-0.12">3.18</semimajoraxis>
+      <radius/>
+      <eccentricity>0.154</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="15.0" errorminus="-15.0">1877.0</period>
+      <lastupdate>2016-05-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="7.7" errorminus="-9.14">97.47</distance>
 </system>
 

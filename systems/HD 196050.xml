@@ -1,23 +1,23 @@
 <system>
   <name>HD 196050</name>
-  <rightascension>20 27 55</rightascension>
+  <distance errorplus="1.92" errorminus="-2.09">46.93</distance>
   <declination>-60 38 04</declination>
+  <rightascension>20 27 55</rightascension>
   <star>
+    <temperature>5892.0</temperature>
     <name>HD 196050</name>
     <mass>1.15</mass>
-    <temperature>5892.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="21.0" errorminus="-21.0">1378.0</period>
       <name>HD 196050 b</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.228</eccentricity>
       <semimajoraxis errorplus="0.15" errorminus="-0.15">2.54</semimajoraxis>
+      <radius/>
+      <eccentricity>0.228</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="21.0" errorminus="-21.0">1378.0</period>
+      <lastupdate>2014-08-21</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.92" errorminus="-2.09">46.93</distance>
 </system>
 

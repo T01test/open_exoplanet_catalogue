@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-114</name>
-  <rightascension>19 07 17</rightascension>
+  <distance/>
   <declination>48 20 58</declination>
+  <rightascension>19 07 17</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4605.0</temperature>
     <name>Kepler-114</name>
     <mass errorplus="0.06" errorminus="-0.06">0.56</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4605.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <name>Kepler-114 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.053</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <period>8.0</period>
       <name>Kepler-114 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>8.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-114 b</name>
+      <semimajoraxis>0.053</semimajoraxis>
       <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <period>11.8</period>
-      <name>Kepler-114 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-114 d</name>
       <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>11.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

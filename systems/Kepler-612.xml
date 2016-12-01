@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-612</name>
-  <rightascension>19 21 16</rightascension>
+  <distance errorplus="168.23" errorminus="-78.85">932.0</distance>
   <declination>45 44 52</declination>
+  <rightascension>19 21 16</rightascension>
   <star>
+    <temperature errorplus="92.7" errorminus="-129.13">5693.0</temperature>
     <name>Kepler-612</name>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="92.7" errorminus="-129.13">5693.0</temperature>
     <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
       <name>Kepler-612 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.17" errorminus="-0.08">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="168.23" errorminus="-78.85">932.0</distance>
 </system>
 

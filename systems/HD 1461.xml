@@ -1,33 +1,33 @@
 <system>
   <name>HD 1461</name>
-  <rightascension>00 40 28</rightascension>
+  <distance errorplus="0.46" errorminus="-0.48">23.44</distance>
   <declination>-8 03 10</declination>
+  <rightascension>00 40 28</rightascension>
   <star>
+    <temperature errorplus="18.0" errorminus="-18.0">5765.0</temperature>
     <name>HD 1461</name>
     <mass>1.02</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">5765.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
+      <name>HD 1461 b</name>
+      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.0634</semimajoraxis>
       <radius/>
-      <period errorplus="0.0" errorminus="-0.0">13.5</period>
-      <name>HD 1461 c</name>
-      <lastupdate>2015-11-19</lastupdate>
+      <eccentricity>0.172</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.305</eccentricity>
-      <semimajoraxis errorplus="0.0039" errorminus="-0.0039">0.1117</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 1461 c</name>
+      <semimajoraxis errorplus="0.0039" errorminus="-0.0039">0.1117</semimajoraxis>
       <radius/>
-      <period errorplus="0.0" errorminus="-0.0">5.8</period>
-      <name>HD 1461 b</name>
-      <lastupdate>2015-11-19</lastupdate>
+      <eccentricity>0.305</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.172</eccentricity>
-      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.0634</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.5</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.46" errorminus="-0.48">23.44</distance>
 </system>
 

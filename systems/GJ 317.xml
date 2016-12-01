@@ -1,23 +1,23 @@
 <system>
   <name>GJ 317</name>
-  <rightascension>08 14 48</rightascension>
+  <distance errorplus="0.22" errorminus="-0.22">15.1</distance>
   <declination>-23 27 22</declination>
+  <rightascension>08 14 48</rightascension>
   <star>
+    <temperature errorplus="50.0" errorminus="-50.0">3510.0</temperature>
     <name>GJ 317</name>
     <mass errorplus="0.05" errorminus="-0.05">0.42</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">3510.0</temperature>
     <radius/>
     <planet>
-      <inclination errorplus="30.0" errorminus="-10.0">45.0</inclination>
-      <radius/>
-      <period errorplus="2.0" errorminus="-2.0">692.0</period>
       <name>GJ 317 b</name>
-      <lastupdate>2014-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.11</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">1.15</semimajoraxis>
+      <radius/>
+      <eccentricity>0.11</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorplus="30.0" errorminus="-10.0">45.0</inclination>
+      <period errorplus="2.0" errorminus="-2.0">692.0</period>
+      <lastupdate>2014-08-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.22" errorminus="-0.22">15.1</distance>
 </system>
 

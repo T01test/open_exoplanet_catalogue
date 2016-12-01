@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-393</name>
-  <rightascension>19 59 42</rightascension>
+  <distance/>
   <declination>45 11 31</declination>
+  <rightascension>19 59 42</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">6189.0</temperature>
     <name>Kepler-393</name>
     <mass>1.32</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6189.0</temperature>
     <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.2</period>
       <name>Kepler-393 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.091</semimajoraxis>
+      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
-      <period errorplus="0.0" errorminus="-0.0">14.6</period>
       <name>Kepler-393 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.124</semimajoraxis>
+      <radius errorplus="0.26" errorminus="-0.26">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">14.6</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

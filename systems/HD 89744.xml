@@ -1,23 +1,23 @@
 <system>
   <name>HD 89744</name>
-  <rightascension>10 32 38</rightascension>
+  <distance errorplus="1.1" errorminus="-1.1">39.0</distance>
   <declination>41 13 46</declination>
+  <rightascension>10 32 38</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">6291.0</temperature>
     <name>HD 89744</name>
     <mass errorplus="0.05" errorminus="-0.05">1.56</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">6291.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">256.8</period>
       <name>HD 89744 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.673</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">0.918</semimajoraxis>
+      <radius/>
+      <eccentricity>0.673</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">256.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.1" errorminus="-1.1">39.0</distance>
 </system>
 

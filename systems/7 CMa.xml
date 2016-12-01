@@ -1,23 +1,23 @@
 <system>
   <name>7 CMa</name>
-  <rightascension>06 10 15</rightascension>
+  <distance errorplus="0.27" errorminus="-0.28">19.84</distance>
   <declination>-19 15 21</declination>
+  <rightascension>06 10 15</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4792.0</temperature>
     <name>7 CMa</name>
     <mass errorplus="0.3" errorminus="-0.3">1.52</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4792.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">2.3</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">2.3</radius>
-      <period errorplus="7.4" errorminus="-7.4">796.0</period>
       <name>7 CMa b</name>
-      <lastupdate>2015-10-22</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.22</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">1.93</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">2.3</radius>
+      <eccentricity>0.22</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="7.4" errorminus="-7.4">796.0</period>
+      <lastupdate>2015-10-22</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.27" errorminus="-0.28">19.84</distance>
 </system>
 

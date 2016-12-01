@@ -1,33 +1,33 @@
 <system>
   <name>HD 169830</name>
-  <rightascension>18 57 22</rightascension>
+  <distance errorplus="1.16" errorminus="-1.24">36.32</distance>
   <declination>-29 49 00</declination>
+  <rightascension>18 57 22</rightascension>
   <star>
+    <temperature>6299.0</temperature>
     <name>HD 169830</name>
     <mass>1.4</mass>
-    <temperature>6299.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.2" errorminus="-0.2">225.6</period>
       <name>HD 169830 b</name>
-      <lastupdate>2014-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.31</eccentricity>
       <semimajoraxis>0.81</semimajoraxis>
+      <radius/>
+      <eccentricity>0.31</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.2" errorminus="-0.2">225.6</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="264.0" errorminus="-264.0">2102.0</period>
       <name>HD 169830 c</name>
-      <lastupdate>2014-06-25</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.33</eccentricity>
       <semimajoraxis>3.6</semimajoraxis>
+      <radius/>
+      <eccentricity>0.33</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="264.0" errorminus="-264.0">2102.0</period>
+      <lastupdate>2014-06-25</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.16" errorminus="-1.24">36.32</distance>
 </system>
 

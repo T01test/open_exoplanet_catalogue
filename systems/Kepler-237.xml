@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-237</name>
-  <rightascension>18 13 16</rightascension>
+  <distance/>
   <declination>40 25 18</declination>
+  <rightascension>18 13 16</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">4861.0</temperature>
     <name>Kepler-237</name>
     <mass>0.7</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">4861.0</temperature>
     <radius errorplus="0.38" errorminus="-0.38">0.72</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-237 b</name>
+      <semimajoraxis>0.05</semimajoraxis>
       <radius errorplus="0.38" errorminus="-0.38">0.72</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.1</period>
-      <name>Kepler-237 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.071</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-237 c</name>
+      <semimajoraxis>0.071</semimajoraxis>
       <radius errorplus="0.38" errorminus="-0.38">0.72</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.7</period>
-      <name>Kepler-237 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.05</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

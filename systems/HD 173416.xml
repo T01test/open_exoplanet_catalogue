@@ -1,23 +1,23 @@
 <system>
   <name>HD 173416</name>
-  <rightascension>18 54 01</rightascension>
+  <distance errorplus="9.01" errorminus="-10.4">134.95</distance>
   <declination>36 33 23</declination>
+  <rightascension>18 54 01</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4683.0</temperature>
     <name>HD 173416</name>
     <mass errorplus="0.3" errorminus="-0.3">2.0</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4683.0</temperature>
     <radius errorplus="0.9" errorminus="-0.9">13.5</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.9" errorminus="-0.9">13.5</radius>
-      <period errorplus="2.2" errorminus="-2.2">323.6</period>
       <name>HD 173416 b</name>
-      <lastupdate>2014-07-09</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.21</eccentricity>
       <semimajoraxis errorplus="0.06" errorminus="-0.06">1.16</semimajoraxis>
+      <radius errorplus="0.9" errorminus="-0.9">13.5</radius>
+      <eccentricity>0.21</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.2" errorminus="-2.2">323.6</period>
+      <lastupdate>2014-07-09</lastupdate>
     </planet>
   </star>
-  <distance errorplus="9.01" errorminus="-10.4">134.95</distance>
 </system>
 

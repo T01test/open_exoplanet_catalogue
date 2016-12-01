@@ -1,32 +1,32 @@
 <system>
   <name>OGLE 2006-BLG-109L</name>
-  <rightascension>17 08 37</rightascension>
+  <distance errorplus="110.0" errorminus="-120.0">1510.0</distance>
   <declination>-30 05 16</declination>
+  <rightascension>17 08 37</rightascension>
   <star>
+    <temperature/>
     <name>OGLE 2006-BLG-109L</name>
     <mass errorplus="0.05" errorminus="-0.04">0.51</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
+      <name>OGLE 2006-BLG-109L c</name>
+      <semimajoraxis errorplus="2.1" errorminus="-1.0">4.5</semimajoraxis>
       <radius/>
-      <period errorplus="584.0" errorminus="-547.5">1788.5</period>
-      <name>OGLE 2006-BLG-109L b</name>
-      <lastupdate>2014-11-05</lastupdate>
+      <eccentricity>0.15</eccentricity>
       <discoverymethod>microlensing</discoverymethod>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">2.3</semimajoraxis>
+      <inclination errorplus="4.0" errorminus="-7.0">64.0</inclination>
+      <period errorplus="3540.5" errorminus="-1752.0">4927.5</period>
+      <lastupdate>2014-11-05</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="4.0" errorminus="-7.0">64.0</inclination>
+      <name>OGLE 2006-BLG-109L b</name>
+      <semimajoraxis errorplus="0.5" errorminus="-0.5">2.3</semimajoraxis>
       <radius/>
-      <period errorplus="3540.5" errorminus="-1752.0">4927.5</period>
-      <name>OGLE 2006-BLG-109L c</name>
-      <lastupdate>2014-11-05</lastupdate>
       <discoverymethod>microlensing</discoverymethod>
-      <eccentricity>0.15</eccentricity>
-      <semimajoraxis errorplus="2.1" errorminus="-1.0">4.5</semimajoraxis>
+      <inclination/>
+      <period errorplus="584.0" errorminus="-547.5">1788.5</period>
+      <lastupdate>2014-11-05</lastupdate>
     </planet>
   </star>
-  <distance errorplus="110.0" errorminus="-120.0">1510.0</distance>
 </system>
 

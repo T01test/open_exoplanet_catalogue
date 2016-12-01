@@ -1,23 +1,23 @@
 <system>
   <name>HD 107148</name>
-  <rightascension>12 48 22</rightascension>
+  <distance errorplus="2.5" errorminus="-2.77">51.26</distance>
   <declination>-3 19 11</declination>
+  <rightascension>12 48 22</rightascension>
   <star>
+    <temperature>5797.0</temperature>
     <name>HD 107148</name>
     <mass>1.12</mass>
-    <temperature>5797.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">48.1</period>
       <name>HD 107148 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.05</eccentricity>
       <semimajoraxis errorplus="0.016" errorminus="-0.016">0.269</semimajoraxis>
+      <radius/>
+      <eccentricity>0.05</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">48.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.5" errorminus="-2.77">51.26</distance>
 </system>
 

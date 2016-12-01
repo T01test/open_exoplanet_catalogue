@@ -1,22 +1,22 @@
 <system>
   <name>MOA 2011-BLG-293L</name>
-  <rightascension>17 54 50</rightascension>
+  <distance errorplus="440.0" errorminus="-440.0">7720.0</distance>
   <declination>-28 28 36</declination>
+  <rightascension>17 54 50</rightascension>
   <star>
+    <temperature/>
     <name>MOA 2011-BLG-293L</name>
     <mass errorplus="0.06" errorminus="-0.06">0.86</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period/>
       <name>MOA 2011-BLG-293L b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>microlensing</discoverymethod>
       <semimajoraxis errorplus="0.1" errorminus="-0.1">1.1</semimajoraxis>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <period/>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="440.0" errorminus="-440.0">7720.0</distance>
 </system>
 

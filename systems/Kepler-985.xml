@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-985</name>
-  <rightascension>19 08 39</rightascension>
+  <distance errorplus="27.94" errorminus="-26.54">741.0</distance>
   <declination>44 02 59</declination>
+  <rightascension>19 08 39</rightascension>
   <star>
+    <temperature errorplus="75.03" errorminus="-61.79">5434.0</temperature>
     <name>Kepler-985</name>
     <mass errorplus="0.03" errorminus="-0.04">0.91</mass>
-    <temperature errorplus="75.03" errorminus="-61.79">5434.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.85</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.85</radius>
-      <period errorplus="0.0" errorminus="-0.0">116.3</period>
       <name>Kepler-985 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">116.3</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="27.94" errorminus="-26.54">741.0</distance>
 </system>
 

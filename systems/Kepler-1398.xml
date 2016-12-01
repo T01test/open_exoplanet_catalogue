@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-1398</name>
-  <rightascension>19 51 58</rightascension>
+  <distance errorplus="247.19" errorminus="-101.04">793.0</distance>
   <declination>48 38 20</declination>
+  <rightascension>19 51 58</rightascension>
   <star>
+    <temperature errorplus="115.41" errorminus="-125.42">6126.0</temperature>
     <name>Kepler-1398</name>
     <mass errorplus="0.12" errorminus="-0.08">1.13</mass>
-    <temperature errorplus="115.41" errorminus="-125.42">6126.0</temperature>
     <radius errorplus="0.37" errorminus="-0.14">1.18</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.37" errorminus="-0.14">1.18</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
-      <name>Kepler-1398 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-1398 b</name>
       <semimajoraxis/>
+      <radius errorplus="0.37" errorminus="-0.14">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.37" errorminus="-0.14">1.18</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
-      <name>Kepler-1398 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-1398 c</name>
       <semimajoraxis/>
+      <radius errorplus="0.37" errorminus="-0.14">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="247.19" errorminus="-101.04">793.0</distance>
 </system>
 

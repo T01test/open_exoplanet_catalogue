@@ -1,33 +1,33 @@
 <system>
   <name>HD 133131 A</name>
-  <rightascension>15 53 51</rightascension>
+  <distance>47.0</distance>
   <declination>-27 50 33</declination>
+  <rightascension>15 53 51</rightascension>
   <star>
+    <temperature errorplus="19.0" errorminus="-19.0">5799.0</temperature>
     <name>HD 133131 A</name>
     <mass>0.95</mass>
-    <temperature errorplus="19.0" errorminus="-19.0">5799.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="3.0" errorminus="-3.0">649.0</period>
       <name>HD 133131 A b</name>
-      <lastupdate>2016-09-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.33</eccentricity>
       <semimajoraxis errorplus="0.005" errorminus="-0.005">1.44</semimajoraxis>
+      <radius/>
+      <eccentricity>0.33</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="3.0" errorminus="-3.0">649.0</period>
+      <lastupdate>2016-09-08</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="1084.0" errorminus="-1084.0">3568.0</period>
       <name>HD 133131 A c</name>
-      <lastupdate>2016-09-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.49</eccentricity>
       <semimajoraxis errorplus="0.92" errorminus="-0.92">4.49</semimajoraxis>
+      <radius/>
+      <eccentricity>0.49</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1084.0" errorminus="-1084.0">3568.0</period>
+      <lastupdate>2016-09-08</lastupdate>
     </planet>
   </star>
-  <distance>47.0</distance>
 </system>
 

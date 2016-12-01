@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-571</name>
-  <rightascension>19 33 03</rightascension>
+  <distance errorplus="91.43" errorminus="-50.1">756.0</distance>
   <declination>49 25 07</declination>
+  <rightascension>19 33 03</rightascension>
   <star>
+    <temperature errorplus="75.23" errorminus="-79.46">5527.0</temperature>
     <name>Kepler-571</name>
     <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
-    <temperature errorplus="75.23" errorminus="-79.46">5527.0</temperature>
     <radius errorplus="0.11" errorminus="-0.05">0.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.11" errorminus="-0.05">0.9</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.8</period>
       <name>Kepler-571 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.11" errorminus="-0.05">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.8</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="91.43" errorminus="-50.1">756.0</distance>
 </system>
 

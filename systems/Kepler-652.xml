@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-652</name>
-  <rightascension>19 00 29</rightascension>
+  <distance errorplus="10.04" errorminus="-9.39">423.0</distance>
   <declination>46 28 24</declination>
+  <rightascension>19 00 29</rightascension>
   <star>
+    <temperature errorplus="43.22" errorminus="-40.88">5490.0</temperature>
     <name>Kepler-652</name>
     <mass errorplus="0.02" errorminus="-0.02">0.97</mass>
-    <temperature errorplus="43.22" errorminus="-40.88">5490.0</temperature>
     <radius errorplus="0.02" errorminus="-0.01">0.88</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.01">0.88</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>Kepler-652 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.01">0.88</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.04" errorminus="-9.39">423.0</distance>
 </system>
 

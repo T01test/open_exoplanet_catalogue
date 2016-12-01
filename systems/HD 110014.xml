@@ -1,23 +1,23 @@
 <system>
   <name>HD 110014</name>
-  <rightascension>12 48 41</rightascension>
+  <distance errorplus="2.3" errorminus="-2.3">90.0</distance>
   <declination>-7 59 44</declination>
+  <rightascension>12 48 41</rightascension>
   <star>
+    <temperature errorplus="70.0" errorminus="-70.0">4445.0</temperature>
     <name>HD 110014</name>
     <mass errorplus="0.28" errorminus="-0.28">2.17</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">4445.0</temperature>
     <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
-      <period errorplus="6.0" errorminus="-6.0">835.5</period>
       <name>HD 110014 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.462</eccentricity>
       <semimajoraxis errorplus="0.03" errorminus="-0.03">2.14</semimajoraxis>
+      <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
+      <eccentricity>0.462</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="6.0" errorminus="-6.0">835.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.3" errorminus="-2.3">90.0</distance>
 </system>
 

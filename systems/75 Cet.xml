@@ -1,23 +1,23 @@
 <system>
   <name>75 Cet</name>
-  <rightascension>02 02 21</rightascension>
+  <distance errorplus="6.87" errorminus="-8.27">81.5</distance>
   <declination>-1 02 05</declination>
+  <rightascension>02 02 21</rightascension>
   <star>
+    <temperature errorplus="18.0" errorminus="-18.0">4846.0</temperature>
     <name>75 Cet</name>
     <mass errorplus="0.02" errorminus="-0.27">2.49</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">4846.0</temperature>
     <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
-      <period errorplus="3.6" errorminus="-3.6">691.9</period>
       <name>75 Cet b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.117</eccentricity>
       <semimajoraxis>2.1</semimajoraxis>
+      <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
+      <eccentricity>0.117</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="3.6" errorminus="-3.6">691.9</period>
+      <lastupdate>2015-09-03</lastupdate>
     </planet>
   </star>
-  <distance errorplus="6.87" errorminus="-8.27">81.5</distance>
 </system>
 

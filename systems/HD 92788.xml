@@ -1,23 +1,23 @@
 <system>
   <name>HD 92788</name>
-  <rightascension>10 42 07</rightascension>
+  <distance errorplus="1.0" errorminus="-1.07">32.32</distance>
   <declination>-2 11 01</declination>
+  <rightascension>10 42 07</rightascension>
   <star>
+    <temperature>5821.0</temperature>
     <name>HD 92788</name>
     <mass>1.1</mass>
-    <temperature>5821.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.5" errorminus="-0.5">325.0</period>
       <name>HD 92788 b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.35</eccentricity>
       <semimajoraxis>0.96</semimajoraxis>
+      <radius/>
+      <eccentricity>0.35</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.5" errorminus="-0.5">325.0</period>
+      <lastupdate>2015-04-24</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.0" errorminus="-1.07">32.32</distance>
 </system>
 

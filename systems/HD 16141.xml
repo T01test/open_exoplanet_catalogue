@@ -1,23 +1,23 @@
 <system>
   <name>HD 16141</name>
-  <rightascension>02 49 58</rightascension>
+  <distance errorplus="1.71" errorminus="-1.89">35.91</distance>
   <declination>-3 33 38</declination>
+  <rightascension>02 49 58</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5794.0</temperature>
     <name>HD 16141</name>
     <mass>1.12</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5794.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.1" errorminus="-0.1">75.5</period>
       <name>HD 16141 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.252</eccentricity>
       <semimajoraxis errorplus="0.021" errorminus="-0.021">0.363</semimajoraxis>
+      <radius/>
+      <eccentricity>0.252</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.1" errorminus="-0.1">75.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.71" errorminus="-1.89">35.91</distance>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-400</name>
-  <rightascension>19 56 40</rightascension>
+  <distance/>
   <declination>40 28 48</declination>
+  <rightascension>19 56 40</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5886.0</temperature>
     <name>Kepler-400</name>
     <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">5886.0</temperature>
     <radius errorplus="0.21" errorminus="-0.21">1.15</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-400 b</name>
+      <semimajoraxis>0.087</semimajoraxis>
       <radius errorplus="0.21" errorminus="-0.21">1.15</radius>
-      <period errorplus="0.0" errorminus="-0.0">17.3</period>
-      <name>Kepler-400 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.134</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-400 c</name>
+      <semimajoraxis>0.134</semimajoraxis>
       <radius errorplus="0.21" errorminus="-0.21">1.15</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
-      <name>Kepler-400 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.087</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.3</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

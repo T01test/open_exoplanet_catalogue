@@ -1,23 +1,23 @@
 <system>
   <name>XO-4</name>
-  <rightascension>07 23 17</rightascension>
+  <distance errorplus="19.0" errorminus="-19.0">293.0</distance>
   <declination>58 16 05</declination>
+  <rightascension>07 23 17</rightascension>
   <star>
+    <temperature errorplus="70.0" errorminus="-70.0">5700.0</temperature>
     <name>XO-4</name>
     <mass errorplus="0.02" errorminus="-0.02">1.32</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">5700.0</temperature>
     <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
     <planet>
-      <inclination errorplus="0.6" errorminus="-0.6">88.8</inclination>
-      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <name>XO-4 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.05" errorminus="-0.05">1.55</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.6" errorminus="-0.6">88.8</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="19.0" errorminus="-19.0">293.0</distance>
 </system>
 

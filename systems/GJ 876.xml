@@ -1,53 +1,53 @@
 <system>
   <name>GJ 876</name>
-  <rightascension>22 19 11</rightascension>
+  <distance errorplus="0.05" errorminus="-0.05">4.7</distance>
   <declination>-14 15 49</declination>
+  <rightascension>22 19 11</rightascension>
   <star>
+    <temperature/>
     <name>GJ 876</name>
     <mass errorplus="0.03" errorminus="-0.03">0.33</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination>59.0</inclination>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">30.1</period>
-      <name>GJ 876 c</name>
-      <lastupdate>2014-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.25591</eccentricity>
-      <semimajoraxis errorplus="2.4e-05" errorminus="-2.4e-05">0.12959</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>59.0</inclination>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">1.9</period>
       <name>GJ 876 d</name>
-      <lastupdate>2014-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.207</eccentricity>
       <semimajoraxis errorplus="0.0" errorminus="-0.0">0.020807</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination>59.0</inclination>
       <radius/>
-      <period errorplus="0.7" errorminus="-0.7">124.3</period>
-      <name>GJ 876 e</name>
-      <lastupdate>2014-08-27</lastupdate>
+      <eccentricity>0.207</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.055</eccentricity>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.3343</semimajoraxis>
+      <inclination>59.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.9</period>
+      <lastupdate>2014-08-27</lastupdate>
     </planet>
     <planet>
-      <inclination>59.0</inclination>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">61.1</period>
       <name>GJ 876 b</name>
-      <lastupdate>2014-08-27</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0324</eccentricity>
       <semimajoraxis errorplus="2e-05" errorminus="-2e-05">0.208317</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0324</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>59.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">61.1</period>
+      <lastupdate>2014-08-27</lastupdate>
+    </planet>
+    <planet>
+      <name>GJ 876 c</name>
+      <semimajoraxis errorplus="2.4e-05" errorminus="-2.4e-05">0.12959</semimajoraxis>
+      <radius/>
+      <eccentricity>0.25591</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>59.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">30.1</period>
+      <lastupdate>2014-08-27</lastupdate>
+    </planet>
+    <planet>
+      <name>GJ 876 e</name>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.3343</semimajoraxis>
+      <radius/>
+      <eccentricity>0.055</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>59.0</inclination>
+      <period errorplus="0.7" errorminus="-0.7">124.3</period>
+      <lastupdate>2014-08-27</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.05" errorminus="-0.05">4.7</distance>
 </system>
 

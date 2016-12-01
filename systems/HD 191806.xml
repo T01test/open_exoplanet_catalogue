@@ -1,23 +1,23 @@
 <system>
   <name>HD 191806</name>
-  <rightascension>20 22 04</rightascension>
+  <distance errorplus="3.25" errorminus="-3.57">73.47</distance>
   <declination>52 16 34</declination>
+  <rightascension>20 22 04</rightascension>
   <star>
+    <temperature errorplus="30.0" errorminus="-30.0">6010.0</temperature>
     <name>HD 191806</name>
     <mass errorplus="0.12" errorminus="-0.12">1.14</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">6010.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="7.2" errorminus="-7.2">1606.3</period>
       <name>HD 191806 b</name>
-      <lastupdate>2016-05-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.259</eccentricity>
       <semimajoraxis errorplus="0.1" errorminus="-0.1">2.8</semimajoraxis>
+      <radius/>
+      <eccentricity>0.259</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="7.2" errorminus="-7.2">1606.3</period>
+      <lastupdate>2016-05-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="3.25" errorminus="-3.57">73.47</distance>
 </system>
 

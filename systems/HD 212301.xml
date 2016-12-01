@@ -1,23 +1,23 @@
 <system>
   <name>HD 212301</name>
-  <rightascension>22 52 43</rightascension>
+  <distance errorplus="1.95" errorminus="-2.11">52.72</distance>
   <declination>-77 43 04</declination>
+  <rightascension>22 52 43</rightascension>
   <star>
+    <temperature errorplus="28.0" errorminus="-28.0">6256.0</temperature>
     <name>HD 212301</name>
     <mass errorplus="0.02" errorminus="-0.02">1.27</mass>
-    <temperature errorplus="28.0" errorminus="-28.0">6256.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
       <name>HD 212301 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis>0.036</semimajoraxis>
+      <radius/>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.95" errorminus="-2.11">52.72</distance>
 </system>
 

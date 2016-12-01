@@ -1,41 +1,41 @@
 <system>
   <name>Kepler-56</name>
-  <rightascension>19 45 30</rightascension>
+  <distance/>
   <declination>41 52 18</declination>
+  <rightascension>19 45 30</rightascension>
   <star>
+    <temperature errorplus="97.0" errorminus="-97.0">4840.0</temperature>
     <name>Kepler-56</name>
     <mass errorplus="0.13" errorminus="-0.13">1.32</mass>
-    <temperature errorplus="97.0" errorminus="-97.0">4840.0</temperature>
     <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">21.4</period>
-      <name>Kepler-56 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.1652</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">10.5</period>
-      <name>Kepler-56 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis errorplus="0.0037" errorminus="-0.0037">0.1028</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
-      <period errorplus="5.0" errorminus="-5.0">1002.0</period>
       <name>Kepler-56 d</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis errorplus="0.08" errorminus="-0.08">2.16</semimajoraxis>
+      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="5.0" errorminus="-5.0">1002.0</period>
+      <lastupdate>2016-10-13</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-56 c</name>
+      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.1652</semimajoraxis>
+      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">21.4</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-56 b</name>
+      <semimajoraxis errorplus="0.0037" errorminus="-0.0037">0.1028</semimajoraxis>
+      <radius errorplus="0.15" errorminus="-0.15">4.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">10.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

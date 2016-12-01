@@ -1,31 +1,31 @@
 <system>
   <name>K2-36</name>
-  <rightascension>11 26 56</rightascension>
+  <distance/>
   <declination>03 51 59</declination>
+  <rightascension>11 26 56</rightascension>
   <star>
+    <temperature errorplus="60.0" errorminus="-60.0">4924.0</temperature>
     <name>K2-36</name>
     <mass errorplus="0.04" errorminus="-0.04">0.8</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">4924.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
     <planet>
-      <inclination errorplus="1.62" errorminus="-2.4">87.75</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <period errorplus="0.0" errorminus="-0.0">1.4</period>
       <name>K2-36 b</name>
-      <lastupdate>2016-07-07</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.023</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.62" errorminus="-2.4">87.75</inclination>
+      <period errorplus="0.0" errorminus="-0.0">1.4</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
     <planet>
-      <inclination errorplus="1.19" errorminus="-1.63">88.33</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.3</period>
       <name>K2-36 c</name>
-      <lastupdate>2016-07-07</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0555</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="1.19" errorminus="-1.63">88.33</inclination>
+      <period errorplus="0.0" errorminus="-0.0">5.3</period>
+      <lastupdate>2016-07-07</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

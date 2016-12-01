@@ -1,40 +1,40 @@
 <system>
   <name>Kepler-279</name>
-  <rightascension>19 23 28</rightascension>
+  <distance/>
   <declination>42 11 41</declination>
+  <rightascension>19 23 28</rightascension>
   <star>
+    <temperature errorplus="259.0" errorminus="-259.0">6363.0</temperature>
     <name>Kepler-279</name>
     <mass errorplus="0.16" errorminus="-0.13">1.1</mass>
-    <temperature errorplus="259.0" errorminus="-259.0">6363.0</temperature>
     <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <period>35.7</period>
-      <name>Kepler-279 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <period>54.4</period>
-      <name>Kepler-279 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">12.3</period>
       <name>Kepler-279 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.112</semimajoraxis>
+      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">12.3</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-279 d</name>
+      <semimajoraxis/>
+      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>54.4</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-279 c</name>
+      <semimajoraxis/>
+      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>35.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

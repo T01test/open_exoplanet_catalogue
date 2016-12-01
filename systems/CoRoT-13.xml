@@ -1,23 +1,23 @@
 <system>
   <name>CoRoT-13</name>
-  <rightascension>06 43 16</rightascension>
+  <distance errorplus="100.0" errorminus="-100.0">1060.0</distance>
   <declination>-5 05 11</declination>
+  <rightascension>06 43 16</rightascension>
   <star>
+    <temperature errorplus="90.0" errorminus="-90.0">5945.0</temperature>
     <name>CoRoT-13</name>
     <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
-    <temperature errorplus="90.0" errorminus="-90.0">5945.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">1.01</radius>
     <planet>
-      <inclination errorplus="0.34" errorminus="-0.36">88.02</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">1.01</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
       <name>CoRoT-13 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0031" errorminus="-0.0031">0.051</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">1.01</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.34" errorminus="-0.36">88.02</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="100.0" errorminus="-100.0">1060.0</distance>
 </system>
 

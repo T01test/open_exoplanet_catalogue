@@ -1,23 +1,23 @@
 <system>
   <name>HD 16417</name>
-  <rightascension>02 14 39</rightascension>
+  <distance errorplus="0.41" errorminus="-0.42">25.54</distance>
   <declination>-34 34 40</declination>
+  <rightascension>02 14 39</rightascension>
   <star>
+    <temperature/>
     <name>HD 16417</name>
     <mass>1.2</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">17.2</period>
       <name>HD 16417 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">0.14</semimajoraxis>
+      <radius/>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">17.2</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.41" errorminus="-0.42">25.54</distance>
 </system>
 

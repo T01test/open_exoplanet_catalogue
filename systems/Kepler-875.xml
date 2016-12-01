@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-875</name>
-  <rightascension>19 18 04</rightascension>
+  <distance errorplus="349.6" errorminus="-192.97">1244.0</distance>
   <declination>43 08 30</declination>
+  <rightascension>19 18 04</rightascension>
   <star>
+    <temperature errorplus="259.15" errorminus="-255.76">5958.0</temperature>
     <name>Kepler-875</name>
     <mass errorplus="0.13" errorminus="-0.09">1.06</mass>
-    <temperature errorplus="259.15" errorminus="-255.76">5958.0</temperature>
     <radius errorplus="0.3" errorminus="-0.16">1.11</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.3" errorminus="-0.16">1.11</radius>
-      <period errorplus="0.0" errorminus="-0.0">27.5</period>
       <name>Kepler-875 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.3" errorminus="-0.16">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">27.5</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="349.6" errorminus="-192.97">1244.0</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 102329</name>
-  <rightascension>11 41 39</rightascension>
+  <distance errorplus="17.44" errorminus="-23.31">138.5</distance>
   <declination>03 28 27</declination>
+  <rightascension>11 41 39</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">4830.0</temperature>
     <name>HD 102329</name>
     <mass errorplus="0.14" errorminus="-0.14">1.95</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">4830.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
-      <period errorplus="7.5" errorminus="-7.5">778.1</period>
       <name>HD 102329 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.211</eccentricity>
       <semimajoraxis errorplus="0.05" errorminus="-0.05">2.03</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
+      <eccentricity>0.211</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="7.5" errorminus="-7.5">778.1</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="17.44" errorminus="-23.31">138.5</distance>
 </system>
 

@@ -1,43 +1,43 @@
 <system>
   <name>HD 181433</name>
-  <rightascension>19 17 23</rightascension>
+  <distance errorplus="0.76" errorminus="-0.81">26.15</distance>
   <declination>-66 28 07</declination>
+  <rightascension>19 17 23</rightascension>
   <star>
+    <temperature errorplus="134.0" errorminus="-134.0">4962.0</temperature>
     <name>HD 181433</name>
     <mass>0.78</mass>
-    <temperature errorplus="134.0" errorminus="-134.0">4962.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="0.0" errorminus="-0.0">9.4</period>
-      <name>HD 181433 b</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.396</eccentricity>
-      <semimajoraxis>0.08</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="158.0" errorminus="-158.0">2172.0</period>
       <name>HD 181433 d</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.48</eccentricity>
       <semimajoraxis>3.0</semimajoraxis>
+      <radius/>
+      <eccentricity>0.48</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="158.0" errorminus="-158.0">2172.0</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="15.0" errorminus="-15.0">962.0</period>
       <name>HD 181433 c</name>
-      <lastupdate>2014-07-23</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.28</eccentricity>
       <semimajoraxis>1.76</semimajoraxis>
+      <radius/>
+      <eccentricity>0.28</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="15.0" errorminus="-15.0">962.0</period>
+      <lastupdate>2014-07-23</lastupdate>
+    </planet>
+    <planet>
+      <name>HD 181433 b</name>
+      <semimajoraxis>0.08</semimajoraxis>
+      <radius/>
+      <eccentricity>0.396</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <lastupdate>2014-07-23</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.76" errorminus="-0.81">26.15</distance>
 </system>
 

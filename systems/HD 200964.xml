@@ -1,33 +1,33 @@
 <system>
   <name>HD 200964</name>
-  <rightascension>21 39 57</rightascension>
+  <distance errorplus="4.5" errorminus="-5.18">68.35</distance>
   <declination>03 48 11</declination>
+  <rightascension>21 39 57</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5164.0</temperature>
     <name>HD 200964</name>
     <mass errorplus="0.09" errorminus="-0.09">1.44</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5164.0</temperature>
     <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
     <planet>
-      <inclination/>
+      <name>HD 200964 b</name>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">1.601</semimajoraxis>
       <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
-      <period errorplus="5.1" errorminus="-3.1">825.0</period>
-      <name>HD 200964 c</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.04</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.181</eccentricity>
-      <semimajoraxis errorplus="0.008" errorminus="-0.005">1.95</semimajoraxis>
+      <inclination/>
+      <period errorplus="1.3" errorminus="-1.4">613.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HD 200964 c</name>
+      <semimajoraxis errorplus="0.008" errorminus="-0.005">1.95</semimajoraxis>
       <radius errorplus="0.09" errorminus="-0.09">4.3</radius>
-      <period errorplus="1.3" errorminus="-1.4">613.8</period>
-      <name>HD 200964 b</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.181</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.04</eccentricity>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">1.601</semimajoraxis>
+      <inclination/>
+      <period errorplus="5.1" errorminus="-3.1">825.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="4.5" errorminus="-5.18">68.35</distance>
 </system>
 

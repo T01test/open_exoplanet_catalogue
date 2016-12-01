@@ -1,49 +1,49 @@
 <system>
   <name>HR 8799</name>
-  <rightascension>23 52 10</rightascension>
+  <distance errorplus="1.1" errorminus="-1.1">39.4</distance>
   <declination>21 08 03</declination>
+  <rightascension>23 52 10</rightascension>
   <star>
+    <temperature/>
     <name>HR 8799</name>
     <mass errorplus="0.04" errorminus="-0.02">1.51</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period>69000.0</period>
       <name>HR 8799 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>imaging</discoverymethod>
       <semimajoraxis>38.0</semimajoraxis>
-    </planet>
-    <planet>
-      <inclination/>
       <radius/>
-      <period>18000.0</period>
-      <name>HR 8799 e</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>imaging</discoverymethod>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">14.5</semimajoraxis>
+      <inclination/>
+      <period>69000.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius/>
-      <period>37000.0</period>
       <name>HR 8799 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>imaging</discoverymethod>
       <semimajoraxis>24.0</semimajoraxis>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination/>
+      <period>37000.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>HR 8799 e</name>
+      <semimajoraxis errorplus="0.5" errorminus="-0.5">14.5</semimajoraxis>
       <radius/>
-      <period>170000.0</period>
-      <name>HR 8799 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>imaging</discoverymethod>
+      <inclination/>
+      <period>18000.0</period>
+      <lastupdate>2014-05-14</lastupdate>
+    </planet>
+    <planet>
+      <name>HR 8799 b</name>
       <semimajoraxis>68.0</semimajoraxis>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination/>
+      <period>170000.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="1.1" errorminus="-1.1">39.4</distance>
 </system>
 

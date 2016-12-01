@@ -1,49 +1,49 @@
 <system>
   <name>Kepler-37</name>
-  <rightascension>18 03 34</rightascension>
+  <distance>66.0</distance>
   <declination>44 31 05</declination>
+  <rightascension>18 03 34</rightascension>
   <star>
+    <temperature errorplus="75.0" errorminus="-75.0">5417.0</temperature>
     <name>Kepler-37</name>
     <mass errorplus="0.07" errorminus="-0.07">0.8</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5417.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
-      <period>21.3</period>
-      <name>Kepler-37 c</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
-    </planet>
-    <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
-      <period>39.8</period>
       <name>Kepler-37 d</name>
-      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis/>
+      <inclination/>
+      <period>39.8</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
-      <period>51.2</period>
-      <name>Kepler-37 e</name>
-      <lastupdate>2014-05-28</lastupdate>
-      <discoverymethod>transit Timing Variations</discoverymethod>
+      <name>Kepler-37 c</name>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>21.3</period>
+      <lastupdate>2016-10-27</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
-      <period>13.4</period>
       <name>Kepler-37 b</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period>13.4</period>
+      <lastupdate>2016-10-27</lastupdate>
+    </planet>
+    <planet>
+      <name>Kepler-37 e</name>
+      <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.77</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <inclination/>
+      <period>51.2</period>
+      <lastupdate>2014-05-28</lastupdate>
     </planet>
   </star>
-  <distance>66.0</distance>
 </system>
 

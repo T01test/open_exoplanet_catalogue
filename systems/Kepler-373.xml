@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-373</name>
-  <rightascension>19 23 16</rightascension>
+  <distance/>
   <declination>50 35 49</declination>
+  <rightascension>19 23 16</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">5787.0</temperature>
     <name>Kepler-373</name>
     <mass>0.87</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5787.0</temperature>
     <radius errorplus="0.42" errorminus="-0.42">0.84</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-373 c</name>
+      <semimajoraxis>0.126</semimajoraxis>
       <radius errorplus="0.42" errorminus="-0.42">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.5</period>
-      <name>Kepler-373 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.06</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">16.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-373 b</name>
+      <semimajoraxis>0.06</semimajoraxis>
       <radius errorplus="0.42" errorminus="-0.42">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">16.7</period>
-      <name>Kepler-373 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.126</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

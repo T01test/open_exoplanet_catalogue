@@ -1,23 +1,23 @@
 <system>
   <name>WASP-25</name>
-  <rightascension>13 21 35</rightascension>
+  <distance/>
   <declination>-27 31 19</declination>
+  <rightascension>13 21 35</rightascension>
   <star>
+    <temperature errorplus="100.0">5703.0</temperature>
     <name>WASP-25</name>
     <mass errorplus="0.03">1.0</mass>
-    <temperature errorplus="100.0">5703.0</temperature>
     <radius errorplus="0.04">0.92</radius>
     <planet>
-      <inclination errorplus="0.5" errorminus="-0.5">88.0</inclination>
-      <radius errorplus="0.04">0.92</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
       <name>WASP-25 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.0473</semimajoraxis>
+      <radius errorplus="0.04">0.92</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.5" errorminus="-0.5">88.0</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

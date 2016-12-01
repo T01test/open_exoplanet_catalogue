@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-439</name>
-  <rightascension>18 48 05</rightascension>
+  <distance errorplus="66.0" errorminus="-38.0">693.0</distance>
   <declination>44 02 02</declination>
+  <rightascension>18 48 05</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5431.0</temperature>
     <name>Kepler-439</name>
     <mass errorplus="0.04" errorminus="-0.04">0.88</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5431.0</temperature>
     <radius errorplus="0.08" errorminus="-0.04">0.87</radius>
     <planet>
-      <inclination errorplus="0.05" errorminus="-0.12">89.95</inclination>
-      <radius errorplus="0.08" errorminus="-0.04">0.87</radius>
-      <period errorplus="0.0" errorminus="-0.0">178.1</period>
       <name>Kepler-439 b</name>
-      <lastupdate>2015-01-06</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.03</eccentricity>
       <semimajoraxis errorplus="0.165" errorminus="-0.08">0.563</semimajoraxis>
+      <radius errorplus="0.08" errorminus="-0.04">0.87</radius>
+      <eccentricity>0.03</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.05" errorminus="-0.12">89.95</inclination>
+      <period errorplus="0.0" errorminus="-0.0">178.1</period>
+      <lastupdate>2015-01-06</lastupdate>
     </planet>
   </star>
-  <distance errorplus="66.0" errorminus="-38.0">693.0</distance>
 </system>
 

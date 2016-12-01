@@ -1,23 +1,23 @@
 <system>
   <name>HD 87883</name>
-  <rightascension>10 10 47</rightascension>
+  <distance errorplus="0.3" errorminus="-0.31">18.06</distance>
   <declination>34 14 32</declination>
+  <rightascension>10 10 47</rightascension>
   <star>
+    <temperature/>
     <name>HD 87883</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="87.0" errorminus="-87.0">2754.0</period>
       <name>HD 87883 b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.53</eccentricity>
       <semimajoraxis errorplus="0.08" errorminus="-0.08">3.6</semimajoraxis>
+      <radius/>
+      <eccentricity>0.53</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="87.0" errorminus="-87.0">2754.0</period>
+      <lastupdate>2015-04-24</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.3" errorminus="-0.31">18.06</distance>
 </system>
 

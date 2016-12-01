@@ -1,23 +1,23 @@
 <system>
   <name>K2-30</name>
-  <rightascension>03 20 31</rightascension>
+  <distance errorplus="7.6" errorminus="-7.6">278.0</distance>
   <declination>22 17 57</declination>
+  <rightascension>03 20 31</rightascension>
   <star>
+    <temperature errorplus="40.0" errorminus="-40.0">5425.0</temperature>
     <name>K2-30</name>
     <mass errorplus="0.04" errorminus="-0.04">0.9</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5425.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.84</radius>
     <planet>
-      <inclination errorplus="0.26" errorminus="-0.24">86.92</inclination>
-      <radius errorplus="0.03" errorminus="-0.03">0.84</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <name>K2-30 b</name>
-      <lastupdate>2016-04-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.00076" errorminus="-0.00076">0.04839</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.84</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.26" errorminus="-0.24">86.92</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2016-04-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="7.6" errorminus="-7.6">278.0</distance>
 </system>
 

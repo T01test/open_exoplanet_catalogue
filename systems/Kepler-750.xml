@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-750</name>
-  <rightascension>19 05 48</rightascension>
+  <distance errorplus="409.7" errorminus="-160.03">1181.0</distance>
   <declination>44 00 15</declination>
+  <rightascension>19 05 48</rightascension>
   <star>
+    <temperature errorplus="90.96" errorminus="-121.55">6160.0</temperature>
     <name>Kepler-750</name>
     <mass errorplus="0.14" errorminus="-0.08">1.15</mass>
-    <temperature errorplus="90.96" errorminus="-121.55">6160.0</temperature>
     <radius errorplus="0.42" errorminus="-0.16">1.23</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.42" errorminus="-0.16">1.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <name>Kepler-750 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.42" errorminus="-0.16">1.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.42" errorminus="-0.16">1.23</radius>
-      <period errorplus="0.0" errorminus="-0.0">9.4</period>
       <name>Kepler-750 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.42" errorminus="-0.16">1.23</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="409.7" errorminus="-160.03">1181.0</distance>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
   <name>KELT-10</name>
-  <rightascension>18 32 54</rightascension>
+  <distance errorplus="14.0" errorminus="-14.0">183.0</distance>
   <declination>-47 00 11</declination>
+  <rightascension>18 32 54</rightascension>
   <star>
+    <temperature errorplus="74.0" errorminus="-74.0">5948.0</temperature>
     <name>KELT-10</name>
     <mass errorplus="0.06" errorminus="-0.06">1.11</mass>
-    <temperature errorplus="74.0" errorminus="-74.0">5948.0</temperature>
     <radius errorplus="0.05" errorminus="-0.04">1.21</radius>
     <planet>
-      <inclination errorplus="0.86" errorminus="-0.74">88.61</inclination>
-      <radius errorplus="0.05" errorminus="-0.04">1.21</radius>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <name>KELT-10 b</name>
-      <lastupdate>2016-04-28</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.00086" errorminus="-0.00097">0.0525</semimajoraxis>
+      <radius errorplus="0.05" errorminus="-0.04">1.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.86" errorminus="-0.74">88.61</inclination>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <lastupdate>2016-04-28</lastupdate>
     </planet>
   </star>
-  <distance errorplus="14.0" errorminus="-14.0">183.0</distance>
 </system>
 

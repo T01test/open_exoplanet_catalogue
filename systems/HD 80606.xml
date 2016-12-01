@@ -1,23 +1,23 @@
 <system>
   <name>HD 80606</name>
-  <rightascension>09 39 23</rightascension>
+  <distance>29.04</distance>
   <declination>50 36 13</declination>
+  <rightascension>09 39 23</rightascension>
   <star>
+    <temperature errorplus="45.0">5645.0</temperature>
     <name>HD 80606</name>
     <mass errorplus="0.04">0.97</mass>
-    <temperature errorplus="45.0">5645.0</temperature>
     <radius errorplus="0.01">0.98</radius>
     <planet>
-      <inclination errorplus="0.06" errorminus="-0.06">89.32</inclination>
-      <radius errorplus="0.01">0.98</radius>
-      <period errorplus="0.0" errorminus="-0.0">111.4</period>
       <name>HD 80606 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.9332</eccentricity>
       <semimajoraxis errorplus="0.006" errorminus="-0.006">0.449</semimajoraxis>
+      <radius errorplus="0.01">0.98</radius>
+      <eccentricity>0.9332</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorplus="0.06" errorminus="-0.06">89.32</inclination>
+      <period errorplus="0.0" errorminus="-0.0">111.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance>29.04</distance>
 </system>
 

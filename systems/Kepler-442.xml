@@ -1,23 +1,23 @@
 <system>
   <name>Kepler-442</name>
-  <rightascension>19 21 59</rightascension>
+  <distance errorplus="19.0" errorminus="-22.0">342.0</distance>
   <declination>39 16 48</declination>
+  <rightascension>19 21 59</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">4402.0</temperature>
     <name>Kepler-442</name>
     <mass errorplus="0.03" errorminus="-0.03">0.61</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4402.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
     <planet>
-      <inclination errorplus="0.06" errorminus="-0.12">89.94</inclination>
-      <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
-      <period errorplus="0.0" errorminus="-0.0">112.3</period>
       <name>Kepler-442 b</name>
-      <lastupdate>2015-01-06</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.04</eccentricity>
       <semimajoraxis errorplus="0.209" errorminus="-0.06">0.409</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
+      <eccentricity>0.04</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.06" errorminus="-0.12">89.94</inclination>
+      <period errorplus="0.0" errorminus="-0.0">112.3</period>
+      <lastupdate>2015-01-06</lastupdate>
     </planet>
   </star>
-  <distance errorplus="19.0" errorminus="-22.0">342.0</distance>
 </system>
 

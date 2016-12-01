@@ -1,22 +1,22 @@
 <system>
   <name>Kepler-486</name>
-  <rightascension>18 52 47</rightascension>
+  <distance errorplus="17.45" errorminus="-22.73">428.0</distance>
   <declination>49 16 01</declination>
+  <rightascension>18 52 47</rightascension>
   <star>
+    <temperature errorplus="44.94" errorminus="-45.25">4926.0</temperature>
     <name>Kepler-486</name>
     <mass errorplus="0.04" errorminus="-0.04">0.79</mass>
-    <temperature errorplus="44.94" errorminus="-45.25">4926.0</temperature>
     <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
-      <period errorplus="0.0" errorminus="-0.0">30.4</period>
       <name>Kepler-486 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">30.4</period>
+      <lastupdate>2016-05-10</lastupdate>
     </planet>
   </star>
-  <distance errorplus="17.45" errorminus="-22.73">428.0</distance>
 </system>
 

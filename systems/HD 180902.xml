@@ -1,23 +1,23 @@
 <system>
   <name>HD 180902</name>
-  <rightascension>19 49 25</rightascension>
+  <distance errorplus="11.77" errorminus="-14.82">114.55</distance>
   <declination>-23 33 29</declination>
+  <rightascension>19 49 25</rightascension>
   <star>
+    <temperature errorplus="44.0" errorminus="-44.0">5030.0</temperature>
     <name>HD 180902</name>
     <mass errorplus="0.11" errorminus="-0.11">1.52</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5030.0</temperature>
     <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
-      <period errorplus="13.0" errorminus="-13.0">479.0</period>
       <name>HD 180902 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.09</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">1.39</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
+      <eccentricity>0.09</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="13.0" errorminus="-13.0">479.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="11.77" errorminus="-14.82">114.55</distance>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 133131 B</name>
-  <rightascension>15 53 57</rightascension>
+  <distance>47.0</distance>
   <declination>-27 50 27</declination>
+  <rightascension>15 53 57</rightascension>
   <star>
+    <temperature errorplus="15.0" errorminus="-15.0">5805.0</temperature>
     <name>HD 133131 B</name>
     <mass>0.93</mass>
-    <temperature errorplus="15.0" errorminus="-15.0">5805.0</temperature>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="831.0" errorminus="-831.0">5769.0</period>
       <name>HD 133131 B 1</name>
-      <lastupdate>2016-09-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.61</eccentricity>
       <semimajoraxis errorplus="0.59" errorminus="-0.59">6.15</semimajoraxis>
+      <radius/>
+      <eccentricity>0.61</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="831.0" errorminus="-831.0">5769.0</period>
+      <lastupdate>2016-09-08</lastupdate>
     </planet>
   </star>
-  <distance>47.0</distance>
 </system>
 

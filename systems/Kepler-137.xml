@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-137</name>
-  <rightascension>18 08 07</rightascension>
+  <distance/>
   <declination>43 02 20</declination>
+  <rightascension>18 08 07</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5187.0</temperature>
     <name>Kepler-137</name>
     <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">5187.0</temperature>
     <radius errorplus="0.06" errorminus="-0.06">0.8</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.06">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">8.4</period>
       <name>Kepler-137 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.077</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">8.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.06">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">18.7</period>
       <name>Kepler-137 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.13</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.06">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">18.7</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

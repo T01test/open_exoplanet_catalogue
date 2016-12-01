@@ -1,23 +1,23 @@
 <system>
   <name>KELT-8</name>
-  <rightascension>18 18 19</rightascension>
+  <distance errorplus="9.0" errorminus="-9.0">236.0</distance>
   <declination>24 07 38</declination>
+  <rightascension>18 18 19</rightascension>
   <star>
+    <temperature errorplus="54.0" errorminus="-55.0">5754.0</temperature>
     <name>KELT-8</name>
     <mass errorplus="0.08" errorminus="-0.07">1.21</mass>
-    <temperature errorplus="54.0" errorminus="-55.0">5754.0</temperature>
     <radius errorplus="0.14" errorminus="-0.12">1.67</radius>
     <planet>
-      <inclination errorplus="0.81" errorminus="-1.0">82.65</inclination>
-      <radius errorplus="0.14" errorminus="-0.12">1.67</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <name>KELT-8 b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.035</eccentricity>
       <semimajoraxis errorplus="0.00096" errorminus="-0.00084">0.04571</semimajoraxis>
+      <radius errorplus="0.14" errorminus="-0.12">1.67</radius>
+      <eccentricity>0.035</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.81" errorminus="-1.0">82.65</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <lastupdate>2015-09-03</lastupdate>
     </planet>
   </star>
-  <distance errorplus="9.0" errorminus="-9.0">236.0</distance>
 </system>
 

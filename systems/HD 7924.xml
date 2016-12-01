@@ -1,43 +1,43 @@
 <system>
   <name>HD 7924</name>
-  <rightascension>01 29 46</rightascension>
+  <distance errorplus="0.13" errorminus="-0.13">16.82</distance>
   <declination>76 42 37</declination>
+  <rightascension>01 29 46</rightascension>
   <star>
+    <temperature errorplus="83.0" errorminus="-83.0">5075.0</temperature>
     <name>HD 7924</name>
     <mass errorplus="0.02" errorminus="-0.04">0.83</mass>
-    <temperature errorplus="83.0" errorminus="-83.0">5075.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
-      <period errorplus="0.0" errorminus="-0.0">15.3</period>
       <name>HD 7924 c</name>
-      <lastupdate>2015-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.098</eccentricity>
       <semimajoraxis errorplus="0.0013" errorminus="-0.0014">0.1134</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
+      <eccentricity>0.098</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">15.3</period>
+      <lastupdate>2015-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
       <name>HD 7924 b</name>
-      <lastupdate>2015-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.058</eccentricity>
       <semimajoraxis errorplus="0.00067" errorminus="-0.00069">0.05664</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
+      <eccentricity>0.058</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <lastupdate>2015-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
-      <period errorplus="0.0" errorminus="-0.0">24.5</period>
       <name>HD 7924 d</name>
-      <lastupdate>2015-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.21</eccentricity>
       <semimajoraxis errorplus="0.0018" errorminus="-0.0019">0.1551</semimajoraxis>
+      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
+      <eccentricity>0.21</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">24.5</period>
+      <lastupdate>2015-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.13" errorminus="-0.13">16.82</distance>
 </system>
 

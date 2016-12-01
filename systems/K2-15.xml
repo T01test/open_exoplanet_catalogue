@@ -1,22 +1,22 @@
 <system>
   <name>K2-15</name>
-  <rightascension>11 06 38</rightascension>
+  <distance errorplus="43.0" errorminus="-22.0">437.0</distance>
   <declination>04 15 17</declination>
+  <rightascension>11 06 38</rightascension>
   <star>
+    <temperature errorplus="69.0" errorminus="-65.0">5131.0</temperature>
     <name>K2-15</name>
     <mass errorplus="0.06" errorminus="-0.03">0.72</mass>
-    <temperature errorplus="69.0" errorminus="-65.0">5131.0</temperature>
     <radius errorplus="0.06" errorminus="-0.03">0.68</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.06" errorminus="-0.03">0.68</radius>
-      <period errorplus="0.0" errorminus="-0.0">11.8</period>
       <name>K2-15 b</name>
-      <lastupdate>2015-07-16</lastupdate>
-      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.091</semimajoraxis>
+      <radius errorplus="0.06" errorminus="-0.03">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">11.8</period>
+      <lastupdate>2015-07-16</lastupdate>
     </planet>
   </star>
-  <distance errorplus="43.0" errorminus="-22.0">437.0</distance>
 </system>
 

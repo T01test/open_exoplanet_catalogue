@@ -1,23 +1,23 @@
 <system>
   <name>DENIS-P J082303.1-491201</name>
-  <rightascension>08 45 46</rightascension>
+  <distance errorplus="0.08" errorminus="-0.08">20.77</distance>
   <declination>-49 12 01</declination>
+  <rightascension>08 45 46</rightascension>
   <star>
+    <temperature/>
     <name>DENIS-P J082303.1-491201</name>
     <mass errorplus="0.01" errorminus="-0.01">0.07</mass>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination errorplus="1.9" errorminus="-2.1">56.6</inclination>
-      <radius/>
-      <period errorplus="1.4" errorminus="-1.4">246.4</period>
       <name>DENIS-P J082303.1-491201 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>astrometry</discoverymethod>
-      <eccentricity>0.345</eccentricity>
       <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
+      <radius/>
+      <eccentricity>0.345</eccentricity>
+      <discoverymethod>astrometry</discoverymethod>
+      <inclination errorplus="1.9" errorminus="-2.1">56.6</inclination>
+      <period errorplus="1.4" errorminus="-1.4">246.4</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.08" errorminus="-0.08">20.77</distance>
 </system>
 

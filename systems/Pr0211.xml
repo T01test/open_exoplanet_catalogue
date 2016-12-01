@@ -1,33 +1,33 @@
 <system>
   <name>Pr0211</name>
-  <rightascension>08 32 52</rightascension>
+  <distance/>
   <declination>19 16 37</declination>
+  <rightascension>08 32 52</rightascension>
   <star>
+    <temperature errorplus="30.0" errorminus="-30.0">5300.0</temperature>
     <name>Pr0211</name>
     <mass errorplus="0.01" errorminus="-0.01">0.94</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">5300.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
     <planet>
-      <inclination/>
+      <name>Pr0211 b</name>
+      <semimajoraxis errorplus="0.00015" errorminus="-0.00015">0.03176</semimajoraxis>
       <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <period errorplus="4560.0" errorminus="-1750.0">4850.0</period>
-      <name>Pr0211 c</name>
-      <lastupdate>2016-02-11</lastupdate>
+      <eccentricity>0.011</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.71</eccentricity>
-      <semimajoraxis errorplus="3.0" errorminus="-1.4">5.5</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <lastupdate>2016-02-11</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Pr0211 c</name>
+      <semimajoraxis errorplus="3.0" errorminus="-1.4">5.5</semimajoraxis>
       <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
-      <name>Pr0211 b</name>
-      <lastupdate>2016-02-11</lastupdate>
+      <eccentricity>0.71</eccentricity>
       <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.011</eccentricity>
-      <semimajoraxis errorplus="0.00015" errorminus="-0.00015">0.03176</semimajoraxis>
+      <inclination/>
+      <period errorplus="4560.0" errorminus="-1750.0">4850.0</period>
+      <lastupdate>2016-02-11</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HD 63765</name>
-  <rightascension>07 57 25</rightascension>
+  <distance errorplus="0.72" errorminus="-0.75">32.62</distance>
   <declination>-54 15 50</declination>
+  <rightascension>07 57 25</rightascension>
   <star>
+    <temperature/>
     <name>HD 63765</name>
     <mass/>
-    <temperature/>
     <radius/>
     <planet>
-      <inclination/>
-      <radius/>
-      <period errorplus="1.0" errorminus="-1.0">358.0</period>
       <name>HD 63765 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.24</eccentricity>
       <semimajoraxis errorplus="0.016" errorminus="-0.016">0.94</semimajoraxis>
+      <radius/>
+      <eccentricity>0.24</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="1.0" errorminus="-1.0">358.0</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="0.72" errorminus="-0.75">32.62</distance>
 </system>
 

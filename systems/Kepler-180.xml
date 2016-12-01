@@ -1,31 +1,31 @@
 <system>
   <name>Kepler-180</name>
-  <rightascension>19 34 16</rightascension>
+  <distance/>
   <declination>49 46 28</declination>
+  <rightascension>19 34 16</rightascension>
   <star>
+    <temperature errorplus="200.0" errorminus="-200.0">5731.0</temperature>
     <name>Kepler-180</name>
     <mass>0.84</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5731.0</temperature>
     <radius errorplus="0.47" errorminus="-0.47">1.06</radius>
     <planet>
-      <inclination/>
+      <name>Kepler-180 b</name>
+      <semimajoraxis>0.109</semimajoraxis>
       <radius errorplus="0.47" errorminus="-0.47">1.06</radius>
-      <period errorplus="0.0" errorminus="-0.0">41.9</period>
-      <name>Kepler-180 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.229</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">13.8</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
     <planet>
-      <inclination/>
+      <name>Kepler-180 c</name>
+      <semimajoraxis>0.229</semimajoraxis>
       <radius errorplus="0.47" errorminus="-0.47">1.06</radius>
-      <period errorplus="0.0" errorminus="-0.0">13.8</period>
-      <name>Kepler-180 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <discoverymethod>transit</discoverymethod>
-      <semimajoraxis>0.109</semimajoraxis>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">41.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
   <name>HIP 65891</name>
-  <rightascension>13 36 19</rightascension>
+  <distance/>
   <declination>-58 39 51</declination>
+  <rightascension>13 36 19</rightascension>
   <star>
+    <temperature errorplus="100.0" errorminus="-100.0">5000.0</temperature>
     <name>HIP 65891</name>
     <mass errorplus="0.21" errorminus="-0.21">2.5</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5000.0</temperature>
     <radius errorplus="1.02" errorminus="-1.02">8.93</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="1.02" errorminus="-1.02">8.93</radius>
-      <period errorplus="23.2" errorminus="-23.2">1084.5</period>
       <name>HIP 65891 b</name>
-      <lastupdate>2015-06-04</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.13</eccentricity>
       <semimajoraxis errorplus="0.09" errorminus="-0.09">2.81</semimajoraxis>
+      <radius errorplus="1.02" errorminus="-1.02">8.93</radius>
+      <eccentricity>0.13</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="23.2" errorminus="-23.2">1084.5</period>
+      <lastupdate>2015-06-04</lastupdate>
     </planet>
   </star>
-  <distance/>
 </system>
 

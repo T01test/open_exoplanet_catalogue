@@ -1,23 +1,23 @@
 <system>
   <name>HD 175607</name>
-  <rightascension>19 16 22</rightascension>
+  <distance errorplus="2.07" errorminus="-2.07">45.27</distance>
   <declination>-66 11 33</declination>
+  <rightascension>19 16 22</rightascension>
   <star>
+    <temperature errorplus="17.0" errorminus="-17.0">5392.0</temperature>
     <name>HD 175607</name>
     <mass errorplus="0.01" errorminus="-0.01">0.71</mass>
-    <temperature errorplus="17.0" errorminus="-17.0">5392.0</temperature>
     <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
-      <period errorplus="0.0" errorminus="-0.0">29.0</period>
       <name>HD 175607 b</name>
-      <lastupdate>2015-11-19</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.11</eccentricity>
       <semimajoraxis/>
+      <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
+      <eccentricity>0.11</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="0.0" errorminus="-0.0">29.0</period>
+      <lastupdate>2015-11-19</lastupdate>
     </planet>
   </star>
-  <distance errorplus="2.07" errorminus="-2.07">45.27</distance>
 </system>
 

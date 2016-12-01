@@ -1,33 +1,33 @@
 <system>
   <name>WASP-41</name>
-  <rightascension>12 37 07</rightascension>
+  <distance errorplus="60.0" errorminus="-60.0">180.0</distance>
   <declination>-30 38 23</declination>
+  <rightascension>12 37 07</rightascension>
   <star>
+    <temperature errorplus="33.0" errorminus="-33.0">5545.0</temperature>
     <name>WASP-41</name>
     <mass errorplus="0.07" errorminus="-0.07">0.93</mass>
-    <temperature errorplus="33.0" errorminus="-33.0">5545.0</temperature>
     <radius errorplus="0.03" errorminus="-0.03">0.87</radius>
     <planet>
-      <inclination errorplus="0.3" errorminus="-0.3">89.4</inclination>
+      <name>WASP-41 c</name>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.07</semimajoraxis>
       <radius errorplus="0.03" errorminus="-0.03">0.87</radius>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <name>WASP-41 b</name>
+      <eccentricity>0.294</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="2.0" errorminus="-2.0">421.0</period>
       <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.026</eccentricity>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.04</semimajoraxis>
     </planet>
     <planet>
-      <inclination/>
+      <name>WASP-41 b</name>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.04</semimajoraxis>
       <radius errorplus="0.03" errorminus="-0.03">0.87</radius>
-      <period errorplus="2.0" errorminus="-2.0">421.0</period>
-      <name>WASP-41 c</name>
+      <eccentricity>0.026</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.3" errorminus="-0.3">89.4</inclination>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
       <lastupdate>2015-10-15</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.294</eccentricity>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.07</semimajoraxis>
     </planet>
   </star>
-  <distance errorplus="60.0" errorminus="-60.0">180.0</distance>
 </system>
 

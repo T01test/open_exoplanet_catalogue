@@ -1,33 +1,33 @@
 <system>
   <name>HD 113538</name>
-  <rightascension>13 14 22</rightascension>
+  <distance>15.9</distance>
   <declination>-52 26 34</declination>
+  <rightascension>13 14 22</rightascension>
   <star>
+    <temperature errorplus="145.0" errorminus="-145.0">4462.0</temperature>
     <name>HD 113538</name>
     <mass errorplus="0.05" errorminus="-0.05">0.58</mass>
-    <temperature errorplus="145.0" errorminus="-145.0">4462.0</temperature>
     <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
-      <period errorplus="25.0" errorminus="-22.0">1818.0</period>
       <name>HD 113538 c</name>
-      <lastupdate>2015-01-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.2</eccentricity>
       <semimajoraxis errorplus="0.07" errorminus="-0.07">2.44</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
+      <eccentricity>0.2</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="25.0" errorminus="-22.0">1818.0</period>
+      <lastupdate>2015-01-08</lastupdate>
     </planet>
     <planet>
-      <inclination/>
-      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
-      <period errorplus="8.4" errorminus="-7.4">663.2</period>
       <name>HD 113538 b</name>
-      <lastupdate>2015-01-08</lastupdate>
-      <discoverymethod>RV</discoverymethod>
-      <eccentricity>0.14</eccentricity>
       <semimajoraxis errorplus="0.04" errorminus="-0.04">1.24</semimajoraxis>
+      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
+      <eccentricity>0.14</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <period errorplus="8.4" errorminus="-7.4">663.2</period>
+      <lastupdate>2015-01-08</lastupdate>
     </planet>
   </star>
-  <distance>15.9</distance>
 </system>
 

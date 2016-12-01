@@ -1,23 +1,23 @@
 <system>
   <name>HAT-P-3</name>
-  <rightascension>13 05 38</rightascension>
+  <distance errorplus="10.0" errorminus="-10.0">138.0</distance>
   <declination>48 01 43</declination>
+  <rightascension>13 05 38</rightascension>
   <star>
+    <temperature errorplus="80.0" errorminus="-80.0">5185.0</temperature>
     <name>HAT-P-3</name>
     <mass errorplus="0.03" errorminus="-0.03">0.92</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5185.0</temperature>
     <radius errorplus="0.04" errorminus="-0.04">0.8</radius>
     <planet>
-      <inclination errorplus="0.55" errorminus="-0.55">87.07</inclination>
-      <radius errorplus="0.04" errorminus="-0.04">0.8</radius>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
       <name>HAT-P-3 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <discoverymethod>transit</discoverymethod>
-      <eccentricity>0.0</eccentricity>
       <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.03866</semimajoraxis>
+      <radius errorplus="0.04" errorminus="-0.04">0.8</radius>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorplus="0.55" errorminus="-0.55">87.07</inclination>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <lastupdate>2014-05-14</lastupdate>
     </planet>
   </star>
-  <distance errorplus="10.0" errorminus="-10.0">138.0</distance>
 </system>
 
