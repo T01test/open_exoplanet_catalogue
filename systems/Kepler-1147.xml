@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1147</name>
-	<rightascension>19 30 11</rightascension>
-	<declination>+41 38 35</declination>
-	<star>
-		<name>Kepler-1147</name>
-		<temperature errorminus="114.4" errorplus="84.8">5941.0</temperature>
-		<mass errorminus="0.06" errorplus="0.09">1.09</mass>
-		<radius errorminus="0.13" errorplus="0.35">1.14</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.11</metallicity>
-		<planet>
-			<name>Kepler-1147 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000091180" errorplus="0.000091180">10.627849970</period>
-			<radius errorminus="0.045" errorplus="0.071">0.233</radius>
-		</planet>
-	</star>
+  <name>Kepler-1147</name>
+  <rightascension>19 32 51</rightascension>
+  <declination>41 38 34</declination>
+  <star>
+    <name>Kepler-1147</name>
+    <radius errorplus="0.35" errorminus="-0.13">1.14</radius>
+    <temperature errorplus="84.81" errorminus="-114.44">5941.0</temperature>
+    <planet>
+      <name>Kepler-1147 b</name>
+      <inclination/>
+      <semimajoraxis/>
+      <radius errorplus="0.35" errorminus="-0.13">1.14</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <mass errorplus="0.09" errorminus="-0.06">1.09</mass>
+  </star>
+  <distance errorplus="452.64" errorminus="-176.42">1476.0</distance>
 </system>
+

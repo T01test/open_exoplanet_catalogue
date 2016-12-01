@@ -1,30 +1,23 @@
 <system>
-	<name>HD 221287</name>
-	<rightascension>23 31 20</rightascension>
-	<declination>-58 12 35</declination>
-	<distance>52.9</distance>
-	<star>
-		<mass>1.25</mass>
-		<magV>7.82</magV>
-		<magJ errorminus="0.02" errorplus="0.02">6.843</magJ>
-		<magH errorminus="0.033" errorplus="0.033">6.616</magH>
-		<magK errorminus="0.02" errorplus="0.02">6.569</magK>
-		<magB errorminus="0.01" errorplus="0.01">8.31</magB>
-		<metallicity>0.03</metallicity>
-		<spectraltype>F7 V</spectraltype>
-		<planet>
-			<name>HD 221287 b</name>
-			<list>Confirmed planets</list>
-			<mass>3.09</mass>
-			<period>456.1</period>
-			<semimajoraxis>1.25</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/28</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>259.0</temperature>
-		</planet>
-		<name>HD 221287</name>
-		<temperature>6304.0</temperature>
-	</star>
+  <name>HD 221287</name>
+  <rightascension>23 50 05</rightascension>
+  <declination>-58 12 35</declination>
+  <star>
+    <name>HD 221287</name>
+    <radius/>
+    <temperature errorplus="45.0" errorminus="-45.0">6304.0</temperature>
+    <planet>
+      <name>HD 221287 b</name>
+      <inclination/>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.25</semimajoraxis>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="7.7" errorminus="-5.8">456.1</period>
+      <eccentricity>0.08</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+    </planet>
+    <mass errorplus="0.1" errorminus="-0.1">1.25</mass>
+  </star>
+  <distance errorplus="2.2" errorminus="-2.4">52.88</distance>
 </system>
+

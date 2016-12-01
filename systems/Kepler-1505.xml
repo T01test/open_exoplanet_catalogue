@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1505</name>
-	<rightascension>19 28 00</rightascension>
-	<declination>+41 47 13</declination>
-	<star>
-		<name>Kepler-1505</name>
-		<temperature errorminus="53.9" errorplus="65.4">5686.0</temperature>
-		<mass errorminus="0.04" errorplus="0.03">0.93</mass>
-		<radius errorminus="0.03" errorplus="0.02">0.86</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.18</metallicity>
-		<planet>
-			<name>Kepler-1505 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000225200" errorplus="0.000225200">30.860936600</period>
-			<radius errorminus="0.004" errorplus="0.004">0.083</radius>
-		</planet>
-	</star>
+  <name>Kepler-1505</name>
+  <rightascension>19 00 07</rightascension>
+  <declination>41 47 13</declination>
+  <star>
+    <name>Kepler-1505</name>
+    <radius errorplus="0.02" errorminus="-0.03">0.86</radius>
+    <temperature errorplus="65.36" errorminus="-53.94">5686.0</temperature>
+    <planet>
+      <name>Kepler-1505 b</name>
+      <inclination/>
+      <semimajoraxis/>
+      <radius errorplus="0.02" errorminus="-0.03">0.86</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">30.9</period>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <mass errorplus="0.03" errorminus="-0.04">0.93</mass>
+  </star>
+  <distance errorplus="11.05" errorminus="-13.34">359.0</distance>
 </system>
+

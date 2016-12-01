@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1490</name>
-	<rightascension>19 42 46</rightascension>
-	<declination>+42 36 34</declination>
-	<star>
-		<name>Kepler-1490</name>
-		<temperature errorminus="190.5" errorplus="193.5">5515.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">0.90</mass>
-		<radius errorminus="0.07" errorplus="0.11">0.87</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.08</metallicity>
-		<planet>
-			<name>Kepler-1490 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000904200" errorplus="0.000904200">92.436297300</period>
-			<radius errorminus="0.056" errorplus="0.033">0.271</radius>
-		</planet>
-	</star>
+  <name>Kepler-1490</name>
+  <rightascension>19 41 36</rightascension>
+  <declination>42 36 34</declination>
+  <star>
+    <name>Kepler-1490</name>
+    <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
+    <temperature errorplus="193.53" errorminus="-190.47">5515.0</temperature>
+    <planet>
+      <name>Kepler-1490 b</name>
+      <inclination/>
+      <semimajoraxis/>
+      <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">92.4</period>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <mass errorplus="0.07" errorminus="-0.06">0.9</mass>
+  </star>
+  <distance errorplus="128.57" errorminus="-87.3">968.0</distance>
 </system>
+

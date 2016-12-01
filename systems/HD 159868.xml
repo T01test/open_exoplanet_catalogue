@@ -1,43 +1,33 @@
 <system>
-	<name>HD 159868</name>
-	<rightascension>17 39 00</rightascension>
-	<declination>-43 08 44</declination>
-	<distance>52.7</distance>
-	<star>
-		<mass>1.09</mass>
-		<magV>7.24</magV>
-		<magB>7.96</magB>
-		<magJ errorminus="0.021" errorplus="0.021">5.941</magJ>
-		<magH errorminus="0.026" errorplus="0.026">5.567</magH>
-		<magK errorminus="0.024" errorplus="0.024">5.535</magK>
-		<spectraltype>G5V</spectraltype>
-		<planet>
-			<name>HD 159868 b</name>
-			<list>Confirmed planets</list>
-			<mass>2.1</mass>
-			<period>1178.4</period>
-			<semimajoraxis>2.25</semimajoraxis>
-			<eccentricity>0.01</eccentricity>
-			<description>A second planet in this system has been discovered in 2012 by the Anglo-Australian Planet Search.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/15</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>224.9</temperature>
-		</planet>
-		<planet>
-			<name>HD 159868 c</name>
-			<list>Confirmed planets</list>
-			<mass>0.73</mass>
-			<period>352.3</period>
-			<semimajoraxis>1</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<description>This planet was discovered by the Anglo-Australian Planet Search. It is orbiting a star previously known to host one planet. After the discovery of the second planet, the reported eccentricity of the first planet changed significantly. This system is an example of how multiple-planet systems can masquerade as moderately eccentric single-planet systems.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/15</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>336.8</temperature>
-		</planet>
-		<name>HD 159868</name>
-		<temperature>5395.0</temperature>
-	</star>
+  <name>HD 159868</name>
+  <rightascension>17 44 52</rightascension>
+  <declination>-43 08 43</declination>
+  <star>
+    <name>HD 159868</name>
+    <radius/>
+    <temperature errorplus="15.0" errorminus="-15.0">5558.0</temperature>
+    <planet>
+      <name>HD 159868 c</name>
+      <inclination/>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.0</semimajoraxis>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="1.3" errorminus="-1.3">352.3</period>
+      <eccentricity>0.15</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+    </planet>
+    <planet>
+      <name>HD 159868 b</name>
+      <inclination/>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">2.25</semimajoraxis>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="8.8" errorminus="-8.8">1178.4</period>
+      <eccentricity>0.01</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+    </planet>
+    <mass errorplus="0.03" errorminus="-0.03">1.09</mass>
+  </star>
+  <distance errorplus="2.82" errorminus="-3.15">52.72</distance>
 </system>
+

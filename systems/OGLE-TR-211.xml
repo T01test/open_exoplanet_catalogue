@@ -1,34 +1,23 @@
 <system>
-	<name>OGLE-TR-211</name>
-	<rightascension>10 40 15</rightascension>
-	<declination>-62 27 20</declination>
-	<star>
-		<magB>15.3</magB>
-		<magR>14.9</magR>
-		<magI errorminus="0.03" errorplus="0.03">14.36</magI>
-		<magH errorminus="0.04" errorplus="0.04">13.42</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.38</magK>
-		<mass>1.33</mass>
-		<radius>1.64</radius>
-		<metallicity>0.11</metallicity>
-		<planet>
-			<name>OGLE-TR-211 b</name>
-			<name>2MASS J10401438-6227201 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.75</mass>
-			<radius>1.26</radius>
-			<period>3.67724</period>
-			<semimajoraxis>0.051</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>87.2</inclination>
-			<transittime errorminus="0.003" errorplus="0.003" unit="HJD">2453428.334</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/24</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>1581.5</temperature>
-			<istransiting>1</istransiting>
-		</planet>
-		<name>OGLE-TR-211</name>
-		<temperature>6325.0</temperature>
-	</star>
+  <name>OGLE-TR-211</name>
+  <rightascension>10 03 35</rightascension>
+  <declination>-62 27 20</declination>
+  <star>
+    <name>OGLE-TR-211</name>
+    <radius errorplus="0.21">1.64</radius>
+    <temperature errorplus="91.0">6325.0</temperature>
+    <planet>
+      <name>OGLE-TR-211 b</name>
+      <inclination>87.2</inclination>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.051</semimajoraxis>
+      <radius errorplus="0.21">1.64</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <mass errorplus="0.05">1.33</mass>
+  </star>
+  <distance/>
 </system>
+

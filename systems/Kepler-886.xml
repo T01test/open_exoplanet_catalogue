@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-886</name>
-	<rightascension>19 05 05</rightascension>
-	<declination>+43 35 43</declination>
-	<star>
-		<name>Kepler-886</name>
-		<temperature errorminus="117.8" errorplus="97.1">6098.0</temperature>
-		<mass errorminus="0.08" errorplus="0.10">1.10</mass>
-		<radius errorminus="0.14" errorplus="0.32">1.16</radius>
-		<metallicity errorminus="0.19" errorplus="0.13">-0.01</metallicity>
-		<planet>
-			<name>Kepler-886 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000021540" errorplus="0.000021540">6.241463670</period>
-			<radius errorminus="0.017" errorplus="0.037">0.136</radius>
-		</planet>
-	</star>
+  <name>Kepler-886</name>
+  <rightascension>19 16 18</rightascension>
+  <declination>43 35 42</declination>
+  <star>
+    <name>Kepler-886</name>
+    <radius errorplus="0.32" errorminus="-0.14">1.16</radius>
+    <temperature errorplus="97.1" errorminus="-117.8">6098.0</temperature>
+    <planet>
+      <name>Kepler-886 b</name>
+      <inclination/>
+      <semimajoraxis/>
+      <radius errorplus="0.32" errorminus="-0.14">1.16</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">6.2</period>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <mass errorplus="0.1" errorminus="-0.08">1.1</mass>
+  </star>
+  <distance errorplus="227.98" errorminus="-111.91">857.0</distance>
 </system>
+

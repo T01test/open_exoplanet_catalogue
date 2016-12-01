@@ -1,32 +1,23 @@
 <system>
-	<name>HD 102956</name>
-	<rightascension>11 51 23</rightascension>
-	<declination>+57 38 27</declination>
-	<distance>126</distance>
-	<star>
-		<mass>1.68</mass>
-		<radius>4.4</radius>
-		<magV>8</magV>
-		<magB errorminus="0.016" errorplus="0.016">8.825</magB>
-		<magR>8.21</magR>
-		<magJ errorminus="0.020" errorplus="0.020">6.214</magJ>
-		<magH errorminus="0.020" errorplus="0.020">5.767</magH>
-		<magK errorminus="0.020" errorplus="0.020">5.663</magK>
-		<metallicity>0.19</metallicity>
-		<spectraltype>A</spectraltype>
-		<planet>
-			<name>HD 102956 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.96</mass>
-			<period>6.495</period>
-			<semimajoraxis>0.081</semimajoraxis>
-			<eccentricity>0.048</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/07/28</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1642.2</temperature>
-		</planet>
-		<name>HD 102956</name>
-		<temperature>5054.0</temperature>
-	</star>
+  <name>HD 102956</name>
+  <rightascension>11 50 37</rightascension>
+  <declination>57 38 26</declination>
+  <star>
+    <name>HD 102956</name>
+    <radius errorplus="0.1" errorminus="-0.1">4.4</radius>
+    <temperature errorplus="44.0" errorminus="-44.0">5054.0</temperature>
+    <planet>
+      <name>HD 102956 b</name>
+      <inclination/>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.081</semimajoraxis>
+      <radius errorplus="0.1" errorminus="-0.1">4.4</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <eccentricity>0.048</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+    </planet>
+    <mass errorplus="0.11" errorminus="-0.11">1.68</mass>
+  </star>
+  <distance errorplus="12.37" errorminus="-15.55">121.07</distance>
 </system>
+

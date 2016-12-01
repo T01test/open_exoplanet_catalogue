@@ -1,30 +1,23 @@
 <system>
-	<name>HD 187085</name>
-	<rightascension>19 49 33</rightascension>
-	<declination>-37 46 50</declination>
-	<distance>44.98</distance>
-	<star>
-		<mass>1.22</mass>
-		<magV>7.22</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.78</magB>
-		<magJ errorminus="0.023" errorplus="0.023">6.190</magJ>
-		<magH errorminus="0.047" errorplus="0.047">5.951</magH>
-		<magK errorminus="0.024" errorplus="0.024">5.876</magK>
-		<metallicity>0.05</metallicity>
-		<spectraltype>G0 V</spectraltype>
-		<planet>
-			<name>HD 187085 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.75</mass>
-			<period>986</period>
-			<semimajoraxis>2.05</semimajoraxis>
-			<eccentricity>0.47</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
-			<discoveryyear>2006</discoveryyear>
-			<temperature>215.5</temperature>
-		</planet>
-		<name>HD 187085</name>
-		<temperature>6075.0</temperature>
-	</star>
+  <name>HD 187085</name>
+  <rightascension>19 23 29</rightascension>
+  <declination>-37 46 49</declination>
+  <star>
+    <name>HD 187085</name>
+    <radius/>
+    <temperature errorplus="30.0" errorminus="-30.0">6075.0</temperature>
+    <planet>
+      <name>HD 187085 b</name>
+      <inclination/>
+      <semimajoraxis>2.05</semimajoraxis>
+      <radius/>
+      <lastupdate>2014-07-23</lastupdate>
+      <period>986.0</period>
+      <eccentricity>0.47</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+    </planet>
+    <mass errorplus="0.1" errorminus="-0.06">1.22</mass>
+  </star>
+  <distance errorplus="2.19" errorminus="-2.43">44.98</distance>
 </system>
+
