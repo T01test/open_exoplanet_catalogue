@@ -4,18 +4,18 @@
   <declination>48 22 24</declination>
   <star>
     <name>Kepler-1339</name>
-    <radius errorplus="0.06" errorminus="-0.05">0.93</radius>
-    <temperature errorplus="51.01" errorminus="-56.05">5586.0</temperature>
-    <planet>
-      <name>Kepler-1339 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.06" errorminus="-0.05">0.93</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.94</mass>
+    <temperature errorplus="51.01" errorminus="-56.05">5586.0</temperature>
+    <radius errorplus="0.06" errorminus="-0.05">0.93</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.06" errorminus="-0.05">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.3</period>
+      <name>Kepler-1339 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="18.41" errorminus="-15.41">267.0</distance>
 </system>

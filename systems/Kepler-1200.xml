@@ -4,18 +4,18 @@
   <declination>44 07 45</declination>
   <star>
     <name>Kepler-1200</name>
-    <radius errorplus="0.03" errorminus="-0.04">0.7</radius>
-    <temperature errorplus="101.02" errorminus="-139.97">4612.0</temperature>
-    <planet>
-      <name>Kepler-1200 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.04">0.7</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.74</mass>
+    <temperature errorplus="101.02" errorminus="-139.97">4612.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.04">0.7</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.04">0.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.1</period>
+      <name>Kepler-1200 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="29.47" errorminus="-33.77">579.0</distance>
 </system>

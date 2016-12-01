@@ -4,18 +4,18 @@
   <declination>44 22 18</declination>
   <star>
     <name>Kepler-1249</name>
-    <radius errorplus="0.52" errorminus="-0.2">1.28</radius>
-    <temperature errorplus="133.62" errorminus="-201.72">6202.0</temperature>
-    <planet>
-      <name>Kepler-1249 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.52" errorminus="-0.2">1.28</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.17" errorminus="-0.12">1.19</mass>
+    <temperature errorplus="133.62" errorminus="-201.72">6202.0</temperature>
+    <radius errorplus="0.52" errorminus="-0.2">1.28</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.52" errorminus="-0.2">1.28</radius>
+      <period errorplus="0.0" errorminus="-0.0">24.3</period>
+      <name>Kepler-1249 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="673.73" errorminus="-277.71">1674.0</distance>
 </system>

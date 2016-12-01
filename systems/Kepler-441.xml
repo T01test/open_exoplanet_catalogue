@@ -4,19 +4,19 @@
   <declination>49 00 45</declination>
   <star>
     <name>Kepler-441</name>
-    <radius errorplus="0.04" errorminus="-0.05">0.55</radius>
-    <temperature errorplus="177.0" errorminus="-177.0">4340.0</temperature>
-    <planet>
-      <name>Kepler-441 b</name>
-      <inclination errorplus="0.03" errorminus="-0.07">89.97</inclination>
-      <semimajoraxis errorplus="0.32" errorminus="-0.13">0.64</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.05">0.55</radius>
-      <lastupdate>2015-01-06</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">207.2</period>
-      <eccentricity>0.1</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.57</mass>
+    <temperature errorplus="177.0" errorminus="-177.0">4340.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.05">0.55</radius>
+    <planet>
+      <inclination errorplus="0.03" errorminus="-0.07">89.97</inclination>
+      <radius errorplus="0.04" errorminus="-0.05">0.55</radius>
+      <period errorplus="0.0" errorminus="-0.0">207.2</period>
+      <name>Kepler-441 b</name>
+      <lastupdate>2015-01-06</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.1</eccentricity>
+      <semimajoraxis errorplus="0.32" errorminus="-0.13">0.64</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="28.0" errorminus="-48.0">284.0</distance>
 </system>

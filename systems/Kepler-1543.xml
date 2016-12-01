@@ -4,18 +4,18 @@
   <declination>47 02 13</declination>
   <star>
     <name>Kepler-1543</name>
-    <radius errorplus="0.74" errorminus="-0.3">1.65</radius>
-    <temperature errorplus="148.25" errorminus="-171.68">6561.0</temperature>
-    <planet>
-      <name>Kepler-1543 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.74" errorminus="-0.3">1.65</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.23" errorminus="-0.14">1.39</mass>
+    <temperature errorplus="148.25" errorminus="-171.68">6561.0</temperature>
+    <radius errorplus="0.74" errorminus="-0.3">1.65</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.74" errorminus="-0.3">1.65</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <name>Kepler-1543 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="484.77" errorminus="-206.54">1114.0</distance>
 </system>

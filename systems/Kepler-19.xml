@@ -4,28 +4,28 @@
   <declination>37 51 06</declination>
   <star>
     <name>Kepler-19</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-    <temperature errorplus="60.0" errorminus="-60.0">5541.0</temperature>
-    <planet>
-      <name>Kepler-19 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>160.0</period>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-19 b</name>
-      <inclination errorplus="0.06" errorminus="-0.44">89.94</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.3</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
+    <temperature errorplus="60.0" errorminus="-60.0">5541.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+      <period>160.0</period>
+      <name>Kepler-19 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination errorplus="0.06" errorminus="-0.44">89.94</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.3</period>
+      <name>Kepler-19 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance>2119.0</distance>
 </system>

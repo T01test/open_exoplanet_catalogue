@@ -4,19 +4,19 @@
   <declination>73 09 08</declination>
   <star>
     <name>HD 11755</name>
-    <radius errorplus="1.0" errorminus="-1.0">27.3</radius>
-    <temperature errorplus="5.0" errorminus="-5.0">4312.5</temperature>
-    <planet>
-      <name>HD 11755 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.08</semimajoraxis>
-      <radius errorplus="1.0" errorminus="-1.0">27.3</radius>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="3.2" errorminus="-3.2">433.7</period>
-      <eccentricity>0.19</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">0.9</mass>
+    <temperature errorplus="5.0" errorminus="-5.0">4312.5</temperature>
+    <radius errorplus="1.0" errorminus="-1.0">27.3</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="1.0" errorminus="-1.0">27.3</radius>
+      <period errorplus="3.2" errorminus="-3.2">433.7</period>
+      <name>HD 11755 b</name>
+      <lastupdate>2015-10-15</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.19</eccentricity>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.08</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="22.7" errorminus="-22.7">231.5</distance>
 </system>

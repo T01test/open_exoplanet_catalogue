@@ -4,18 +4,18 @@
   <declination>38 32 23</declination>
   <star>
     <name>Kepler-788</name>
-    <radius errorplus="0.39" errorminus="-0.17">1.23</radius>
-    <temperature errorplus="129.54" errorminus="-186.01">6159.0</temperature>
-    <planet>
-      <name>Kepler-788 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.39" errorminus="-0.17">1.23</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13" errorminus="-0.1">1.16</mass>
+    <temperature errorplus="129.54" errorminus="-186.01">6159.0</temperature>
+    <radius errorplus="0.39" errorminus="-0.17">1.23</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.39" errorminus="-0.17">1.23</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.4</period>
+      <name>Kepler-788 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="518.84" errorminus="-248.29">1649.0</distance>
 </system>

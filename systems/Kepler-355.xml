@@ -4,27 +4,27 @@
   <declination>42 48 42</declination>
   <star>
     <name>Kepler-355</name>
-    <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
-    <temperature errorplus="250.0" errorminus="-250.0">6184.0</temperature>
-    <planet>
-      <name>Kepler-355 b</name>
-      <inclination/>
-      <semimajoraxis>0.102</semimajoraxis>
-      <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-355 c</name>
-      <inclination/>
-      <semimajoraxis>0.179</semimajoraxis>
-      <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.05</mass>
+    <temperature errorplus="250.0" errorminus="-250.0">6184.0</temperature>
+    <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.0</period>
+      <name>Kepler-355 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.102</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.48" errorminus="-0.48">1.07</radius>
+      <period errorplus="0.0" errorminus="-0.0">25.8</period>
+      <name>Kepler-355 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.179</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

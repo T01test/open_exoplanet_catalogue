@@ -4,36 +4,36 @@
   <declination>47 24 49</declination>
   <star>
     <name>Kepler-332</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4955.0</temperature>
-    <planet>
-      <name>Kepler-332 c</name>
-      <inclination/>
-      <semimajoraxis>0.114</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-332 b</name>
-      <inclination/>
-      <semimajoraxis>0.07</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-332 d</name>
-      <inclination/>
-      <semimajoraxis>0.189</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">34.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.8</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">4955.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.6</period>
+      <name>Kepler-332 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.07</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <period errorplus="0.0" errorminus="-0.0">34.2</period>
+      <name>Kepler-332 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.189</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.0</period>
+      <name>Kepler-332 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.114</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

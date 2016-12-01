@@ -4,19 +4,19 @@
   <declination>77 37 56</declination>
   <star>
     <name>gam Cep</name>
-    <radius>4.9</radius>
-    <temperature/>
-    <planet>
-      <name>gam Cep b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">2.05</semimajoraxis>
-      <radius>4.9</radius>
-      <lastupdate>2014-08-27</lastupdate>
-      <period errorplus="1.5" errorminus="-1.5">903.3</period>
-      <eccentricity>0.049</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.12">1.4</mass>
+    <temperature/>
+    <radius>4.9</radius>
+    <planet>
+      <inclination/>
+      <radius>4.9</radius>
+      <period errorplus="1.5" errorminus="-1.5">903.3</period>
+      <name>gam Cep b</name>
+      <lastupdate>2014-08-27</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.049</eccentricity>
+      <semimajoraxis errorplus="0.06" errorminus="-0.06">2.05</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.1" errorminus="-0.1">13.79</distance>
 </system>

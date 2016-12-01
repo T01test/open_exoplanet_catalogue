@@ -4,27 +4,27 @@
   <declination>47 50 20</declination>
   <star>
     <name>Kepler-283</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4351.0</temperature>
-    <planet>
-      <name>Kepler-283 c</name>
-      <inclination/>
-      <semimajoraxis>0.341</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">92.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-283 b</name>
-      <inclination/>
-      <semimajoraxis>0.082</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="100.0" errorminus="-100.0">4351.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
+      <period errorplus="0.0" errorminus="-0.0">92.7</period>
+      <name>Kepler-283 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.341</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.57</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.0</period>
+      <name>Kepler-283 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.082</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

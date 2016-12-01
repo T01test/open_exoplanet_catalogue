@@ -4,29 +4,29 @@
   <declination>-22 17 45</declination>
   <star>
     <name>HD 60532</name>
-    <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
-    <temperature errorplus="80.0" errorminus="-80.0">6245.0</temperature>
-    <planet>
-      <name>HD 60532 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.77</semimajoraxis>
-      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
-      <lastupdate>2016-09-08</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">201.9</period>
-      <eccentricity>0.26</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 60532 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.6</semimajoraxis>
-      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
-      <lastupdate>2016-09-08</lastupdate>
-      <period errorplus="2.4" errorminus="-2.4">600.1</period>
-      <eccentricity>0.03</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.09">1.5</mass>
+    <temperature errorplus="80.0" errorminus="-80.0">6245.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+      <period errorplus="0.3" errorminus="-0.3">201.9</period>
+      <name>HD 60532 b</name>
+      <lastupdate>2016-09-08</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.26</eccentricity>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.77</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.12">2.57</radius>
+      <period errorplus="2.4" errorminus="-2.4">600.1</period>
+      <name>HD 60532 c</name>
+      <lastupdate>2016-09-08</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.03</eccentricity>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.6</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.17" errorminus="-0.17">25.3</distance>
 </system>

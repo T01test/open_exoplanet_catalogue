@@ -4,19 +4,19 @@
   <declination>15 32 48</declination>
   <star>
     <name>BD+15 2940</name>
-    <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
-    <temperature errorplus="117.0" errorminus="-117.0">4796.0</temperature>
-    <planet>
-      <name>BD+15 2940 b</name>
-      <inclination/>
-      <semimajoraxis>0.539</semimajoraxis>
-      <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">137.5</period>
-      <eccentricity>0.26</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.2" errorminus="-0.2">1.1</mass>
+    <temperature errorplus="117.0" errorminus="-117.0">4796.0</temperature>
+    <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="2.8" errorminus="-2.8">14.7</radius>
+      <period errorplus="0.3" errorminus="-0.3">137.5</period>
+      <name>BD+15 2940 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.26</eccentricity>
+      <semimajoraxis>0.539</semimajoraxis>
+    </planet>
   </star>
   <distance>175.44</distance>
 </system>

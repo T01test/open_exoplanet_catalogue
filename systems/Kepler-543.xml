@@ -4,18 +4,18 @@
   <declination>38 51 45</declination>
   <star>
     <name>Kepler-543</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-    <temperature errorplus="85.64" errorminus="-76.72">4671.0</temperature>
-    <planet>
-      <name>Kepler-543 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.04">0.7</mass>
+    <temperature errorplus="85.64" errorminus="-76.72">4671.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.9</period>
+      <name>Kepler-543 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="11.16" errorminus="-9.23">212.0</distance>
 </system>

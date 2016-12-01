@@ -4,19 +4,19 @@
   <declination>-19 56 58</declination>
   <star>
     <name>WASP-67</name>
-    <radius errorplus="0.04">0.87</radius>
-    <temperature errorplus="10.0">5240.0</temperature>
-    <planet>
-      <name>WASP-67 b</name>
-      <inclination errorplus="0.3" errorminus="-0.4">85.8</inclination>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0517</semimajoraxis>
-      <radius errorplus="0.04">0.87</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <eccentricity>0.2</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04">0.87</mass>
+    <temperature errorplus="10.0">5240.0</temperature>
+    <radius errorplus="0.04">0.87</radius>
+    <planet>
+      <inclination errorplus="0.3" errorminus="-0.4">85.8</inclination>
+      <radius errorplus="0.04">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <name>WASP-67 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.2</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0517</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="45.0" errorminus="-45.0">225.0</distance>
 </system>

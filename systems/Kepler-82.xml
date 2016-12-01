@@ -4,45 +4,45 @@
   <declination>42 57 58</declination>
   <star>
     <name>Kepler-82</name>
-    <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5428.0</temperature>
-    <planet>
-      <name>Kepler-82 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>26.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-82 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>51.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-82 e</name>
-      <inclination/>
-      <semimajoraxis>0.063</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-82 d</name>
-      <inclination/>
-      <semimajoraxis>0.034</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="1.66" errorminus="-0.63">0.85</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5428.0</temperature>
+    <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
+      <period>51.5</period>
+      <name>Kepler-82 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <name>Kepler-82 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.063</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <name>Kepler-82 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.034</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.14">0.94</radius>
+      <period>26.4</period>
+      <name>Kepler-82 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

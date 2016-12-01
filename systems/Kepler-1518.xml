@@ -4,18 +4,18 @@
   <declination>44 59 10</declination>
   <star>
     <name>Kepler-1518</name>
-    <radius errorplus="0.61" errorminus="-0.38">1.88</radius>
-    <temperature errorplus="320.29" errorminus="-290.12">6846.0</temperature>
-    <planet>
-      <name>Kepler-1518 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.61" errorminus="-0.38">1.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.21" errorminus="-0.18">1.54</mass>
+    <temperature errorplus="320.29" errorminus="-290.12">6846.0</temperature>
+    <radius errorplus="0.61" errorminus="-0.38">1.88</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.61" errorminus="-0.38">1.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <name>Kepler-1518 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="368.49" errorminus="-229.54">1140.0</distance>
 </system>

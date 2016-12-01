@@ -4,18 +4,18 @@
   <declination>46 39 06</declination>
   <star>
     <name>Kepler-1377</name>
-    <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
-    <temperature errorplus="42.47" errorminus="-53.61">5218.0</temperature>
-    <planet>
-      <name>Kepler-1377 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
+    <temperature errorplus="42.47" errorminus="-53.61">5218.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.04">0.82</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <name>Kepler-1377 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="65.62" errorminus="-50.47">1019.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>-2 15 38</declination>
   <star>
     <name>HD 218566</name>
-    <radius errorplus="0.08" errorminus="-0.08">0.86</radius>
-    <temperature>4820.0</temperature>
-    <planet>
-      <name>HD 218566 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.6873</semimajoraxis>
-      <radius errorplus="0.08" errorminus="-0.08">0.86</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.4" errorminus="-0.4">225.7</period>
-      <eccentricity>0.3</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.85</mass>
+    <temperature>4820.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.08">0.86</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.08">0.86</radius>
+      <period errorplus="0.4" errorminus="-0.4">225.7</period>
+      <name>HD 218566 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.3</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.6873</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.03" errorminus="-1.11">29.94</distance>
 </system>

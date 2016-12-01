@@ -4,18 +4,18 @@
   <declination>49 44 19</declination>
   <star>
     <name>Kepler-888</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
-    <temperature errorplus="66.36" errorminus="-56.7">5875.0</temperature>
-    <planet>
-      <name>Kepler-888 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">70.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.97</mass>
+    <temperature errorplus="66.36" errorminus="-56.7">5875.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">70.7</period>
+      <name>Kepler-888 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="14.13" errorminus="-13.3">413.0</distance>
 </system>

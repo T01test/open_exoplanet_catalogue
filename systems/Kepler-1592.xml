@@ -4,18 +4,18 @@
   <declination>38 23 51</declination>
   <star>
     <name>Kepler-1592</name>
-    <radius errorplus="0.57" errorminus="-0.23">1.28</radius>
-    <temperature errorplus="223.89" errorminus="-246.35">6213.0</temperature>
-    <planet>
-      <name>Kepler-1592 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.57" errorminus="-0.23">1.28</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.2" errorminus="-0.12">1.18</mass>
+    <temperature errorplus="223.89" errorminus="-246.35">6213.0</temperature>
+    <radius errorplus="0.57" errorminus="-0.23">1.28</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.57" errorminus="-0.23">1.28</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <name>Kepler-1592 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="605.95" errorminus="-250.84">1349.0</distance>
 </system>

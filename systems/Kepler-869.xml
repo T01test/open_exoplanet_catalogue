@@ -4,18 +4,18 @@
   <declination>50 59 38</declination>
   <star>
     <name>Kepler-869</name>
-    <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
-    <temperature errorplus="72.29" errorminus="-95.26">5664.0</temperature>
-    <planet>
-      <name>Kepler-869 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">40.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.97</mass>
+    <temperature errorplus="72.29" errorminus="-95.26">5664.0</temperature>
+    <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.22" errorminus="-0.07">0.95</radius>
+      <period errorplus="0.0" errorminus="-0.0">40.4</period>
+      <name>Kepler-869 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="220.03" errorminus="-79.0">957.0</distance>
 </system>

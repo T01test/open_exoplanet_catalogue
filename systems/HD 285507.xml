@@ -4,19 +4,19 @@
   <declination>15 20 06</declination>
   <star>
     <name>HD 285507</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
-    <temperature errorplus="85.0" errorminus="-61.0">4503.0</temperature>
-    <planet>
-      <name>HD 285507 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
-      <eccentricity>0.086</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.73</mass>
+    <temperature errorplus="85.0" errorminus="-61.0">4503.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <name>HD 285507 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.086</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="3.71" errorminus="-4.5">42.43</distance>
 </system>

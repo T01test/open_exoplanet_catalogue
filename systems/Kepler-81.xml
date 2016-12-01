@@ -4,36 +4,36 @@
   <declination>42 49 29</declination>
   <star>
     <name>Kepler-81</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-    <temperature errorplus="116.0" errorminus="-116.0">4500.0</temperature>
-    <planet>
-      <name>Kepler-81 d</name>
-      <inclination/>
-      <semimajoraxis>0.128</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-81 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>6.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-81 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>12.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.38" errorminus="-0.23">0.64</mass>
+    <temperature errorplus="116.0" errorminus="-116.0">4500.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <period>12.0</period>
+      <name>Kepler-81 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <period errorplus="0.0" errorminus="-0.0">20.8</period>
+      <name>Kepler-81 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.128</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <period>6.0</period>
+      <name>Kepler-81 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,19 +4,19 @@
   <declination>14 07 26</declination>
   <star>
     <name>HD 102272</name>
-    <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
-    <temperature errorplus="35.0" errorminus="-35.0">4908.0</temperature>
-    <planet>
-      <name>HD 102272 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.614</semimajoraxis>
-      <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">127.6</period>
-      <eccentricity>0.05</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.3" errorminus="-0.3">1.9</mass>
+    <temperature errorplus="35.0" errorminus="-35.0">4908.0</temperature>
+    <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="4.6" errorminus="-4.6">10.1</radius>
+      <period errorplus="0.3" errorminus="-0.3">127.6</period>
+      <name>HD 102272 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.05</eccentricity>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.614</semimajoraxis>
+    </planet>
   </star>
   <distance>164.2</distance>
 </system>

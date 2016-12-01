@@ -4,19 +4,19 @@
   <declination>-2 08 39</declination>
   <star>
     <name>WASP-80</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
-    <temperature errorplus="92.0" errorminus="-94.0">4143.0</temperature>
-    <planet>
-      <name>WASP-80 b</name>
-      <inclination errorplus="0.11" errorminus="-0.1">89.02</inclination>
-      <semimajoraxis errorplus="0.001" errorminus="-0.0011">0.0344</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
-      <lastupdate>2015-04-16</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <eccentricity>0.002</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.58</mass>
+    <temperature errorplus="92.0" errorminus="-94.0">4143.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
+    <planet>
+      <inclination errorplus="0.11" errorminus="-0.1">89.02</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.59</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <name>WASP-80 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.002</eccentricity>
+      <semimajoraxis errorplus="0.001" errorminus="-0.0011">0.0344</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="20.0" errorminus="-20.0">60.0</distance>
 </system>

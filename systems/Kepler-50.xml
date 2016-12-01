@@ -4,27 +4,27 @@
   <declination>50 02 01</declination>
   <star>
     <name>Kepler-50</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
-    <temperature errorplus="66.0" errorminus="-66.0">6225.0</temperature>
-    <planet>
-      <name>Kepler-50 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.014" errorminus="-0.023">0.087</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-50 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.012" errorminus="-0.02">0.077</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.24</mass>
+    <temperature errorplus="66.0" errorminus="-66.0">6225.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <name>Kepler-50 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.014" errorminus="-0.023">0.087</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.58</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <name>Kepler-50 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.012" errorminus="-0.02">0.077</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

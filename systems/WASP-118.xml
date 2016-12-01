@@ -4,19 +4,19 @@
   <declination>02 42 10</declination>
   <star>
     <name>WASP-118</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.7</radius>
-    <temperature errorplus="125.0" errorminus="-125.0">6410.0</temperature>
-    <planet>
-      <name>WASP-118 b</name>
-      <inclination errorplus="0.9" errorminus="-0.9">88.7</inclination>
-      <semimajoraxis errorplus="0.00048" errorminus="-0.00048">0.05453</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.7</radius>
-      <lastupdate>2016-09-08</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.32</mass>
+    <temperature errorplus="125.0" errorminus="-125.0">6410.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.7</radius>
+    <planet>
+      <inclination errorplus="0.9" errorminus="-0.9">88.7</inclination>
+      <radius errorplus="0.03" errorminus="-0.03">1.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <name>WASP-118 b</name>
+      <lastupdate>2016-09-08</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00048" errorminus="-0.00048">0.05453</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="35.0" errorminus="-35.0">250.0</distance>
 </system>

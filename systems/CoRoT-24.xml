@@ -4,29 +4,29 @@
   <declination>-3 43 09</declination>
   <star>
     <name>CoRoT-24</name>
-    <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
-    <temperature errorplus="150.0" errorminus="-150.0">4950.0</temperature>
-    <planet>
-      <name>CoRoT-24 c</name>
-      <inclination errorplus="1.0" errorminus="-1.6">89.0</inclination>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.098</semimajoraxis>
-      <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
-      <lastupdate>2014-06-11</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.8</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>CoRoT-24 b</name>
-      <inclination errorplus="2.0" errorminus="-2.0">86.5</inclination>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.056</semimajoraxis>
-      <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
-      <lastupdate>2014-06-11</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.09">0.91</mass>
+    <temperature errorplus="150.0" errorminus="-150.0">4950.0</temperature>
+    <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
+    <planet>
+      <inclination errorplus="2.0" errorminus="-2.0">86.5</inclination>
+      <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <name>CoRoT-24 b</name>
+      <lastupdate>2014-06-11</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.056</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="1.0" errorminus="-1.6">89.0</inclination>
+      <radius errorplus="0.09" errorminus="-0.09">0.86</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.8</period>
+      <name>CoRoT-24 c</name>
+      <lastupdate>2014-06-11</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.098</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="70.0" errorminus="-70.0">600.0</distance>
 </system>

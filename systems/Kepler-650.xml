@@ -4,18 +4,18 @@
   <declination>45 09 15</declination>
   <star>
     <name>Kepler-650</name>
-    <radius errorplus="0.23" errorminus="-0.21">1.35</radius>
-    <temperature errorplus="64.94" errorminus="-77.61">5849.0</temperature>
-    <planet>
-      <name>Kepler-650 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.23" errorminus="-0.21">1.35</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.05">1.08</mass>
+    <temperature errorplus="64.94" errorminus="-77.61">5849.0</temperature>
+    <radius errorplus="0.23" errorminus="-0.21">1.35</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.21">1.35</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <name>Kepler-650 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="138.42" errorminus="-122.22">805.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>51 46 43</declination>
   <star>
     <name>HAT-P-29</name>
-    <radius errorplus="0.13" errorminus="-0.07">1.22</radius>
-    <temperature errorplus="88.0" errorminus="-88.0">6087.0</temperature>
-    <planet>
-      <name>HAT-P-29 b</name>
-      <inclination errorplus="0.5" errorminus="-0.7">87.1</inclination>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0667</semimajoraxis>
-      <radius errorplus="0.13" errorminus="-0.07">1.22</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
-      <eccentricity>0.095</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.21</mass>
+    <temperature errorplus="88.0" errorminus="-88.0">6087.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.07">1.22</radius>
+    <planet>
+      <inclination errorplus="0.5" errorminus="-0.7">87.1</inclination>
+      <radius errorplus="0.13" errorminus="-0.07">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <name>HAT-P-29 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.095</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0667</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="35.0" errorminus="-21.0">322.0</distance>
 </system>

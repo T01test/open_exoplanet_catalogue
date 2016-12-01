@@ -4,27 +4,27 @@
   <declination>-12 11 14</declination>
   <star>
     <name>K2-62</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
-    <temperature errorplus="216.0" errorminus="-216.0">4880.0</temperature>
-    <planet>
-      <name>K2-62 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1148</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>K2-62 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0636</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.77</mass>
+    <temperature errorplus="216.0" errorminus="-216.0">4880.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.7</period>
+      <name>K2-62 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0636</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.2</period>
+      <name>K2-62 c</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1148</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

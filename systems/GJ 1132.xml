@@ -4,19 +4,19 @@
   <declination>-47 09 24</declination>
   <star>
     <name>GJ 1132</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
-    <temperature errorplus="140.0" errorminus="-140.0">3270.0</temperature>
-    <planet>
-      <name>GJ 1132 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
-      <lastupdate>2015-11-12</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.6</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.02">0.18</mass>
+    <temperature errorplus="140.0" errorminus="-140.0">3270.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.21</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <name>GJ 1132 b</name>
+      <lastupdate>2015-11-12</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="0.24" errorminus="-0.24">12.04</distance>
 </system>

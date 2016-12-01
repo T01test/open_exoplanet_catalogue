@@ -4,29 +4,29 @@
   <declination>20 26 56</declination>
   <star>
     <name>HD 4203</name>
-    <radius/>
-    <temperature>5702.0</temperature>
-    <planet>
-      <name>HD 4203 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0222" errorminus="-0.0222">1.1735</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">437.1</period>
-      <eccentricity>0.52</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 4203 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="1.93" errorminus="-0.56">6.95</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="4500.0" errorminus="-4500.0">6700.0</period>
-      <eccentricity>0.24</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.13</mass>
+    <temperature>5702.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="4500.0" errorminus="-4500.0">6700.0</period>
+      <name>HD 4203 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.24</eccentricity>
+      <semimajoraxis errorplus="1.93" errorminus="-0.56">6.95</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.3" errorminus="-0.3">437.1</period>
+      <name>HD 4203 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.52</eccentricity>
+      <semimajoraxis errorplus="0.0222" errorminus="-0.0222">1.1735</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="7.0" errorminus="-8.53">77.82</distance>
 </system>

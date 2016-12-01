@@ -4,18 +4,18 @@
   <declination>42 57 50</declination>
   <star>
     <name>Kepler-1411</name>
-    <radius errorplus="0.13" errorminus="-0.07">0.92</radius>
-    <temperature errorplus="67.78" errorminus="-68.48">5664.0</temperature>
-    <planet>
-      <name>Kepler-1411 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.07">0.92</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">86.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.06">0.95</mass>
+    <temperature errorplus="67.78" errorminus="-68.48">5664.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.07">0.92</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.07">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">86.1</period>
+      <name>Kepler-1411 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="206.8" errorminus="-116.99">1431.0</distance>
 </system>

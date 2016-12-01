@@ -4,19 +4,19 @@
   <declination>02 05 05</declination>
   <star>
     <name>HD 149143</name>
-    <radius/>
-    <temperature errorplus="150.0" errorminus="-150.0">5730.0</temperature>
-    <planet>
-      <name>HD 149143 b</name>
-      <inclination/>
-      <semimajoraxis>0.052</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
-      <eccentricity>0.08</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">1.1</mass>
+    <temperature errorplus="150.0" errorminus="-150.0">5730.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <name>HD 149143 b</name>
+      <lastupdate>2016-03-10</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.08</eccentricity>
+      <semimajoraxis>0.052</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="4.04" errorminus="-4.63">63.49</distance>
 </system>

@@ -4,36 +4,36 @@
   <declination>46 16 39</declination>
   <star>
     <name>Kepler-217</name>
-    <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
-    <temperature errorplus="109.0" errorminus="-109.0">6171.0</temperature>
-    <planet>
-      <name>Kepler-217 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-217 b</name>
-      <inclination/>
-      <semimajoraxis>0.065</semimajoraxis>
-      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-217 c</name>
-      <inclination/>
-      <semimajoraxis>0.089</semimajoraxis>
-      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="109.0" errorminus="-109.0">6171.0</temperature>
+    <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <name>Kepler-217 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.065</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <name>Kepler-217 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">1.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.6</period>
+      <name>Kepler-217 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.089</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

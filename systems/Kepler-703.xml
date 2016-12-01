@@ -4,18 +4,18 @@
   <declination>41 44 33</declination>
   <star>
     <name>Kepler-703</name>
-    <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
-    <temperature errorplus="197.61" errorminus="-248.39">6185.0</temperature>
-    <planet>
-      <name>Kepler-703 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.2" errorminus="-0.12">1.18</mass>
+    <temperature errorplus="197.61" errorminus="-248.39">6185.0</temperature>
+    <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <name>Kepler-703 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="656.01" errorminus="-269.87">1482.0</distance>
 </system>

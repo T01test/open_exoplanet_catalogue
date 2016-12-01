@@ -4,19 +4,19 @@
   <declination>63 36 36</declination>
   <star>
     <name>HD 113337</name>
-    <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
-    <temperature errorplus="153.2" errorminus="-149.7">6576.6</temperature>
-    <planet>
-      <name>HD 113337 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">0.92</semimajoraxis>
-      <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="1.7" errorminus="-3.3">324.0</period>
-      <eccentricity>0.46</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.14" errorminus="-0.14">1.4</mass>
+    <temperature errorplus="153.2" errorminus="-149.7">6576.6</temperature>
+    <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.15" errorminus="-0.15">1.5</radius>
+      <period errorplus="1.7" errorminus="-3.3">324.0</period>
+      <name>HD 113337 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.46</eccentricity>
+      <semimajoraxis errorplus="0.09" errorminus="-0.09">0.92</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.73" errorminus="-0.76">37.42</distance>
 </system>

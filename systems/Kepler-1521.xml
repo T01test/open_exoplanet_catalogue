@@ -4,18 +4,18 @@
   <declination>37 50 06</declination>
   <star>
     <name>Kepler-1521</name>
-    <radius errorplus="0.02" errorminus="-0.03">0.76</radius>
-    <temperature errorplus="73.64" errorminus="-58.14">5042.0</temperature>
-    <planet>
-      <name>Kepler-1521 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.03">0.76</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">47.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.81</mass>
+    <temperature errorplus="73.64" errorminus="-58.14">5042.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.03">0.76</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.03">0.76</radius>
+      <period errorplus="0.0" errorminus="-0.0">47.1</period>
+      <name>Kepler-1521 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="7.99" errorminus="-8.08">227.0</distance>
 </system>

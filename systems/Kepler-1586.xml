@@ -4,18 +4,18 @@
   <declination>44 55 32</declination>
   <star>
     <name>Kepler-1586</name>
-    <radius errorplus="0.69" errorminus="-0.37">1.75</radius>
-    <temperature errorplus="268.0" errorminus="-299.6">6681.0</temperature>
-    <planet>
-      <name>Kepler-1586 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.69" errorminus="-0.37">1.75</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.23" errorminus="-0.19">1.45</mass>
+    <temperature errorplus="268.0" errorminus="-299.6">6681.0</temperature>
+    <radius errorplus="0.69" errorminus="-0.37">1.75</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.69" errorminus="-0.37">1.75</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.6</period>
+      <name>Kepler-1586 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="335.34" errorminus="-189.39">864.0</distance>
 </system>

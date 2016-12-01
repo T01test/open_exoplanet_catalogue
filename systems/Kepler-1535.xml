@@ -4,18 +4,18 @@
   <declination>38 53 31</declination>
   <star>
     <name>Kepler-1535</name>
-    <radius errorplus="0.1" errorminus="-0.08">1.11</radius>
-    <temperature errorplus="94.56" errorminus="-92.04">6021.0</temperature>
-    <planet>
-      <name>Kepler-1535 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.08">1.11</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">138.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.08</mass>
+    <temperature errorplus="94.56" errorminus="-92.04">6021.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.08">1.11</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.08">1.11</radius>
+      <period errorplus="0.0" errorminus="-0.0">138.9</period>
+      <name>Kepler-1535 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="80.45" errorminus="-64.46">879.0</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>49 45 54</declination>
   <star>
     <name>Kepler-480</name>
-    <radius errorplus="0.14" errorminus="-0.1">1.34</radius>
-    <temperature errorplus="71.6" errorminus="-65.0">6322.0</temperature>
-    <planet>
-      <name>Kepler-480 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.14" errorminus="-0.1">1.34</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.04">1.25</mass>
+    <temperature errorplus="71.6" errorminus="-65.0">6322.0</temperature>
+    <radius errorplus="0.14" errorminus="-0.1">1.34</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.1">1.34</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <name>Kepler-480 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="83.12" errorminus="-61.43">806.0</distance>
 </system>

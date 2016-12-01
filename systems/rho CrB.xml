@@ -4,29 +4,29 @@
   <declination>33 18 12</declination>
   <star>
     <name>rho CrB</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
-    <planet>
-      <name>rho CrB c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">102.5</period>
-      <eccentricity>0.052</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>rho CrB b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">39.8</period>
-      <eccentricity>0.0373</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
+    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <period errorplus="0.2" errorminus="-0.2">102.5</period>
+      <name>rho CrB c</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.052</eccentricity>
+      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <period errorplus="0.0" errorminus="-0.0">39.8</period>
+      <name>rho CrB b</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.0373</eccentricity>
+      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
 </system>

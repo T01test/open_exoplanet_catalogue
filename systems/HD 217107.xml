@@ -4,29 +4,29 @@
   <declination>-2 23 43</declination>
   <star>
     <name>HD 217107</name>
-    <radius/>
-    <temperature>5646.0</temperature>
-    <planet>
-      <name>HD 217107 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0043" errorminus="-0.0043">0.0748</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <eccentricity>0.1267</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 217107 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.38" errorminus="-0.38">5.32</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="220.0" errorminus="-220.0">4270.0</period>
-      <eccentricity>0.517</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.02</mass>
+    <temperature>5646.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="220.0" errorminus="-220.0">4270.0</period>
+      <name>HD 217107 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.517</eccentricity>
+      <semimajoraxis errorplus="0.38" errorminus="-0.38">5.32</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <name>HD 217107 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.1267</eccentricity>
+      <semimajoraxis errorplus="0.0043" errorminus="-0.0043">0.0748</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.29" errorminus="-0.3">19.72</distance>
 </system>

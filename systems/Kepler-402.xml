@@ -4,45 +4,45 @@
   <declination>43 21 16</declination>
   <star>
     <name>Kepler-402</name>
-    <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
-    <temperature errorplus="120.0" errorminus="-120.0">6090.0</temperature>
-    <planet>
-      <name>Kepler-402 b</name>
-      <inclination/>
-      <semimajoraxis>0.051</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-402 c</name>
-      <inclination/>
-      <semimajoraxis>0.068</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-402 d</name>
-      <inclination/>
-      <semimajoraxis>0.087</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-402 e</name>
-      <inclination/>
-      <semimajoraxis>0.102</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="120.0" errorminus="-120.0">6090.0</temperature>
+    <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <name>Kepler-402 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.068</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.2</period>
+      <name>Kepler-402 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.102</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <name>Kepler-402 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.051</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <name>Kepler-402 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.087</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

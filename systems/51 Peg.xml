@@ -4,19 +4,19 @@
   <declination>20 46 07</declination>
   <star>
     <name>51 Peg</name>
-    <radius>1.2</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">5793.0</temperature>
-    <planet>
-      <name>51 Peg b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.0527</semimajoraxis>
-      <radius>1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <eccentricity>0.013</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.12</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">5793.0</temperature>
+    <radius>1.2</radius>
+    <planet>
+      <inclination/>
+      <radius>1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <name>51 Peg b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.013</eccentricity>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.0527</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.18" errorminus="-0.18">15.36</distance>
 </system>

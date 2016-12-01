@@ -4,36 +4,36 @@
   <declination>46 56 15</declination>
   <star>
     <name>Kepler-222</name>
-    <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5433.0</temperature>
-    <planet>
-      <name>Kepler-222 b</name>
-      <inclination/>
-      <semimajoraxis>0.048</semimajoraxis>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-222 c</name>
-      <inclination/>
-      <semimajoraxis>0.091</semimajoraxis>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-222 d</name>
-      <inclination/>
-      <semimajoraxis>0.18</semimajoraxis>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="200.0" errorminus="-200.0">5433.0</temperature>
+    <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.1</period>
+      <name>Kepler-222 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.091</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <name>Kepler-222 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.048</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">28.1</period>
+      <name>Kepler-222 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.18</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

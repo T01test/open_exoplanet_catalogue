@@ -4,29 +4,29 @@
   <declination>08 21 28</declination>
   <star>
     <name>HD 183263</name>
-    <radius/>
-    <temperature>5936.0</temperature>
-    <planet>
-      <name>HD 183263 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.28" errorminus="-0.28">4.35</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-07-23</lastupdate>
-      <period errorplus="110.0" errorminus="-110.0">3070.0</period>
-      <eccentricity>0.239</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 183263 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.087" errorminus="-0.087">1.51</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-07-23</lastupdate>
-      <period errorplus="1.1" errorminus="-1.1">626.5</period>
-      <eccentricity>0.3567</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">1.17</mass>
+    <temperature>5936.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="110.0" errorminus="-110.0">3070.0</period>
+      <name>HD 183263 c</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.239</eccentricity>
+      <semimajoraxis errorplus="0.28" errorminus="-0.28">4.35</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="1.1" errorminus="-1.1">626.5</period>
+      <name>HD 183263 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.3567</eccentricity>
+      <semimajoraxis errorplus="0.087" errorminus="-0.087">1.51</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.8" errorminus="-3.13">52.83</distance>
 </system>

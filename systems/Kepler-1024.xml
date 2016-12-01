@@ -4,18 +4,18 @@
   <declination>38 15 06</declination>
   <star>
     <name>Kepler-1024</name>
-    <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
-    <temperature errorplus="126.73" errorminus="-76.37">5143.0</temperature>
-    <planet>
-      <name>Kepler-1024 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">66.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.81</mass>
+    <temperature errorplus="126.73" errorminus="-76.37">5143.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.05">0.78</radius>
+      <period errorplus="0.0" errorminus="-0.0">66.4</period>
+      <name>Kepler-1024 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="64.86" errorminus="-69.53">1017.0</distance>
 </system>

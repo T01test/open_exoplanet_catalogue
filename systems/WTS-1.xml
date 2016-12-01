@@ -4,19 +4,19 @@
   <declination>36 17 25</declination>
   <star>
     <name>WTS-1</name>
-    <radius errorplus="0.1" errorminus="-0.12">1.15</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">6250.0</temperature>
-    <planet>
-      <name>WTS-1 b</name>
-      <inclination errorplus="1.0" errorminus="-0.7">85.5</inclination>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.047</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.12">1.15</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <eccentricity>0.1</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">1.2</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">6250.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.12">1.15</radius>
+    <planet>
+      <inclination errorplus="1.0" errorminus="-0.7">85.5</inclination>
+      <radius errorplus="0.1" errorminus="-0.12">1.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>WTS-1 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.1</eccentricity>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.047</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="900.0" errorminus="-400.0">3200.0</distance>
 </system>

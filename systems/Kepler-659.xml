@@ -4,18 +4,18 @@
   <declination>47 30 34</declination>
   <star>
     <name>Kepler-659</name>
-    <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
-    <temperature errorplus="49.22" errorminus="-56.1">4870.0</temperature>
-    <planet>
-      <name>Kepler-659 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.79</mass>
+    <temperature errorplus="49.22" errorminus="-56.1">4870.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+      <period errorplus="0.0" errorminus="-0.0">17.7</period>
+      <name>Kepler-659 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="28.16" errorminus="-34.77">688.0</distance>
 </system>

@@ -4,27 +4,27 @@
   <declination>47 54 30</declination>
   <star>
     <name>Kepler-369</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">3591.0</temperature>
-    <planet>
-      <name>Kepler-369 b</name>
-      <inclination/>
-      <semimajoraxis>0.03</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-369 c</name>
-      <inclination/>
-      <semimajoraxis>0.094</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.54</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">3591.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <name>Kepler-369 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.03</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.01" errorminus="-0.01">0.47</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.9</period>
+      <name>Kepler-369 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.094</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

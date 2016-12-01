@@ -4,18 +4,18 @@
   <declination>-27 42 43</declination>
   <star>
     <name>OGLE 2012-BLG-0563L</name>
-    <radius/>
-    <temperature/>
-    <planet>
-      <name>OGLE 2012-BLG-0563L b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.52" errorminus="-0.5">0.9</semimajoraxis>
-      <radius/>
-      <lastupdate>2015-08-13</lastupdate>
-      <period/>
-      <discoverymethod>microlensing</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.2">0.34</mass>
+    <temperature/>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period/>
+      <name>OGLE 2012-BLG-0563L b</name>
+      <lastupdate>2015-08-13</lastupdate>
+      <discoverymethod>microlensing</discoverymethod>
+      <semimajoraxis errorplus="0.52" errorminus="-0.5">0.9</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="600.0" errorminus="-800.0">1300.0</distance>
 </system>

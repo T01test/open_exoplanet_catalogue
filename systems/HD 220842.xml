@@ -4,19 +4,19 @@
   <declination>56 53 11</declination>
   <star>
     <name>HD 220842</name>
-    <radius/>
-    <temperature errorplus="20.0" errorminus="-20.0">5960.0</temperature>
-    <planet>
-      <name>HD 220842 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.018" errorminus="-0.018">0.74</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-02-25</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">218.5</period>
-      <eccentricity>0.404</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.13</mass>
+    <temperature errorplus="20.0" errorminus="-20.0">5960.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.2" errorminus="-0.2">218.5</period>
+      <name>HD 220842 b</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.404</eccentricity>
+      <semimajoraxis errorplus="0.018" errorminus="-0.018">0.74</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.8" errorminus="-2.8">62.5</distance>
 </system>

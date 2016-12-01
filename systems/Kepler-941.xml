@@ -4,18 +4,18 @@
   <declination>47 13 03</declination>
   <star>
     <name>Kepler-941</name>
-    <radius errorplus="0.1" errorminus="-0.08">0.86</radius>
-    <temperature errorplus="154.02" errorminus="-104.04">5539.0</temperature>
-    <planet>
-      <name>Kepler-941 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.08">0.86</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.07">0.89</mass>
+    <temperature errorplus="154.02" errorminus="-104.04">5539.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.08">0.86</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.08">0.86</radius>
+      <period errorplus="0.0" errorminus="-0.0">17.4</period>
+      <name>Kepler-941 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="129.33" errorminus="-106.83">1105.0</distance>
 </system>

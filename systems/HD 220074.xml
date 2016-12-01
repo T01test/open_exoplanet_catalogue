@@ -4,19 +4,19 @@
   <declination>61 58 12</declination>
   <star>
     <name>HD 220074</name>
-    <radius errorplus="9.5" errorminus="-9.5">49.7</radius>
-    <temperature errorplus="110.0" errorminus="-110.0">3935.0</temperature>
-    <planet>
-      <name>HD 220074 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.6</semimajoraxis>
-      <radius errorplus="9.5" errorminus="-9.5">49.7</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="3.7" errorminus="-3.7">672.1</period>
-      <eccentricity>0.14</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.3" errorminus="-0.3">1.2</mass>
+    <temperature errorplus="110.0" errorminus="-110.0">3935.0</temperature>
+    <radius errorplus="9.5" errorminus="-9.5">49.7</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="9.5" errorminus="-9.5">49.7</radius>
+      <period errorplus="3.7" errorminus="-3.7">672.1</period>
+      <name>HD 220074 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.14</eccentricity>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.6</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="42.71" errorminus="-60.63">289.02</distance>
 </system>

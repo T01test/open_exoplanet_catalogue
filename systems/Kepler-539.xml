@@ -4,29 +4,29 @@
   <declination>41 52 00</declination>
   <star>
     <name>Kepler-539</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
-    <planet>
-      <name>Kepler-539 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period>1000.0</period>
-      <eccentricity>0.5</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-539 b</name>
-      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
-      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">125.6</period>
-      <eccentricity>0.39</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
+    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <period>1000.0</period>
+      <name>Kepler-539 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.5</eccentricity>
+      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <period errorplus="0.0" errorminus="-0.0">125.6</period>
+      <name>Kepler-539 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.39</eccentricity>
+      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
 </system>

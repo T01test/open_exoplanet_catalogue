@@ -4,45 +4,45 @@
   <declination>46 53 44</declination>
   <star>
     <name>Kepler-220</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4632.0</temperature>
-    <planet>
-      <name>Kepler-220 b</name>
-      <inclination/>
-      <semimajoraxis>0.046</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-220 c</name>
-      <inclination/>
-      <semimajoraxis>0.076</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-220 d</name>
-      <inclination/>
-      <semimajoraxis>0.163</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-220 e</name>
-      <inclination/>
-      <semimajoraxis>0.226</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">45.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="100.0" errorminus="-100.0">4632.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">28.1</period>
+      <name>Kepler-220 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.163</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.0</period>
+      <name>Kepler-220 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.076</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <name>Kepler-220 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.046</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">45.9</period>
+      <name>Kepler-220 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.226</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

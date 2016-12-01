@@ -4,45 +4,45 @@
   <declination>43 51 11</declination>
   <star>
     <name>Kepler-176</name>
-    <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5232.0</temperature>
-    <planet>
-      <name>Kepler-176 c</name>
-      <inclination/>
-      <semimajoraxis>0.102</semimajoraxis>
-      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-176 b</name>
-      <inclination/>
-      <semimajoraxis>0.058</semimajoraxis>
-      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-176 d</name>
-      <inclination/>
-      <semimajoraxis>0.163</semimajoraxis>
-      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-176 e</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">51.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="200.0" errorminus="-200.0">5232.0</temperature>
+    <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">25.8</period>
+      <name>Kepler-176 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.163</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">51.2</period>
+      <name>Kepler-176 e</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">12.8</period>
+      <name>Kepler-176 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.102</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.46">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <name>Kepler-176 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.058</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

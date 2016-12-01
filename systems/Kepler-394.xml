@@ -4,27 +4,27 @@
   <declination>50 40 20</declination>
   <star>
     <name>Kepler-394</name>
-    <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">6402.0</temperature>
-    <planet>
-      <name>Kepler-394 b</name>
-      <inclination/>
-      <semimajoraxis>0.083</semimajoraxis>
-      <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-394 c</name>
-      <inclination/>
-      <semimajoraxis>0.11</semimajoraxis>
-      <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.11</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">6402.0</temperature>
+    <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <name>Kepler-394 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.083</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.58" errorminus="-0.58">1.13</radius>
+      <period errorplus="0.0" errorminus="-0.0">12.1</period>
+      <name>Kepler-394 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.11</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

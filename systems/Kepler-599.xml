@@ -4,18 +4,18 @@
   <declination>41 04 09</declination>
   <star>
     <name>Kepler-599</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
-    <temperature errorplus="78.75" errorminus="-90.28">5127.0</temperature>
-    <planet>
-      <name>Kepler-599 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.83</mass>
+    <temperature errorplus="78.75" errorminus="-90.28">5127.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.7</period>
+      <name>Kepler-599 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="35.42" errorminus="-32.17">627.0</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>38 36 18</declination>
   <star>
     <name>KIC 3558849</name>
-    <radius errorplus="0.11" errorminus="-0.11">1.01</radius>
-    <temperature errorplus="168.0" errorminus="-194.0">6175.0</temperature>
-    <planet>
-      <name>KIC 3558849 b</name>
-      <inclination errorplus="0.023" errorminus="-0.031">89.973</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.11" errorminus="-0.11">1.01</radius>
-      <lastupdate>2016-01-05</lastupdate>
-      <period errorplus="386.1" errorminus="-11.2">1322.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.11">0.98</mass>
+    <temperature errorplus="168.0" errorminus="-194.0">6175.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.11">1.01</radius>
+    <planet>
+      <inclination errorplus="0.023" errorminus="-0.031">89.973</inclination>
+      <radius errorplus="0.11" errorminus="-0.11">1.01</radius>
+      <period errorplus="386.1" errorminus="-11.2">1322.3</period>
+      <name>KIC 3558849 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

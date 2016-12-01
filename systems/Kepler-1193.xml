@@ -4,18 +4,18 @@
   <declination>51 16 32</declination>
   <star>
     <name>Kepler-1193</name>
-    <radius errorplus="0.19" errorminus="-0.15">1.21</radius>
-    <temperature errorplus="75.02" errorminus="-61.06">5908.0</temperature>
-    <planet>
-      <name>Kepler-1193 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.19" errorminus="-0.15">1.21</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.04">1.08</mass>
+    <temperature errorplus="75.02" errorminus="-61.06">5908.0</temperature>
+    <radius errorplus="0.19" errorminus="-0.15">1.21</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.15">1.21</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <name>Kepler-1193 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="106.86" errorminus="-84.07">695.0</distance>
 </system>

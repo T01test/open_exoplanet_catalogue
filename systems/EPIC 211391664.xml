@@ -4,19 +4,19 @@
   <declination>11 30 40</declination>
   <star>
     <name>EPIC 211391664</name>
-    <radius errorplus="0.08" errorminus="-0.05">1.31</radius>
-    <temperature errorplus="80.0" errorminus="-80.0">6120.0</temperature>
-    <planet>
-      <name>EPIC 211391664 b</name>
-      <inclination errorplus="0.5" errorminus="-0.7">89.0</inclination>
-      <semimajoraxis errorplus="0.0061" errorminus="-0.0052">0.0943</semimajoraxis>
-      <radius errorplus="0.08" errorminus="-0.05">1.31</radius>
-      <lastupdate>2016-09-29</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.1</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.07</mass>
+    <temperature errorplus="80.0" errorminus="-80.0">6120.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.05">1.31</radius>
+    <planet>
+      <inclination errorplus="0.5" errorminus="-0.7">89.0</inclination>
+      <radius errorplus="0.08" errorminus="-0.05">1.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.1</period>
+      <name>EPIC 211391664 b</name>
+      <lastupdate>2016-09-29</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0061" errorminus="-0.0052">0.0943</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="30.0" errorminus="-15.0">435.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>-19 36 16</declination>
   <star>
     <name>HD 9174</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5577.0</temperature>
-    <planet>
-      <name>HD 9174 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">2.2</semimajoraxis>
-      <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
-      <lastupdate>2016-11-10</lastupdate>
-      <period errorplus="34.0" errorminus="-34.0">1179.0</period>
-      <eccentricity>0.12</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.03</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5577.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.07">1.67</radius>
+      <period errorplus="34.0" errorminus="-34.0">1179.0</period>
+      <name>HD 9174 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.12</eccentricity>
+      <semimajoraxis errorplus="0.09" errorminus="-0.09">2.2</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="3.86" errorminus="-3.86">78.93</distance>
 </system>

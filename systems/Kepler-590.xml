@@ -4,18 +4,18 @@
   <declination>48 14 00</declination>
   <star>
     <name>Kepler-590</name>
-    <radius errorplus="0.31" errorminus="-0.14">1.15</radius>
-    <temperature errorplus="107.67" errorminus="-147.47">6000.0</temperature>
-    <planet>
-      <name>Kepler-590 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.31" errorminus="-0.14">1.15</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.08">1.1</mass>
+    <temperature errorplus="107.67" errorminus="-147.47">6000.0</temperature>
+    <radius errorplus="0.31" errorminus="-0.14">1.15</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.31" errorminus="-0.14">1.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <name>Kepler-590 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="262.25" errorminus="-126.89">986.0</distance>
 </system>

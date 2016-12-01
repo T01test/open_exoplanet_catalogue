@@ -4,18 +4,18 @@
   <declination>46 03 27</declination>
   <star>
     <name>Kepler-1156</name>
-    <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
-    <temperature errorplus="67.42" errorminus="-59.01">5778.0</temperature>
-    <planet>
-      <name>Kepler-1156 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">1.0</mass>
+    <temperature errorplus="67.42" errorminus="-59.01">5778.0</temperature>
+    <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.06">1.0</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <name>Kepler-1156 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="70.51" errorminus="-48.89">759.0</distance>
 </system>

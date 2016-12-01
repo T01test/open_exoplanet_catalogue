@@ -4,28 +4,28 @@
   <declination>38 40 20</declination>
   <star>
     <name>Kepler-93</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-    <temperature errorplus="75.0" errorminus="-75.0">5669.0</temperature>
-    <planet>
-      <name>Kepler-93 b</name>
-      <inclination errorplus="0.044" errorminus="-0.044">89.183</inclination>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-      <lastupdate>2015-04-16</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.7</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-93 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>1460.0</period>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
+    <temperature errorplus="75.0" errorminus="-75.0">5669.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+    <planet>
+      <inclination errorplus="0.044" errorminus="-0.044">89.183</inclination>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <name>Kepler-93 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <period>1460.0</period>
+      <name>Kepler-93 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

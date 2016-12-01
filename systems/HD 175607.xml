@@ -4,19 +4,19 @@
   <declination>-66 11 33</declination>
   <star>
     <name>HD 175607</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
-    <temperature errorplus="17.0" errorminus="-17.0">5392.0</temperature>
-    <planet>
-      <name>HD 175607 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
-      <lastupdate>2015-11-19</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">29.0</period>
-      <eccentricity>0.11</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.01" errorminus="-0.01">0.71</mass>
+    <temperature errorplus="17.0" errorminus="-17.0">5392.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.01" errorminus="-0.01">0.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">29.0</period>
+      <name>HD 175607 b</name>
+      <lastupdate>2015-11-19</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.11</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="2.07" errorminus="-2.07">45.27</distance>
 </system>

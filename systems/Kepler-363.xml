@@ -4,36 +4,36 @@
   <declination>41 18 19</declination>
   <star>
     <name>Kepler-363</name>
-    <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5593.0</temperature>
-    <planet>
-      <name>Kepler-363 c</name>
-      <inclination/>
-      <semimajoraxis>0.079</semimajoraxis>
-      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-363 b</name>
-      <inclination/>
-      <semimajoraxis>0.048</semimajoraxis>
-      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-363 d</name>
-      <inclination/>
-      <semimajoraxis>0.107</semimajoraxis>
-      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.23</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5593.0</temperature>
+    <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <name>Kepler-363 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.107</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.5</period>
+      <name>Kepler-363 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.079</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.23">1.49</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <name>Kepler-363 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.048</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

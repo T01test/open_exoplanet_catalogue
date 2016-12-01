@@ -4,19 +4,19 @@
   <declination>33 52 56</declination>
   <star>
     <name>WASP-13</name>
-    <radius errorplus="0.04">1.56</radius>
-    <temperature errorplus="100.0">5826.0</temperature>
-    <planet>
-      <name>WASP-13 b</name>
-      <inclination errorplus="0.26" errorminus="-0.26">85.19</inclination>
-      <semimajoraxis errorplus="0.00074" errorminus="-0.00085">0.05362</semimajoraxis>
-      <radius errorplus="0.04">1.56</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05">1.09</mass>
+    <temperature errorplus="100.0">5826.0</temperature>
+    <radius errorplus="0.04">1.56</radius>
+    <planet>
+      <inclination errorplus="0.26" errorminus="-0.26">85.19</inclination>
+      <radius errorplus="0.04">1.56</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.4</period>
+      <name>WASP-13 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00085">0.05362</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="18.0" errorminus="-18.0">155.0</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>38 50 32</declination>
   <star>
     <name>Kepler-785</name>
-    <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
-    <temperature errorplus="115.49" errorminus="-69.98">4739.0</temperature>
-    <planet>
-      <name>Kepler-785 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.77</mass>
+    <temperature errorplus="115.49" errorminus="-69.98">4739.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.03">0.71</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.0</period>
+      <name>Kepler-785 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="28.64" errorminus="-30.11">666.0</distance>
 </system>

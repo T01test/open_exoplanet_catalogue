@@ -4,27 +4,27 @@
   <declination>46 52 53</declination>
   <star>
     <name>Kepler-990</name>
-    <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
-    <temperature errorplus="211.07" errorminus="-213.6">5948.0</temperature>
-    <planet>
-      <name>Kepler-990 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-990 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.09">1.05</mass>
+    <temperature errorplus="211.07" errorminus="-213.6">5948.0</temperature>
+    <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.9</period>
+      <name>Kepler-990 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.5</period>
+      <name>Kepler-990 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="242.95" errorminus="-130.03">933.0</distance>
 </system>

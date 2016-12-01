@@ -4,18 +4,18 @@
   <declination>41 02 17</declination>
   <star>
     <name>Kepler-1458</name>
-    <radius errorplus="0.14" errorminus="-0.07">0.94</radius>
-    <temperature errorplus="119.66" errorminus="-136.13">5653.0</temperature>
-    <planet>
-      <name>Kepler-1458 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.14" errorminus="-0.07">0.94</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">48.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.96</mass>
+    <temperature errorplus="119.66" errorminus="-136.13">5653.0</temperature>
+    <radius errorplus="0.14" errorminus="-0.07">0.94</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.07">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">48.0</period>
+      <name>Kepler-1458 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="94.88" errorminus="-53.51">642.0</distance>
 </system>

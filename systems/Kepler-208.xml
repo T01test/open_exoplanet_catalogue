@@ -4,45 +4,45 @@
   <declination>42 31 40</declination>
   <star>
     <name>Kepler-208</name>
-    <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">6092.0</temperature>
-    <planet>
-      <name>Kepler-208 d</name>
-      <inclination/>
-      <semimajoraxis>0.103</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-208 b</name>
-      <inclination/>
-      <semimajoraxis>0.054</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-208 e</name>
-      <inclination/>
-      <semimajoraxis>0.132</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-208 c</name>
-      <inclination/>
-      <semimajoraxis>0.079</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.03</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">6092.0</temperature>
+    <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <name>Kepler-208 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.054</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.3</period>
+      <name>Kepler-208 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.132</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.5</period>
+      <name>Kepler-208 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.079</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.1</period>
+      <name>Kepler-208 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.103</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

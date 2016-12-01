@@ -4,18 +4,18 @@
   <declination>46 00 20</declination>
   <star>
     <name>Kepler-1087</name>
-    <radius errorplus="0.26" errorminus="-0.07">0.94</radius>
-    <temperature errorplus="122.9" errorminus="-191.41">5589.0</temperature>
-    <planet>
-      <name>Kepler-1087 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.26" errorminus="-0.07">0.94</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.07" errorminus="-0.06">0.96</mass>
+    <temperature errorplus="122.9" errorminus="-191.41">5589.0</temperature>
+    <radius errorplus="0.26" errorminus="-0.07">0.94</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.07">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <name>Kepler-1087 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="96.95" errorminus="-30.96">354.0</distance>
 </system>

@@ -4,27 +4,27 @@
   <declination>41 05 33</declination>
   <star>
     <name>KOI-55</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
-    <temperature errorplus="270.0" errorminus="-270.0">27730.0</temperature>
-    <planet>
-      <name>KOI-55 b</name>
-      <inclination>65.0</inclination>
-      <semimajoraxis>0.006</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.2</period>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-55 c</name>
-      <inclination>65.0</inclination>
-      <semimajoraxis>0.0076</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.3</period>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-    </planet>
     <mass errorplus="0.0" errorminus="-0.0">0.5</mass>
+    <temperature errorplus="270.0" errorminus="-270.0">27730.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+    <planet>
+      <inclination>65.0</inclination>
+      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.2</period>
+      <name>KOI-55 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <semimajoraxis>0.006</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination>65.0</inclination>
+      <radius errorplus="0.01" errorminus="-0.01">0.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.3</period>
+      <name>KOI-55 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <semimajoraxis>0.0076</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="95.0" errorminus="-95.0">1180.0</distance>
 </system>

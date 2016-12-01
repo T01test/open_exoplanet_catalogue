@@ -4,29 +4,29 @@
   <declination>47 21 07</declination>
   <star>
     <name>HAT-P-13</name>
-    <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-    <temperature errorplus="90.0" errorminus="-90.0">5653.0</temperature>
-    <planet>
-      <name>HAT-P-13 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <lastupdate>2014-05-16</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">446.3</period>
-      <eccentricity>0.6616</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HAT-P-13 b</name>
-      <inclination errorplus="0.68" errorminus="-0.68">83.4</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <lastupdate>2014-10-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <eccentricity>0.0133</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.1">1.22</mass>
+    <temperature errorplus="90.0" errorminus="-90.0">5653.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
+      <period errorplus="0.2" errorminus="-0.2">446.3</period>
+      <name>HAT-P-13 c</name>
+      <lastupdate>2014-05-16</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.6616</eccentricity>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination errorplus="0.68" errorminus="-0.68">83.4</inclination>
+      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <name>HAT-P-13 b</name>
+      <lastupdate>2014-10-15</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0133</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="12.0" errorminus="-12.0">214.0</distance>
 </system>

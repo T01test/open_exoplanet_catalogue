@@ -4,27 +4,27 @@
   <declination>47 58 00</declination>
   <star>
     <name>Kepler-195</name>
-    <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5329.0</temperature>
-    <planet>
-      <name>Kepler-195 c</name>
-      <inclination/>
-      <semimajoraxis>0.197</semimajoraxis>
-      <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">34.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-195 b</name>
-      <inclination/>
-      <semimajoraxis>0.077</semimajoraxis>
-      <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="200.0" errorminus="-200.0">5329.0</temperature>
+    <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.3</period>
+      <name>Kepler-195 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.077</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.28" errorminus="-0.28">0.78</radius>
+      <period errorplus="0.0" errorminus="-0.0">34.1</period>
+      <name>Kepler-195 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.197</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

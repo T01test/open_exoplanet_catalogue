@@ -4,45 +4,45 @@
   <declination>48 34 49</declination>
   <star>
     <name>Kepler-299</name>
-    <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
-    <temperature errorplus="112.0" errorminus="-112.0">5617.0</temperature>
-    <planet>
-      <name>Kepler-299 d</name>
-      <inclination/>
-      <semimajoraxis>0.118</semimajoraxis>
-      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-299 b</name>
-      <inclination/>
-      <semimajoraxis>0.04</semimajoraxis>
-      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-299 c</name>
-      <inclination/>
-      <semimajoraxis>0.07</semimajoraxis>
-      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-299 e</name>
-      <inclination/>
-      <semimajoraxis>0.22</semimajoraxis>
-      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">38.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.97</mass>
+    <temperature errorplus="112.0" errorminus="-112.0">5617.0</temperature>
+    <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.9</period>
+      <name>Kepler-299 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.07</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.1</period>
+      <name>Kepler-299 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.118</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">38.3</period>
+      <name>Kepler-299 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.22</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <name>Kepler-299 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.04</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,36 +4,36 @@
   <declination>49 13 58</declination>
   <star>
     <name>Kepler-301</name>
-    <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5815.0</temperature>
-    <planet>
-      <name>Kepler-301 c</name>
-      <inclination/>
-      <semimajoraxis>0.06</semimajoraxis>
-      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-301 d</name>
-      <inclination/>
-      <semimajoraxis>0.112</semimajoraxis>
-      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-301 b</name>
-      <inclination/>
-      <semimajoraxis>0.036</semimajoraxis>
-      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.91</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">5815.0</temperature>
+    <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <name>Kepler-301 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.06</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <name>Kepler-301 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.036</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.48" errorminus="-0.48">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.8</period>
+      <name>Kepler-301 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.112</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

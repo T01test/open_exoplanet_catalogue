@@ -4,18 +4,18 @@
   <declination>49 31 59</declination>
   <star>
     <name>Kepler-922</name>
-    <radius errorplus="0.11" errorminus="-0.07">0.93</radius>
-    <temperature errorplus="64.06" errorminus="-65.37">5671.0</temperature>
-    <planet>
-      <name>Kepler-922 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.11" errorminus="-0.07">0.93</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.95</mass>
+    <temperature errorplus="64.06" errorminus="-65.37">5671.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.07">0.93</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.11" errorminus="-0.07">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.9</period>
+      <name>Kepler-922 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="68.3" errorminus="-45.13">558.0</distance>
 </system>

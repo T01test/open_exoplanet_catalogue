@@ -4,18 +4,18 @@
   <declination>-6 05 12</declination>
   <star>
     <name>K2-76</name>
-    <radius errorplus="0.12" errorminus="-0.12">1.28</radius>
-    <temperature errorplus="90.0" errorminus="-90.0">5806.0</temperature>
-    <planet>
-      <name>K2-76 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.1638</semimajoraxis>
-      <radius errorplus="0.12" errorminus="-0.12">1.28</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.02</mass>
+    <temperature errorplus="90.0" errorminus="-90.0">5806.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.12">1.28</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.12">1.28</radius>
+      <period errorplus="0.0" errorminus="-0.0">24.0</period>
+      <name>K2-76 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.1638</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

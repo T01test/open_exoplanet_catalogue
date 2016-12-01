@@ -4,28 +4,28 @@
   <declination>50 14 28</declination>
   <star>
     <name>Kepler-10</name>
-    <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">5627.0</temperature>
-    <planet>
-      <name>Kepler-10 c</name>
-      <inclination errorplus="0.25" errorminus="-0.43">89.59</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
-      <lastupdate>2014-06-02</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">45.3</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-10 b</name>
-      <inclination errorplus="3.4" errorminus="-4.3">85.1</inclination>
-      <semimajoraxis errorplus="0.00081" errorminus="-0.00168">0.0172</semimajoraxis>
-      <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.02">0.91</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5627.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
+    <planet>
+      <inclination errorplus="0.25" errorminus="-0.43">89.59</inclination>
+      <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
+      <period errorplus="0.0" errorminus="-0.0">45.3</period>
+      <name>Kepler-10 c</name>
+      <lastupdate>2014-06-02</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination errorplus="3.4" errorminus="-4.3">85.1</inclination>
+      <radius errorplus="0.01" errorminus="-0.01">1.06</radius>
+      <period errorplus="0.0" errorminus="-0.0">0.8</period>
+      <name>Kepler-10 b</name>
+      <lastupdate>2015-10-15</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00081" errorminus="-0.00168">0.0172</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="27.0" errorminus="-27.0">173.0</distance>
 </system>

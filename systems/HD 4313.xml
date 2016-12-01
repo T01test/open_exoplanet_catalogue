@@ -4,19 +4,19 @@
   <declination>07 50 42</declination>
   <star>
     <name>HD 4313</name>
-    <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">5035.0</temperature>
-    <planet>
-      <name>HD 4313 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.19</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="2.6" errorminus="-2.6">356.0</period>
-      <eccentricity>0.041</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.12">1.72</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5035.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.1">4.9</radius>
+      <period errorplus="2.6" errorminus="-2.6">356.0</period>
+      <name>HD 4313 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.041</eccentricity>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.19</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="14.45" errorminus="-18.52">131.41</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>46 44 10</declination>
   <star>
     <name>Kepler-936</name>
-    <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
-    <temperature errorplus="99.27" errorminus="-127.57">5482.0</temperature>
-    <planet>
-      <name>Kepler-936 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.92</mass>
+    <temperature errorplus="99.27" errorminus="-127.57">5482.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.11" errorminus="-0.06">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
+      <name>Kepler-936 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="87.73" errorminus="-47.53">687.0</distance>
 </system>

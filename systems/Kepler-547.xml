@@ -4,18 +4,18 @@
   <declination>44 20 43</declination>
   <star>
     <name>Kepler-547</name>
-    <radius errorplus="0.02" errorminus="-0.04">0.73</radius>
-    <temperature errorplus="40.1" errorminus="-46.81">4828.0</temperature>
-    <planet>
-      <name>Kepler-547 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.04">0.73</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.78</mass>
+    <temperature errorplus="40.1" errorminus="-46.81">4828.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.04">0.73</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.04">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.0</period>
+      <name>Kepler-547 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="14.14" errorminus="-18.66">361.0</distance>
 </system>

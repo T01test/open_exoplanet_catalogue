@@ -4,18 +4,18 @@
   <declination>51 41 44</declination>
   <star>
     <name>Kepler-897</name>
-    <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
-    <temperature errorplus="103.48" errorminus="-143.96">5839.0</temperature>
-    <planet>
-      <name>Kepler-897 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.07">1.03</mass>
+    <temperature errorplus="103.48" errorminus="-143.96">5839.0</temperature>
+    <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <name>Kepler-897 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="311.52" errorminus="-127.69">1147.0</distance>
 </system>

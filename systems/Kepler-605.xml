@@ -4,27 +4,27 @@
   <declination>43 16 47</declination>
   <star>
     <name>Kepler-605</name>
-    <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
-    <temperature errorplus="67.28" errorminus="-73.73">5462.0</temperature>
-    <planet>
-      <name>Kepler-605 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-605 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.91</mass>
+    <temperature errorplus="67.28" errorminus="-73.73">5462.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <name>Kepler-605 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.05">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>Kepler-605 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="63.27" errorminus="-36.29">570.0</distance>
 </system>

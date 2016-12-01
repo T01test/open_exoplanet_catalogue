@@ -4,36 +4,36 @@
   <declination>45 51 11</declination>
   <star>
     <name>Kepler-31</name>
-    <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">6340.0</temperature>
-    <planet>
-      <name>Kepler-31 d</name>
-      <inclination/>
-      <semimajoraxis>0.4</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-      <lastupdate>2016-03-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">87.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-31 b</name>
-      <inclination/>
-      <semimajoraxis>0.16</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-31 c</name>
-      <inclination/>
-      <semimajoraxis>0.26</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">42.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.17" errorminus="-0.17">1.21</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">6340.0</temperature>
+    <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">87.6</period>
+      <name>Kepler-31 d</name>
+      <lastupdate>2016-03-24</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.4</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">20.9</period>
+      <name>Kepler-31 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.16</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">42.6</period>
+      <name>Kepler-31 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.26</semimajoraxis>
+    </planet>
   </star>
   <distance>2100.0</distance>
 </system>

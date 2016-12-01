@@ -4,19 +4,19 @@
   <declination>-61 05 42</declination>
   <star>
     <name>OGLE-TR-182</name>
-    <radius errorplus="0.23">1.14</radius>
-    <temperature errorplus="64.0">5924.0</temperature>
-    <planet>
-      <name>OGLE-TR-182 b</name>
-      <inclination errorplus="0.3" errorminus="-0.3">85.7</inclination>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.051</semimajoraxis>
-      <radius errorplus="0.23">1.14</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05">1.14</mass>
+    <temperature errorplus="64.0">5924.0</temperature>
+    <radius errorplus="0.23">1.14</radius>
+    <planet>
+      <inclination errorplus="0.3" errorminus="-0.3">85.7</inclination>
+      <radius errorplus="0.23">1.14</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <name>OGLE-TR-182 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.051</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

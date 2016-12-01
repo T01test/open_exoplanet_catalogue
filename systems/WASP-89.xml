@@ -4,19 +4,19 @@
   <declination>-18 58 15</declination>
   <star>
     <name>WASP-89</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.88</radius>
-    <temperature errorplus="90.0" errorminus="-90.0">5130.0</temperature>
-    <planet>
-      <name>WASP-89 b</name>
-      <inclination errorplus="0.5" errorminus="-0.5">89.4</inclination>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0427</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.88</radius>
-      <lastupdate>2015-07-09</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <eccentricity>0.193</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.08">0.92</mass>
+    <temperature errorplus="90.0" errorminus="-90.0">5130.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.88</radius>
+    <planet>
+      <inclination errorplus="0.5" errorminus="-0.5">89.4</inclination>
+      <radius errorplus="0.03" errorminus="-0.03">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>WASP-89 b</name>
+      <lastupdate>2015-07-09</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.193</eccentricity>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0427</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,27 +4,27 @@
   <declination>41 13 19</declination>
   <star>
     <name>Kepler-487</name>
-    <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
-    <temperature errorplus="89.78" errorminus="-77.87">5444.0</temperature>
-    <planet>
-      <name>Kepler-487 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">38.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-487 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.91</mass>
+    <temperature errorplus="89.78" errorminus="-77.87">5444.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">38.7</period>
+      <name>Kepler-487 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.04">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.4</period>
+      <name>Kepler-487 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="52.42" errorminus="-42.92">835.0</distance>
 </system>

@@ -4,29 +4,29 @@
   <declination>48 02 24</declination>
   <star>
     <name>Kepler-117</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
-    <temperature errorplus="110.0" errorminus="-110.0">6150.0</temperature>
-    <planet>
-      <name>Kepler-117 b</name>
-      <inclination errorplus="0.12" errorminus="-0.12">88.74</inclination>
-      <semimajoraxis errorplus="0.0047" errorminus="-0.0014">0.1445</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.8</period>
-      <eccentricity>0.0493</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-117 c</name>
-      <inclination errorplus="0.1" errorminus="-0.1">89.64</inclination>
-      <semimajoraxis errorplus="0.0092" errorminus="-0.0028">0.2804</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">50.8</period>
-      <eccentricity>0.0323</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13" errorminus="-0.02">1.13</mass>
+    <temperature errorplus="110.0" errorminus="-110.0">6150.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
+    <planet>
+      <inclination errorplus="0.12" errorminus="-0.12">88.74</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.8</period>
+      <name>Kepler-117 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0493</eccentricity>
+      <semimajoraxis errorplus="0.0047" errorminus="-0.0014">0.1445</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.1" errorminus="-0.1">89.64</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">1.61</radius>
+      <period errorplus="0.0" errorminus="-0.0">50.8</period>
+      <name>Kepler-117 c</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0323</eccentricity>
+      <semimajoraxis errorplus="0.0092" errorminus="-0.0028">0.2804</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="50.0" errorminus="-50.0">1430.0</distance>
 </system>

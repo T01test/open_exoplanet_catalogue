@@ -4,19 +4,19 @@
   <declination>-64 42 45</declination>
   <star>
     <name>HIP 107773</name>
-    <radius errorplus="1.4" errorminus="-1.4">11.6</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4945.0</temperature>
-    <planet>
-      <name>HIP 107773 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.72</semimajoraxis>
-      <radius errorplus="1.4" errorminus="-1.4">11.6</radius>
-      <lastupdate>2015-06-04</lastupdate>
-      <period errorplus="0.5" errorminus="-0.5">144.3</period>
-      <eccentricity>0.09</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.27" errorminus="-0.27">2.42</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">4945.0</temperature>
+    <radius errorplus="1.4" errorminus="-1.4">11.6</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="1.4" errorminus="-1.4">11.6</radius>
+      <period errorplus="0.5" errorminus="-0.5">144.3</period>
+      <name>HIP 107773 b</name>
+      <lastupdate>2015-06-04</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.09</eccentricity>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.72</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,27 +4,27 @@
   <declination>50 35 10</declination>
   <star>
     <name>Kepler-182</name>
-    <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">6250.0</temperature>
-    <planet>
-      <name>Kepler-182 c</name>
-      <inclination/>
-      <semimajoraxis>0.157</semimajoraxis>
-      <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-182 b</name>
-      <inclination/>
-      <semimajoraxis>0.096</semimajoraxis>
-      <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.14</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">6250.0</temperature>
+    <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">20.7</period>
+      <name>Kepler-182 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.157</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.51" errorminus="-0.51">1.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.8</period>
+      <name>Kepler-182 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.096</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

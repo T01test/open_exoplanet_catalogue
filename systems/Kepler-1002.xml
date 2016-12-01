@@ -4,18 +4,18 @@
   <declination>43 04 25</declination>
   <star>
     <name>Kepler-1002</name>
-    <radius errorplus="0.05" errorminus="-0.04">1.57</radius>
-    <temperature errorplus="47.25" errorminus="-61.08">6144.0</temperature>
-    <planet>
-      <name>Kepler-1002 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.04">1.57</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.22</mass>
+    <temperature errorplus="47.25" errorminus="-61.08">6144.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.04">1.57</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.04">1.57</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <name>Kepler-1002 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="14.56" errorminus="-12.18">425.0</distance>
 </system>

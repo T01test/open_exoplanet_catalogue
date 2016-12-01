@@ -4,18 +4,18 @@
   <declination>44 41 37</declination>
   <star>
     <name>Kepler-803</name>
-    <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
-    <temperature errorplus="99.49" errorminus="-100.93">5919.0</temperature>
-    <planet>
-      <name>Kepler-803 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">50.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.05</mass>
+    <temperature errorplus="99.49" errorminus="-100.93">5919.0</temperature>
+    <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
+      <period errorplus="0.0" errorminus="-0.0">50.3</period>
+      <name>Kepler-803 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="88.86" errorminus="-62.13">615.0</distance>
 </system>

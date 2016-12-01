@@ -4,18 +4,18 @@
   <declination>44 51 28</declination>
   <star>
     <name>Kepler-463</name>
-    <radius errorplus="0.13" errorminus="-0.08">0.9</radius>
-    <temperature errorplus="105.05" errorminus="-99.18">5661.0</temperature>
-    <planet>
-      <name>Kepler-463 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.08">0.9</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.87</mass>
+    <temperature errorplus="105.05" errorminus="-99.18">5661.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.08">0.9</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.08">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.0</period>
+      <name>Kepler-463 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="48.51" errorminus="-32.0">336.0</distance>
 </system>

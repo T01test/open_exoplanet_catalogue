@@ -4,18 +4,18 @@
   <declination>-25 27 24</declination>
   <star>
     <name>ROXs 12</name>
-    <radius/>
-    <temperature errorplus="100.0" errorminus="-70.0">3850.0</temperature>
-    <planet>
-      <name>ROXs 12 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="20.0" errorminus="-20.0">210.0</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period/>
-      <discoverymethod>imaging</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.08">0.87</mass>
+    <temperature errorplus="100.0" errorminus="-70.0">3850.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period/>
+      <name>ROXs 12 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>imaging</discoverymethod>
+      <semimajoraxis errorplus="20.0" errorminus="-20.0">210.0</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="10.0" errorminus="-10.0">120.0</distance>
 </system>

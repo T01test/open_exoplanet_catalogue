@@ -4,19 +4,19 @@
   <declination>39 57 18</declination>
   <star>
     <name>PH1</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
-    <temperature errorplus="150.0" errorminus="-150.0">6407.0</temperature>
-    <planet>
-      <name>PH1 b</name>
-      <inclination errorplus="0.053" errorminus="-0.053">90.05</inclination>
-      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.652</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">138.3</period>
-      <eccentricity>0.0702</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.09">1.53</mass>
+    <temperature errorplus="150.0" errorminus="-150.0">6407.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
+    <planet>
+      <inclination errorplus="0.053" errorminus="-0.053">90.05</inclination>
+      <radius errorplus="0.04" errorminus="-0.04">1.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">138.3</period>
+      <name>PH1 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0702</eccentricity>
+      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.652</semimajoraxis>
+    </planet>
   </star>
   <distance>1000.0</distance>
 </system>

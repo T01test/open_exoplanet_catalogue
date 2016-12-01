@@ -4,18 +4,18 @@
   <declination>50 29 54</declination>
   <star>
     <name>Kepler-1404</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-    <temperature errorplus="99.17" errorminus="-104.59">5261.0</temperature>
-    <planet>
-      <name>Kepler-1404 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.84</mass>
+    <temperature errorplus="99.17" errorminus="-104.59">5261.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.9</period>
+      <name>Kepler-1404 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="67.77" errorminus="-69.77">946.0</distance>
 </system>

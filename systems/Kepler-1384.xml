@@ -4,18 +4,18 @@
   <declination>39 31 37</declination>
   <star>
     <name>Kepler-1384</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-    <temperature errorplus="158.66" errorminus="-126.82">4919.0</temperature>
-    <planet>
-      <name>Kepler-1384 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.78</mass>
+    <temperature errorplus="158.66" errorminus="-126.82">4919.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.4</period>
+      <name>Kepler-1384 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="39.97" errorminus="-39.06">618.0</distance>
 </system>

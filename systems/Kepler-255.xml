@@ -4,36 +4,36 @@
   <declination>45 58 36</declination>
   <star>
     <name>Kepler-255</name>
-    <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5573.0</temperature>
-    <planet>
-      <name>Kepler-255 b</name>
-      <inclination/>
-      <semimajoraxis>0.063</semimajoraxis>
-      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-255 c</name>
-      <inclination/>
-      <semimajoraxis>0.092</semimajoraxis>
-      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-255 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.97</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">5573.0</temperature>
+    <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <name>Kepler-255 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.063</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.9</period>
+      <name>Kepler-255 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.092</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.37" errorminus="-0.37">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <name>Kepler-255 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,36 +4,36 @@
   <declination>44 17 03</declination>
   <star>
     <name>Kepler-271</name>
-    <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5524.0</temperature>
-    <planet>
-      <name>Kepler-271 b</name>
-      <inclination/>
-      <semimajoraxis>0.056</semimajoraxis>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-271 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-271 c</name>
-      <inclination/>
-      <semimajoraxis>0.071</semimajoraxis>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="100.0" errorminus="-100.0">5524.0</temperature>
+    <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <name>Kepler-271 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.056</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <name>Kepler-271 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.071</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <name>Kepler-271 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

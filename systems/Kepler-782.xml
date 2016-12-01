@@ -4,18 +4,18 @@
   <declination>47 45 33</declination>
   <star>
     <name>Kepler-782</name>
-    <radius errorplus="0.13" errorminus="-0.09">1.01</radius>
-    <temperature errorplus="70.1" errorminus="-61.94">5867.0</temperature>
-    <planet>
-      <name>Kepler-782 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.09">1.01</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">158.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
+    <temperature errorplus="70.1" errorminus="-61.94">5867.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.09">1.01</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.09">1.01</radius>
+      <period errorplus="0.0" errorminus="-0.0">158.7</period>
+      <name>Kepler-782 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="52.3" errorminus="-36.74">412.0</distance>
 </system>

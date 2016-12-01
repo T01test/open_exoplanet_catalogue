@@ -4,29 +4,29 @@
   <declination>-25 18 33</declination>
   <star>
     <name>HD 134987</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
-    <temperature errorplus="50.0" errorminus="-50.0">5585.0</temperature>
-    <planet>
-      <name>HD 134987 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.81</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">258.2</period>
-      <eccentricity>0.233</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 134987 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">5.8</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="400.0" errorminus="-400.0">5000.0</period>
-      <eccentricity>0.12</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.07" errorminus="-0.04">1.1</mass>
+    <temperature errorplus="50.0" errorminus="-50.0">5585.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
+      <period errorplus="400.0" errorminus="-400.0">5000.0</period>
+      <name>HD 134987 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.12</eccentricity>
+      <semimajoraxis errorplus="0.5" errorminus="-0.5">5.8</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.25</radius>
+      <period errorplus="0.1" errorminus="-0.1">258.2</period>
+      <name>HD 134987 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.233</eccentricity>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.81</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.1" errorminus="-1.1">22.2</distance>
 </system>

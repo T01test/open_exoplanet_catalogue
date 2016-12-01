@@ -4,18 +4,18 @@
   <declination>44 09 21</declination>
   <star>
     <name>Kepler-1285</name>
-    <radius errorplus="0.12" errorminus="-0.09">1.28</radius>
-    <temperature errorplus="67.21" errorminus="-62.49">6170.0</temperature>
-    <planet>
-      <name>Kepler-1285 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.09">1.28</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.04">1.2</mass>
+    <temperature errorplus="67.21" errorminus="-62.49">6170.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.09">1.28</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.09">1.28</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.8</period>
+      <name>Kepler-1285 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="35.76" errorminus="-26.37">364.0</distance>
 </system>

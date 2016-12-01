@@ -4,36 +4,36 @@
   <declination>38 52 32</declination>
   <star>
     <name>Kepler-157</name>
-    <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-    <temperature errorplus="125.0" errorminus="-125.0">5774.0</temperature>
-    <planet>
-      <name>Kepler-157 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-157 b</name>
-      <inclination/>
-      <semimajoraxis>0.028</semimajoraxis>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-157 c</name>
-      <inclination/>
-      <semimajoraxis>0.11</semimajoraxis>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="125.0" errorminus="-125.0">5774.0</temperature>
+    <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <name>Kepler-157 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.028</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <name>Kepler-157 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.5</period>
+      <name>Kepler-157 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.11</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

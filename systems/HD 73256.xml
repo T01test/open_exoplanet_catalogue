@@ -4,19 +4,19 @@
   <declination>-30 02 15</declination>
   <star>
     <name>HD 73256</name>
-    <radius>0.89</radius>
-    <temperature errorplus="50.0" errorminus="-50.0">5570.0</temperature>
-    <planet>
-      <name>HD 73256 b</name>
-      <inclination/>
-      <semimajoraxis>0.037</semimajoraxis>
-      <radius>0.89</radius>
-      <lastupdate>2015-03-26</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
-      <eccentricity>0.029</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.05</mass>
+    <temperature errorplus="50.0" errorminus="-50.0">5570.0</temperature>
+    <radius>0.89</radius>
+    <planet>
+      <inclination/>
+      <radius>0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <name>HD 73256 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.029</eccentricity>
+      <semimajoraxis>0.037</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.0" errorminus="-1.06">36.52</distance>
 </system>

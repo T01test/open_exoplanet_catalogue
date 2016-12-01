@@ -4,27 +4,27 @@
   <declination>46 26 19</declination>
   <star>
     <name>Kepler-378</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4661.0</temperature>
-    <planet>
-      <name>Kepler-378 b</name>
-      <inclination/>
-      <semimajoraxis>0.112</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-378 c</name>
-      <inclination/>
-      <semimajoraxis>0.166</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.96</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">4661.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <name>Kepler-378 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.112</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">28.9</period>
+      <name>Kepler-378 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.166</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

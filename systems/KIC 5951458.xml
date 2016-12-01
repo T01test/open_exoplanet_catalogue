@@ -4,18 +4,18 @@
   <declination>41 13 22</declination>
   <star>
     <name>KIC 5951458</name>
-    <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
-    <temperature errorplus="170.0" errorminus="-183.0">6258.0</temperature>
-    <planet>
-      <name>KIC 5951458 b</name>
-      <inclination errorplus="0.09" errorminus="-0.12">89.799</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
-      <lastupdate>2016-01-05</lastupdate>
-      <period errorplus="12401.8" errorminus="-152.5">1320.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.21" errorminus="-0.21">0.98</mass>
+    <temperature errorplus="170.0" errorminus="-183.0">6258.0</temperature>
+    <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
+    <planet>
+      <inclination errorplus="0.09" errorminus="-0.12">89.799</inclination>
+      <radius errorplus="0.82" errorminus="-0.82">1.52</radius>
+      <period errorplus="12401.8" errorminus="-152.5">1320.1</period>
+      <name>KIC 5951458 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

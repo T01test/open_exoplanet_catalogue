@@ -4,18 +4,18 @@
   <declination>41 39 42</declination>
   <star>
     <name>Kepler-702</name>
-    <radius errorplus="0.08" errorminus="-0.05">0.86</radius>
-    <temperature errorplus="122.25" errorminus="-143.8">5419.0</temperature>
-    <planet>
-      <name>Kepler-702 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.08" errorminus="-0.05">0.86</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.9</mass>
+    <temperature errorplus="122.25" errorminus="-143.8">5419.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.05">0.86</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.05">0.86</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.5</period>
+      <name>Kepler-702 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="87.19" errorminus="-60.27">892.0</distance>
 </system>

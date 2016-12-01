@@ -4,29 +4,29 @@
   <declination>00 47 22</declination>
   <star>
     <name>HD 5319</name>
-    <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">4958.0</temperature>
-    <planet>
-      <name>HD 5319 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.013" errorminus="-0.013">2.071</semimajoraxis>
-      <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
-      <lastupdate>2014-12-03</lastupdate>
-      <period errorplus="8.0" errorminus="-8.0">886.0</period>
-      <eccentricity>0.15</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 5319 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0036" errorminus="-0.0036">1.6697</semimajoraxis>
-      <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
-      <lastupdate>2014-12-03</lastupdate>
-      <period errorplus="2.0" errorminus="-2.0">641.0</period>
-      <eccentricity>0.02</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.11">1.51</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">4958.0</temperature>
+    <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
+      <period errorplus="8.0" errorminus="-8.0">886.0</period>
+      <name>HD 5319 c</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.15</eccentricity>
+      <semimajoraxis errorplus="0.013" errorminus="-0.013">2.071</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.4" errorminus="-0.4">3.85</radius>
+      <period errorplus="2.0" errorminus="-2.0">641.0</period>
+      <name>HD 5319 b</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.02</eccentricity>
+      <semimajoraxis errorplus="0.0036" errorminus="-0.0036">1.6697</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="11.0" errorminus="-11.0">114.0</distance>
 </system>

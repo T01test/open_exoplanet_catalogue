@@ -4,18 +4,18 @@
   <declination>49 45 43</declination>
   <star>
     <name>Kepler-594</name>
-    <radius errorplus="0.08" errorminus="-0.06">0.87</radius>
-    <temperature errorplus="80.49" errorminus="-94.0">5485.0</temperature>
-    <planet>
-      <name>Kepler-594 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.08" errorminus="-0.06">0.87</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.91</mass>
+    <temperature errorplus="80.49" errorminus="-94.0">5485.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.06">0.87</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.06">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.6</period>
+      <name>Kepler-594 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="70.43" errorminus="-52.4">742.0</distance>
 </system>

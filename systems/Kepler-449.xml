@@ -4,29 +4,29 @@
   <declination>41 54 02</declination>
   <star>
     <name>Kepler-449</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
-    <temperature/>
-    <planet>
-      <name>Kepler-449 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
-      <lastupdate>2015-05-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.6</period>
-      <eccentricity>0.03</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-449 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
-      <lastupdate>2015-05-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">33.7</period>
-      <eccentricity>0.05</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.97</mass>
+    <temperature/>
+    <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
+      <period errorplus="0.0" errorminus="-0.0">33.7</period>
+      <name>Kepler-449 c</name>
+      <lastupdate>2015-05-21</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.05</eccentricity>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.47</radius>
+      <period errorplus="0.0" errorminus="-0.0">12.6</period>
+      <name>Kepler-449 b</name>
+      <lastupdate>2015-05-21</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.03</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

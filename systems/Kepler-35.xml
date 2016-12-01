@@ -4,19 +4,19 @@
   <declination>46 41 23</declination>
   <star>
     <name>Kepler-35</name>
-    <radius errorplus="0.0" errorminus="-0.0">1.03</radius>
-    <temperature errorplus="150.0" errorminus="-150.0">5606.0</temperature>
-    <planet>
-      <name>Kepler-35 b</name>
-      <inclination errorplus="0.12" errorminus="-0.09">90.76</inclination>
-      <semimajoraxis errorplus="0.00101" errorminus="-0.00103">0.60347</semimajoraxis>
-      <radius errorplus="0.0" errorminus="-0.0">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">131.5</period>
-      <eccentricity>0.042</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.01" errorminus="-0.01">0.89</mass>
+    <temperature errorplus="150.0" errorminus="-150.0">5606.0</temperature>
+    <radius errorplus="0.0" errorminus="-0.0">1.03</radius>
+    <planet>
+      <inclination errorplus="0.12" errorminus="-0.09">90.76</inclination>
+      <radius errorplus="0.0" errorminus="-0.0">1.03</radius>
+      <period errorplus="0.1" errorminus="-0.1">131.5</period>
+      <name>Kepler-35 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.042</eccentricity>
+      <semimajoraxis errorplus="0.00101" errorminus="-0.00103">0.60347</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="43.0" errorminus="-43.0">1645.0</distance>
 </system>

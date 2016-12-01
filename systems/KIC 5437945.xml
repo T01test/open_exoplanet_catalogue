@@ -4,27 +4,27 @@
   <declination>40 39 04</declination>
   <star>
     <name>KIC 5437945</name>
-    <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-    <temperature errorplus="176.0" errorminus="-199.0">6340.0</temperature>
-    <planet>
-      <name>KIC 5437945 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">220.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KIC 5437945 b</name>
-      <inclination errorplus="0.066" errorminus="-0.086">89.904</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-      <lastupdate>2016-01-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">440.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.17" errorminus="-0.17">1.07</mass>
+    <temperature errorplus="176.0" errorminus="-199.0">6340.0</temperature>
+    <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
+    <planet>
+      <inclination errorplus="0.066" errorminus="-0.086">89.904</inclination>
+      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
+      <period errorplus="0.0" errorminus="-0.0">440.8</period>
+      <name>KIC 5437945 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
+      <period errorplus="0.0" errorminus="-0.0">220.1</period>
+      <name>KIC 5437945 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

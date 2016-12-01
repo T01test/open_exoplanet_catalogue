@@ -4,27 +4,27 @@
   <declination>46 42 52</declination>
   <star>
     <name>Kepler-937</name>
-    <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
-    <temperature errorplus="81.71" errorminus="-127.3">6095.0</temperature>
-    <planet>
-      <name>Kepler-937 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">67.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-937 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">153.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.08">1.15</mass>
+    <temperature errorplus="81.71" errorminus="-127.3">6095.0</temperature>
+    <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">153.3</period>
+      <name>Kepler-937 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">67.7</period>
+      <name>Kepler-937 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="508.28" errorminus="-191.89">1482.0</distance>
 </system>

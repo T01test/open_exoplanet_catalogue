@@ -4,36 +4,36 @@
   <declination>48 22 32</declination>
   <star>
     <name>Kepler-229</name>
-    <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5120.0</temperature>
-    <planet>
-      <name>Kepler-229 c</name>
-      <inclination/>
-      <semimajoraxis>0.117</semimajoraxis>
-      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-229 b</name>
-      <inclination/>
-      <semimajoraxis>0.062</semimajoraxis>
-      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-229 d</name>
-      <inclination/>
-      <semimajoraxis>0.22</semimajoraxis>
-      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">41.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="200.0" errorminus="-200.0">5120.0</temperature>
+    <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">41.2</period>
+      <name>Kepler-229 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.22</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.3</period>
+      <name>Kepler-229 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.062</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.26" errorminus="-0.26">0.73</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <name>Kepler-229 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.117</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

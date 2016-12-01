@@ -4,18 +4,18 @@
   <declination>52 08 56</declination>
   <star>
     <name>Kepler-574</name>
-    <radius errorplus="0.12" errorminus="-0.06">0.91</radius>
-    <temperature errorplus="116.01" errorminus="-108.4">5612.0</temperature>
-    <planet>
-      <name>Kepler-574 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.06">0.91</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.95</mass>
+    <temperature errorplus="116.01" errorminus="-108.4">5612.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.06">0.91</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.06">0.91</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.7</period>
+      <name>Kepler-574 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="99.38" errorminus="-55.22">747.0</distance>
 </system>

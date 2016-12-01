@@ -4,18 +4,18 @@
   <declination>41 53 28</declination>
   <star>
     <name>Kepler-965</name>
-    <radius errorplus="0.19" errorminus="-0.13">1.15</radius>
-    <temperature errorplus="79.36" errorminus="-64.81">5886.0</temperature>
-    <planet>
-      <name>Kepler-965 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.19" errorminus="-0.13">1.15</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">134.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
+    <temperature errorplus="79.36" errorminus="-64.81">5886.0</temperature>
+    <radius errorplus="0.19" errorminus="-0.13">1.15</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.13">1.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">134.3</period>
+      <name>Kepler-965 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="102.01" errorminus="-69.26">618.0</distance>
 </system>

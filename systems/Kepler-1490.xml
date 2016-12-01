@@ -4,18 +4,18 @@
   <declination>42 36 34</declination>
   <star>
     <name>Kepler-1490</name>
-    <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
-    <temperature errorplus="193.53" errorminus="-190.47">5515.0</temperature>
-    <planet>
-      <name>Kepler-1490 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">92.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.07" errorminus="-0.06">0.9</mass>
+    <temperature errorplus="193.53" errorminus="-190.47">5515.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.11" errorminus="-0.07">0.87</radius>
+      <period errorplus="0.0" errorminus="-0.0">92.4</period>
+      <name>Kepler-1490 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="128.57" errorminus="-87.3">968.0</distance>
 </system>

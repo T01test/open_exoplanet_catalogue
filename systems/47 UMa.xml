@@ -4,39 +4,39 @@
   <declination>40 25 48</declination>
   <star>
     <name>47 UMa</name>
-    <radius>1.23</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">5892.0</temperature>
-    <planet>
-      <name>47 UMa d</name>
-      <inclination/>
-      <semimajoraxis errorplus="2.1" errorminus="-2.9">11.6</semimajoraxis>
-      <radius>1.23</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="4018.0" errorminus="-5095.0">14002.0</period>
-      <eccentricity>0.16</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>47 UMa b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">2.1</semimajoraxis>
-      <radius>1.23</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="2.0" errorminus="-2.0">1078.0</period>
-      <eccentricity>0.032</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>47 UMa c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.1" errorminus="-0.1">3.6</semimajoraxis>
-      <radius>1.23</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="100.0" errorminus="-87.0">2391.0</period>
-      <eccentricity>0.098</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.03</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">5892.0</temperature>
+    <radius>1.23</radius>
+    <planet>
+      <inclination/>
+      <radius>1.23</radius>
+      <period errorplus="2.0" errorminus="-2.0">1078.0</period>
+      <name>47 UMa b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.032</eccentricity>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">2.1</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius>1.23</radius>
+      <period errorplus="4018.0" errorminus="-5095.0">14002.0</period>
+      <name>47 UMa d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.16</eccentricity>
+      <semimajoraxis errorplus="2.1" errorminus="-2.9">11.6</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius>1.23</radius>
+      <period errorplus="100.0" errorminus="-87.0">2391.0</period>
+      <name>47 UMa c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.098</eccentricity>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">3.6</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.13" errorminus="-0.13">14.08</distance>
 </system>

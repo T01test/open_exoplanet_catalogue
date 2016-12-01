@@ -4,39 +4,39 @@
   <declination>20 43 50</declination>
   <star>
     <name>HD 37124</name>
-    <radius/>
-    <temperature/>
-    <planet>
-      <name>HD 37124 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.53364</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-08-18</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">154.4</period>
-      <eccentricity>0.054</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 37124 d</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.038" errorminus="-0.038">2.807</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-08-18</lastupdate>
-      <period errorplus="38.0" errorminus="-38.0">1862.0</period>
-      <eccentricity>0.16</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 37124 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0065" errorminus="-0.0065">1.71</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-08-18</lastupdate>
-      <period errorplus="5.1" errorminus="-5.1">885.5</period>
-      <eccentricity>0.125</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>0.85</mass>
+    <temperature/>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="5.1" errorminus="-5.1">885.5</period>
+      <name>HD 37124 c</name>
+      <lastupdate>2016-08-18</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.125</eccentricity>
+      <semimajoraxis errorplus="0.0065" errorminus="-0.0065">1.71</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.1" errorminus="-0.1">154.4</period>
+      <name>HD 37124 b</name>
+      <lastupdate>2016-08-18</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.054</eccentricity>
+      <semimajoraxis errorplus="0.0002" errorminus="-0.0002">0.53364</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="38.0" errorminus="-38.0">1862.0</period>
+      <name>HD 37124 d</name>
+      <lastupdate>2016-08-18</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.16</eccentricity>
+      <semimajoraxis errorplus="0.038" errorminus="-0.038">2.807</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.22" errorminus="-1.32">33.24</distance>
 </system>

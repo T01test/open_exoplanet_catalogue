@@ -4,27 +4,27 @@
   <declination>42 25 45</declination>
   <star>
     <name>Kepler-28</name>
-    <radius>0.7</radius>
-    <temperature>4590.0</temperature>
-    <planet>
-      <name>Kepler-28 b</name>
-      <inclination/>
-      <semimajoraxis>0.062</semimajoraxis>
-      <radius>0.7</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>5.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-28 c</name>
-      <inclination/>
-      <semimajoraxis>0.081</semimajoraxis>
-      <radius>0.7</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>9.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.75</mass>
+    <temperature>4590.0</temperature>
+    <radius>0.7</radius>
+    <planet>
+      <inclination/>
+      <radius>0.7</radius>
+      <period>5.9</period>
+      <name>Kepler-28 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.062</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius>0.7</radius>
+      <period>9.0</period>
+      <name>Kepler-28 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.081</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

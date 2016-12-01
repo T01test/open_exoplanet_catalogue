@@ -4,27 +4,27 @@
   <declination>49 34 46</declination>
   <star>
     <name>Kepler-430</name>
-    <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
-    <temperature errorplus="75.0" errorminus="-75.0">5884.0</temperature>
-    <planet>
-      <name>Kepler-430 c</name>
-      <inclination/>
-      <semimajoraxis>0.4757</semimajoraxis>
-      <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period>111.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-430 b</name>
-      <inclination/>
-      <semimajoraxis>0.2244</semimajoraxis>
-      <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period>36.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13" errorminus="-0.1">1.17</mass>
+    <temperature errorplus="75.0" errorminus="-75.0">5884.0</temperature>
+    <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
+      <period>36.0</period>
+      <name>Kepler-430 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.2244</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.27" errorminus="-0.23">1.49</radius>
+      <period>111.0</period>
+      <name>Kepler-430 c</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.4757</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

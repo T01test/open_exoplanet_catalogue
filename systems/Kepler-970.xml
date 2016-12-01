@@ -4,18 +4,18 @@
   <declination>40 42 31</declination>
   <star>
     <name>Kepler-970</name>
-    <radius errorplus="0.03" errorminus="-0.04">0.67</radius>
-    <temperature errorplus="70.69" errorminus="-70.59">4511.0</temperature>
-    <planet>
-      <name>Kepler-970 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.04">0.67</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.7</mass>
+    <temperature errorplus="70.69" errorminus="-70.59">4511.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.04">0.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.04">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.7</period>
+      <name>Kepler-970 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="18.73" errorminus="-26.52">350.0</distance>
 </system>

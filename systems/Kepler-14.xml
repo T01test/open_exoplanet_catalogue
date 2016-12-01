@@ -4,19 +4,19 @@
   <declination>47 19 58</declination>
   <star>
     <name>Kepler-14</name>
-    <radius errorplus="0.11" errorminus="-0.08">2.05</radius>
-    <temperature errorplus="60.0" errorminus="-60.0">6395.0</temperature>
-    <planet>
-      <name>Kepler-14 b</name>
-      <inclination errorplus="0.0" errorminus="-2.8">90.0</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.11" errorminus="-0.08">2.05</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
-      <eccentricity>0.035</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.51</mass>
+    <temperature errorplus="60.0" errorminus="-60.0">6395.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.08">2.05</radius>
+    <planet>
+      <inclination errorplus="0.0" errorminus="-2.8">90.0</inclination>
+      <radius errorplus="0.11" errorminus="-0.08">2.05</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <name>Kepler-14 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.035</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance>980.0</distance>
 </system>

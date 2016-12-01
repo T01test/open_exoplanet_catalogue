@@ -4,19 +4,19 @@
   <declination>43 48 52</declination>
   <star>
     <name>HD 95127</name>
-    <radius errorplus="9.0" errorminus="-9.0">20.0</radius>
-    <temperature errorplus="69.0" errorminus="-69.0">4218.0</temperature>
-    <planet>
-      <name>HD 95127 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.28</semimajoraxis>
-      <radius errorplus="9.0" errorminus="-9.0">20.0</radius>
-      <lastupdate>2015-02-05</lastupdate>
-      <period errorplus="5.0" errorminus="-5.0">482.0</period>
-      <eccentricity>0.11</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.22" errorminus="-0.22">1.2</mass>
+    <temperature errorplus="69.0" errorminus="-69.0">4218.0</temperature>
+    <radius errorplus="9.0" errorminus="-9.0">20.0</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="9.0" errorminus="-9.0">20.0</radius>
+      <period errorplus="5.0" errorminus="-5.0">482.0</period>
+      <name>HD 95127 b</name>
+      <lastupdate>2015-02-05</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.11</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.28</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="110.0" errorminus="-110.0">332.0</distance>
 </system>

@@ -4,28 +4,28 @@
   <declination>44 24 43</declination>
   <star>
     <name>Kepler-436</name>
-    <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4651.0</temperature>
-    <planet>
-      <name>Kepler-436 b</name>
-      <inclination errorplus="0.07" errorminus="-0.18">89.93</inclination>
-      <semimajoraxis errorplus="0.134" errorminus="-0.053">0.339</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
-      <lastupdate>2015-01-06</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">64.0</period>
-      <eccentricity>0.19</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-436 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.73</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">4651.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.8</period>
+      <name>Kepler-436 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination errorplus="0.07" errorminus="-0.18">89.93</inclination>
+      <radius errorplus="0.03" errorminus="-0.02">0.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">64.0</period>
+      <name>Kepler-436 b</name>
+      <lastupdate>2015-01-06</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.19</eccentricity>
+      <semimajoraxis errorplus="0.134" errorminus="-0.053">0.339</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="34.0" errorminus="-30.0">618.0</distance>
 </system>

@@ -4,36 +4,36 @@
   <declination>50 51 48</declination>
   <star>
     <name>Kepler-401</name>
-    <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">6117.0</temperature>
-    <planet>
-      <name>Kepler-401 b</name>
-      <inclination/>
-      <semimajoraxis>0.122</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-401 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">184.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-401 c</name>
-      <inclination/>
-      <semimajoraxis>0.269</semimajoraxis>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">47.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="100.0" errorminus="-100.0">6117.0</temperature>
+    <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <period errorplus="0.0" errorminus="-0.0">47.3</period>
+      <name>Kepler-401 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.269</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.4</period>
+      <name>Kepler-401 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.122</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <period errorplus="0.0" errorminus="-0.0">184.3</period>
+      <name>Kepler-401 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

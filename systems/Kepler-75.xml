@@ -4,19 +4,19 @@
   <declination>36 34 38</declination>
   <star>
     <name>Kepler-75</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5200.0</temperature>
-    <planet>
-      <name>Kepler-75 b</name>
-      <inclination errorplus="0.51" errorminus="-0.64">89.12</inclination>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0818</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
-      <lastupdate>2015-01-29</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.9</period>
-      <eccentricity>0.57</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.91</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5200.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
+    <planet>
+      <inclination errorplus="0.51" errorminus="-0.64">89.12</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <name>Kepler-75 b</name>
+      <lastupdate>2015-01-29</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.57</eccentricity>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0818</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="250.0" errorminus="-160.0">1140.0</distance>
 </system>

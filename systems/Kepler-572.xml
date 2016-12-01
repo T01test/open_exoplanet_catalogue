@@ -4,18 +4,18 @@
   <declination>50 34 52</declination>
   <star>
     <name>Kepler-572</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-    <temperature errorplus="89.47" errorminus="-77.65">5212.0</temperature>
-    <planet>
-      <name>Kepler-572 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.83</mass>
+    <temperature errorplus="89.47" errorminus="-77.65">5212.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">17.2</period>
+      <name>Kepler-572 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="37.23" errorminus="-37.14">532.0</distance>
 </system>

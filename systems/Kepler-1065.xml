@@ -4,27 +4,27 @@
   <declination>38 47 25</declination>
   <star>
     <name>Kepler-1065</name>
-    <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
-    <temperature errorplus="166.04" errorminus="-202.38">5635.0</temperature>
-    <planet>
-      <name>Kepler-1065 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-1065 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.07" errorminus="-0.06">0.94</mass>
+    <temperature errorplus="166.04" errorminus="-202.38">5635.0</temperature>
+    <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <name>Kepler-1065 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.09">0.93</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <name>Kepler-1065 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="190.09" errorminus="-110.73">1078.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>40 23 17</declination>
   <star>
     <name>KELT-3</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.47</radius>
-    <temperature errorplus="50.0" errorminus="-49.0">6306.0</temperature>
-    <planet>
-      <name>KELT-3 b</name>
-      <inclination errorplus="0.65" errorminus="-0.58">84.23</inclination>
-      <semimajoraxis errorplus="0.00066" errorminus="-0.00067">0.04122</semimajoraxis>
-      <radius errorplus="0.07" errorminus="-0.07">1.47</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.28</mass>
+    <temperature errorplus="50.0" errorminus="-49.0">6306.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.07">1.47</radius>
+    <planet>
+      <inclination errorplus="0.65" errorminus="-0.58">84.23</inclination>
+      <radius errorplus="0.07" errorminus="-0.07">1.47</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <name>KELT-3 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00066" errorminus="-0.00067">0.04122</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="16.0" errorminus="-16.0">178.0</distance>
 </system>

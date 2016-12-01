@@ -4,36 +4,36 @@
   <declination>39 29 16</declination>
   <star>
     <name>Kepler-25</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-    <temperature errorplus="79.0" errorminus="-79.0">6270.0</temperature>
-    <planet>
-      <name>Kepler-25 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <lastupdate>2016-10-27</lastupdate>
-      <period>12.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-25 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="2.0" errorminus="-2.0">123.0</period>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-25 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
-      <lastupdate>2016-10-27</lastupdate>
-      <period>6.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.19</mass>
+    <temperature errorplus="79.0" errorminus="-79.0">6270.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <period errorplus="2.0" errorminus="-2.0">123.0</period>
+      <name>Kepler-25 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <period>6.2</period>
+      <name>Kepler-25 b</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.31</radius>
+      <period>12.7</period>
+      <name>Kepler-25 c</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

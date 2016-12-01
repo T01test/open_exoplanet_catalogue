@@ -4,19 +4,19 @@
   <declination>-1 02 05</declination>
   <star>
     <name>75 Cet</name>
-    <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
-    <temperature errorplus="18.0" errorminus="-18.0">4846.0</temperature>
-    <planet>
-      <name>75 Cet b</name>
-      <inclination/>
-      <semimajoraxis>2.1</semimajoraxis>
-      <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="3.6" errorminus="-3.6">691.9</period>
-      <eccentricity>0.117</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.27">2.49</mass>
+    <temperature errorplus="18.0" errorminus="-18.0">4846.0</temperature>
+    <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="1.0" errorminus="-1.0">10.5</radius>
+      <period errorplus="3.6" errorminus="-3.6">691.9</period>
+      <name>75 Cet b</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.117</eccentricity>
+      <semimajoraxis>2.1</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="6.87" errorminus="-8.27">81.5</distance>
 </system>

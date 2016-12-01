@@ -4,18 +4,18 @@
   <declination>38 52 19</declination>
   <star>
     <name>Kepler-790</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-    <temperature errorplus="139.26" errorminus="-114.14">5208.0</temperature>
-    <planet>
-      <name>Kepler-790 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.84</mass>
+    <temperature errorplus="139.26" errorminus="-114.14">5208.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.7</period>
+      <name>Kepler-790 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="51.44" errorminus="-45.55">727.0</distance>
 </system>

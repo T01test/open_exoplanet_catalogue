@@ -4,27 +4,27 @@
   <declination>48 46 39</declination>
   <star>
     <name>Kepler-297</name>
-    <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5619.0</temperature>
-    <planet>
-      <name>Kepler-297 b</name>
-      <inclination/>
-      <semimajoraxis>0.217</semimajoraxis>
-      <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">38.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-297 c</name>
-      <inclination/>
-      <semimajoraxis>0.336</semimajoraxis>
-      <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">74.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="100.0" errorminus="-100.0">5619.0</temperature>
+    <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">74.9</period>
+      <name>Kepler-297 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.336</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.17" errorminus="-0.17">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">38.9</period>
+      <name>Kepler-297 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.217</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

@@ -4,36 +4,36 @@
   <declination>43 13 40</declination>
   <star>
     <name>Kepler-431</name>
-    <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
-    <temperature errorplus="75.0" errorminus="-75.0">6004.0</temperature>
-    <planet>
-      <name>Kepler-431 c</name>
-      <inclination/>
-      <semimajoraxis>0.0847</semimajoraxis>
-      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period>8.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-431 d</name>
-      <inclination/>
-      <semimajoraxis>0.1045</semimajoraxis>
-      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period>11.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-431 b</name>
-      <inclination/>
-      <semimajoraxis>0.0719</semimajoraxis>
-      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
-      <lastupdate>2014-11-19</lastupdate>
-      <period>6.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.04">1.07</mass>
+    <temperature errorplus="75.0" errorminus="-75.0">6004.0</temperature>
+    <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
+      <period>6.8</period>
+      <name>Kepler-431 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.0719</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
+      <period>8.7</period>
+      <name>Kepler-431 c</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.0847</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.11">1.09</radius>
+      <period>11.9</period>
+      <name>Kepler-431 d</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.1045</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

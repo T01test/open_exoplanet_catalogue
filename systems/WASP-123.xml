@@ -4,19 +4,19 @@
   <declination>-32 51 40</declination>
   <star>
     <name>WASP-123</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.28</radius>
-    <temperature errorplus="130.0" errorminus="-130.0">5740.0</temperature>
-    <planet>
-      <name>WASP-123 b</name>
-      <inclination errorplus="0.55" errorminus="-0.55">85.74</inclination>
-      <semimajoraxis errorplus="0.00074" errorminus="-0.00074">0.04263</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.28</radius>
-      <lastupdate>2016-06-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.17</mass>
+    <temperature errorplus="130.0" errorminus="-130.0">5740.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">1.28</radius>
+    <planet>
+      <inclination errorplus="0.55" errorminus="-0.55">85.74</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">1.28</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <name>WASP-123 b</name>
+      <lastupdate>2016-06-03</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00074">0.04263</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="11.0" errorminus="-11.0">214.0</distance>
 </system>

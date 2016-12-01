@@ -4,27 +4,27 @@
   <declination>-7 28 11</declination>
   <star>
     <name>K2-75</name>
-    <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-    <temperature errorplus="94.0" errorminus="-94.0">5995.0</temperature>
-    <planet>
-      <name>K2-75 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1429</semimajoraxis>
-      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>K2-75 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.081</semimajoraxis>
-      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.16</mass>
+    <temperature errorplus="94.0" errorminus="-94.0">5995.0</temperature>
+    <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.3</period>
+      <name>K2-75 c</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1429</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <name>K2-75 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.081</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

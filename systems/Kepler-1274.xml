@@ -4,18 +4,18 @@
   <declination>46 26 59</declination>
   <star>
     <name>Kepler-1274</name>
-    <radius errorplus="0.13" errorminus="-0.12">2.17</radius>
-    <temperature errorplus="54.41" errorminus="-48.15">6179.0</temperature>
-    <planet>
-      <name>Kepler-1274 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.12">2.17</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.05">1.45</mass>
+    <temperature errorplus="54.41" errorminus="-48.15">6179.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.12">2.17</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.12">2.17</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <name>Kepler-1274 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="38.18" errorminus="-35.48">609.0</distance>
 </system>

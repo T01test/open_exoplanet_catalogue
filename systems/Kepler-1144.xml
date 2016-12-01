@@ -4,18 +4,18 @@
   <declination>47 15 28</declination>
   <star>
     <name>Kepler-1144</name>
-    <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
-    <temperature errorplus="91.93" errorminus="-86.29">5753.0</temperature>
-    <planet>
-      <name>Kepler-1144 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.06">0.98</mass>
+    <temperature errorplus="91.93" errorminus="-86.29">5753.0</temperature>
+    <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.14" errorminus="-0.07">0.96</radius>
+      <period errorplus="0.0" errorminus="-0.0">17.1</period>
+      <name>Kepler-1144 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="150.02" errorminus="-83.05">1012.0</distance>
 </system>

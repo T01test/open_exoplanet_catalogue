@@ -4,18 +4,18 @@
   <declination>40 05 12</declination>
   <star>
     <name>Kepler-1300</name>
-    <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
-    <temperature errorplus="87.31" errorminus="-108.91">6130.0</temperature>
-    <planet>
-      <name>Kepler-1300 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.16" errorminus="-0.15">1.29</mass>
+    <temperature errorplus="87.31" errorminus="-108.91">6130.0</temperature>
+    <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.41">1.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">22.2</period>
+      <name>Kepler-1300 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="163.1" errorminus="-171.32">757.0</distance>
 </system>

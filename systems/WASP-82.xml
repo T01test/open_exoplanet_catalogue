@@ -4,19 +4,19 @@
   <declination>01 53 38</declination>
   <star>
     <name>WASP-82</name>
-    <radius errorplus="0.08" errorminus="-0.05">2.18</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">6490.0</temperature>
-    <planet>
-      <name>WASP-82 b</name>
-      <inclination errorplus="1.4" errorminus="-1.9">87.9</inclination>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0447</semimajoraxis>
-      <radius errorplus="0.08" errorminus="-0.05">2.18</radius>
-      <lastupdate>2016-01-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.08">1.63</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">6490.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.05">2.18</radius>
+    <planet>
+      <inclination errorplus="1.4" errorminus="-1.9">87.9</inclination>
+      <radius errorplus="0.08" errorminus="-0.05">2.18</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <name>WASP-82 b</name>
+      <lastupdate>2016-01-21</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0447</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="30.0" errorminus="-30.0">200.0</distance>
 </system>

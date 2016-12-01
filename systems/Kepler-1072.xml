@@ -4,18 +4,18 @@
   <declination>46 19 44</declination>
   <star>
     <name>Kepler-1072</name>
-    <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
-    <temperature errorplus="102.85" errorminus="-123.19">6199.0</temperature>
-    <planet>
-      <name>Kepler-1072 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.19" errorminus="-0.09">1.2</mass>
+    <temperature errorplus="102.85" errorminus="-123.19">6199.0</temperature>
+    <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <name>Kepler-1072 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="433.82" errorminus="-149.65">976.0</distance>
 </system>

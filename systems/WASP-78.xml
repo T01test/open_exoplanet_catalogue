@@ -4,19 +4,19 @@
   <declination>-22 06 59</declination>
   <star>
     <name>WASP-78</name>
-    <radius errorplus="0.41">1.6</radius>
-    <temperature errorplus="150.0">6100.0</temperature>
-    <planet>
-      <name>WASP-78 b</name>
-      <inclination errorplus="2.3" errorminus="-1.6">83.2</inclination>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0362</semimajoraxis>
-      <radius errorplus="0.41">1.6</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13">1.17</mass>
+    <temperature errorplus="150.0">6100.0</temperature>
+    <radius errorplus="0.41">1.6</radius>
+    <planet>
+      <inclination errorplus="2.3" errorminus="-1.6">83.2</inclination>
+      <radius errorplus="0.41">1.6</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <name>WASP-78 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0362</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="120.0" errorminus="-120.0">550.0</distance>
 </system>

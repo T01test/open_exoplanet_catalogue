@@ -4,29 +4,29 @@
   <declination>-35 01 53</declination>
   <star>
     <name>WASP-8</name>
-    <radius errorplus="0.05">0.94</radius>
-    <temperature errorplus="80.0">5600.0</temperature>
-    <planet>
-      <name>WASP-8 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.63" errorminus="-0.34">5.28</semimajoraxis>
-      <radius errorplus="0.05">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="740.0" errorminus="-380.0">4323.0</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>WASP-8 b</name>
-      <inclination errorplus="0.15" errorminus="-0.17">88.55</inclination>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0016">0.0801</semimajoraxis>
-      <radius errorplus="0.05">0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.2</period>
-      <eccentricity>0.31</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06">1.03</mass>
+    <temperature errorplus="80.0">5600.0</temperature>
+    <radius errorplus="0.05">0.94</radius>
+    <planet>
+      <inclination errorplus="0.15" errorminus="-0.17">88.55</inclination>
+      <radius errorplus="0.05">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.2</period>
+      <name>WASP-8 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.31</eccentricity>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0016">0.0801</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05">0.94</radius>
+      <period errorplus="740.0" errorminus="-380.0">4323.0</period>
+      <name>WASP-8 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.63" errorminus="-0.34">5.28</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="7.0" errorminus="-7.0">87.0</distance>
 </system>

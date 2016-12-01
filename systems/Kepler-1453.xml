@@ -4,18 +4,18 @@
   <declination>47 56 51</declination>
   <star>
     <name>Kepler-1453</name>
-    <radius errorplus="0.15" errorminus="-0.07">0.94</radius>
-    <temperature errorplus="68.09" errorminus="-70.11">5665.0</temperature>
-    <planet>
-      <name>Kepler-1453 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.15" errorminus="-0.07">0.94</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">47.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.97</mass>
+    <temperature errorplus="68.09" errorminus="-70.11">5665.0</temperature>
+    <radius errorplus="0.15" errorminus="-0.07">0.94</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.15" errorminus="-0.07">0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">47.2</period>
+      <name>Kepler-1453 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="207.74" errorminus="-95.22">1284.0</distance>
 </system>

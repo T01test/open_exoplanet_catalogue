@@ -4,27 +4,27 @@
   <declination>41 25 12</declination>
   <star>
     <name>Kepler-1093</name>
-    <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
-    <temperature errorplus="147.64" errorminus="-138.45">6166.0</temperature>
-    <planet>
-      <name>Kepler-1093 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">89.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-1093 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.14" errorminus="-0.09">1.13</mass>
+    <temperature errorplus="147.64" errorminus="-138.45">6166.0</temperature>
+    <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">25.1</period>
+      <name>Kepler-1093 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.15">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">89.7</period>
+      <name>Kepler-1093 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="270.02" errorminus="-115.2">848.0</distance>
 </system>

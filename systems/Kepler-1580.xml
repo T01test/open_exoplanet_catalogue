@@ -4,18 +4,18 @@
   <declination>41 21 48</declination>
   <star>
     <name>Kepler-1580</name>
-    <radius errorplus="0.3" errorminus="-0.3">2.15</radius>
-    <temperature errorplus="75.22" errorminus="-81.47">6228.0</temperature>
-    <planet>
-      <name>Kepler-1580 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.3" errorminus="-0.3">2.15</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">56.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.11">1.47</mass>
+    <temperature errorplus="75.22" errorminus="-81.47">6228.0</temperature>
+    <radius errorplus="0.3" errorminus="-0.3">2.15</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.3" errorminus="-0.3">2.15</radius>
+      <period errorplus="0.0" errorminus="-0.0">56.6</period>
+      <name>Kepler-1580 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="119.42" errorminus="-124.35">872.0</distance>
 </system>

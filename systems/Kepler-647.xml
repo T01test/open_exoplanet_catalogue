@@ -4,18 +4,18 @@
   <declination>44 35 30</declination>
   <star>
     <name>Kepler-647</name>
-    <radius errorplus="0.13" errorminus="-0.09">1.07</radius>
-    <temperature errorplus="81.21" errorminus="-72.51">6020.0</temperature>
-    <planet>
-      <name>Kepler-647 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.09">1.07</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.05">1.03</mass>
+    <temperature errorplus="81.21" errorminus="-72.51">6020.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.09">1.07</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.09">1.07</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.2</period>
+      <name>Kepler-647 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="93.38" errorminus="-70.74">789.0</distance>
 </system>

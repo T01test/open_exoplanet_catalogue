@@ -4,19 +4,19 @@
   <declination>29 03 56</declination>
   <star>
     <name>HIP 109600</name>
-    <radius/>
-    <temperature errorplus="35.0" errorminus="-35.0">5530.0</temperature>
-    <planet>
-      <name>HIP 109600 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.016" errorminus="-0.016">0.706</semimajoraxis>
-      <radius/>
-      <lastupdate>2016-02-25</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">232.1</period>
-      <eccentricity>0.163</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">0.87</mass>
+    <temperature errorplus="35.0" errorminus="-35.0">5530.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.1" errorminus="-0.1">232.1</period>
+      <name>HIP 109600 b</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.163</eccentricity>
+      <semimajoraxis errorplus="0.016" errorminus="-0.016">0.706</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="3.2" errorminus="-3.2">58.6</distance>
 </system>

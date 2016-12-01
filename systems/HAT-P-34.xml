@@ -4,19 +4,19 @@
   <declination>18 06 17</declination>
   <star>
     <name>HAT-P-34</name>
-    <radius errorplus="0.14">1.53</radius>
-    <temperature errorplus="88.0">6442.0</temperature>
-    <planet>
-      <name>HAT-P-34 b</name>
-      <inclination errorplus="1.2" errorminus="-1.2">87.1</inclination>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0677</semimajoraxis>
-      <radius errorplus="0.14">1.53</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.5</period>
-      <eccentricity>0.441</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05">1.39</mass>
+    <temperature errorplus="88.0">6442.0</temperature>
+    <radius errorplus="0.14">1.53</radius>
+    <planet>
+      <inclination errorplus="1.2" errorminus="-1.2">87.1</inclination>
+      <radius errorplus="0.14">1.53</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <name>HAT-P-34 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.441</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0677</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="22.0" errorminus="-17.0">257.0</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>42 43 39</declination>
   <star>
     <name>Kepler-831</name>
-    <radius errorplus="0.07" errorminus="-0.05">0.97</radius>
-    <temperature errorplus="74.53" errorminus="-59.69">5732.0</temperature>
-    <planet>
-      <name>Kepler-831 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.07" errorminus="-0.05">0.97</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.99</mass>
+    <temperature errorplus="74.53" errorminus="-59.69">5732.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.05">0.97</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.05">0.97</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <name>Kepler-831 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="41.61" errorminus="-30.56">577.0</distance>
 </system>

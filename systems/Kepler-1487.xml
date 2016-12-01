@@ -4,18 +4,18 @@
   <declination>38 38 40</declination>
   <star>
     <name>Kepler-1487</name>
-    <radius errorplus="0.65" errorminus="-0.32">1.63</radius>
-    <temperature errorplus="230.55" errorminus="-190.33">6541.0</temperature>
-    <planet>
-      <name>Kepler-1487 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.65" errorminus="-0.32">1.63</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.21" errorminus="-0.16">1.38</mass>
+    <temperature errorplus="230.55" errorminus="-190.33">6541.0</temperature>
+    <radius errorplus="0.65" errorminus="-0.32">1.63</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.65" errorminus="-0.32">1.63</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.3</period>
+      <name>Kepler-1487 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="424.77" errorminus="-224.22">1094.0</distance>
 </system>

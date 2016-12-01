@@ -4,36 +4,36 @@
   <declination>48 20 58</declination>
   <star>
     <name>Kepler-114</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">4605.0</temperature>
-    <planet>
-      <name>Kepler-114 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>11.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-114 b</name>
-      <inclination/>
-      <semimajoraxis>0.053</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-114 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>8.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">0.56</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">4605.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <name>Kepler-114 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.053</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <period>8.0</period>
+      <name>Kepler-114 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <period>11.8</period>
+      <name>Kepler-114 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

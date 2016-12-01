@@ -4,19 +4,19 @@
   <declination>12 08 21</declination>
   <star>
     <name>HAT-P-50</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.7</radius>
-    <temperature errorplus="49.0" errorminus="-49.0">6280.0</temperature>
-    <planet>
-      <name>HAT-P-50 b</name>
-      <inclination errorplus="0.57" errorminus="-0.57">83.65</inclination>
-      <semimajoraxis errorplus="0.00058" errorminus="-0.0014">0.0453</semimajoraxis>
-      <radius errorplus="0.07" errorminus="-0.07">1.7</radius>
-      <lastupdate>2015-11-19</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <eccentricity>0.115</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.12">1.27</mass>
+    <temperature errorplus="49.0" errorminus="-49.0">6280.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.07">1.7</radius>
+    <planet>
+      <inclination errorplus="0.57" errorminus="-0.57">83.65</inclination>
+      <radius errorplus="0.07" errorminus="-0.07">1.7</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <name>HAT-P-50 b</name>
+      <lastupdate>2015-11-19</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.115</eccentricity>
+      <semimajoraxis errorplus="0.00058" errorminus="-0.0014">0.0453</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="21.0" errorminus="-21.0">497.0</distance>
 </system>

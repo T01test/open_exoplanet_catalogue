@@ -4,18 +4,18 @@
   <declination>44 47 42</declination>
   <star>
     <name>Kepler-800</name>
-    <radius errorplus="0.06" errorminus="-0.06">0.82</radius>
-    <temperature errorplus="60.48" errorminus="-67.05">5315.0</temperature>
-    <planet>
-      <name>Kepler-800 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.06" errorminus="-0.06">0.82</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.85</mass>
+    <temperature errorplus="60.48" errorminus="-67.05">5315.0</temperature>
+    <radius errorplus="0.06" errorminus="-0.06">0.82</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.06" errorminus="-0.06">0.82</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.1</period>
+      <name>Kepler-800 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="81.1" errorminus="-79.96">1049.0</distance>
 </system>

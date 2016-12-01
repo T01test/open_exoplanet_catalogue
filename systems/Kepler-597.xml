@@ -4,18 +4,18 @@
   <declination>39 15 10</declination>
   <star>
     <name>Kepler-597</name>
-    <radius errorplus="0.06" errorminus="-0.05">0.95</radius>
-    <temperature errorplus="69.29" errorminus="-59.31">5683.0</temperature>
-    <planet>
-      <name>Kepler-597 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.06" errorminus="-0.05">0.95</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.97</mass>
+    <temperature errorplus="69.29" errorminus="-59.31">5683.0</temperature>
+    <radius errorplus="0.06" errorminus="-0.05">0.95</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.06" errorminus="-0.05">0.95</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.0</period>
+      <name>Kepler-597 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="43.2" errorminus="-35.03">660.0</distance>
 </system>

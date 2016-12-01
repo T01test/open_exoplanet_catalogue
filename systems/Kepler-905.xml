@@ -4,18 +4,18 @@
   <declination>46 42 48</declination>
   <star>
     <name>Kepler-905</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.86</radius>
-    <temperature errorplus="58.65" errorminus="-55.12">5461.0</temperature>
-    <planet>
-      <name>Kepler-905 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">0.86</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.03">0.95</mass>
+    <temperature errorplus="58.65" errorminus="-55.12">5461.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.86</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.86</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.1</period>
+      <name>Kepler-905 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="12.97" errorminus="-12.44">521.0</distance>
 </system>

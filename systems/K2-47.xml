@@ -4,18 +4,18 @@
   <declination>02 46 50</declination>
   <star>
     <name>K2-47</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-    <temperature errorplus="82.0" errorminus="-82.0">5054.0</temperature>
-    <planet>
-      <name>K2-47 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.1779</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">31.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.02">0.75</mass>
+    <temperature errorplus="82.0" errorminus="-82.0">5054.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+      <period errorplus="0.0" errorminus="-0.0">31.6</period>
+      <name>K2-47 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.1779</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

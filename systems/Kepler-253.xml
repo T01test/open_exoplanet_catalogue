@@ -4,36 +4,36 @@
   <declination>44 51 29</declination>
   <star>
     <name>Kepler-253</name>
-    <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5208.0</temperature>
-    <planet>
-      <name>Kepler-253 c</name>
-      <inclination/>
-      <semimajoraxis>0.089</semimajoraxis>
-      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-253 b</name>
-      <inclination/>
-      <semimajoraxis>0.046</semimajoraxis>
-      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-253 d</name>
-      <inclination/>
-      <semimajoraxis>0.13</semimajoraxis>
-      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="200.0" errorminus="-200.0">5208.0</temperature>
+    <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
+      <name>Kepler-253 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.089</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <name>Kepler-253 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.046</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.32" errorminus="-0.32">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.1</period>
+      <name>Kepler-253 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.13</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

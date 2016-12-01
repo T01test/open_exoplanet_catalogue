@@ -4,27 +4,27 @@
   <declination>40 00 30</declination>
   <star>
     <name>Kepler-328</name>
-    <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
-    <temperature>5914.0</temperature>
-    <planet>
-      <name>Kepler-328 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>71.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-328 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>34.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.22" errorminus="-0.16">1.15</mass>
+    <temperature>5914.0</temperature>
+    <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
+      <period>34.9</period>
+      <name>Kepler-328 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.44" errorminus="-0.11">1.06</radius>
+      <period>71.3</period>
+      <name>Kepler-328 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

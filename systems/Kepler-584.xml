@@ -4,18 +4,18 @@
   <declination>42 24 49</declination>
   <star>
     <name>Kepler-584</name>
-    <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
-    <temperature errorplus="110.21" errorminus="-104.28">6195.0</temperature>
-    <planet>
-      <name>Kepler-584 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">35.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.15" errorminus="-0.09">1.17</mass>
+    <temperature errorplus="110.21" errorminus="-104.28">6195.0</temperature>
+    <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
+      <period errorplus="0.0" errorminus="-0.0">35.2</period>
+      <name>Kepler-584 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="531.63" errorminus="-187.67">1445.0</distance>
 </system>

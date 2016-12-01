@@ -4,19 +4,19 @@
   <declination>-5 26 32</declination>
   <star>
     <name>K2-99</name>
-    <radius errorplus="0.1" errorminus="-0.1">3.1</radius>
-    <temperature errorplus="40.0" errorminus="-40.0">5990.0</temperature>
-    <planet>
-      <name>K2-99 b</name>
-      <inclination errorplus="0.3" errorminus="-0.3">87.7</inclination>
-      <semimajoraxis errorplus="0.006" errorminus="-0.006">0.159</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">3.1</radius>
-      <lastupdate>2016-10-06</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.2</period>
-      <eccentricity>0.19</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.14" errorminus="-0.1">1.6</mass>
+    <temperature errorplus="40.0" errorminus="-40.0">5990.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">3.1</radius>
+    <planet>
+      <inclination errorplus="0.3" errorminus="-0.3">87.7</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">3.1</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.2</period>
+      <name>K2-99 b</name>
+      <lastupdate>2016-10-06</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.19</eccentricity>
+      <semimajoraxis errorplus="0.006" errorminus="-0.006">0.159</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="32.0" errorminus="-32.0">606.0</distance>
 </system>

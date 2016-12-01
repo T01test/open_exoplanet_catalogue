@@ -4,29 +4,29 @@
   <declination>47 00 52</declination>
   <star>
     <name>HAT-P-44</name>
-    <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5295.0</temperature>
-    <planet>
-      <name>HAT-P-44 b</name>
-      <inclination errorplus="0.4" errorminus="-0.4">89.1</inclination>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0507</semimajoraxis>
-      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <eccentricity>0.044</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>HAT-P-44 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.752</semimajoraxis>
-      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="1.7" errorminus="-1.7">872.2</period>
-      <eccentricity>0.494</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5295.0</temperature>
+    <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
+      <period errorplus="1.7" errorminus="-1.7">872.2</period>
+      <name>HAT-P-44 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.494</eccentricity>
+      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.752</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.4" errorminus="-0.4">89.1</inclination>
+      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <name>HAT-P-44 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.044</eccentricity>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0507</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="31.0" errorminus="-17.0">363.0</distance>
 </system>

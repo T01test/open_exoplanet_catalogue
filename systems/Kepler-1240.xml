@@ -4,18 +4,18 @@
   <declination>40 33 26</declination>
   <star>
     <name>Kepler-1240</name>
-    <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
-    <temperature errorplus="103.27" errorminus="-116.7">5682.0</temperature>
-    <planet>
-      <name>Kepler-1240 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
+    <temperature errorplus="103.27" errorminus="-116.7">5682.0</temperature>
+    <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <name>Kepler-1240 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="99.89" errorminus="-52.76">614.0</distance>
 </system>

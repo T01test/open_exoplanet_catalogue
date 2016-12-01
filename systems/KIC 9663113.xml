@@ -4,27 +4,27 @@
   <declination>46 19 43</declination>
   <star>
     <name>KIC 9663113</name>
-    <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-    <temperature errorplus="155.0" errorminus="-180.0">6065.0</temperature>
-    <planet>
-      <name>KIC 9663113 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KIC 9663113 b</name>
-      <inclination errorplus="0.095" errorminus="-0.062">89.768</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-      <lastupdate>2016-01-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">572.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13" errorminus="-0.13">0.98</mass>
+    <temperature errorplus="155.0" errorminus="-180.0">6065.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">20.7</period>
+      <name>KIC 9663113 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination errorplus="0.095" errorminus="-0.062">89.768</inclination>
+      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
+      <period errorplus="0.0" errorminus="-0.0">572.4</period>
+      <name>KIC 9663113 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

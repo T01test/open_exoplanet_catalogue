@@ -4,27 +4,27 @@
   <declination>44 47 06</declination>
   <star>
     <name>Kepler-804</name>
-    <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
-    <temperature errorplus="93.12" errorminus="-78.6">5817.0</temperature>
-    <planet>
-      <name>Kepler-804 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-804 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.01</mass>
+    <temperature errorplus="93.12" errorminus="-78.6">5817.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.4</period>
+      <name>Kepler-804 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.09">1.05</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.7</period>
+      <name>Kepler-804 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="77.97" errorminus="-55.65">648.0</distance>
 </system>

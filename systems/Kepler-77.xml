@@ -4,19 +4,19 @@
   <declination>44 20 43</declination>
   <star>
     <name>Kepler-77</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.99</radius>
-    <temperature errorplus="60.0" errorminus="-60.0">5520.0</temperature>
-    <planet>
-      <name>Kepler-77 b</name>
-      <inclination errorplus="0.11" errorminus="-0.11">88.0</inclination>
-      <semimajoraxis errorplus="0.00063" errorminus="-0.00063">0.04501</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.99</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.95</mass>
+    <temperature errorplus="60.0" errorminus="-60.0">5520.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.99</radius>
+    <planet>
+      <inclination errorplus="0.11" errorminus="-0.11">88.0</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.99</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <name>Kepler-77 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00063" errorminus="-0.00063">0.04501</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="70.0" errorminus="-70.0">570.0</distance>
 </system>

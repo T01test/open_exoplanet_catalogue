@@ -4,18 +4,18 @@
   <declination>50 17 14</declination>
   <star>
     <name>Kepler-676</name>
-    <radius errorplus="0.02" errorminus="-0.03">0.49</radius>
-    <temperature errorplus="39.31" errorminus="-40.14">3701.0</temperature>
-    <planet>
-      <name>Kepler-676 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.03">0.49</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.03">0.51</mass>
+    <temperature errorplus="39.31" errorminus="-40.14">3701.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.03">0.49</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.03">0.49</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+      <name>Kepler-676 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="14.91" errorminus="-16.72">243.0</distance>
 </system>

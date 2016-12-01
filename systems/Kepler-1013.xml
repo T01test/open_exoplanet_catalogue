@@ -4,18 +4,18 @@
   <declination>44 26 06</declination>
   <star>
     <name>Kepler-1013</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-    <temperature errorplus="77.29" errorminus="-81.88">4954.0</temperature>
-    <planet>
-      <name>Kepler-1013 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.81</mass>
+    <temperature errorplus="77.29" errorminus="-81.88">4954.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.76</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.9</period>
+      <name>Kepler-1013 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="21.12" errorminus="-19.39">433.0</distance>
 </system>

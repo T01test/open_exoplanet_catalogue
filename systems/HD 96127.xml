@@ -4,19 +4,19 @@
   <declination>44 18 05</declination>
   <star>
     <name>HD 96127</name>
-    <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
-    <temperature errorplus="23.0" errorminus="-23.0">4152.0</temperature>
-    <planet>
-      <name>HD 96127 b</name>
-      <inclination/>
-      <semimajoraxis>1.4</semimajoraxis>
-      <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
-      <lastupdate>2015-05-14</lastupdate>
-      <period errorplus="16.8" errorminus="-16.8">647.3</period>
-      <eccentricity>0.3</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.25" errorminus="-0.25">0.91</mass>
+    <temperature errorplus="23.0" errorminus="-23.0">4152.0</temperature>
+    <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="17.0" errorminus="-17.0">35.0</radius>
+      <period errorplus="16.8" errorminus="-16.8">647.3</period>
+      <name>HD 96127 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.3</eccentricity>
+      <semimajoraxis>1.4</semimajoraxis>
+    </planet>
   </star>
   <distance>221.24</distance>
 </system>

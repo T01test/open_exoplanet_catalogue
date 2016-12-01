@@ -4,27 +4,27 @@
   <declination>40 56 32</declination>
   <star>
     <name>Kepler-131</name>
-    <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
-    <temperature errorplus="74.0" errorminus="-74.0">5685.0</temperature>
-    <planet>
-      <name>Kepler-131 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>16.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-131 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>25.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
+    <temperature errorplus="74.0" errorminus="-74.0">5685.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
+      <period>25.5</period>
+      <name>Kepler-131 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.1">1.03</radius>
+      <period>16.1</period>
+      <name>Kepler-131 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

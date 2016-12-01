@@ -4,18 +4,18 @@
   <declination>48 49 30</declination>
   <star>
     <name>Kepler-533</name>
-    <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
-    <temperature errorplus="53.5" errorminus="-40.01">4758.0</temperature>
-    <planet>
-      <name>Kepler-533 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.03">0.78</mass>
+    <temperature errorplus="53.5" errorminus="-40.01">4758.0</temperature>
+    <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.01" errorminus="-0.02">0.72</radius>
+      <period errorplus="0.0" errorminus="-0.0">28.5</period>
+      <name>Kepler-533 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="7.29" errorminus="-8.13">305.0</distance>
 </system>

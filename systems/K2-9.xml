@@ -4,18 +4,18 @@
   <declination>00 00 19</declination>
   <star>
     <name>K2-9</name>
-    <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
-    <temperature errorplus="150.0" errorminus="-150.0">3390.0</temperature>
-    <planet>
-      <name>K2-9 b</name>
-      <inclination errorplus="1.593" errorminus="-0.08">87.983</inclination>
-      <semimajoraxis errorplus="0.013" errorminus="-0.016">0.091</semimajoraxis>
-      <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
-      <lastupdate>2016-01-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.14" errorminus="-0.14">0.3</mass>
+    <temperature errorplus="150.0" errorminus="-150.0">3390.0</temperature>
+    <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
+    <planet>
+      <inclination errorplus="1.593" errorminus="-0.08">87.983</inclination>
+      <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.4</period>
+      <name>K2-9 b</name>
+      <lastupdate>2016-01-21</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.013" errorminus="-0.016">0.091</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="12.0" errorminus="-12.0">110.0</distance>
 </system>

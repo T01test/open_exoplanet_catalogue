@@ -4,19 +4,19 @@
   <declination>18 23 45</declination>
   <star>
     <name>WASP-21</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5800.0</temperature>
-    <planet>
-      <name>WASP-21 b</name>
-      <inclination errorplus="0.84" errorminus="-0.7">88.75</inclination>
-      <semimajoraxis errorplus="0.00041" errorminus="-0.00044">0.052</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.08">0.89</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5800.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
+    <planet>
+      <inclination errorplus="0.84" errorminus="-0.7">88.75</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <name>WASP-21 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00041" errorminus="-0.00044">0.052</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="50.0" errorminus="-30.0">242.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>41 00 39</declination>
   <star>
     <name>KOI-12</name>
-    <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
-    <temperature errorplus="120.0" errorminus="-120.0">6820.0</temperature>
-    <planet>
-      <name>KOI-12 b</name>
-      <inclination errorplus="0.15" errorminus="-0.25">88.95</inclination>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.151</semimajoraxis>
-      <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
-      <lastupdate>2015-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.9</period>
-      <eccentricity>0.72</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.09">1.45</mass>
+    <temperature errorplus="120.0" errorminus="-120.0">6820.0</temperature>
+    <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
+    <planet>
+      <inclination errorplus="0.15" errorminus="-0.25">88.95</inclination>
+      <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
+      <period errorplus="0.0" errorminus="-0.0">17.9</period>
+      <name>KOI-12 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.72</eccentricity>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.151</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="40.0" errorminus="-40.0">426.0</distance>
 </system>

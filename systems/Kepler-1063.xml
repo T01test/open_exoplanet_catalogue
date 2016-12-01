@@ -4,18 +4,18 @@
   <declination>38 08 34</declination>
   <star>
     <name>Kepler-1063</name>
-    <radius errorplus="0.3" errorminus="-0.14">1.14</radius>
-    <temperature errorplus="188.84" errorminus="-155.38">5945.0</temperature>
-    <planet>
-      <name>Kepler-1063 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.3" errorminus="-0.14">1.14</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.07">1.09</mass>
+    <temperature errorplus="188.84" errorminus="-155.38">5945.0</temperature>
+    <radius errorplus="0.3" errorminus="-0.14">1.14</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.3" errorminus="-0.14">1.14</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.1</period>
+      <name>Kepler-1063 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="95.13" errorminus="-48.81">365.0</distance>
 </system>

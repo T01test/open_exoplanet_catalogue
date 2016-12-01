@@ -4,18 +4,18 @@
   <declination>49 56 20</declination>
   <star>
     <name>Kepler-997</name>
-    <radius errorplus="0.37" errorminus="-0.3">1.56</radius>
-    <temperature errorplus="62.57" errorminus="-54.96">6150.0</temperature>
-    <planet>
-      <name>Kepler-997 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.37" errorminus="-0.3">1.56</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.15" errorminus="-0.08">1.22</mass>
+    <temperature errorplus="62.57" errorminus="-54.96">6150.0</temperature>
+    <radius errorplus="0.37" errorminus="-0.3">1.56</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.37" errorminus="-0.3">1.56</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <name>Kepler-997 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="112.98" errorminus="-88.85">470.0</distance>
 </system>

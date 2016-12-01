@@ -4,36 +4,36 @@
   <declination>42 15 54</declination>
   <star>
     <name>Kepler-60</name>
-    <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-    <temperature errorplus="144.0" errorminus="-144.0">5905.0</temperature>
-    <planet>
-      <name>Kepler-60 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-60 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-60 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.08" errorminus="-0.08">1.04</mass>
+    <temperature errorplus="144.0" errorminus="-144.0">5905.0</temperature>
+    <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <name>Kepler-60 c</name>
+      <lastupdate>2016-04-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <name>Kepler-60 b</name>
+      <lastupdate>2016-04-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <name>Kepler-60 d</name>
+      <lastupdate>2016-04-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

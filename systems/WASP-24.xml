@@ -4,19 +4,19 @@
   <declination>02 20 35</declination>
   <star>
     <name>WASP-24</name>
-    <radius errorplus="0.03">1.33</radius>
-    <temperature errorplus="100.0">6075.0</temperature>
-    <planet>
-      <name>WASP-24 b</name>
-      <inclination errorplus="0.31" errorminus="-0.31">83.64</inclination>
-      <semimajoraxis errorplus="0.00028" errorminus="-0.00028">0.03651</semimajoraxis>
-      <radius errorplus="0.03">1.33</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.3</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03">1.18</mass>
+    <temperature errorplus="100.0">6075.0</temperature>
+    <radius errorplus="0.03">1.33</radius>
+    <planet>
+      <inclination errorplus="0.31" errorminus="-0.31">83.64</inclination>
+      <radius errorplus="0.03">1.33</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.3</period>
+      <name>WASP-24 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.00028" errorminus="-0.00028">0.03651</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

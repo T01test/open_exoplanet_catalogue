@@ -4,29 +4,29 @@
   <declination>-12 07 46</declination>
   <star>
     <name>HD 82943</name>
-    <radius/>
-    <temperature>6016.0</temperature>
-    <planet>
-      <name>HD 82943 b</name>
-      <inclination>90.0</inclination>
-      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">1.18306</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">441.5</period>
-      <eccentricity>0.162</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 82943 c</name>
-      <inclination>90.0</inclination>
-      <semimajoraxis errorplus="0.00012" errorminus="-0.00012">0.74345</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">220.1</period>
-      <eccentricity>0.3663</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.2</mass>
+    <temperature>6016.0</temperature>
+    <radius/>
+    <planet>
+      <inclination>90.0</inclination>
+      <radius/>
+      <period errorplus="0.3" errorminus="-0.3">441.5</period>
+      <name>HD 82943 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.162</eccentricity>
+      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">1.18306</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination>90.0</inclination>
+      <radius/>
+      <period errorplus="0.1" errorminus="-0.1">220.1</period>
+      <name>HD 82943 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.3663</eccentricity>
+      <semimajoraxis errorplus="0.00012" errorminus="-0.00012">0.74345</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="0.62" errorminus="-0.65">27.46</distance>
 </system>

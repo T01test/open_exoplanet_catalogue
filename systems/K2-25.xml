@@ -4,19 +4,19 @@
   <declination>15 14 51</declination>
   <star>
     <name>K2-25</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.29</radius>
-    <temperature errorplus="60.0" errorminus="-60.0">3180.0</temperature>
-    <planet>
-      <name>K2-25 b</name>
-      <inclination errorplus="1.2" errorminus="-0.7">88.3</inclination>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">0.29</radius>
-      <lastupdate>2016-01-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
-      <eccentricity>0.27</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.02">0.29</mass>
+    <temperature errorplus="60.0" errorminus="-60.0">3180.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.29</radius>
+    <planet>
+      <inclination errorplus="1.2" errorminus="-0.7">88.3</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.29</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <name>K2-25 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.27</eccentricity>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="3.3" errorminus="-3.3">45.7</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>47 23 46</declination>
   <star>
     <name>Kepler-526</name>
-    <radius errorplus="0.07" errorminus="-0.06">1.14</radius>
-    <temperature errorplus="80.86" errorminus="-84.44">5894.0</temperature>
-    <planet>
-      <name>Kepler-526 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.07" errorminus="-0.06">1.14</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.15</mass>
+    <temperature errorplus="80.86" errorminus="-84.44">5894.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.06">1.14</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.06">1.14</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.5</period>
+      <name>Kepler-526 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="30.34" errorminus="-27.73">504.0</distance>
 </system>

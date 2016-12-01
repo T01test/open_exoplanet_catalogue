@@ -4,18 +4,18 @@
   <declination>45 44 13</declination>
   <star>
     <name>Kepler-915</name>
-    <radius errorplus="0.3" errorminus="-0.17">1.38</radius>
-    <temperature errorplus="70.33" errorminus="-51.89">6173.0</temperature>
-    <planet>
-      <name>Kepler-915 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.3" errorminus="-0.17">1.38</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.05">1.21</mass>
+    <temperature errorplus="70.33" errorminus="-51.89">6173.0</temperature>
+    <radius errorplus="0.3" errorminus="-0.17">1.38</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.3" errorminus="-0.17">1.38</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <name>Kepler-915 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="174.96" errorminus="-100.57">806.0</distance>
 </system>

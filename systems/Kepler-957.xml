@@ -4,18 +4,18 @@
   <declination>48 49 08</declination>
   <star>
     <name>Kepler-957</name>
-    <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
-    <temperature errorplus="47.52" errorminus="-58.85">4963.0</temperature>
-    <planet>
-      <name>Kepler-957 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.04">0.81</mass>
+    <temperature errorplus="47.52" errorminus="-58.85">4963.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.04">0.75</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.9</period>
+      <name>Kepler-957 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="38.35" errorminus="-42.82">749.0</distance>
 </system>

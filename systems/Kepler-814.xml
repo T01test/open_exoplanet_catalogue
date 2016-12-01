@@ -4,18 +4,18 @@
   <declination>48 25 53</declination>
   <star>
     <name>Kepler-814</name>
-    <radius errorplus="0.36" errorminus="-0.14">1.22</radius>
-    <temperature errorplus="90.5" errorminus="-87.42">6162.0</temperature>
-    <planet>
-      <name>Kepler-814 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.36" errorminus="-0.14">1.22</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.12" errorminus="-0.07">1.15</mass>
+    <temperature errorplus="90.5" errorminus="-87.42">6162.0</temperature>
+    <radius errorplus="0.36" errorminus="-0.14">1.22</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.36" errorminus="-0.14">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <name>Kepler-814 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="390.77" errorminus="-167.68">1327.0</distance>
 </system>

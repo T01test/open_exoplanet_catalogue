@@ -4,18 +4,18 @@
   <declination>48 48 41</declination>
   <star>
     <name>Kepler-848</name>
-    <radius errorplus="0.18" errorminus="-0.17">1.2</radius>
-    <temperature errorplus="70.35" errorminus="-79.05">5695.0</temperature>
-    <planet>
-      <name>Kepler-848 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.18" errorminus="-0.17">1.2</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">1.01</mass>
+    <temperature errorplus="70.35" errorminus="-79.05">5695.0</temperature>
+    <radius errorplus="0.18" errorminus="-0.17">1.2</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.18" errorminus="-0.17">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.9</period>
+      <name>Kepler-848 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="123.48" errorminus="-115.25">797.0</distance>
 </system>

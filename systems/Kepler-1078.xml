@@ -4,18 +4,18 @@
   <declination>43 03 00</declination>
   <star>
     <name>Kepler-1078</name>
-    <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
-    <temperature errorplus="100.22" errorminus="-123.53">5612.0</temperature>
-    <planet>
-      <name>Kepler-1078 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.94</mass>
+    <temperature errorplus="100.22" errorminus="-123.53">5612.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <name>Kepler-1078 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="163.49" errorminus="-99.25">1215.0</distance>
 </system>

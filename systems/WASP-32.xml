@@ -4,19 +4,19 @@
   <declination>01 12 01</declination>
   <star>
     <name>WASP-32</name>
-    <radius errorplus="0.05">1.11</radius>
-    <temperature errorplus="100.0">6100.0</temperature>
-    <planet>
-      <name>WASP-32 b</name>
-      <inclination errorplus="0.5" errorminus="-0.5">85.3</inclination>
-      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.0394</semimajoraxis>
-      <radius errorplus="0.05">1.11</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <eccentricity>0.018</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03">1.1</mass>
+    <temperature errorplus="100.0">6100.0</temperature>
+    <radius errorplus="0.05">1.11</radius>
+    <planet>
+      <inclination errorplus="0.5" errorminus="-0.5">85.3</inclination>
+      <radius errorplus="0.05">1.11</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <name>WASP-32 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.018</eccentricity>
+      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.0394</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

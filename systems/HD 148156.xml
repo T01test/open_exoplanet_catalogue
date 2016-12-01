@@ -4,19 +4,19 @@
   <declination>-46 19 03</declination>
   <star>
     <name>HD 148156</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
-    <temperature errorplus="28.0" errorminus="-28.0">6308.0</temperature>
-    <planet>
-      <name>HD 148156 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.04" errorminus="-0.05">2.45</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="28.0" errorminus="-28.0">1027.0</period>
-      <eccentricity>0.52</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.22</mass>
+    <temperature errorplus="28.0" errorminus="-28.0">6308.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.21</radius>
+      <period errorplus="28.0" errorminus="-28.0">1027.0</period>
+      <name>HD 148156 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.52</eccentricity>
+      <semimajoraxis errorplus="0.04" errorminus="-0.05">2.45</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.75" errorminus="-3.07">53.05</distance>
 </system>

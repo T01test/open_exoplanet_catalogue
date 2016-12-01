@@ -4,29 +4,29 @@
   <declination>12 54 44</declination>
   <star>
     <name>NN Ser</name>
-    <radius/>
-    <temperature>57000.0</temperature>
-    <planet>
-      <name>NN Ser c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">5.35</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="102.2" errorminus="-102.2">5573.6</period>
-      <eccentricity>0.08</eccentricity>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-    </planet>
-    <planet>
-      <name>NN Ser d</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.14" errorminus="-0.14">3.43</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="182.5" errorminus="-182.5">2883.5</period>
-      <eccentricity>0.19</eccentricity>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-    </planet>
     <mass>0.54</mass>
+    <temperature>57000.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="182.5" errorminus="-182.5">2883.5</period>
+      <name>NN Ser d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <eccentricity>0.19</eccentricity>
+      <semimajoraxis errorplus="0.14" errorminus="-0.14">3.43</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="102.2" errorminus="-102.2">5573.6</period>
+      <name>NN Ser c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <eccentricity>0.08</eccentricity>
+      <semimajoraxis errorplus="0.06" errorminus="-0.06">5.35</semimajoraxis>
+    </planet>
   </star>
   <distance>500.0</distance>
 </system>

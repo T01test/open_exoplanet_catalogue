@@ -4,36 +4,36 @@
   <declination>46 01 40</declination>
   <star>
     <name>Kepler-127</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-    <temperature errorplus="106.0" errorminus="-106.0">6106.0</temperature>
-    <planet>
-      <name>Kepler-127 b</name>
-      <inclination/>
-      <semimajoraxis>0.125</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-127 d</name>
-      <inclination/>
-      <semimajoraxis>0.28</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">48.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-127 c</name>
-      <inclination/>
-      <semimajoraxis>0.2</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">29.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="106.0" errorminus="-106.0">6106.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <period errorplus="0.0" errorminus="-0.0">48.6</period>
+      <name>Kepler-127 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.28</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.4</period>
+      <name>Kepler-127 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.125</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.36</radius>
+      <period errorplus="0.0" errorminus="-0.0">29.4</period>
+      <name>Kepler-127 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.2</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

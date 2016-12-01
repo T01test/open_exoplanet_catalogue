@@ -4,19 +4,19 @@
   <declination>-23 33 29</declination>
   <star>
     <name>HD 180902</name>
-    <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">5030.0</temperature>
-    <planet>
-      <name>HD 180902 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.39</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="13.0" errorminus="-13.0">479.0</period>
-      <eccentricity>0.09</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.11">1.52</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5030.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.1">4.1</radius>
+      <period errorplus="13.0" errorminus="-13.0">479.0</period>
+      <name>HD 180902 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.09</eccentricity>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.39</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="11.77" errorminus="-14.82">114.55</distance>
 </system>

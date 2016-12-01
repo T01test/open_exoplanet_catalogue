@@ -4,18 +4,18 @@
   <declination>50 22 20</declination>
   <star>
     <name>Kepler-470</name>
-    <radius errorplus="0.67" errorminus="-0.31">1.66</radius>
-    <temperature errorplus="203.78" errorminus="-197.49">6613.0</temperature>
-    <planet>
-      <name>Kepler-470 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.67" errorminus="-0.31">1.66</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.22" errorminus="-0.16">1.4</mass>
+    <temperature errorplus="203.78" errorminus="-197.49">6613.0</temperature>
+    <radius errorplus="0.67" errorminus="-0.31">1.66</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.67" errorminus="-0.31">1.66</radius>
+      <period errorplus="0.0" errorminus="-0.0">24.7</period>
+      <name>Kepler-470 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="385.08" errorminus="-186.32">989.0</distance>
 </system>

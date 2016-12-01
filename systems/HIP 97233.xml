@@ -4,19 +4,19 @@
   <declination>00 41 47</declination>
   <star>
     <name>HIP 97233</name>
-    <radius errorplus="0.55" errorminus="-0.55">5.34</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">5020.0</temperature>
-    <planet>
-      <name>HIP 97233 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.55</semimajoraxis>
-      <radius errorplus="0.55" errorminus="-0.55">5.34</radius>
-      <lastupdate>2014-10-03</lastupdate>
-      <period errorplus="6.7" errorminus="-6.7">1058.8</period>
-      <eccentricity>0.61</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.11" errorminus="-0.11">1.93</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">5020.0</temperature>
+    <radius errorplus="0.55" errorminus="-0.55">5.34</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.55" errorminus="-0.55">5.34</radius>
+      <period errorplus="6.7" errorminus="-6.7">1058.8</period>
+      <name>HIP 97233 b</name>
+      <lastupdate>2014-10-03</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.61</eccentricity>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.55</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="8.6" errorminus="-7.4">106.5</distance>
 </system>

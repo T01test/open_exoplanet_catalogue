@@ -4,36 +4,36 @@
   <declination>43 49 55</declination>
   <star>
     <name>Kepler-174</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-    <temperature errorplus="126.0" errorminus="-126.0">4880.0</temperature>
-    <planet>
-      <name>Kepler-174 c</name>
-      <inclination/>
-      <semimajoraxis>0.214</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">44.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-174 b</name>
-      <inclination/>
-      <semimajoraxis>0.1</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-174 d</name>
-      <inclination/>
-      <semimajoraxis>0.677</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">247.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="126.0" errorminus="-126.0">4880.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <period errorplus="0.0" errorminus="-0.0">44.0</period>
+      <name>Kepler-174 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.214</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <period errorplus="0.0" errorminus="-0.0">247.4</period>
+      <name>Kepler-174 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.677</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <period errorplus="0.0" errorminus="-0.0">14.0</period>
+      <name>Kepler-174 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.1</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

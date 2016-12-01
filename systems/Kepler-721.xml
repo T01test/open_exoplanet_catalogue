@@ -4,18 +4,18 @@
   <declination>44 28 49</declination>
   <star>
     <name>Kepler-721</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
-    <temperature errorplus="53.6" errorminus="-56.09">5075.0</temperature>
-    <planet>
-      <name>Kepler-721 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.82</mass>
+    <temperature errorplus="53.6" errorminus="-56.09">5075.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <name>Kepler-721 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="42.02" errorminus="-43.0">848.0</distance>
 </system>

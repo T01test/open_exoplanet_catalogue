@@ -4,27 +4,27 @@
   <declination>-1 52 40</declination>
   <star>
     <name>K2-5</name>
-    <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-    <temperature errorplus="375.0" errorminus="-375.0">3930.0</temperature>
-    <planet>
-      <name>K2-5 c</name>
-      <inclination errorplus="2.47" errorminus="-2.47">86.95</inclination>
-      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.0818</semimajoraxis>
-      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-      <lastupdate>2016-07-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>K2-5 b</name>
-      <inclination errorplus="1.88" errorminus="-3.37">87.35</inclination>
-      <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0532</semimajoraxis>
-      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-      <lastupdate>2016-07-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.13" errorminus="-0.13">0.61</mass>
+    <temperature errorplus="375.0" errorminus="-375.0">3930.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+    <planet>
+      <inclination errorplus="1.88" errorminus="-3.37">87.35</inclination>
+      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <name>K2-5 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0532</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="2.47" errorminus="-2.47">86.95</inclination>
+      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.9</period>
+      <name>K2-5 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.0818</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

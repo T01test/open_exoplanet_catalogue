@@ -4,18 +4,18 @@
   <declination>42 23 48</declination>
   <star>
     <name>Kepler-1462</name>
-    <radius errorplus="0.21" errorminus="-0.1">1.0</radius>
-    <temperature errorplus="144.59" errorminus="-206.5">5756.0</temperature>
-    <planet>
-      <name>Kepler-1462 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.21" errorminus="-0.1">1.0</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">65.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.07" errorminus="-0.07">1.0</mass>
+    <temperature errorplus="144.59" errorminus="-206.5">5756.0</temperature>
+    <radius errorplus="0.21" errorminus="-0.1">1.0</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.1">1.0</radius>
+      <period errorplus="0.0" errorminus="-0.0">65.6</period>
+      <name>Kepler-1462 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="281.39" errorminus="-154.53">1368.0</distance>
 </system>

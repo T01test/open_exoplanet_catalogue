@@ -4,19 +4,19 @@
   <declination>08 27 41</declination>
   <star>
     <name>xi Aql</name>
-    <radius>12.0</radius>
-    <temperature errorplus="30.0" errorminus="-30.0">4780.0</temperature>
-    <planet>
-      <name>xi Aql b</name>
-      <inclination/>
-      <semimajoraxis>0.68</semimajoraxis>
-      <radius>12.0</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">136.8</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>2.2</mass>
+    <temperature errorplus="30.0" errorminus="-30.0">4780.0</temperature>
+    <radius>12.0</radius>
+    <planet>
+      <inclination/>
+      <radius>12.0</radius>
+      <period errorplus="0.2" errorminus="-0.2">136.8</period>
+      <name>xi Aql b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis>0.68</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="3.73" errorminus="-4.23">62.66</distance>
 </system>

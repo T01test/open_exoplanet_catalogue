@@ -4,27 +4,27 @@
   <declination>46 50 17</declination>
   <star>
     <name>Kepler-616</name>
-    <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
-    <temperature errorplus="133.18" errorminus="-101.52">5753.0</temperature>
-    <planet>
-      <name>Kepler-616 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-616 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">90.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.05">0.98</mass>
+    <temperature errorplus="133.18" errorminus="-101.52">5753.0</temperature>
+    <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <name>Kepler-616 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.13" errorminus="-0.08">0.97</radius>
+      <period errorplus="0.0" errorminus="-0.0">90.4</period>
+      <name>Kepler-616 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="139.79" errorminus="-87.23">1019.0</distance>
 </system>

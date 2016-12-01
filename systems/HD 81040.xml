@@ -4,19 +4,19 @@
   <declination>20 21 52</declination>
   <star>
     <name>HD 81040</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
-    <temperature errorplus="50.0" errorminus="-50.0">5700.0</temperature>
-    <planet>
-      <name>HD 81040 b</name>
-      <inclination/>
-      <semimajoraxis>1.94</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
-      <lastupdate>2015-04-16</lastupdate>
-      <period errorplus="7.0" errorminus="-7.0">1001.7</period>
-      <eccentricity>0.526</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.96</mass>
+    <temperature errorplus="50.0" errorminus="-50.0">5700.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.86</radius>
+      <period errorplus="7.0" errorminus="-7.0">1001.7</period>
+      <name>HD 81040 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.526</eccentricity>
+      <semimajoraxis>1.94</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.26" errorminus="-1.37">32.56</distance>
 </system>

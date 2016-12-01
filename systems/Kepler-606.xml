@@ -4,18 +4,18 @@
   <declination>44 22 52</declination>
   <star>
     <name>Kepler-606</name>
-    <radius errorplus="0.45" errorminus="-0.18">1.22</radius>
-    <temperature errorplus="194.78" errorminus="-227.56">6161.0</temperature>
-    <planet>
-      <name>Kepler-606 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.45" errorminus="-0.18">1.22</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.17" errorminus="-0.1">1.13</mass>
+    <temperature errorplus="194.78" errorminus="-227.56">6161.0</temperature>
+    <radius errorplus="0.45" errorminus="-0.18">1.22</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.45" errorminus="-0.18">1.22</radius>
+      <period errorplus="0.0" errorminus="-0.0">24.3</period>
+      <name>Kepler-606 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="449.42" errorminus="-196.86">1208.0</distance>
 </system>

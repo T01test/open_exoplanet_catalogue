@@ -4,18 +4,18 @@
   <declination>42 41 46</declination>
   <star>
     <name>Kepler-710</name>
-    <radius errorplus="0.12" errorminus="-0.07">0.91</radius>
-    <temperature errorplus="156.89" errorminus="-127.02">5611.0</temperature>
-    <planet>
-      <name>Kepler-710 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.12" errorminus="-0.07">0.91</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">0.94</mass>
+    <temperature errorplus="156.89" errorminus="-127.02">5611.0</temperature>
+    <radius errorplus="0.12" errorminus="-0.07">0.91</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.12" errorminus="-0.07">0.91</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <name>Kepler-710 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="122.11" errorminus="-78.32">919.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>-7 15 26</declination>
   <star>
     <name>HD 106515 A</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.62</radius>
-    <temperature errorplus="29.0" errorminus="-29.0">5362.0</temperature>
-    <planet>
-      <name>HD 106515 A b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">4.59</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.62</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="12.0" errorminus="-12.0">3630.0</period>
-      <eccentricity>0.572</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.01" errorminus="-0.01">0.97</mass>
+    <temperature errorplus="29.0" errorminus="-29.0">5362.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">1.62</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">1.62</radius>
+      <period errorplus="12.0" errorminus="-12.0">3630.0</period>
+      <name>HD 106515 A b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.572</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">4.59</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.93" errorminus="-2.16">36.36</distance>
 </system>

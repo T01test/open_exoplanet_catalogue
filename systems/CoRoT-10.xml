@@ -4,19 +4,19 @@
   <declination>00 44 46</declination>
   <star>
     <name>CoRoT-10</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-    <temperature errorplus="75.0" errorminus="-75.0">5075.0</temperature>
-    <planet>
-      <name>CoRoT-10 b</name>
-      <inclination errorplus="0.2" errorminus="-0.2">88.55</inclination>
-      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.1055</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.2</period>
-      <eccentricity>0.53</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.89</mass>
+    <temperature errorplus="75.0" errorminus="-75.0">5075.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+    <planet>
+      <inclination errorplus="0.2" errorminus="-0.2">88.55</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.2</period>
+      <name>CoRoT-10 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.53</eccentricity>
+      <semimajoraxis errorplus="0.0021" errorminus="-0.0021">0.1055</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="70.0" errorminus="-70.0">345.0</distance>
 </system>

@@ -4,27 +4,27 @@
   <declination>46 38 24</declination>
   <star>
     <name>Kepler-59</name>
-    <radius>0.94</radius>
-    <temperature>6074.0</temperature>
-    <planet>
-      <name>Kepler-59 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius>0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-59 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius>0.94</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>1.04</mass>
+    <temperature>6074.0</temperature>
+    <radius>0.94</radius>
+    <planet>
+      <inclination/>
+      <radius>0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <name>Kepler-59 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius>0.94</radius>
+      <period errorplus="0.0" errorminus="-0.0">18.0</period>
+      <name>Kepler-59 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

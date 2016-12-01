@@ -4,18 +4,18 @@
   <declination>40 46 37</declination>
   <star>
     <name>Kepler-1283</name>
-    <radius errorplus="0.51" errorminus="-0.2">1.25</radius>
-    <temperature errorplus="183.18" errorminus="-233.53">6175.0</temperature>
-    <planet>
-      <name>Kepler-1283 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.51" errorminus="-0.2">1.25</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.18" errorminus="-0.11">1.16</mass>
+    <temperature errorplus="183.18" errorminus="-233.53">6175.0</temperature>
+    <radius errorplus="0.51" errorminus="-0.2">1.25</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.51" errorminus="-0.2">1.25</radius>
+      <period errorplus="0.0" errorminus="-0.0">12.9</period>
+      <name>Kepler-1283 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="589.71" errorminus="-245.76">1452.0</distance>
 </system>

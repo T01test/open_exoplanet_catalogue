@@ -4,19 +4,19 @@
   <declination>10 01 57</declination>
   <star>
     <name>WASP-38</name>
-    <radius errorplus="0.03">1.33</radius>
-    <temperature errorplus="80.0">6150.0</temperature>
-    <planet>
-      <name>WASP-38 b</name>
-      <inclination errorplus="0.3" errorminus="-0.25">88.69</inclination>
-      <semimajoraxis errorplus="0.00074" errorminus="-0.00075">0.07522</semimajoraxis>
-      <radius errorplus="0.03">1.33</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.9</period>
-      <eccentricity>0.0314</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04">1.2</mass>
+    <temperature errorplus="80.0">6150.0</temperature>
+    <radius errorplus="0.03">1.33</radius>
+    <planet>
+      <inclination errorplus="0.3" errorminus="-0.25">88.69</inclination>
+      <radius errorplus="0.03">1.33</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.9</period>
+      <name>WASP-38 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0314</eccentricity>
+      <semimajoraxis errorplus="0.00074" errorminus="-0.00075">0.07522</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="20.0" errorminus="-20.0">110.0</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>43 12 57</declination>
   <star>
     <name>Kepler-1560</name>
-    <radius errorplus="0.2" errorminus="-0.1">1.02</radius>
-    <temperature errorplus="103.32" errorminus="-136.29">5815.0</temperature>
-    <planet>
-      <name>Kepler-1560 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.2" errorminus="-0.1">1.02</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
+    <temperature errorplus="103.32" errorminus="-136.29">5815.0</temperature>
+    <radius errorplus="0.2" errorminus="-0.1">1.02</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.1">1.02</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <name>Kepler-1560 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="103.61" errorminus="-55.05">529.0</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>85 44 10</declination>
   <star>
     <name>HD 12648</name>
-    <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
-    <temperature errorplus="7.5" errorminus="-7.5">4835.8</temperature>
-    <planet>
-      <name>HD 12648 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.54</semimajoraxis>
-      <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="0.5" errorminus="-0.5">133.6</period>
-      <eccentricity>0.04</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">1.2</mass>
+    <temperature errorplus="7.5" errorminus="-7.5">4835.8</temperature>
+    <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.6" errorminus="-0.6">9.2</radius>
+      <period errorplus="0.5" errorminus="-0.5">133.6</period>
+      <name>HD 12648 b</name>
+      <lastupdate>2015-10-15</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.04</eccentricity>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.54</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="9.0" errorminus="-9.0">158.4</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>48 09 15</declination>
   <star>
     <name>Kepler-1637</name>
-    <radius errorplus="0.2" errorminus="-0.09">1.02</radius>
-    <temperature errorplus="79.58" errorminus="-94.94">5789.0</temperature>
-    <planet>
-      <name>Kepler-1637 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.2" errorminus="-0.09">1.02</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.06" errorminus="-0.05">1.02</mass>
+    <temperature errorplus="79.58" errorminus="-94.94">5789.0</temperature>
+    <radius errorplus="0.2" errorminus="-0.09">1.02</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.09">1.02</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <name>Kepler-1637 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="101.01" errorminus="-44.92">506.0</distance>
 </system>

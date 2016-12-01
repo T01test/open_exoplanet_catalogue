@@ -4,18 +4,18 @@
   <declination>44 18 39</declination>
   <star>
     <name>Kepler-779</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.44</radius>
-    <temperature errorplus="35.65" errorminus="-34.03">3804.0</temperature>
-    <planet>
-      <name>Kepler-779 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.44</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.46</mass>
+    <temperature errorplus="35.65" errorminus="-34.03">3804.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.44</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.44</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <name>Kepler-779 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="18.09" errorminus="-16.66">224.0</distance>
 </system>

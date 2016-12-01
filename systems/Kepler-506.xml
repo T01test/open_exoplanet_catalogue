@@ -4,18 +4,18 @@
   <declination>40 43 11</declination>
   <star>
     <name>Kepler-506</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.19</radius>
-    <temperature errorplus="57.77" errorminus="-58.08">6236.0</temperature>
-    <planet>
-      <name>Kepler-506 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.02" errorminus="-0.02">1.19</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">1.19</mass>
+    <temperature errorplus="57.77" errorminus="-58.08">6236.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">1.19</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.19</radius>
+      <period errorplus="0.0" errorminus="-0.0">6.9</period>
+      <name>Kepler-506 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="5.48" errorminus="-5.75">231.0</distance>
 </system>

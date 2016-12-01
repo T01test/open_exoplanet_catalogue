@@ -4,19 +4,19 @@
   <declination>-48 32 57</declination>
   <star>
     <name>HD 156411</name>
-    <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
-    <temperature errorplus="15.0" errorminus="-15.0">5900.0</temperature>
-    <planet>
-      <name>HD 156411 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.04">1.88</semimajoraxis>
-      <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
-      <lastupdate>2014-06-25</lastupdate>
-      <period errorplus="14.5" errorminus="-14.5">842.2</period>
-      <eccentricity>0.22</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.25</mass>
+    <temperature errorplus="15.0" errorminus="-15.0">5900.0</temperature>
+    <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.09">2.16</radius>
+      <period errorplus="14.5" errorminus="-14.5">842.2</period>
+      <name>HD 156411 b</name>
+      <lastupdate>2014-06-25</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.22</eccentricity>
+      <semimajoraxis errorplus="0.03" errorminus="-0.04">1.88</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.41" errorminus="-2.64">55.1</distance>
 </system>

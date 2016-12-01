@@ -4,19 +4,19 @@
   <declination>-54 53 35</declination>
   <star>
     <name>HATS-29</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
-    <temperature errorplus="110.0" errorminus="-110.0">5670.0</temperature>
-    <planet>
-      <name>HATS-29 b</name>
-      <inclination errorplus="0.34" errorminus="-0.34">87.37</inclination>
-      <semimajoraxis errorplus="0.00088" errorminus="-0.00088">0.05475</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
-      <lastupdate>2016-06-09</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <eccentricity>0.158</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.03</mass>
+    <temperature errorplus="110.0" errorminus="-110.0">5670.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
+    <planet>
+      <inclination errorplus="0.34" errorminus="-0.34">87.37</inclination>
+      <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <name>HATS-29 b</name>
+      <lastupdate>2016-06-09</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.158</eccentricity>
+      <semimajoraxis errorplus="0.00088" errorminus="-0.00088">0.05475</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="15.0" errorminus="-15.0">351.0</distance>
 </system>

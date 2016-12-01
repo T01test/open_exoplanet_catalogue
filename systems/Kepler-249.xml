@@ -4,36 +4,36 @@
   <declination>43 39 30</declination>
   <star>
     <name>Kepler-249</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-    <temperature errorplus="150.0" errorminus="-150.0">3568.0</temperature>
-    <planet>
-      <name>Kepler-249 c</name>
-      <inclination/>
-      <semimajoraxis>0.058</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-249 d</name>
-      <inclination/>
-      <semimajoraxis>0.097</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-249 b</name>
-      <inclination/>
-      <semimajoraxis>0.035</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass/>
+    <temperature errorplus="150.0" errorminus="-150.0">3568.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <name>Kepler-249 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.058</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <name>Kepler-249 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.035</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+      <period errorplus="0.0" errorminus="-0.0">15.4</period>
+      <name>Kepler-249 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.097</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

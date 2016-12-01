@@ -4,18 +4,18 @@
   <declination>38 08 42</declination>
   <star>
     <name>Kepler-1194</name>
-    <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
-    <temperature errorplus="97.14" errorminus="-79.79">5590.0</temperature>
-    <planet>
-      <name>Kepler-1194 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
+    <temperature errorplus="97.14" errorminus="-79.79">5590.0</temperature>
+    <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
+      <period errorplus="0.0" errorminus="-0.0">16.2</period>
+      <name>Kepler-1194 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="41.34" errorminus="-33.73">616.0</distance>
 </system>

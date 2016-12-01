@@ -4,19 +4,19 @@
   <declination>-47 21 38</declination>
   <star>
     <name>WASP-96</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.05</radius>
-    <temperature errorplus="140.0" errorminus="-140.0">5540.0</temperature>
-    <planet>
-      <name>WASP-96 b</name>
-      <inclination errorplus="0.2" errorminus="-0.2">85.6</inclination>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0453</semimajoraxis>
-      <radius errorplus="0.05" errorminus="-0.05">1.05</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.09" errorminus="-0.09">1.06</mass>
+    <temperature errorplus="140.0" errorminus="-140.0">5540.0</temperature>
+    <radius errorplus="0.05" errorminus="-0.05">1.05</radius>
+    <planet>
+      <inclination errorplus="0.2" errorminus="-0.2">85.6</inclination>
+      <radius errorplus="0.05" errorminus="-0.05">1.05</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>WASP-96 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0453</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

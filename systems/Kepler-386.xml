@@ -4,27 +4,27 @@
   <declination>48 41 37</declination>
   <star>
     <name>Kepler-386</name>
-    <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5178.0</temperature>
-    <planet>
-      <name>Kepler-386 c</name>
-      <inclination/>
-      <semimajoraxis>0.155</semimajoraxis>
-      <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-386 b</name>
-      <inclination/>
-      <semimajoraxis>0.096</semimajoraxis>
-      <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.74</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">5178.0</temperature>
+    <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
+      <period errorplus="0.0" errorminus="-0.0">25.2</period>
+      <name>Kepler-386 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.155</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.43" errorminus="-0.43">0.77</radius>
+      <period errorplus="0.0" errorminus="-0.0">12.3</period>
+      <name>Kepler-386 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.096</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

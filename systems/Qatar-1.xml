@@ -4,19 +4,19 @@
   <declination>65 09 43</declination>
   <star>
     <name>Qatar-1</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
-    <temperature errorplus="93.0" errorminus="-88.0">5013.0</temperature>
-    <planet>
-      <name>Qatar-1 b</name>
-      <inclination errorplus="0.16" errorminus="-0.15">84.08</inclination>
-      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.02332</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
-      <lastupdate>2016-09-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.4</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.84</mass>
+    <temperature errorplus="93.0" errorminus="-88.0">5013.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+    <planet>
+      <inclination errorplus="0.16" errorminus="-0.15">84.08</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+      <period errorplus="0.0" errorminus="-0.0">1.4</period>
+      <name>Qatar-1 b</name>
+      <lastupdate>2016-09-15</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.02332</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

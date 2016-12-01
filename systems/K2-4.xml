@@ -4,18 +4,18 @@
   <declination>-3 54 20</declination>
   <star>
     <name>K2-4</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
-    <temperature errorplus="45.0" errorminus="-43.0">4197.0</temperature>
-    <planet>
-      <name>K2-4 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0777</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
-      <lastupdate>2015-07-16</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.63</mass>
+    <temperature errorplus="45.0" errorminus="-43.0">4197.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.6</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <name>K2-4 b</name>
+      <lastupdate>2015-07-16</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0777</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

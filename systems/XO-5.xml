@@ -4,19 +4,19 @@
   <declination>39 05 40</declination>
   <star>
     <name>XO-5</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">5430.0</temperature>
-    <planet>
-      <name>XO-5 b</name>
-      <inclination errorplus="0.2" errorminus="-0.2">86.8</inclination>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0515</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-      <lastupdate>2015-02-12</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">1.04</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">5430.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+    <planet>
+      <inclination errorplus="0.2" errorminus="-0.2">86.8</inclination>
+      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <name>XO-5 b</name>
+      <lastupdate>2015-02-12</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0515</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="12.0" errorminus="-12.0">260.0</distance>
 </system>

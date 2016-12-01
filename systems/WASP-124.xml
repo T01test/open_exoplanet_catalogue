@@ -4,19 +4,19 @@
   <declination>-30 44 58</declination>
   <star>
     <name>WASP-124</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.02</radius>
-    <temperature errorplus="100.0" errorminus="-100.0">6050.0</temperature>
-    <planet>
-      <name>WASP-124 b</name>
-      <inclination errorplus="0.2" errorminus="-0.2">86.3</inclination>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0449</semimajoraxis>
-      <radius errorplus="0.02" errorminus="-0.02">1.02</radius>
-      <lastupdate>2016-05-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <eccentricity>0.017</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.07</mass>
+    <temperature errorplus="100.0" errorminus="-100.0">6050.0</temperature>
+    <radius errorplus="0.02" errorminus="-0.02">1.02</radius>
+    <planet>
+      <inclination errorplus="0.2" errorminus="-0.2">86.3</inclination>
+      <radius errorplus="0.02" errorminus="-0.02">1.02</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>WASP-124 b</name>
+      <lastupdate>2016-05-05</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.017</eccentricity>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0449</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="11.0" errorminus="-11.0">433.0</distance>
 </system>

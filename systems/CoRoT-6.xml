@@ -4,19 +4,19 @@
   <declination>06 39 47</declination>
   <star>
     <name>CoRoT-6</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">6090.0</temperature>
-    <planet>
-      <name>CoRoT-6 b</name>
-      <inclination errorplus="0.3" errorminus="-0.3">89.07</inclination>
-      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.0855</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.9</period>
-      <eccentricity>0.1</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.05</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">6090.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+    <planet>
+      <inclination errorplus="0.3" errorminus="-0.3">89.07</inclination>
+      <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <name>CoRoT-6 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.1</eccentricity>
+      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.0855</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

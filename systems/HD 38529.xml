@@ -4,29 +4,29 @@
   <declination>01 10 05</declination>
   <star>
     <name>HD 38529</name>
-    <radius/>
-    <temperature errorplus="44.0" errorminus="-44.0">5697.0</temperature>
-    <planet>
-      <name>HD 38529 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.048" errorminus="-0.048">3.712</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="5.7" errorminus="-5.7">2140.2</period>
-      <eccentricity>0.341</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 38529 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.131</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">14.3</period>
-      <eccentricity>0.257</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.48</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5697.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.0" errorminus="-0.0">14.3</period>
+      <name>HD 38529 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.257</eccentricity>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.131</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="5.7" errorminus="-5.7">2140.2</period>
+      <name>HD 38529 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.341</eccentricity>
+      <semimajoraxis errorplus="0.048" errorminus="-0.048">3.712</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.7" errorminus="-1.7">42.4</distance>
 </system>

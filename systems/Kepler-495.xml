@@ -4,18 +4,18 @@
   <declination>39 05 53</declination>
   <star>
     <name>Kepler-495</name>
-    <radius errorplus="0.07" errorminus="-0.05">0.83</radius>
-    <temperature errorplus="128.17" errorminus="-91.17">5346.0</temperature>
-    <planet>
-      <name>Kepler-495 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.07" errorminus="-0.05">0.83</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.05">0.86</mass>
+    <temperature errorplus="128.17" errorminus="-91.17">5346.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.05">0.83</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.05">0.83</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>Kepler-495 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="54.0" errorminus="-44.2">630.0</distance>
 </system>

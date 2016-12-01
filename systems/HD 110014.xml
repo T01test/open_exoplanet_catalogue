@@ -4,19 +4,19 @@
   <declination>-7 59 44</declination>
   <star>
     <name>HD 110014</name>
-    <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">4445.0</temperature>
-    <planet>
-      <name>HD 110014 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">2.14</semimajoraxis>
-      <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="6.0" errorminus="-6.0">835.5</period>
-      <eccentricity>0.462</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.28" errorminus="-0.28">2.17</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">4445.0</temperature>
+    <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="1.1" errorminus="-1.1">20.9</radius>
+      <period errorplus="6.0" errorminus="-6.0">835.5</period>
+      <name>HD 110014 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.462</eccentricity>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">2.14</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.3" errorminus="-2.3">90.0</distance>
 </system>

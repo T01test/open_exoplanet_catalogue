@@ -4,49 +4,49 @@
   <declination>41 53 28</declination>
   <star>
     <name>KOI-94</name>
-    <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
-    <temperature errorplus="58.0" errorminus="-58.0">6182.0</temperature>
-    <planet>
-      <name>KOI-94 e</name>
-      <inclination errorplus="0.15" errorminus="-0.15">89.76</inclination>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.3046</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">54.3</period>
-      <eccentricity>0.019</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-94 c</name>
-      <inclination errorplus="0.75" errorminus="-0.75">88.36</inclination>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.1013</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.4</period>
-      <eccentricity>0.43</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-94 d</name>
-      <inclination errorplus="0.123" errorminus="-0.123">89.871</inclination>
-      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.1684</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.3</period>
-      <eccentricity>0.022</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-94 b</name>
-      <inclination errorplus="0.57" errorminus="-0.57">89.3</inclination>
-      <semimajoraxis errorplus="0.00067" errorminus="-0.00067">0.05119</semimajoraxis>
-      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <eccentricity>0.25</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">1.28</mass>
+    <temperature errorplus="58.0" errorminus="-58.0">6182.0</temperature>
+    <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+    <planet>
+      <inclination errorplus="0.15" errorminus="-0.15">89.76</inclination>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <period errorplus="0.0" errorminus="-0.0">54.3</period>
+      <name>KOI-94 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.019</eccentricity>
+      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.3046</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.57" errorminus="-0.57">89.3</inclination>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <name>KOI-94 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.25</eccentricity>
+      <semimajoraxis errorplus="0.00067" errorminus="-0.00067">0.05119</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.123" errorminus="-0.123">89.871</inclination>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <period errorplus="0.0" errorminus="-0.0">22.3</period>
+      <name>KOI-94 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.022</eccentricity>
+      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.1684</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.75" errorminus="-0.75">88.36</inclination>
+      <radius errorplus="0.14" errorminus="-0.14">1.52</radius>
+      <period errorplus="0.0" errorminus="-0.0">10.4</period>
+      <name>KOI-94 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.43</eccentricity>
+      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.1013</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

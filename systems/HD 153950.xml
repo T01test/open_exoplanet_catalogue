@@ -4,19 +4,19 @@
   <declination>-43 18 35</declination>
   <star>
     <name>HD 153950</name>
-    <radius>1.34</radius>
-    <temperature errorplus="13.0" errorminus="-13.0">6076.0</temperature>
-    <planet>
-      <name>HD 153950 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.28</semimajoraxis>
-      <radius>1.34</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="3.6" errorminus="-3.6">499.4</period>
-      <eccentricity>0.34</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">1.12</mass>
+    <temperature errorplus="13.0" errorminus="-13.0">6076.0</temperature>
+    <radius>1.34</radius>
+    <planet>
+      <inclination/>
+      <radius>1.34</radius>
+      <period errorplus="3.6" errorminus="-3.6">499.4</period>
+      <name>HD 153950 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.34</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.28</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="3.18" errorminus="-3.63">51.87</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>49 32 53</declination>
   <star>
     <name>Kepler-63</name>
-    <radius errorplus="0.03" errorminus="-0.02">0.9</radius>
-    <temperature errorplus="50.0" errorminus="-50.0">5576.0</temperature>
-    <planet>
-      <name>Kepler-63 b</name>
-      <inclination errorplus="0.018" errorminus="-0.019">87.806</inclination>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.08</semimajoraxis>
-      <radius errorplus="0.03" errorminus="-0.02">0.9</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.4</period>
-      <eccentricity>0.45</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.04" errorminus="-0.04">0.98</mass>
+    <temperature errorplus="50.0" errorminus="-50.0">5576.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.02">0.9</radius>
+    <planet>
+      <inclination errorplus="0.018" errorminus="-0.019">87.806</inclination>
+      <radius errorplus="0.03" errorminus="-0.02">0.9</radius>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <name>Kepler-63 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.45</eccentricity>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.08</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="15.0" errorminus="-15.0">200.0</distance>
 </system>

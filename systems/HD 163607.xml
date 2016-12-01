@@ -4,29 +4,29 @@
   <declination>56 23 31</declination>
   <star>
     <name>HD 163607</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">5543.0</temperature>
-    <planet>
-      <name>HD 163607 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">2.42</semimajoraxis>
-      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
-      <lastupdate>2014-06-25</lastupdate>
-      <period errorplus="8.0" errorminus="-8.0">1314.0</period>
-      <eccentricity>0.12</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 163607 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
-      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
-      <lastupdate>2015-02-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">75.3</period>
-      <eccentricity>0.73</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5543.0</temperature>
+    <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+      <period errorplus="0.0" errorminus="-0.0">75.3</period>
+      <name>HD 163607 b</name>
+      <lastupdate>2015-02-05</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.73</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+      <period errorplus="8.0" errorminus="-8.0">1314.0</period>
+      <name>HD 163607 c</name>
+      <lastupdate>2014-06-25</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.12</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">2.42</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.95" errorminus="-3.23">69.44</distance>
 </system>

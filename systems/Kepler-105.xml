@@ -4,28 +4,28 @@
   <declination>46 16 34</declination>
   <star>
     <name>Kepler-105</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-    <temperature errorplus="94.0" errorminus="-94.0">5827.0</temperature>
-    <planet>
-      <name>Kepler-105 b</name>
-      <inclination errorplus="1.87" errorminus="-3.88">85.94</inclination>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.066</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <eccentricity>0.47</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-105 c</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.96</mass>
+    <temperature errorplus="94.0" errorminus="-94.0">5827.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
+    <planet>
+      <inclination errorplus="1.87" errorminus="-3.88">85.94</inclination>
+      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <name>Kepler-105 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.47</eccentricity>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.066</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <name>Kepler-105 c</name>
+      <lastupdate>2016-04-07</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance/>
 </system>

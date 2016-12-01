@@ -4,18 +4,18 @@
   <declination>42 08 32</declination>
   <star>
     <name>Kepler-798</name>
-    <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
-    <temperature errorplus="124.3" errorminus="-142.87">6224.0</temperature>
-    <planet>
-      <name>Kepler-798 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.18" errorminus="-0.09">1.19</mass>
+    <temperature errorplus="124.3" errorminus="-142.87">6224.0</temperature>
+    <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.56" errorminus="-0.18">1.29</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.7</period>
+      <name>Kepler-798 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="463.53" errorminus="-160.07">1085.0</distance>
 </system>

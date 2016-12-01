@@ -4,29 +4,29 @@
   <declination>33 21 21</declination>
   <star>
     <name>HD 155358</name>
-    <radius/>
-    <temperature/>
-    <planet>
-      <name>HD 155358 c</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">1.02</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="1.0" errorminus="-1.0">391.9</period>
-      <eccentricity>0.16</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
-    <planet>
-      <name>HD 155358 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.64</semimajoraxis>
-      <radius/>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.3" errorminus="-0.3">194.3</period>
-      <eccentricity>0.17</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass/>
+    <temperature/>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.3" errorminus="-0.3">194.3</period>
+      <name>HD 155358 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.17</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.64</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="1.0" errorminus="-1.0">391.9</period>
+      <name>HD 155358 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.16</eccentricity>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">1.02</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.26" errorminus="-1.34">43.4</distance>
 </system>

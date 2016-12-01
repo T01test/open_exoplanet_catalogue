@@ -4,19 +4,19 @@
   <declination>65 33 48</declination>
   <star>
     <name>42 Dra</name>
-    <radius errorplus="1.0" errorminus="-1.0">22.03</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">4200.0</temperature>
-    <planet>
-      <name>42 Dra b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.19</semimajoraxis>
-      <radius errorplus="1.0" errorminus="-1.0">22.03</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="6.2" errorminus="-6.2">479.1</period>
-      <eccentricity>0.38</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">4200.0</temperature>
+    <radius errorplus="1.0" errorminus="-1.0">22.03</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="1.0" errorminus="-1.0">22.03</radius>
+      <period errorplus="6.2" errorminus="-6.2">479.1</period>
+      <name>42 Dra b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.38</eccentricity>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.19</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="4.34" errorminus="-4.76">97.28</distance>
 </system>

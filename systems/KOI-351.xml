@@ -4,72 +4,72 @@
   <declination>49 18 18</declination>
   <star>
     <name>KOI-351</name>
-    <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-    <temperature errorplus="260.0" errorminus="-170.0">6080.0</temperature>
-    <planet>
-      <name>KOI-351 c</name>
-      <inclination errorplus="0.74" errorminus="-0.74">89.68</inclination>
-      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.089</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 d</name>
-      <inclination errorplus="0.29" errorminus="-0.29">89.71</inclination>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">0.32</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">59.7</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 b</name>
-      <inclination errorplus="1.5" errorminus="-1.5">89.4</inclination>
-      <semimajoraxis errorplus="0.016" errorminus="-0.016">0.074</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 h</name>
-      <inclination errorplus="1.3" errorminus="-1.3">89.6</inclination>
-      <semimajoraxis errorplus="0.11" errorminus="-0.11">1.01</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">331.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 e</name>
-      <inclination errorplus="0.19" errorminus="-0.19">89.79</inclination>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">0.42</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">91.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 g</name>
-      <inclination errorplus="0.06" errorminus="-0.06">89.8</inclination>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.71</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">210.6</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>KOI-351 f</name>
-      <inclination errorplus="0.31" errorminus="-0.31">89.77</inclination>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">0.48</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">124.9</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.1" errorminus="-0.1">1.2</mass>
+    <temperature errorplus="260.0" errorminus="-170.0">6080.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+    <planet>
+      <inclination errorplus="0.19" errorminus="-0.19">89.79</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">91.9</period>
+      <name>KOI-351 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.06" errorminus="-0.06">0.42</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.29" errorminus="-0.29">89.71</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">59.7</period>
+      <name>KOI-351 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">0.32</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.06" errorminus="-0.06">89.8</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">210.6</period>
+      <name>KOI-351 g</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.71</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="1.5" errorminus="-1.5">89.4</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">7.0</period>
+      <name>KOI-351 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.016" errorminus="-0.016">0.074</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.31" errorminus="-0.31">89.77</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">124.9</period>
+      <name>KOI-351 f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.09" errorminus="-0.09">0.48</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="1.3" errorminus="-1.3">89.6</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">331.6</period>
+      <name>KOI-351 h</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.11" errorminus="-0.11">1.01</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination errorplus="0.74" errorminus="-0.74">89.68</inclination>
+      <radius errorplus="0.1" errorminus="-0.1">1.2</radius>
+      <period errorplus="0.0" errorminus="-0.0">8.7</period>
+      <name>KOI-351 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.089</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="100.0" errorminus="-100.0">780.0</distance>
 </system>

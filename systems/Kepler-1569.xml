@@ -4,18 +4,18 @@
   <declination>37 13 16</declination>
   <star>
     <name>Kepler-1569</name>
-    <radius errorplus="0.61" errorminus="-0.25">1.4</radius>
-    <temperature errorplus="179.66" errorminus="-219.91">6319.0</temperature>
-    <planet>
-      <name>Kepler-1569 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.61" errorminus="-0.25">1.4</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.8</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.21" errorminus="-0.13">1.25</mass>
+    <temperature errorplus="179.66" errorminus="-219.91">6319.0</temperature>
+    <radius errorplus="0.61" errorminus="-0.25">1.4</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.61" errorminus="-0.25">1.4</radius>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <name>Kepler-1569 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="446.47" errorminus="-196.06">1050.0</distance>
 </system>

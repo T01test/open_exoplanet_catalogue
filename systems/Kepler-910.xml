@@ -4,18 +4,18 @@
   <declination>42 44 34</declination>
   <star>
     <name>Kepler-910</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.5</radius>
-    <temperature errorplus="78.42" errorminus="-71.69">6230.0</temperature>
-    <planet>
-      <name>Kepler-910 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">1.5</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">1.26</mass>
+    <temperature errorplus="78.42" errorminus="-71.69">6230.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">1.5</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.5</radius>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <name>Kepler-910 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="10.73" errorminus="-11.54">402.0</distance>
 </system>

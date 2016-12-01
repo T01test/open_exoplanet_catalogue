@@ -4,19 +4,19 @@
   <declination>03 28 27</declination>
   <star>
     <name>HD 102329</name>
-    <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">4830.0</temperature>
-    <planet>
-      <name>HD 102329 b</name>
-      <inclination/>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.03</semimajoraxis>
-      <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="7.5" errorminus="-7.5">778.1</period>
-      <eccentricity>0.211</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.14" errorminus="-0.14">1.95</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">4830.0</temperature>
+    <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.1" errorminus="-0.1">6.3</radius>
+      <period errorplus="7.5" errorminus="-7.5">778.1</period>
+      <name>HD 102329 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.211</eccentricity>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.03</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="17.44" errorminus="-23.31">138.5</distance>
 </system>

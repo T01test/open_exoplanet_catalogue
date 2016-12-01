@@ -4,19 +4,19 @@
   <declination>-2 11 01</declination>
   <star>
     <name>HD 92788</name>
-    <radius/>
-    <temperature>5821.0</temperature>
-    <planet>
-      <name>HD 92788 b</name>
-      <inclination/>
-      <semimajoraxis>0.96</semimajoraxis>
-      <radius/>
-      <lastupdate>2015-04-24</lastupdate>
-      <period errorplus="0.5" errorminus="-0.5">325.0</period>
-      <eccentricity>0.35</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>1.1</mass>
+    <temperature>5821.0</temperature>
+    <radius/>
+    <planet>
+      <inclination/>
+      <radius/>
+      <period errorplus="0.5" errorminus="-0.5">325.0</period>
+      <name>HD 92788 b</name>
+      <lastupdate>2015-04-24</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.35</eccentricity>
+      <semimajoraxis>0.96</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="1.0" errorminus="-1.07">32.32</distance>
 </system>

@@ -4,18 +4,18 @@
   <declination>45 10 49</declination>
   <star>
     <name>Kepler-834</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
-    <temperature errorplus="50.38" errorminus="-45.2">4554.0</temperature>
-    <planet>
-      <name>Kepler-834 b</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.3</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.03" errorminus="-0.03">0.7</mass>
+    <temperature errorplus="50.38" errorminus="-45.2">4554.0</temperature>
+    <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.66</radius>
+      <period errorplus="0.0" errorminus="-0.0">13.3</period>
+      <name>Kepler-834 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
   </star>
   <distance errorplus="27.6" errorminus="-27.53">620.0</distance>
 </system>

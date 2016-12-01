@@ -4,19 +4,19 @@
   <declination>11 41 43</declination>
   <star>
     <name>HD 170469</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.22</radius>
-    <temperature errorplus="44.0" errorminus="-44.0">5810.0</temperature>
-    <planet>
-      <name>HD 170469 b</name>
-      <inclination/>
-      <semimajoraxis>2.1</semimajoraxis>
-      <radius errorplus="0.04" errorminus="-0.04">1.22</radius>
-      <lastupdate>2014-07-02</lastupdate>
-      <period errorplus="18.0" errorminus="-18.0">1145.0</period>
-      <eccentricity>0.11</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.01" errorminus="-0.05">1.14</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5810.0</temperature>
+    <radius errorplus="0.04" errorminus="-0.04">1.22</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">1.22</radius>
+      <period errorplus="18.0" errorminus="-18.0">1145.0</period>
+      <name>HD 170469 b</name>
+      <lastupdate>2014-07-02</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.11</eccentricity>
+      <semimajoraxis>2.1</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="4.37" errorminus="-5.05">64.98</distance>
 </system>

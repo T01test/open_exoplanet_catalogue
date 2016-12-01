@@ -4,19 +4,19 @@
   <declination>-23 21 17</declination>
   <star>
     <name>HATS-1</name>
-    <radius errorplus="0.13">1.04</radius>
-    <temperature errorplus="100.0">5870.0</temperature>
-    <planet>
-      <name>HATS-1 b</name>
-      <inclination errorplus="0.6" errorminus="-1.4">85.6</inclination>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0444</semimajoraxis>
-      <radius errorplus="0.13">1.04</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
-      <eccentricity>0.12</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.05">0.99</mass>
+    <temperature errorplus="100.0">5870.0</temperature>
+    <radius errorplus="0.13">1.04</radius>
+    <planet>
+      <inclination errorplus="0.6" errorminus="-1.4">85.6</inclination>
+      <radius errorplus="0.13">1.04</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <name>HATS-1 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.12</eccentricity>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0444</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="38.0" errorminus="-23.0">303.0</distance>
 </system>

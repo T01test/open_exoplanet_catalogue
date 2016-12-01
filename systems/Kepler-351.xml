@@ -4,36 +4,36 @@
   <declination>42 39 28</declination>
   <star>
     <name>Kepler-351</name>
-    <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-    <temperature errorplus="200.0" errorminus="-200.0">5643.0</temperature>
-    <planet>
-      <name>Kepler-351 b</name>
-      <inclination/>
-      <semimajoraxis>0.214</semimajoraxis>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">37.1</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-351 c</name>
-      <inclination/>
-      <semimajoraxis>0.287</semimajoraxis>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">57.2</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
-    <planet>
-      <name>Kepler-351 d</name>
-      <inclination/>
-      <semimajoraxis/>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">142.5</period>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass>0.89</mass>
+    <temperature errorplus="200.0" errorminus="-200.0">5643.0</temperature>
+    <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <period errorplus="0.0" errorminus="-0.0">37.1</period>
+      <name>Kepler-351 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.214</semimajoraxis>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <period errorplus="0.0" errorminus="-0.0">142.5</period>
+      <name>Kepler-351 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <period errorplus="0.0" errorminus="-0.0">57.2</period>
+      <name>Kepler-351 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.287</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>

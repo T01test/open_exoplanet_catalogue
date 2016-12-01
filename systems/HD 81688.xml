@@ -4,19 +4,19 @@
   <declination>45 36 05</declination>
   <star>
     <name>HD 81688</name>
-    <radius>13.0</radius>
-    <temperature errorplus="15.0" errorminus="-15.0">4753.0</temperature>
-    <planet>
-      <name>HD 81688 b</name>
-      <inclination/>
-      <semimajoraxis>0.81</semimajoraxis>
-      <radius>13.0</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">184.0</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass>2.1</mass>
+    <temperature errorplus="15.0" errorminus="-15.0">4753.0</temperature>
+    <radius>13.0</radius>
+    <planet>
+      <inclination/>
+      <radius>13.0</radius>
+      <period errorplus="0.2" errorminus="-0.2">184.0</period>
+      <name>HD 81688 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis>0.81</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="6.09" errorminus="-7.07">88.26</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>-67 38 50</declination>
   <star>
     <name>HD 11977</name>
-    <radius errorplus="0.32" errorminus="-0.32">10.09</radius>
-    <temperature errorplus="70.0" errorminus="-70.0">4970.0</temperature>
-    <planet>
-      <name>HD 11977 b</name>
-      <inclination/>
-      <semimajoraxis>1.93</semimajoraxis>
-      <radius errorplus="0.32" errorminus="-0.32">10.09</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="8.0" errorminus="-8.0">711.0</period>
-      <eccentricity>0.4</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-    </planet>
     <mass errorplus="0.21" errorminus="-0.21">1.91</mass>
+    <temperature errorplus="70.0" errorminus="-70.0">4970.0</temperature>
+    <radius errorplus="0.32" errorminus="-0.32">10.09</radius>
+    <planet>
+      <inclination/>
+      <radius errorplus="0.32" errorminus="-0.32">10.09</radius>
+      <period errorplus="8.0" errorminus="-8.0">711.0</period>
+      <name>HD 11977 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>RV</discoverymethod>
+      <eccentricity>0.4</eccentricity>
+      <semimajoraxis>1.93</semimajoraxis>
+    </planet>
   </star>
   <distance errorplus="2.02" errorminus="-2.14">66.49</distance>
 </system>

@@ -4,19 +4,19 @@
   <declination>-32 09 34</declination>
   <star>
     <name>WASP-15</name>
-    <radius errorplus="0.07">1.48</radius>
-    <temperature errorplus="100.0">6300.0</temperature>
-    <planet>
-      <name>WASP-15 b</name>
-      <inclination errorplus="0.5" errorminus="-0.5">85.5</inclination>
-      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0499</semimajoraxis>
-      <radius errorplus="0.07">1.48</radius>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-    </planet>
     <mass errorplus="0.12">1.18</mass>
+    <temperature errorplus="100.0">6300.0</temperature>
+    <radius errorplus="0.07">1.48</radius>
+    <planet>
+      <inclination errorplus="0.5" errorminus="-0.5">85.5</inclination>
+      <radius errorplus="0.07">1.48</radius>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <name>WASP-15 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.0</eccentricity>
+      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0499</semimajoraxis>
+    </planet>
   </star>
   <distance/>
 </system>
