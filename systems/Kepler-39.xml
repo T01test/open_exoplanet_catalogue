@@ -1,0 +1,23 @@
+<system>
+  <name>Kepler-39</name>
+  <star>
+    <radius errorplus="0.1" errorminus="-0.1">1.4</radius>
+    <name>Kepler-39</name>
+    <temperature errorplus="100.0" errorminus="-100.0">6350.0</temperature>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">1.4</radius>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.164</semimajoraxis>
+      <eccentricity>0.112</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-39 b</name>
+      <lastupdate>2015-01-29</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">21.1</period>
+      <inclination errorplus="0.22" errorminus="-0.22">89.07</inclination>
+    </planet>
+    <mass errorplus="0.06" errorminus="-0.07">1.29</mass>
+  </star>
+  <distance errorplus="250.0" errorminus="-250.0">1200.0</distance>
+  <declination>46 02 03</declination>
+  <rightascension>19 57 36</rightascension>
+</system>
+

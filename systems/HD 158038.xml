@@ -1,32 +1,23 @@
 <system>
-	<name>HD 158038</name>
-	<rightascension>17 25 45</rightascension>
-	<declination>+27 18 12</declination>
-	<distance>103</distance>
-	<star>
-		<mass>1.65</mass>
-		<radius>4.8</radius>
-		<magV>7.64</magV>
-		<magB errorminus="0.016" errorplus="0.016">8.515</magB>
-		<magJ errorminus="0.018" errorplus="0.018">5.758</magJ>
-		<magH errorminus="0.044" errorplus="0.044">5.258</magH>
-		<magK errorminus="0.027" errorplus="0.027">5.156</magK>
-		<metallicity>0.28</metallicity>
-		<spectraltype>K0</spectraltype>
-		<planet>
-			<name>HD 158038 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.8</mass>
-			<period>521</period>
-			<semimajoraxis>1.48</semimajoraxis>
-			<eccentricity>0.291</eccentricity>
-			<description>The star HD 158038 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>381.6</temperature>
-		</planet>
-		<name>HD 158038</name>
-		<temperature>4897.0</temperature>
-	</star>
+  <name>HD 158038</name>
+  <star>
+    <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
+    <name>HD 158038</name>
+    <temperature errorplus="44.0" errorminus="-44.0">4897.0</temperature>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
+      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.52</semimajoraxis>
+      <eccentricity>0.291</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <name>HD 158038 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="6.9" errorminus="-6.9">521.0</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.12" errorminus="-0.12">1.65</mass>
+  </star>
+  <distance errorplus="10.2" errorminus="-12.43">114.15</distance>
+  <declination>27 18 12</declination>
+  <rightascension>17 26 21</rightascension>
 </system>
+

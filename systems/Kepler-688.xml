@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-688</name>
-	<rightascension>19 38 37</rightascension>
-	<declination>+39 18 30</declination>
-	<star>
-		<name>Kepler-688</name>
-		<temperature errorminus="199.2" errorplus="152.5">5715.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">0.98</mass>
-		<radius errorminus="0.09" errorplus="0.17">0.96</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.02</metallicity>
-		<planet>
-			<name>Kepler-688 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000800" errorplus="0.000000800">3.895936840</period>
-			<radius errorminus="0.087" errorplus="0.157">0.871</radius>
-		</planet>
-	</star>
+  <name>Kepler-688</name>
+  <star>
+    <radius errorplus="0.17" errorminus="-0.09">0.96</radius>
+    <name>Kepler-688</name>
+    <temperature errorplus="152.52" errorminus="-199.21">5715.0</temperature>
+    <planet>
+      <radius errorplus="0.17" errorminus="-0.09">0.96</radius>
+      <semimajoraxis/>
+      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-688 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.07" errorminus="-0.07">0.98</mass>
+  </star>
+  <distance errorplus="225.58" errorminus="-135.14">1247.0</distance>
+  <declination>39 18 30</declination>
+  <rightascension>19 39 18</rightascension>
 </system>
+

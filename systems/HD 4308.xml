@@ -1,31 +1,23 @@
 <system>
-	<name>HD 4308</name>
-	<rightascension>00 44 39</rightascension>
-	<declination>-65 38 58</declination>
-	<distance>21.9</distance>
-	<star>
-		<mass>0.85</mass>
-		<radius>0.92</radius>
-		<magV>6.54</magV>
-		<magB>7.193</magB>
-		<magJ errorminus="0.024" errorplus="0.024">5.366</magJ>
-		<magH errorminus="0.016" errorplus="0.016">5.101</magH>
-		<magK errorminus="0.020" errorplus="0.020">4.945</magK>
-		<metallicity>-0.34</metallicity>
-		<spectraltype>G5 V</spectraltype>
-		<planet>
-			<name>HD 4308 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.0405</mass>
-			<period>15.609</period>
-			<semimajoraxis>0.118</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/30</lastupdate>
-			<discoveryyear>2005</discoveryyear>
-			<temperature>685.9</temperature>
-		</planet>
-		<name>HD 4308</name>
-		<temperature>5597.0</temperature>
-	</star>
+  <name>HD 4308</name>
+  <star>
+    <radius/>
+    <name>HD 4308</name>
+    <temperature errorplus="13.0" errorminus="-13.0">5685.0</temperature>
+    <planet>
+      <radius/>
+      <semimajoraxis>0.115</semimajoraxis>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <name>HD 4308 b</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">15.6</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.01" errorminus="-0.01">0.83</mass>
+  </star>
+  <distance errorplus="0.26" errorminus="-0.27">21.85</distance>
+  <declination>-65 38 58</declination>
+  <rightascension>00 09 49</rightascension>
 </system>
+

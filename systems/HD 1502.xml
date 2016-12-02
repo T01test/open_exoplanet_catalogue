@@ -1,32 +1,23 @@
 <system>
-	<name>HD 1502</name>
-	<rightascension>00 19 17</rightascension>
-	<declination>+14 03 17</declination>
-	<distance>159</distance>
-	<star>
-		<mass>1.61</mass>
-		<radius>4.5</radius>
-		<magV>8.52</magV>
-		<magB errorminus="0.007" errorplus="0.007">9.290</magB>
-		<magJ errorminus="0.018" errorplus="0.018">6.681</magJ>
-		<magH errorminus="0.017" errorplus="0.017">6.234</magH>
-		<magK errorminus="0.026" errorplus="0.026">6.120</magK>
-		<metallicity>0.09</metallicity>
-		<spectraltype>K0</spectraltype>
-		<planet>
-			<name>HD 1502 b</name>
-			<list>Confirmed planets</list>
-			<mass>3.1</mass>
-			<period>431.8</period>
-			<semimajoraxis>1.31</semimajoraxis>
-			<eccentricity>0.101</eccentricity>
-			<description>The star HD 1502 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>412.3</temperature>
-		</planet>
-		<name>HD 1502</name>
-		<temperature>5049.0</temperature>
-	</star>
+  <name>HD 1502</name>
+  <star>
+    <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+    <name>HD 1502</name>
+    <temperature errorplus="44.0" errorminus="-44.0">5049.0</temperature>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.31</semimajoraxis>
+      <eccentricity>0.101</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <name>HD 1502 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="3.5" errorminus="-3.5">431.8</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.11" errorminus="-0.11">1.61</mass>
+  </star>
+  <distance errorplus="25.26" errorminus="-36.16">167.5</distance>
+  <declination>14 03 17</declination>
+  <rightascension>00 49 15</rightascension>
 </system>
+

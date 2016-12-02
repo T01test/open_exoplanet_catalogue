@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-897</name>
-	<rightascension>19 22 21</rightascension>
-	<declination>+51 41 45</declination>
-	<star>
-		<name>Kepler-897</name>
-		<temperature errorminus="144.0" errorplus="103.5">5839.0</temperature>
-		<mass errorminus="0.07" errorplus="0.06">1.03</mass>
-		<radius errorminus="0.11" errorplus="0.29">1.04</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.04</metallicity>
-		<planet>
-			<name>Kepler-897 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000029430" errorplus="0.000029430">8.047264200</period>
-			<radius errorminus="0.022" errorplus="0.059">0.213</radius>
-		</planet>
-	</star>
+  <name>Kepler-897</name>
+  <star>
+    <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
+    <name>Kepler-897</name>
+    <temperature errorplus="103.48" errorminus="-143.96">5839.0</temperature>
+    <planet>
+      <radius errorplus="0.29" errorminus="-0.11">1.04</radius>
+      <semimajoraxis/>
+      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-897 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">8.0</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.06" errorminus="-0.07">1.03</mass>
+  </star>
+  <distance errorplus="311.52" errorminus="-127.69">1147.0</distance>
+  <declination>51 41 44</declination>
+  <rightascension>19 35 12</rightascension>
 </system>
+

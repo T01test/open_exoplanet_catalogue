@@ -1,38 +1,23 @@
 <system>
-	<name>WASP-37</name>
-	<rightascension>14 47 47</rightascension>
-	<declination>+01 03 54</declination>
-	<distance>338</distance>
-	<star>
-		<mass>0.849</mass>
-		<radius>0.977</radius>
-		<magV>12.7</magV>
-		<magB>13.304</magB>
-		<magR errorminus="0.11" errorplus="0.11">12.87</magR>
-		<magI errorminus="0.07" errorplus="0.07">12.24</magI>
-		<magJ errorminus="0.022" errorplus="0.022">11.499</magJ>
-		<magH errorminus="0.026" errorplus="0.026">11.181</magH>
-		<magK errorminus="0.023" errorplus="0.023">11.093</magK>
-		<metallicity>-0.4</metallicity>
-		<spectraltype>G2</spectraltype>
-		<planet>
-			<name>WASP-37 b</name>
-			<name>2MASS J14474655+0103538 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.696</mass>
-			<radius>1.136</radius>
-			<period>3.577471</period>
-			<semimajoraxis>0.04339</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.78</inclination>
-			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2455338.6196</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/08/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1213.5</temperature>
-			<istransiting>1</istransiting>
-		</planet>
-		<name>WASP-37</name>
-		<temperature>5800.0</temperature>
-	</star>
+  <name>WASP-37</name>
+  <star>
+    <radius errorplus="0.05">1.0</radius>
+    <name>WASP-37</name>
+    <temperature errorplus="150.0">5800.0</temperature>
+    <planet>
+      <radius errorplus="0.05">1.0</radius>
+      <semimajoraxis errorplus="0.0019" errorminus="-0.0019">0.0446</semimajoraxis>
+      <eccentricity>0.0</eccentricity>
+      <discoverymethod>transit</discoverymethod>
+      <name>WASP-37 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <inclination errorplus="0.77" errorminus="-0.86">88.82</inclination>
+    </planet>
+    <mass errorplus="0.12">0.93</mass>
+  </star>
+  <distance errorplus="36.0" errorminus="-36.0">343.0</distance>
+  <declination>01 03 53</declination>
+  <rightascension>14 56 38</rightascension>
 </system>
+

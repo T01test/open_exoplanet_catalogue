@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1085</name>
-	<rightascension>19 09 55</rightascension>
-	<declination>+46 08 28</declination>
-	<star>
-		<name>Kepler-1085</name>
-		<temperature errorminus="89.9" errorplus="83.8">6000.0</temperature>
-		<mass errorminus="0.06" errorplus="0.09">1.11</mass>
-		<radius errorminus="0.11" errorplus="0.31">1.14</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.08</metallicity>
-		<planet>
-			<name>Kepler-1085 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000894600" errorplus="0.000894600">219.321752800</period>
-			<radius errorminus="0.066" errorplus="0.158">0.644</radius>
-		</planet>
-	</star>
+  <name>Kepler-1085</name>
+  <star>
+    <radius errorplus="0.31" errorminus="-0.11">1.14</radius>
+    <name>Kepler-1085</name>
+    <temperature errorplus="83.83" errorminus="-89.9">6000.0</temperature>
+    <planet>
+      <radius errorplus="0.31" errorminus="-0.11">1.14</radius>
+      <semimajoraxis/>
+      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-1085 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">219.3</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.09" errorminus="-0.06">1.11</mass>
+  </star>
+  <distance errorplus="411.02" errorminus="-156.98">1518.0</distance>
+  <declination>46 08 28</declination>
+  <rightascension>19 28 39</rightascension>
 </system>
+

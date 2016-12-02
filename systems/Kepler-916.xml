@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-916</name>
-	<rightascension>19 23 56</rightascension>
-	<declination>+45 58 24</declination>
-	<star>
-		<name>Kepler-916</name>
-		<temperature errorminus="91.4" errorplus="98.8">5248.0</temperature>
-		<mass errorminus="0.05" errorplus="0.04">0.85</mass>
-		<radius errorminus="0.04" errorplus="0.05">0.81</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.05</metallicity>
-		<planet>
-			<name>Kepler-916 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000248900" errorplus="0.000248900">32.296879800</period>
-			<radius errorminus="0.012" errorplus="0.012">0.157</radius>
-		</planet>
-	</star>
+  <name>Kepler-916</name>
+  <star>
+    <radius errorplus="0.05" errorminus="-0.04">0.81</radius>
+    <name>Kepler-916</name>
+    <temperature errorplus="98.84" errorminus="-91.38">5248.0</temperature>
+    <planet>
+      <radius errorplus="0.05" errorminus="-0.04">0.81</radius>
+      <semimajoraxis/>
+      <discoverymethod>transit</discoverymethod>
+      <name>Kepler-916 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <period errorplus="0.0" errorminus="-0.0">32.3</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.04" errorminus="-0.05">0.85</mass>
+  </star>
+  <distance errorplus="52.27" errorminus="-46.79">769.0</distance>
+  <declination>45 58 23</declination>
+  <rightascension>19 58 59</rightascension>
 </system>
+

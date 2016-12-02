@@ -1,31 +1,23 @@
 <system>
-	<name>HD 231701</name>
-	<rightascension>19 32 04</rightascension>
-	<declination>+16 28 27</declination>
-	<distance>108.4</distance>
-	<star>
-		<mass>1.14</mass>
-		<radius>1.35</radius>
-		<magV>8.97</magV>
-		<magJ errorminus="0.021" errorplus="0.021">7.952</magJ>
-		<magH errorminus="0.02" errorplus="0.02">7.719</magH>
-		<magK errorminus="0.026" errorplus="0.026">7.657</magK>
-		<magB errorminus="0.020" errorplus="0.020">9.486</magB>
-		<metallicity>0.07</metallicity>
-		<spectraltype>F8V</spectraltype>
-		<planet>
-			<name>HD 231701 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.08</mass>
-			<period>141.6</period>
-			<semimajoraxis>0.53</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>436.6</temperature>
-		</planet>
-		<name>HD 231701</name>
-		<temperature>6208.0</temperature>
-	</star>
+  <name>HD 231701</name>
+  <star>
+    <radius errorplus="0.1" errorminus="-0.1">1.35</radius>
+    <name>HD 231701</name>
+    <temperature errorplus="44.0" errorminus="-44.0">6208.0</temperature>
+    <planet>
+      <radius errorplus="0.1" errorminus="-0.1">1.35</radius>
+      <semimajoraxis>0.53</semimajoraxis>
+      <eccentricity>0.1</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <name>HD 231701 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <period errorplus="2.8" errorminus="-2.8">141.6</period>
+      <inclination/>
+    </planet>
+    <mass errorplus="0.04" errorminus="-0.03">1.14</mass>
+  </star>
+  <distance errorplus="11.94" errorminus="-15.3">108.46</distance>
+  <declination>16 28 27</declination>
+  <rightascension>19 01 02</rightascension>
 </system>
+

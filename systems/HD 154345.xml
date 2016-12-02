@@ -1,33 +1,23 @@
 <system>
-	<name>HD 154345</name>
-	<rightascension>17 02 36</rightascension>
-	<declination>+47 04 55</declination>
-	<distance>18.06</distance>
-	<star>
-		<mass>0.88</mass>
-		<magV>6.74</magV>
-		<magB>7.50</magB>
-		<magR>6.3</magR>
-		<magI>6.0</magI>
-		<magJ errorminus="0.041" errorplus="0.041">5.411</magJ>
-		<magH errorminus="0.020" errorplus="0.020">5.098</magH>
-		<magK errorminus="0.017" errorplus="0.017">5.003</magK>
-		<metallicity>-0.105</metallicity>
-		<spectraltype>G8V</spectraltype>
-		<planet>
-			<name>HD 154345 b</name>
-			<list>Confirmed planets</list>
-			<mass>1</mass>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
-			<inclination>50</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2006</discoveryyear>
-			<temperature>106.4</temperature>
-		</planet>
-		<name>HD 154345</name>
-		<temperature>5468.0</temperature>
-	</star>
+  <name>HD 154345</name>
+  <star>
+    <radius/>
+    <name>HD 154345</name>
+    <temperature/>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="0.26" errorminus="-0.26">4.19</semimajoraxis>
+      <eccentricity>0.044</eccentricity>
+      <discoverymethod>RV</discoverymethod>
+      <name>HD 154345 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <period errorplus="95.0" errorminus="-95.0">3342.0</period>
+      <inclination/>
+    </planet>
+    <mass/>
+  </star>
+  <distance errorplus="0.18" errorminus="-0.18">18.06</distance>
+  <declination>47 04 54</declination>
+  <rightascension>17 39 06</rightascension>
 </system>
+
