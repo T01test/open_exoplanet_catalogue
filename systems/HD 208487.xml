@@ -1,28 +1,23 @@
 <system>
-	<name>HD 208487</name>
-	<rightascension>21 57 19</rightascension>
-	<declination>-37 45 49</declination>
-	<distance>45</distance>
-	<star>
-		<mass>1.3</mass>
-		<radius>1.15</radius>
-		<magV>7.48</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.02</magB>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>G2V</spectraltype>
-		<planet>
-			<name>HD 208487 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.413</mass>
-			<period>129.8</period>
-			<semimajoraxis>0.51</semimajoraxis>
-			<eccentricity>0.21</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/24</lastupdate>
-			<discoveryyear>2004</discoveryyear>
-			<temperature>391.5</temperature>
-		</planet>
-		<name>HD 208487</name>
-		<temperature>5929.0</temperature>
-	</star>
+  <name>HD 208487</name>
+  <rightascension>21 19 57</rightascension>
+  <star>
+    <name>HD 208487</name>
+    <radius/>
+    <mass>1.13</mass>
+    <temperature>6067.0</temperature>
+    <planet>
+      <name>HD 208487 b</name>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-11-05</lastupdate>
+      <radius/>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.524</semimajoraxis>
+      <eccentricity>0.24</eccentricity>
+      <period errorplus="0.5" errorminus="-0.5">130.1</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="2.0" errorminus="-2.0">44.0</distance>
+  <declination>-37 45 49</declination>
 </system>
+

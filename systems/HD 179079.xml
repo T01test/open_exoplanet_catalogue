@@ -1,31 +1,23 @@
 <system>
-	<name>HD 179079</name>
-	<rightascension>19 11 10</rightascension>
-	<declination>-02 38 18</declination>
-	<distance>63.69</distance>
-	<star>
-		<mass>1.087</mass>
-		<radius>1.48</radius>
-		<magV>7.95</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.66</magB>
-		<magJ errorminus="0.021" errorplus="0.021">6.734</magJ>
-		<magH errorminus="0.031" errorplus="0.031">6.402</magH>
-		<magK errorminus="0.026" errorplus="0.026">6.311</magK>
-		<metallicity>0.29</metallicity>
-		<spectraltype>G5IV</spectraltype>
-		<planet>
-			<name>HD 179079 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.08</mass>
-			<period>14.476</period>
-			<semimajoraxis>0.11</semimajoraxis>
-			<eccentricity>0.115</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
-			<discoveryyear>2009</discoveryyear>
-			<temperature>925.0</temperature>
-		</planet>
-		<name>HD 179079</name>
-		<temperature>5724.0</temperature>
-	</star>
+  <name>HD 179079</name>
+  <rightascension>19 47 27</rightascension>
+  <star>
+    <name>HD 179079</name>
+    <radius errorplus="0.09" errorminus="-0.09">1.6</radius>
+    <mass errorplus="0.03" errorminus="-0.03">1.15</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5684.0</temperature>
+    <planet>
+      <name>HD 179079 b</name>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-07-09</lastupdate>
+      <radius errorplus="0.09" errorminus="-0.09">1.6</radius>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.1216</semimajoraxis>
+      <eccentricity>0.115</eccentricity>
+      <period errorplus="0.0" errorminus="-0.0">14.5</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="3.6" errorminus="-4.06">63.69</distance>
+  <declination>-2 38 18</declination>
 </system>
+

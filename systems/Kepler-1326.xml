@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1326</name>
-	<rightascension>19 44 53</rightascension>
-	<declination>+39 16 08</declination>
-	<star>
-		<name>Kepler-1326</name>
-		<temperature errorminus="196.4" errorplus="280.9">6725.0</temperature>
-		<mass errorminus="0.16" errorplus="0.21">1.45</mass>
-		<radius errorminus="0.32" errorplus="0.63">1.74</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.02</metallicity>
-		<planet>
-			<name>Kepler-1326 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000137200" errorplus="0.000137200">42.351426700</period>
-			<radius errorminus="0.068" errorplus="0.135">0.373</radius>
-		</planet>
-	</star>
+  <name>Kepler-1326</name>
+  <rightascension>19 13 19</rightascension>
+  <star>
+    <name>Kepler-1326</name>
+    <radius errorplus="0.63" errorminus="-0.32">1.74</radius>
+    <mass errorplus="0.21" errorminus="-0.16">1.45</mass>
+    <temperature errorplus="280.9" errorminus="-196.41">6725.0</temperature>
+    <planet>
+      <name>Kepler-1326 b</name>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <radius errorplus="0.63" errorminus="-0.32">1.74</radius>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">42.4</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="320.92" errorminus="-167.63">910.0</distance>
+  <declination>39 16 08</declination>
 </system>
+

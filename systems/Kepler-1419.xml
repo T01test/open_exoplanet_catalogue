@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1419</name>
-	<rightascension>19 29 01</rightascension>
-	<declination>+37 58 17</declination>
-	<star>
-		<name>Kepler-1419</name>
-		<temperature errorminus="157.2" errorplus="113.9">5796.0</temperature>
-		<mass errorminus="0.07" errorplus="0.06">1.01</mass>
-		<radius errorminus="0.10" errorplus="0.23">1.01</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
-		<planet>
-			<name>Kepler-1419 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000503200" errorplus="0.000503200">42.521589500</period>
-			<radius errorminus="0.026" errorplus="0.059">0.255</radius>
-		</planet>
-	</star>
+  <name>Kepler-1419</name>
+  <rightascension>19 15 16</rightascension>
+  <star>
+    <name>Kepler-1419</name>
+    <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
+    <mass errorplus="0.06" errorminus="-0.07">1.01</mass>
+    <temperature errorplus="113.94" errorminus="-157.22">5796.0</temperature>
+    <planet>
+      <name>Kepler-1419 b</name>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">42.5</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="324.63" errorminus="-153.28">1444.0</distance>
+  <declination>37 58 17</declination>
 </system>
+

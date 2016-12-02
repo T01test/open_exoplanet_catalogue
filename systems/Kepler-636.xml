@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-636</name>
-	<rightascension>19 34 22</rightascension>
-	<declination>+41 05 43</declination>
-	<star>
-		<name>Kepler-636</name>
-		<temperature errorminus="72.9" errorplus="56.5">5203.0</temperature>
-		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
-		<radius errorminus="0.02" errorplus="0.02">0.80</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.02</metallicity>
-		<planet>
-			<name>Kepler-636 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005600" errorplus="0.000005600">16.080661150</period>
-			<radius errorminus="0.012" errorplus="0.012">0.397</radius>
-		</planet>
-	</star>
+  <name>Kepler-636</name>
+  <rightascension>19 35 30</rightascension>
+  <star>
+    <name>Kepler-636</name>
+    <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+    <mass errorplus="0.03" errorminus="-0.04">0.85</mass>
+    <temperature errorplus="56.47" errorminus="-72.86">5203.0</temperature>
+    <planet>
+      <name>Kepler-636 b</name>
+      <discoverymethod>transit</discoverymethod>
+      <lastupdate>2016-05-10</lastupdate>
+      <radius errorplus="0.02" errorminus="-0.02">0.8</radius>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">16.1</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="11.33" errorminus="-11.38">341.0</distance>
+  <declination>41 05 42</declination>
 </system>
+

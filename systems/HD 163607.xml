@@ -1,46 +1,33 @@
 <system>
-	<name>HD 163607</name>
-	<rightascension>17 53 40</rightascension>
-	<declination>+56 23 31</declination>
-	<distance>69</distance>
-	<star>
-		<mass>1.09</mass>
-		<radius>1.63</radius>
-		<magV>8.15</magV>
-		<magB errorminus="0.017" errorplus="0.017">8.762</magB>
-		<magR errorminus="0.09" errorplus="0.09">7.80</magR>
-		<magJ errorminus="0.018" errorplus="0.018">6.648</magJ>
-		<magH errorminus="0.018" errorplus="0.018">6.342</magH>
-		<magK errorminus="0.020" errorplus="0.020">6.271</magK>
-		<metallicity>0.21</metallicity>
-		<spectraltype>G5IV</spectraltype>
-		<planet>
-			<name>HD 163607 b</name>
-			<list>Confirmed planets</list>
-			<mass>0.77</mass>
-			<period>75.229</period>
-			<semimajoraxis>0.36</semimajoraxis>
-			<eccentricity>0.73</eccentricity>
-			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>499.8</temperature>
-		</planet>
-		<planet>
-			<name>HD 163607 c</name>
-			<list>Confirmed planets</list>
-			<mass>2.29</mass>
-			<period>1314</period>
-			<semimajoraxis>2.42</semimajoraxis>
-			<eccentricity>0.12</eccentricity>
-			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>200.4</temperature>
-		</planet>
-		<name>HD 163607</name>
-		<temperature>5543.0</temperature>
-	</star>
+  <name>HD 163607</name>
+  <rightascension>17 25 07</rightascension>
+  <star>
+    <name>HD 163607</name>
+    <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+    <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
+    <temperature errorplus="44.0" errorminus="-44.0">5543.0</temperature>
+    <planet>
+      <name>HD 163607 c</name>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2014-06-25</lastupdate>
+      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">2.42</semimajoraxis>
+      <eccentricity>0.12</eccentricity>
+      <period errorplus="8.0" errorminus="-8.0">1314.0</period>
+      <inclination/>
+    </planet>
+    <planet>
+      <name>HD 163607 b</name>
+      <discoverymethod>RV</discoverymethod>
+      <lastupdate>2015-02-05</lastupdate>
+      <radius errorplus="0.07" errorminus="-0.07">1.63</radius>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.36</semimajoraxis>
+      <eccentricity>0.73</eccentricity>
+      <period errorplus="0.0" errorminus="-0.0">75.3</period>
+      <inclination/>
+    </planet>
+  </star>
+  <distance errorplus="2.95" errorminus="-3.23">69.44</distance>
+  <declination>56 23 31</declination>
 </system>
+
