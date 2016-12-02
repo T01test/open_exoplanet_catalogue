@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-38</name>
   <rightascension>19 49 49</rightascension>
-  <star>
-    <name>Kepler-38</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.75</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.94</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5623.0</temperature>
-    <planet>
-      <name>Kepler-38 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.75</radius>
-      <semimajoraxis errorplus="0.0082" errorminus="-0.0092">0.4632</semimajoraxis>
-      <eccentricity>0.032</eccentricity>
-      <period errorplus="0.0" errorminus="-0.1">105.6</period>
-      <inclination errorplus="0.03" errorminus="-0.026">89.442</inclination>
-    </planet>
-  </star>
   <distance>600.0</distance>
+  <name>Kepler-38</name>
+  <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5623.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.94</mass>
+    <name>Kepler-38</name>
+    <planet>
+      <eccentricity>0.032</eccentricity>
+      <period errorminus="-0.1" errorplus="0.0">105.6</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.026" errorplus="0.03">89.442</inclination>
+      <name>Kepler-38 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0092" errorplus="0.0082">0.4632</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">1.75</radius>
+  </star>
   <declination>42 16 45</declination>
 </system>
 

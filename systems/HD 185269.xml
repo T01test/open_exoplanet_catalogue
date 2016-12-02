@@ -1,23 +1,23 @@
 <system>
-  <name>HD 185269</name>
   <rightascension>19 17 56</rightascension>
+  <distance errorminus="-1.72" errorplus="1.6">47.37</distance>
+  <name>HD 185269</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5980.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.28</mass>
     <name>HD 185269</name>
-    <radius errorplus="0.1" errorminus="-0.1">1.88</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.28</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5980.0</temperature>
     <planet>
-      <name>HD 185269 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">1.88</radius>
-      <semimajoraxis>0.077</semimajoraxis>
       <eccentricity>0.3</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <period errorminus="-0.0" errorplus="0.0">6.8</period>
+      <radius errorminus="-0.1" errorplus="0.1">1.88</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 185269 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis>0.077</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">1.88</radius>
   </star>
-  <distance errorplus="1.6" errorminus="-1.72">47.37</distance>
   <declination>28 29 59</declination>
 </system>
 

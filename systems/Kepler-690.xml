@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-690</name>
   <rightascension>19 29 23</rightascension>
+  <distance errorminus="-208.66" errorplus="508.7">1653.0</distance>
+  <name>Kepler-690</name>
   <star>
+    <temperature errorminus="-115.89" errorplus="87.61">5913.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.1">1.11</mass>
     <name>Kepler-690</name>
-    <radius errorplus="0.36" errorminus="-0.14">1.16</radius>
-    <mass errorplus="0.1" errorminus="-0.06">1.11</mass>
-    <temperature errorplus="87.61" errorminus="-115.89">5913.0</temperature>
     <planet>
-      <name>Kepler-690 b</name>
+      <period errorminus="-0.0" errorplus="0.0">7.7</period>
+      <radius errorminus="-0.14" errorplus="0.36">1.16</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.36" errorminus="-0.14">1.16</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">7.7</period>
       <inclination/>
+      <name>Kepler-690 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.14" errorplus="0.36">1.16</radius>
   </star>
-  <distance errorplus="508.7" errorminus="-208.66">1653.0</distance>
   <declination>39 46 17</declination>
 </system>
 

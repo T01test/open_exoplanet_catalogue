@@ -1,22 +1,22 @@
 <system>
-  <name>HD 100546</name>
   <rightascension>11 21 21</rightascension>
+  <distance errorminus="-4.0" errorplus="4.0">97.0</distance>
+  <name>HD 100546</name>
   <star>
-    <name>HD 100546</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">2.4</mass>
     <temperature>10500.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">2.4</mass>
+    <name>HD 100546</name>
     <planet>
-      <name>HD 100546 b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.0" errorminus="-2.0">53.0</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
       <inclination/>
+      <name>HD 100546 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-2.0" errorplus="2.0">53.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="4.0" errorminus="-4.0">97.0</distance>
   <declination>-70 11 41</declination>
 </system>
 

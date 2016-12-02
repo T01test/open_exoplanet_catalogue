@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-359</name>
   <rightascension>19 17 37</rightascension>
-  <star>
-    <name>Kepler-359</name>
-    <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-    <mass>1.07</mass>
-    <temperature errorplus="250.0" errorminus="-250.0">6248.0</temperature>
-    <planet>
-      <name>Kepler-359 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-      <semimajoraxis>0.307</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">57.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-359 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-      <semimajoraxis>0.178</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">25.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-359 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-      <semimajoraxis>0.372</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">77.1</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-359</name>
+  <star>
+    <temperature errorminus="-250.0" errorplus="250.0">6248.0</temperature>
+    <mass>1.07</mass>
+    <name>Kepler-359</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">57.7</period>
+      <radius errorminus="-0.5" errorplus="0.5">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-359 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.307</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">77.1</period>
+      <radius errorminus="-0.5" errorplus="0.5">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-359 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.372</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">25.6</period>
+      <radius errorminus="-0.5" errorplus="0.5">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-359 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.178</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.5" errorplus="0.5">1.09</radius>
+  </star>
   <declination>42 11 46</declination>
 </system>
 

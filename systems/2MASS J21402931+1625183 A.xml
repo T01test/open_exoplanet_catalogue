@@ -1,23 +1,23 @@
 <system>
-  <name>2MASS J21402931+1625183 A</name>
   <rightascension>21 07 19</rightascension>
+  <distance errorminus="-10.0" errorplus="10.0">25.0</distance>
+  <name>2MASS J21402931+1625183 A</name>
   <star>
+    <temperature errorminus="-80.0" errorplus="80.0">2300.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.08</mass>
     <name>2MASS J21402931+1625183 A</name>
-    <radius errorplus="0.05" errorminus="-0.04">0.12</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.08</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">2300.0</temperature>
     <planet>
-      <name>2MASS J21402931+1625183 A b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.04">0.12</radius>
-      <semimajoraxis/>
       <eccentricity>0.26</eccentricity>
-      <period errorplus="1934.5" errorminus="-584.0">7336.5</period>
-      <inclination errorplus="2.5" errorminus="-8.7">46.2</inclination>
+      <period errorminus="-584.0" errorplus="1934.5">7336.5</period>
+      <radius errorminus="-0.04" errorplus="0.05">0.12</radius>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination errorminus="-8.7" errorplus="2.5">46.2</inclination>
+      <name>2MASS J21402931+1625183 A b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.05">0.12</radius>
   </star>
-  <distance errorplus="10.0" errorminus="-10.0">25.0</distance>
   <declination>16 25 18</declination>
 </system>
 

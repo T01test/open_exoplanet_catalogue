@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-126</name>
   <rightascension>04 22 25</rightascension>
+  <distance errorminus="-15.0" errorplus="15.0">234.0</distance>
+  <name>WASP-126</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5800.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.12</mass>
     <name>WASP-126</name>
-    <radius errorplus="0.1" errorminus="-0.05">1.27</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.12</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5800.0</temperature>
     <planet>
-      <name>WASP-126 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-05</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.05">1.27</radius>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0449</semimajoraxis>
       <eccentricity>0.18</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
-      <inclination errorplus="1.5" errorminus="-1.5">87.9</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.3</period>
+      <radius errorminus="-0.05" errorplus="0.1">1.27</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.5" errorplus="1.5">87.9</inclination>
+      <name>WASP-126 b</name>
+      <lastupdate>2016-05-05</lastupdate>
+      <semimajoraxis errorminus="-0.0008" errorplus="0.0008">0.0449</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.1">1.27</radius>
   </star>
-  <distance errorplus="15.0" errorminus="-15.0">234.0</distance>
   <declination>-69 13 36</declination>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-703</name>
   <rightascension>19 11 12</rightascension>
+  <distance errorminus="-269.87" errorplus="656.01">1482.0</distance>
+  <name>Kepler-703</name>
   <star>
+    <temperature errorminus="-248.39" errorplus="197.61">6185.0</temperature>
+    <mass errorminus="-0.12" errorplus="0.2">1.18</mass>
     <name>Kepler-703</name>
-    <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
-    <mass errorplus="0.2" errorminus="-0.12">1.18</mass>
-    <temperature errorplus="197.61" errorminus="-248.39">6185.0</temperature>
     <planet>
-      <name>Kepler-703 b</name>
+      <period errorminus="-0.0" errorplus="0.0">4.6</period>
+      <radius errorminus="-0.21" errorplus="0.57">1.27</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.57" errorminus="-0.21">1.27</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
       <inclination/>
+      <name>Kepler-703 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.21" errorplus="0.57">1.27</radius>
   </star>
-  <distance errorplus="656.01" errorminus="-269.87">1482.0</distance>
   <declination>41 44 33</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-101</name>
   <rightascension>06 21 03</rightascension>
-  <star>
-    <name>WASP-101</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.29</radius>
-    <mass errorplus="0.07" errorminus="-0.07">1.34</mass>
-    <temperature errorplus="110.0" errorminus="-110.0">6400.0</temperature>
-    <planet>
-      <name>WASP-101 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.29</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0506</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <inclination errorplus="0.2" errorminus="-0.2">85.0</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>WASP-101</name>
+  <star>
+    <temperature errorminus="-110.0" errorplus="110.0">6400.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">1.34</mass>
+    <name>WASP-101</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.6</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.2" errorplus="0.2">85.0</inclination>
+      <name>WASP-101 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0506</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">1.29</radius>
+  </star>
   <declination>-23 29 10</declination>
 </system>
 

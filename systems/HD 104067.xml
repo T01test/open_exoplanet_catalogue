@@ -1,23 +1,23 @@
 <system>
-  <name>HD 104067</name>
   <rightascension>11 47 30</rightascension>
+  <distance errorminus="-0.46" errorplus="0.44">20.82</distance>
+  <name>HD 104067</name>
   <star>
+    <temperature errorminus="-72.0" errorplus="72.0">4969.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">0.79</mass>
     <name>HD 104067</name>
-    <radius/>
-    <mass errorplus="0.02" errorminus="-0.02">0.79</mass>
-    <temperature errorplus="72.0" errorminus="-72.0">4969.0</temperature>
     <planet>
-      <name>HD 104067 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0045" errorminus="-0.0045">0.2643</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">55.8</period>
+      <period errorminus="-0.0" errorplus="0.0">55.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 104067 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0045" errorplus="0.0045">0.2643</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.44" errorminus="-0.46">20.82</distance>
   <declination>-20 21 13</declination>
 </system>
 

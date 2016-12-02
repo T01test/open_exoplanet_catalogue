@@ -1,23 +1,23 @@
 <system>
-  <name>HD 2638</name>
   <rightascension>00 29 58</rightascension>
+  <distance errorminus="-4.2" errorplus="3.63">53.71</distance>
+  <name>HD 2638</name>
   <star>
-    <name>HD 2638</name>
-    <radius/>
+    <temperature errorminus="-38.0" errorplus="38.0">5192.0</temperature>
     <mass>0.93</mass>
-    <temperature errorplus="38.0" errorminus="-38.0">5192.0</temperature>
+    <name>HD 2638</name>
     <planet>
-      <name>HD 2638 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-11-19</lastupdate>
-      <radius/>
-      <semimajoraxis>0.044</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
+      <period errorminus="-0.0" errorplus="0.0">3.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 2638 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <semimajoraxis>0.044</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="3.63" errorminus="-4.2">53.71</distance>
   <declination>-5 45 50</declination>
 </system>
 

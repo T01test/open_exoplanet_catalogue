@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-138</name>
   <rightascension>02 38 20</rightascension>
+  <distance errorminus="-51.0" errorplus="51.0">308.0</distance>
+  <name>WASP-138</name>
   <star>
+    <temperature errorminus="-96.0" errorplus="96.0">6272.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.22</mass>
     <name>WASP-138</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.36</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.22</mass>
-    <temperature errorplus="96.0" errorminus="-96.0">6272.0</temperature>
     <planet>
-      <name>WASP-138 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.6</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.36</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.2" errorplus="0.9">88.5</inclination>
+      <name>WASP-138 b</name>
       <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.36</radius>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0494</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <inclination errorplus="0.9" errorminus="-1.2">88.5</inclination>
+      <semimajoraxis errorminus="-0.0007" errorplus="0.0007">0.0494</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.36</radius>
   </star>
-  <distance errorplus="51.0" errorminus="-51.0">308.0</distance>
   <declination>00 27 50</declination>
 </system>
 

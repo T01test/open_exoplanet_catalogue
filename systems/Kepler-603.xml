@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-603</name>
   <rightascension>19 16 51</rightascension>
+  <distance errorminus="-99.99" errorplus="217.66">967.0</distance>
+  <name>Kepler-603</name>
   <star>
+    <temperature errorminus="-142.55" errorplus="90.04">5808.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.01</mass>
     <name>Kepler-603</name>
-    <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.01</mass>
-    <temperature errorplus="90.04" errorminus="-142.55">5808.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">6.2</period>
+      <radius errorminus="-0.1" errorplus="0.23">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-603 d</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">6.2</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-603 c</name>
+      <period errorminus="-0.0" errorplus="0.0">21.1</period>
+      <radius errorminus="-0.1" errorplus="0.23">1.01</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">127.9</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-603 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">21.1</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">127.9</period>
+      <radius errorminus="-0.1" errorplus="0.23">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-603 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.1" errorplus="0.23">1.01</radius>
   </star>
-  <distance errorplus="217.66" errorminus="-99.99">967.0</distance>
   <declination>42 17 27</declination>
 </system>
 

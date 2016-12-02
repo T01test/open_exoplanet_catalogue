@@ -1,43 +1,43 @@
 <system>
-  <name>HIP 14810</name>
   <rightascension>03 48 33</rightascension>
+  <distance errorminus="-4.39" errorplus="3.77">52.88</distance>
+  <name>HIP 14810</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5485.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.99</mass>
     <name>HIP 14810</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.0</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.99</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5485.0</temperature>
     <planet>
-      <name>HIP 14810 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.0</radius>
-      <semimajoraxis errorplus="0.031" errorminus="-0.031">0.545</semimajoraxis>
       <eccentricity>0.164</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">147.7</period>
+      <period errorminus="-0.1" errorplus="0.1">147.7</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 14810 c</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.031" errorplus="0.031">0.545</semimajoraxis>
     </planet>
     <planet>
-      <name>HIP 14810 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.0</radius>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.0692</semimajoraxis>
-      <eccentricity>0.1427</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">6.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HIP 14810 d</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.0</radius>
-      <semimajoraxis errorplus="0.11" errorminus="-0.11">1.89</semimajoraxis>
       <eccentricity>0.173</eccentricity>
-      <period errorplus="15.0" errorminus="-15.0">952.0</period>
+      <period errorminus="-15.0" errorplus="15.0">952.0</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 14810 d</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.11" errorplus="0.11">1.89</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.1427</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">6.7</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HIP 14810 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.004" errorplus="0.004">0.0692</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.0</radius>
   </star>
-  <distance errorplus="3.77" errorminus="-4.39">52.88</distance>
   <declination>21 05 50</declination>
 </system>
 

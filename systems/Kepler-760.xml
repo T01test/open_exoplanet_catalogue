@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-760</name>
   <rightascension>19 35 35</rightascension>
+  <distance errorminus="-43.55" errorplus="67.76">782.0</distance>
+  <name>Kepler-760</name>
   <star>
+    <temperature errorminus="-81.73" errorplus="65.68">5322.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.89</mass>
     <name>Kepler-760</name>
-    <radius errorplus="0.07" errorminus="-0.04">0.85</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.89</mass>
-    <temperature errorplus="65.68" errorminus="-81.73">5322.0</temperature>
     <planet>
-      <name>Kepler-760 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.5</period>
+      <radius errorminus="-0.04" errorplus="0.07">0.85</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.04">0.85</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">8.7</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-760 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.04">0.85</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">8.7</period>
+      <radius errorminus="-0.04" errorplus="0.07">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-760 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.07">0.85</radius>
   </star>
-  <distance errorplus="67.76" errorminus="-43.55">782.0</distance>
   <declination>44 10 45</declination>
 </system>
 

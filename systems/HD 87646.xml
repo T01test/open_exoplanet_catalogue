@@ -1,23 +1,23 @@
 <system>
-  <name>HD 87646</name>
   <rightascension>10 40 11</rightascension>
+  <distance errorminus="-9.68" errorplus="7.66">73.58</distance>
+  <name>HD 87646</name>
   <star>
+    <temperature errorminus="-80.0" errorplus="80.0">5770.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.09">1.12</mass>
     <name>HD 87646</name>
-    <radius errorplus="0.22" errorminus="-0.22">1.55</radius>
-    <mass errorplus="0.09" errorminus="-0.09">1.12</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5770.0</temperature>
     <planet>
-      <name>HD 87646 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-08-18</lastupdate>
-      <radius errorplus="0.22" errorminus="-0.22">1.55</radius>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.117</semimajoraxis>
       <eccentricity>0.05</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">13.5</period>
+      <period errorminus="-0.0" errorplus="0.0">13.5</period>
+      <radius errorminus="-0.22" errorplus="0.22">1.55</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 87646 b</name>
+      <lastupdate>2016-08-18</lastupdate>
+      <semimajoraxis errorminus="-0.003" errorplus="0.003">0.117</semimajoraxis>
     </planet>
+    <radius errorminus="-0.22" errorplus="0.22">1.55</radius>
   </star>
-  <distance errorplus="7.66" errorminus="-9.68">73.58</distance>
   <declination>17 53 42</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 7449</name>
   <rightascension>01 37 19</rightascension>
+  <distance errorminus="-1.18" errorplus="1.11">38.52</distance>
+  <name>HD 7449</name>
   <star>
-    <name>HD 7449</name>
-    <radius>1.01</radius>
+    <temperature errorminus="-13.0" errorplus="13.0">6024.0</temperature>
     <mass>1.05</mass>
-    <temperature errorplus="13.0" errorminus="-13.0">6024.0</temperature>
+    <name>HD 7449</name>
     <planet>
-      <name>HD 7449 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>1.01</radius>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">2.3</semimajoraxis>
       <eccentricity>0.82</eccentricity>
-      <period errorplus="15.0" errorminus="-11.0">1275.0</period>
+      <period errorminus="-11.0" errorplus="15.0">1275.0</period>
+      <radius>1.01</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 7449 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.04" errorplus="0.04">2.3</semimajoraxis>
     </planet>
+    <radius>1.01</radius>
   </star>
-  <distance errorplus="1.11" errorminus="-1.18">38.52</distance>
   <declination>-5 02 50</declination>
 </system>
 

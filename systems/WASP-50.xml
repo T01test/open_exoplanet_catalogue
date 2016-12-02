@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-50</name>
   <rightascension>02 41 17</rightascension>
+  <distance errorminus="-40.0" errorplus="40.0">230.0</distance>
+  <name>WASP-50</name>
   <star>
-    <name>WASP-50</name>
-    <radius errorplus="0.03">0.84</radius>
-    <mass errorplus="0.08">0.89</mass>
     <temperature errorplus="100.0">5400.0</temperature>
+    <mass errorplus="0.08">0.89</mass>
+    <name>WASP-50</name>
     <planet>
-      <name>WASP-50 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03">0.84</radius>
-      <semimajoraxis errorplus="0.00085" errorminus="-0.00085">0.02945</semimajoraxis>
       <eccentricity>0.009</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.0</period>
-      <inclination errorplus="0.24" errorminus="-0.24">84.74</inclination>
+      <period errorminus="-0.0" errorplus="0.0">2.0</period>
+      <radius errorplus="0.03">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.24" errorplus="0.24">84.74</inclination>
+      <name>WASP-50 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00085" errorplus="0.00085">0.02945</semimajoraxis>
     </planet>
+    <radius errorplus="0.03">0.84</radius>
   </star>
-  <distance errorplus="40.0" errorminus="-40.0">230.0</distance>
   <declination>-10 53 53</declination>
 </system>
 

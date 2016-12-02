@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-440</name>
   <rightascension>19 20 59</rightascension>
+  <distance errorminus="-46.0" errorplus="16.0">261.0</distance>
+  <name>Kepler-440</name>
   <star>
+    <temperature errorminus="-154.0" errorplus="154.0">4134.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.57</mass>
     <name>Kepler-440</name>
-    <radius errorplus="0.03" errorminus="-0.05">0.56</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.57</mass>
-    <temperature errorplus="154.0" errorminus="-154.0">4134.0</temperature>
     <planet>
-      <name>Kepler-440 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-06</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.05">0.56</radius>
-      <semimajoraxis errorplus="0.066" errorminus="-0.041">0.242</semimajoraxis>
       <eccentricity>0.34</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">101.1</period>
-      <inclination errorplus="0.07" errorminus="-0.18">89.93</inclination>
+      <period errorminus="-0.0" errorplus="0.0">101.1</period>
+      <radius errorminus="-0.05" errorplus="0.03">0.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.18" errorplus="0.07">89.93</inclination>
+      <name>Kepler-440 b</name>
+      <lastupdate>2015-01-06</lastupdate>
+      <semimajoraxis errorminus="-0.041" errorplus="0.066">0.242</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.03">0.56</radius>
   </star>
-  <distance errorplus="16.0" errorminus="-46.0">261.0</distance>
   <declination>41 27 07</declination>
 </system>
 

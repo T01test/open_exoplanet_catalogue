@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1064</name>
   <rightascension>19 44 29</rightascension>
+  <distance errorminus="-11.47" errorplus="11.51">374.0</distance>
+  <name>Kepler-1064</name>
   <star>
+    <temperature errorminus="-59.98" errorplus="80.62">5153.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.85</mass>
     <name>Kepler-1064</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.85</mass>
-    <temperature errorplus="80.62" errorminus="-59.98">5153.0</temperature>
     <planet>
-      <name>Kepler-1064 b</name>
+      <period errorminus="-0.0" errorplus="0.0">16.5</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.79</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.79</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">16.5</period>
       <inclination/>
+      <name>Kepler-1064 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.79</radius>
   </star>
-  <distance errorplus="11.51" errorminus="-11.47">374.0</distance>
   <declination>37 41 20</declination>
 </system>
 

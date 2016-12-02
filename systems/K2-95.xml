@@ -1,22 +1,22 @@
 <system>
-  <name>K2-95</name>
   <rightascension>08 21 45</rightascension>
+  <distance errorminus="-14.0" errorplus="14.0">172.0</distance>
+  <name>K2-95</name>
   <star>
+    <temperature errorminus="-124.0" errorplus="124.0">3471.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.36</mass>
     <name>K2-95</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.4</radius>
-    <mass errorplus="0.07" errorminus="-0.07">0.36</mass>
-    <temperature errorplus="124.0" errorminus="-124.0">3471.0</temperature>
     <planet>
-      <name>K2-95 b</name>
+      <period errorminus="-0.0" errorplus="0.0">10.1</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.4</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.59" errorplus="0.86">88.77</inclination>
+      <name>K2-95 b</name>
       <lastupdate>2016-09-08</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.4</radius>
-      <semimajoraxis errorplus="0.0039" errorminus="-0.0045">0.0653</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">10.1</period>
-      <inclination errorplus="0.86" errorminus="-1.59">88.77</inclination>
+      <semimajoraxis errorminus="-0.0045" errorplus="0.0039">0.0653</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.4</radius>
   </star>
-  <distance errorplus="14.0" errorminus="-14.0">172.0</distance>
   <declination>18 58 36</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 204941</name>
   <rightascension>21 05 52</rightascension>
+  <distance errorminus="-0.95" errorplus="0.88">26.95</distance>
+  <name>HD 204941</name>
   <star>
-    <name>HD 204941</name>
-    <radius>0.72</radius>
+    <temperature errorminus="-52.0" errorplus="52.0">5056.0</temperature>
     <mass>0.74</mass>
-    <temperature errorplus="52.0" errorminus="-52.0">5056.0</temperature>
+    <name>HD 204941</name>
     <planet>
-      <name>HD 204941 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>0.72</radius>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">2.56</semimajoraxis>
       <eccentricity>0.37</eccentricity>
-      <period errorplus="74.0" errorminus="-74.0">1733.0</period>
+      <period errorminus="-74.0" errorplus="74.0">1733.0</period>
+      <radius>0.72</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 204941 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">2.56</semimajoraxis>
     </planet>
+    <radius>0.72</radius>
   </star>
-  <distance errorplus="0.88" errorminus="-0.95">26.95</distance>
   <declination>-20 57 26</declination>
 </system>
 

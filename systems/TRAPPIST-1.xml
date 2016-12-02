@@ -1,43 +1,43 @@
 <system>
-  <name>TRAPPIST-1</name>
   <rightascension>23 37 19</rightascension>
+  <distance errorminus="-0.4" errorplus="0.4">12.1</distance>
+  <name>TRAPPIST-1</name>
   <star>
+    <temperature errorminus="-55.0" errorplus="55.0">2550.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">0.08</mass>
     <name>TRAPPIST-1</name>
-    <radius errorplus="0.0" errorminus="-0.0">0.12</radius>
-    <mass errorplus="0.01" errorminus="-0.01">0.08</mass>
-    <temperature errorplus="55.0" errorminus="-55.0">2550.0</temperature>
     <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">1.5</period>
+      <radius errorminus="-0.0" errorplus="0.0">0.12</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.41" errorplus="0.41">89.41</inclination>
       <name>TRAPPIST-1 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-05</lastupdate>
-      <radius errorplus="0.0" errorminus="-0.0">0.12</radius>
-      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.01111</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1.5</period>
-      <inclination errorplus="0.41" errorminus="-0.41">89.41</inclination>
+      <semimajoraxis errorminus="-0.0004" errorplus="0.0004">0.01111</semimajoraxis>
     </planet>
     <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">2.4</period>
+      <radius errorminus="-0.0" errorplus="0.0">0.12</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.31" errorplus="0.31">89.5</inclination>
       <name>TRAPPIST-1 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-05</lastupdate>
-      <radius errorplus="0.0" errorminus="-0.0">0.12</radius>
-      <semimajoraxis errorplus="0.00055" errorminus="-0.00055">0.01522</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <inclination errorplus="0.31" errorminus="-0.31">89.5</inclination>
+      <semimajoraxis errorminus="-0.00055" errorplus="0.00055">0.01522</semimajoraxis>
     </planet>
     <planet>
-      <name>TRAPPIST-1 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-05</lastupdate>
-      <radius errorplus="0.0" errorminus="-0.0">0.12</radius>
-      <semimajoraxis/>
       <eccentricity>0.0</eccentricity>
       <period>18.2</period>
-      <inclination errorplus="0.1" errorminus="-0.1">89.87</inclination>
+      <radius errorminus="-0.0" errorplus="0.0">0.12</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.1" errorplus="0.1">89.87</inclination>
+      <name>TRAPPIST-1 d</name>
+      <lastupdate>2016-05-05</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.0" errorplus="0.0">0.12</radius>
   </star>
-  <distance errorplus="0.4" errorminus="-0.4">12.1</distance>
   <declination>-5 02 28</declination>
 </system>
 

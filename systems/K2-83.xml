@@ -1,31 +1,31 @@
 <system>
-  <name>K2-83</name>
   <rightascension>03 54 05</rightascension>
-  <star>
-    <name>K2-83</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
-    <mass errorplus="0.02" errorminus="-0.02">0.48</mass>
-    <temperature errorplus="49.0" errorminus="-49.0">3910.0</temperature>
-    <planet>
-      <name>K2-83 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
-      <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.03014</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>K2-83 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.42</radius>
-      <semimajoraxis errorplus="0.00096" errorminus="-0.00096">0.07131</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-83</name>
+  <star>
+    <temperature errorminus="-49.0" errorplus="49.0">3910.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">0.48</mass>
+    <name>K2-83</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-83 c</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.00096" errorplus="0.00096">0.07131</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">2.7</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-83 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.00041" errorplus="0.00041">0.03014</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.42</radius>
+  </star>
   <declination>15 33 31</declination>
 </system>
 

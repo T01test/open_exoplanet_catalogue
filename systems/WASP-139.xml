@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-139</name>
   <rightascension>03 33 44</rightascension>
+  <distance errorminus="-40.0" errorplus="40.0">230.0</distance>
+  <name>WASP-139</name>
   <star>
+    <temperature errorminus="-90.0" errorplus="90.0">5310.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">0.92</mass>
     <name>WASP-139</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.8</radius>
-    <mass errorplus="0.1" errorminus="-0.1">0.92</mass>
-    <temperature errorplus="90.0" errorminus="-90.0">5310.0</temperature>
     <planet>
-      <name>WASP-139 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.8</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.062</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <inclination errorplus="0.5" errorminus="-0.5">88.9</inclination>
+      <period errorminus="-0.0" errorplus="0.0">5.9</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.8</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.5" errorplus="0.5">88.9</inclination>
+      <name>WASP-139 b</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.062</semimajoraxis>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.8</radius>
   </star>
-  <distance errorplus="40.0" errorminus="-40.0">230.0</distance>
   <declination>-41 18 07</declination>
 </system>
 

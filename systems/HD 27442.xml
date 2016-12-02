@@ -1,23 +1,23 @@
 <system>
-  <name>HD 27442</name>
   <rightascension>04 07 15</rightascension>
+  <distance errorminus="-0.17" errorplus="0.17">18.24</distance>
+  <name>HD 27442</name>
   <star>
-    <name>HD 27442</name>
-    <radius/>
+    <temperature errorminus="-44.0" errorplus="44.0">4846.0</temperature>
     <mass>1.23</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">4846.0</temperature>
+    <name>HD 27442</name>
     <planet>
-      <name>HD 27442 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.073" errorminus="-0.073">1.271</semimajoraxis>
       <eccentricity>0.06</eccentricity>
-      <period errorplus="1.1" errorminus="-1.1">428.1</period>
+      <period errorminus="-1.1" errorplus="1.1">428.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 27442 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.073" errorplus="0.073">1.271</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.17" errorminus="-0.17">18.24</distance>
   <declination>-59 18 07</declination>
 </system>
 

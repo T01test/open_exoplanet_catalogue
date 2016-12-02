@@ -1,23 +1,23 @@
 <system>
-  <name>HD 208527</name>
   <rightascension>21 05 59</rightascension>
+  <distance errorminus="-130.98" errorplus="75.1">352.11</distance>
+  <name>HD 208527</name>
   <star>
+    <temperature errorminus="-65.0" errorplus="65.0">4035.0</temperature>
+    <mass errorminus="-0.4" errorplus="0.4">1.6</mass>
     <name>HD 208527</name>
-    <radius errorplus="8.3" errorminus="-8.3">51.1</radius>
-    <mass errorplus="0.4" errorminus="-0.4">1.6</mass>
-    <temperature errorplus="65.0" errorminus="-65.0">4035.0</temperature>
     <planet>
-      <name>HD 208527 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="8.3" errorminus="-8.3">51.1</radius>
-      <semimajoraxis errorplus="0.2" errorminus="-0.2">2.1</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="5.8" errorminus="-5.8">875.5</period>
+      <period errorminus="-5.8" errorplus="5.8">875.5</period>
+      <radius errorminus="-8.3" errorplus="8.3">51.1</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 208527 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.2" errorplus="0.2">2.1</semimajoraxis>
     </planet>
+    <radius errorminus="-8.3" errorplus="8.3">51.1</radius>
   </star>
-  <distance errorplus="75.1" errorminus="-130.98">352.11</distance>
   <declination>21 14 23</declination>
 </system>
 

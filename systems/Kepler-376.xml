@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-376</name>
   <rightascension>19 36 25</rightascension>
-  <star>
-    <name>Kepler-376</name>
-    <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
-    <mass>1.05</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5900.0</temperature>
-    <planet>
-      <name>Kepler-376 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
-      <semimajoraxis>0.057</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-376 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.23">1.18</radius>
-      <semimajoraxis>0.115</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">14.2</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-376</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5900.0</temperature>
+    <mass>1.05</mass>
+    <name>Kepler-376</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">14.2</period>
+      <radius errorminus="-0.23" errorplus="0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-376 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.115</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.9</period>
+      <radius errorminus="-0.23" errorplus="0.23">1.18</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-376 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.057</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.23" errorplus="0.23">1.18</radius>
+  </star>
   <declination>38 24 37</declination>
 </system>
 

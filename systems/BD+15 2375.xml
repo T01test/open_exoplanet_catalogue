@@ -1,23 +1,23 @@
 <system>
-  <name>BD+15 2375</name>
   <rightascension>11 28 55</rightascension>
+  <distance errorminus="-165.0" errorplus="165.0">774.0</distance>
+  <name>BD+15 2375</name>
   <star>
+    <temperature errorminus="-30.0" errorplus="30.0">4649.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.14">1.08</mass>
     <name>BD+15 2375</name>
-    <radius errorplus="1.45" errorminus="-1.45">8.95</radius>
-    <mass errorplus="0.14" errorminus="-0.14">1.08</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">4649.0</temperature>
     <planet>
-      <name>BD+15 2375 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-04</lastupdate>
-      <radius errorplus="1.45" errorminus="-1.45">8.95</radius>
-      <semimajoraxis errorplus="0.027" errorminus="-0.027">0.576</semimajoraxis>
       <eccentricity>0.001</eccentricity>
-      <period errorplus="0.4" errorminus="-0.4">153.2</period>
+      <period errorminus="-0.4" errorplus="0.4">153.2</period>
+      <radius errorminus="-1.45" errorplus="1.45">8.95</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>BD+15 2375 b</name>
+      <lastupdate>2016-02-04</lastupdate>
+      <semimajoraxis errorminus="-0.027" errorplus="0.027">0.576</semimajoraxis>
     </planet>
+    <radius errorminus="-1.45" errorplus="1.45">8.95</radius>
   </star>
-  <distance errorplus="165.0" errorminus="-165.0">774.0</distance>
   <declination>14 36 58</declination>
 </system>
 

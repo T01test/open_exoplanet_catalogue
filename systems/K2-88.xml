@@ -1,22 +1,22 @@
 <system>
-  <name>K2-88</name>
   <rightascension>03 45 05</rightascension>
-  <star>
-    <name>K2-88</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.26</radius>
-    <mass errorplus="0.07" errorminus="-0.07">0.26</mass>
-    <temperature errorplus="93.0" errorminus="-93.0">3537.0</temperature>
-    <planet>
-      <name>K2-88 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.26</radius>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.0345</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-88</name>
+  <star>
+    <temperature errorminus="-93.0" errorplus="93.0">3537.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.26</mass>
+    <name>K2-88</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.6</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-88 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.003" errorplus="0.003">0.0345</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.26</radius>
+  </star>
   <declination>19 07 12</declination>
 </system>
 

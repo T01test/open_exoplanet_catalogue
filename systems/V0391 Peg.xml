@@ -1,23 +1,23 @@
 <system>
-  <name>V0391 Peg</name>
   <rightascension>22 03 01</rightascension>
+  <distance errorminus="-180.0" errorplus="180.0">1400.0</distance>
+  <name>V0391 Peg</name>
   <star>
+    <temperature errorminus="-500.0" errorplus="500.0">29300.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.5</mass>
     <name>V0391 Peg</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.23</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.5</mass>
-    <temperature errorplus="500.0" errorminus="-500.0">29300.0</temperature>
     <planet>
-      <name>V0391 Peg b</name>
-      <discoverymethod>pulsation Timing Variations</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.23</radius>
-      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.7</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="44.0" errorminus="-44.0">1170.0</period>
+      <period errorminus="-44.0" errorplus="44.0">1170.0</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.23</radius>
+      <discoverymethod>pulsation Timing Variations</discoverymethod>
       <inclination/>
+      <name>V0391 Peg b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.1" errorplus="0.1">1.7</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.23</radius>
   </star>
-  <distance errorplus="180.0" errorminus="-180.0">1400.0</distance>
   <declination>26 25 07</declination>
 </system>
 

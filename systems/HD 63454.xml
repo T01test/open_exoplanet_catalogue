@@ -1,23 +1,23 @@
 <system>
-  <name>HD 63454</name>
   <rightascension>07 50 27</rightascension>
+  <distance errorminus="-1.14" errorplus="1.07">35.8</distance>
+  <name>HD 63454</name>
   <star>
-    <name>HD 63454</name>
-    <radius>1.05</radius>
+    <temperature errorminus="-66.0" errorplus="66.0">4840.0</temperature>
     <mass>0.84</mass>
-    <temperature errorplus="66.0" errorminus="-66.0">4840.0</temperature>
+    <name>HD 63454</name>
     <planet>
-      <name>HD 63454 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius>1.05</radius>
-      <semimajoraxis>0.0368</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <period errorminus="-0.0" errorplus="0.0">2.8</period>
+      <radius>1.05</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 63454 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>0.0368</semimajoraxis>
     </planet>
+    <radius>1.05</radius>
   </star>
-  <distance errorplus="1.07" errorminus="-1.14">35.8</distance>
   <declination>-78 16 44</declination>
 </system>
 

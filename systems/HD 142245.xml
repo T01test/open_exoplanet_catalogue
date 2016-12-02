@@ -1,23 +1,23 @@
 <system>
-  <name>HD 142245</name>
   <rightascension>15 14 04</rightascension>
+  <distance errorminus="-11.82" errorplus="9.67">106.38</distance>
+  <name>HD 142245</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">4878.0</temperature>
+    <mass errorminus="-0.12" errorplus="0.12">1.69</mass>
     <name>HD 142245</name>
-    <radius errorplus="0.1" errorminus="-0.1">5.2</radius>
-    <mass errorplus="0.12" errorminus="-0.12">1.69</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">4878.0</temperature>
     <planet>
-      <name>HD 142245 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">5.2</radius>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">2.77</semimajoraxis>
       <eccentricity>0.09</eccentricity>
-      <period errorplus="48.0" errorminus="-48.0">1299.0</period>
+      <period errorminus="-48.0" errorplus="48.0">1299.0</period>
+      <radius errorminus="-0.1" errorplus="0.1">5.2</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 142245 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.09" errorplus="0.09">2.77</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">5.2</radius>
   </star>
-  <distance errorplus="9.67" errorminus="-11.82">106.38</distance>
   <declination>15 25 50</declination>
 </system>
 

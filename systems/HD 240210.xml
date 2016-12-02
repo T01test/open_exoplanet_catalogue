@@ -1,23 +1,23 @@
 <system>
-  <name>HD 240210</name>
   <rightascension>23 37 18</rightascension>
-  <star>
-    <name>HD 240210</name>
-    <radius/>
-    <mass errorplus="0.15" errorminus="-0.15">0.82</mass>
-    <temperature errorplus="25.0" errorminus="-25.0">4297.0</temperature>
-    <planet>
-      <name>HD 240210 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-11-19</lastupdate>
-      <radius/>
-      <semimajoraxis>1.16</semimajoraxis>
-      <eccentricity>0.15</eccentricity>
-      <period errorplus="2.3" errorminus="-2.3">501.8</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>HD 240210</name>
+  <star>
+    <temperature errorminus="-25.0" errorplus="25.0">4297.0</temperature>
+    <mass errorminus="-0.15" errorplus="0.15">0.82</mass>
+    <name>HD 240210</name>
+    <planet>
+      <eccentricity>0.15</eccentricity>
+      <period errorminus="-2.3" errorplus="2.3">501.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 240210 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <semimajoraxis>1.16</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>57 01 46</declination>
 </system>
 

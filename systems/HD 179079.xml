@@ -1,23 +1,23 @@
 <system>
-  <name>HD 179079</name>
   <rightascension>19 47 27</rightascension>
+  <distance errorminus="-4.06" errorplus="3.6">63.69</distance>
+  <name>HD 179079</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5684.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.15</mass>
     <name>HD 179079</name>
-    <radius errorplus="0.09" errorminus="-0.09">1.6</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.15</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5684.0</temperature>
     <planet>
-      <name>HD 179079 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-09</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">1.6</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.1216</semimajoraxis>
       <eccentricity>0.115</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">14.5</period>
+      <period errorminus="-0.0" errorplus="0.0">14.5</period>
+      <radius errorminus="-0.09" errorplus="0.09">1.6</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 179079 b</name>
+      <lastupdate>2014-07-09</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.1216</semimajoraxis>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.09">1.6</radius>
   </star>
-  <distance errorplus="3.6" errorminus="-4.06">63.69</distance>
   <declination>-2 38 18</declination>
 </system>
 

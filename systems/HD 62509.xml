@@ -1,23 +1,23 @@
 <system>
-  <name>HD 62509</name>
   <rightascension>07 19 44</rightascension>
+  <distance errorminus="-0.09" errorplus="0.09">10.34</distance>
+  <name>HD 62509</name>
   <star>
+    <temperature errorminus="-18.0" errorplus="18.0">4946.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">2.1</mass>
     <name>HD 62509</name>
-    <radius errorplus="0.09" errorminus="-0.09">8.31</radius>
-    <mass errorplus="0.08" errorminus="-0.08">2.1</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">4946.0</temperature>
     <planet>
-      <name>HD 62509 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">8.31</radius>
-      <semimajoraxis errorplus="0.27" errorminus="-0.27">1.64</semimajoraxis>
       <eccentricity>0.02</eccentricity>
-      <period errorplus="0.8" errorminus="-0.8">589.6</period>
+      <period errorminus="-0.8" errorplus="0.8">589.6</period>
+      <radius errorminus="-0.09" errorplus="0.09">8.31</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 62509 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis errorminus="-0.27" errorplus="0.27">1.64</semimajoraxis>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.09">8.31</radius>
   </star>
-  <distance errorplus="0.09" errorminus="-0.09">10.34</distance>
   <declination>28 01 34</declination>
 </system>
 

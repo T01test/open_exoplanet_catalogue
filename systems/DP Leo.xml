@@ -1,23 +1,23 @@
 <system>
-  <name>DP Leo</name>
   <rightascension>11 19 00</rightascension>
-  <star>
-    <name>DP Leo</name>
-    <radius/>
-    <mass>0.69</mass>
-    <temperature/>
-    <planet>
-      <name>DP Leo b</name>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.39" errorminus="-0.39">8.19</semimajoraxis>
-      <eccentricity>0.39</eccentricity>
-      <period errorplus="730.0" errorminus="-730.0">10220.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>DP Leo</name>
+  <star>
+    <temperature/>
+    <mass>0.69</mass>
+    <name>DP Leo</name>
+    <planet>
+      <eccentricity>0.39</eccentricity>
+      <period errorminus="-730.0" errorplus="730.0">10220.0</period>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <inclination/>
+      <name>DP Leo b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.39" errorplus="0.39">8.19</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>17 57 41</declination>
 </system>
 

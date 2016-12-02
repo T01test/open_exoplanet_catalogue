@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-34</name>
   <rightascension>20 11 43</rightascension>
+  <distance errorminus="-17.0" errorplus="22.0">257.0</distance>
+  <name>HAT-P-34</name>
   <star>
-    <name>HAT-P-34</name>
-    <radius errorplus="0.14">1.53</radius>
-    <mass errorplus="0.05">1.39</mass>
     <temperature errorplus="88.0">6442.0</temperature>
+    <mass errorplus="0.05">1.39</mass>
+    <name>HAT-P-34</name>
     <planet>
-      <name>HAT-P-34 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14">1.53</radius>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0677</semimajoraxis>
       <eccentricity>0.441</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.5</period>
-      <inclination errorplus="1.2" errorminus="-1.2">87.1</inclination>
+      <period errorminus="-0.0" errorplus="0.0">5.5</period>
+      <radius errorplus="0.14">1.53</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.2" errorplus="1.2">87.1</inclination>
+      <name>HAT-P-34 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0008" errorplus="0.0008">0.0677</semimajoraxis>
     </planet>
+    <radius errorplus="0.14">1.53</radius>
   </star>
-  <distance errorplus="22.0" errorminus="-17.0">257.0</distance>
   <declination>18 06 17</declination>
 </system>
 

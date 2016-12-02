@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-708</name>
   <rightascension>19 48 59</rightascension>
+  <distance errorminus="-119.36" errorplus="278.7">1241.0</distance>
+  <name>Kepler-708</name>
   <star>
+    <temperature errorminus="-151.78" errorplus="138.46">5692.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.97</mass>
     <name>Kepler-708</name>
-    <radius errorplus="0.21" errorminus="-0.09">0.96</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.97</mass>
-    <temperature errorplus="138.46" errorminus="-151.78">5692.0</temperature>
     <planet>
-      <name>Kepler-708 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.2</period>
+      <radius errorminus="-0.09" errorplus="0.21">0.96</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.21" errorminus="-0.09">0.96</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <inclination/>
+      <name>Kepler-708 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.21">0.96</radius>
   </star>
-  <distance errorplus="278.7" errorminus="-119.36">1241.0</distance>
   <declination>42 12 44</declination>
 </system>
 

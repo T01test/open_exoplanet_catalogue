@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-381</name>
   <rightascension>19 10 58</rightascension>
-  <star>
-    <name>Kepler-381</name>
-    <radius errorplus="0.35" errorminus="-0.35">1.57</radius>
-    <mass>1.34</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6152.0</temperature>
-    <planet>
-      <name>Kepler-381 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.35" errorminus="-0.35">1.57</radius>
-      <semimajoraxis>0.117</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">13.4</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-381 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.35" errorminus="-0.35">1.57</radius>
-      <semimajoraxis>0.066</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-381</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6152.0</temperature>
+    <mass>1.34</mass>
+    <name>Kepler-381</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">13.4</period>
+      <radius errorminus="-0.35" errorplus="0.35">1.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-381 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.117</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.6</period>
+      <radius errorminus="-0.35" errorplus="0.35">1.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-381 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.066</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.35" errorplus="0.35">1.57</radius>
+  </star>
   <declination>43 49 51</declination>
 </system>
 

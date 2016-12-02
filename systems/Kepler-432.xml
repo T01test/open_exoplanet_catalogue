@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-432</name>
   <rightascension>19 16 55</rightascension>
+  <distance errorminus="-20.0" errorplus="20.0">870.0</distance>
+  <name>Kepler-432</name>
   <star>
+    <temperature errorminus="-78.0" errorplus="78.0">4995.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.1">1.32</mass>
     <name>Kepler-432</name>
-    <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
-    <mass errorplus="0.1" errorminus="-0.07">1.32</mass>
-    <temperature errorplus="78.0" errorminus="-78.0">4995.0</temperature>
     <planet>
-      <name>Kepler-432 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-30</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
-      <semimajoraxis/>
       <eccentricity>0.498</eccentricity>
-      <period errorplus="3.9" errorminus="-2.5">406.2</period>
+      <period errorminus="-2.5" errorplus="3.9">406.2</period>
+      <radius errorminus="-0.08" errorplus="0.12">4.06</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>Kepler-432 c</name>
+      <lastupdate>2015-04-30</lastupdate>
+      <semimajoraxis/>
     </planet>
     <planet>
-      <name>Kepler-432 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-04-30</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
-      <semimajoraxis errorplus="0.016" errorminus="-0.011">0.301</semimajoraxis>
       <eccentricity>0.5134</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">52.5</period>
-      <inclination errorplus="0.61" errorminus="-0.33">88.17</inclination>
+      <period errorminus="-0.0" errorplus="0.0">52.5</period>
+      <radius errorminus="-0.08" errorplus="0.12">4.06</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.33" errorplus="0.61">88.17</inclination>
+      <name>Kepler-432 b</name>
+      <lastupdate>2015-04-30</lastupdate>
+      <semimajoraxis errorminus="-0.011" errorplus="0.016">0.301</semimajoraxis>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.12">4.06</radius>
   </star>
-  <distance errorplus="20.0" errorminus="-20.0">870.0</distance>
   <declination>48 17 09</declination>
 </system>
 

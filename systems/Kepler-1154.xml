@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1154</name>
   <rightascension>19 28 37</rightascension>
+  <distance errorminus="-336.46" errorplus="690.96">1531.0</distance>
+  <name>Kepler-1154</name>
   <star>
+    <temperature errorminus="-262.85" errorplus="317.3">6327.0</temperature>
+    <mass errorminus="-0.16" errorplus="0.25">1.26</mass>
     <name>Kepler-1154</name>
-    <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
-    <mass errorplus="0.25" errorminus="-0.16">1.26</mass>
-    <temperature errorplus="317.3" errorminus="-262.85">6327.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.29" errorplus="0.65">1.43</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-1154 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-1154 c</name>
+      <period errorminus="-0.0" errorplus="0.0">8.5</period>
+      <radius errorminus="-0.29" errorplus="0.65">1.43</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.65" errorminus="-0.29">1.43</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">8.5</period>
       <inclination/>
+      <name>Kepler-1154 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.29" errorplus="0.65">1.43</radius>
   </star>
-  <distance errorplus="690.96" errorminus="-336.46">1531.0</distance>
   <declination>39 52 38</declination>
 </system>
 

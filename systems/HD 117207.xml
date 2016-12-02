@@ -1,23 +1,23 @@
 <system>
-  <name>HD 117207</name>
   <rightascension>13 20 16</rightascension>
+  <distance errorminus="-1.03" errorplus="0.97">33.01</distance>
+  <name>HD 117207</name>
   <star>
-    <name>HD 117207</name>
-    <radius/>
-    <mass>1.08</mass>
     <temperature>5724.0</temperature>
+    <mass>1.08</mass>
+    <name>HD 117207</name>
     <planet>
-      <name>HD 117207 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.22" errorminus="-0.22">3.79</semimajoraxis>
       <eccentricity>0.144</eccentricity>
-      <period errorplus="41.0" errorminus="-41.0">2597.0</period>
+      <period errorminus="-41.0" errorplus="41.0">2597.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 117207 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.22" errorplus="0.22">3.79</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.97" errorminus="-1.03">33.01</distance>
   <declination>-35 34 15</declination>
 </system>
 

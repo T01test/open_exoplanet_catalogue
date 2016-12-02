@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-983</name>
   <rightascension>19 06 14</rightascension>
+  <distance errorminus="-23.32" errorplus="23.02">655.0</distance>
+  <name>Kepler-983</name>
   <star>
+    <temperature errorminus="-47.66" errorplus="50.95">6052.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.03">1.13</mass>
     <name>Kepler-983</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.08</radius>
-    <mass errorplus="0.03" errorminus="-0.02">1.13</mass>
-    <temperature errorplus="50.95" errorminus="-47.66">6052.0</temperature>
     <planet>
-      <name>Kepler-983 b</name>
+      <period errorminus="-0.0" errorplus="0.0">60.1</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.08</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.08</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">60.1</period>
       <inclination/>
+      <name>Kepler-983 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">1.08</radius>
   </star>
-  <distance errorplus="23.02" errorminus="-23.32">655.0</distance>
   <declination>45 00 29</declination>
 </system>
 

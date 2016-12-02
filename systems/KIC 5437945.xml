@@ -1,31 +1,31 @@
 <system>
-  <name>KIC 5437945</name>
   <rightascension>19 28 29</rightascension>
-  <star>
-    <name>KIC 5437945</name>
-    <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-    <mass errorplus="0.17" errorminus="-0.17">1.07</mass>
-    <temperature errorplus="176.0" errorminus="-199.0">6340.0</temperature>
-    <planet>
-      <name>KIC 5437945 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">220.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>KIC 5437945 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-01-05</lastupdate>
-      <radius errorplus="0.29" errorminus="-0.29">1.24</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">440.8</period>
-      <inclination errorplus="0.066" errorminus="-0.086">89.904</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>KIC 5437945</name>
+  <star>
+    <temperature errorminus="-199.0" errorplus="176.0">6340.0</temperature>
+    <mass errorminus="-0.17" errorplus="0.17">1.07</mass>
+    <name>KIC 5437945</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">440.8</period>
+      <radius errorminus="-0.29" errorplus="0.29">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.086" errorplus="0.066">89.904</inclination>
+      <name>KIC 5437945 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">220.1</period>
+      <radius errorminus="-0.29" errorplus="0.29">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>KIC 5437945 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.29" errorplus="0.29">1.24</radius>
+  </star>
   <declination>40 39 04</declination>
 </system>
 

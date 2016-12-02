@@ -1,23 +1,23 @@
 <system>
-  <name>HD 120084</name>
   <rightascension>13 39 48</rightascension>
+  <distance errorminus="-4.91" errorplus="4.46">97.66</distance>
+  <name>HD 120084</name>
   <star>
+    <temperature errorminus="-22.0" errorplus="22.0">4892.0</temperature>
+    <mass errorminus="-0.3" errorplus="0.06">2.39</mass>
     <name>HD 120084</name>
-    <radius errorplus="0.65" errorminus="-0.61">9.12</radius>
-    <mass errorplus="0.06" errorminus="-0.3">2.39</mass>
-    <temperature errorplus="22.0" errorminus="-22.0">4892.0</temperature>
     <planet>
-      <name>HD 120084 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.65" errorminus="-0.61">9.12</radius>
-      <semimajoraxis>4.3</semimajoraxis>
       <eccentricity>0.66</eccentricity>
-      <period errorplus="24.0" errorminus="-35.0">2082.0</period>
+      <period errorminus="-35.0" errorplus="24.0">2082.0</period>
+      <radius errorminus="-0.61" errorplus="0.65">9.12</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 120084 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>4.3</semimajoraxis>
     </planet>
+    <radius errorminus="-0.61" errorplus="0.65">9.12</radius>
   </star>
-  <distance errorplus="4.46" errorminus="-4.91">97.66</distance>
   <declination>78 03 51</declination>
 </system>
 

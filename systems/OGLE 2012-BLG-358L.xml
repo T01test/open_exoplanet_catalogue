@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2012-BLG-358L</name>
   <rightascension>17 41 41</rightascension>
+  <distance errorminus="-130.0" errorplus="130.0">1760.0</distance>
+  <name>OGLE 2012-BLG-358L</name>
   <star>
-    <name>OGLE 2012-BLG-358L</name>
-    <radius/>
-    <mass errorplus="0.0" errorminus="-0.0">0.02</mass>
     <temperature/>
+    <mass errorminus="-0.0" errorplus="0.0">0.02</mass>
+    <name>OGLE 2012-BLG-358L</name>
     <planet>
-      <name>OGLE 2012-BLG-358L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.87</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2012-BLG-358L b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">0.87</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="130.0" errorminus="-130.0">1760.0</distance>
   <declination>-24 15 39</declination>
 </system>
 

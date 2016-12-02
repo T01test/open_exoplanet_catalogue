@@ -1,22 +1,22 @@
 <system>
-  <name>2MASS J02192210-3925225</name>
   <rightascension>02 50 31</rightascension>
+  <distance errorminus="-2.6" errorplus="2.6">39.4</distance>
+  <name>2MASS J02192210-3925225</name>
   <star>
+    <temperature errorminus="-76.0" errorplus="76.0">3064.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">0.11</mass>
     <name>2MASS J02192210-3925225</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.28</radius>
-    <mass errorplus="0.01" errorminus="-0.01">0.11</mass>
-    <temperature errorplus="76.0" errorminus="-76.0">3064.0</temperature>
     <planet>
-      <name>2MASS J02192210-3925225 b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.01" errorminus="-0.01">0.28</radius>
-      <semimajoraxis errorplus="10.0" errorminus="-10.0">156.0</semimajoraxis>
       <period/>
+      <radius errorminus="-0.01" errorplus="0.01">0.28</radius>
+      <discoverymethod>imaging</discoverymethod>
       <inclination/>
+      <name>2MASS J02192210-3925225 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-10.0" errorplus="10.0">156.0</semimajoraxis>
     </planet>
+    <radius errorminus="-0.01" errorplus="0.01">0.28</radius>
   </star>
-  <distance errorplus="2.6" errorminus="-2.6">39.4</distance>
   <declination>-39 25 22</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 114783</name>
   <rightascension>13 10 56</rightascension>
+  <distance errorminus="-0.4" errorplus="0.4">20.4</distance>
+  <name>HD 114783</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5135.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.85</mass>
     <name>HD 114783</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">0.85</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5135.0</temperature>
     <planet>
-      <name>HD 114783 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.019" errorminus="-0.019">1.16</semimajoraxis>
       <eccentricity>0.144</eccentricity>
-      <period errorplus="1.8" errorminus="-1.8">493.7</period>
+      <period errorminus="-1.8" errorplus="1.8">493.7</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 114783 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.019" errorplus="0.019">1.16</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.4" errorminus="-0.4">20.4</distance>
   <declination>-2 15 54</declination>
 </system>
 

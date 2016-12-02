@@ -1,23 +1,23 @@
 <system>
-  <name>HD 86226</name>
   <rightascension>09 07 27</rightascension>
+  <distance errorminus="-1.59" errorplus="1.48">42.48</distance>
+  <name>HD 86226</name>
   <star>
+    <temperature errorminus="-31.0" errorplus="31.0">5903.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.06</mass>
     <name>HD 86226</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.06</mass>
-    <temperature errorplus="31.0" errorminus="-31.0">5903.0</temperature>
     <planet>
-      <name>HD 86226 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.02</radius>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">2.84</semimajoraxis>
       <eccentricity>0.15</eccentricity>
-      <period errorplus="58.0" errorminus="-58.0">1695.0</period>
+      <period errorminus="-58.0" errorplus="58.0">1695.0</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.02</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 86226 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.06" errorplus="0.06">2.84</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">1.02</radius>
   </star>
-  <distance errorplus="1.48" errorminus="-1.59">42.48</distance>
   <declination>-24 05 57</declination>
 </system>
 

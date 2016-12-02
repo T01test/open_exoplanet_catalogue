@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-790</name>
   <rightascension>19 55 01</rightascension>
+  <distance errorminus="-45.55" errorplus="51.44">727.0</distance>
+  <name>Kepler-790</name>
   <star>
+    <temperature errorminus="-114.14" errorplus="139.26">5208.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.84</mass>
     <name>Kepler-790</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.84</mass>
-    <temperature errorplus="139.26" errorminus="-114.14">5208.0</temperature>
     <planet>
-      <name>Kepler-790 b</name>
+      <period errorminus="-0.0" errorplus="0.0">13.7</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.8</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">13.7</period>
       <inclination/>
+      <name>Kepler-790 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.8</radius>
   </star>
-  <distance errorplus="51.44" errorminus="-45.55">727.0</distance>
   <declination>38 52 19</declination>
 </system>
 

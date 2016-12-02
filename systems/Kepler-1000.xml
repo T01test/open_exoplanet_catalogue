@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1000</name>
   <rightascension>19 41 07</rightascension>
+  <distance errorminus="-50.08" errorplus="51.17">925.0</distance>
+  <name>Kepler-1000</name>
   <star>
+    <temperature errorminus="-73.42" errorplus="74.15">6453.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.4</mass>
     <name>Kepler-1000</name>
-    <radius errorplus="0.08" errorminus="-0.07">1.51</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.4</mass>
-    <temperature errorplus="74.15" errorminus="-73.42">6453.0</temperature>
     <planet>
-      <name>Kepler-1000 b</name>
+      <period errorminus="-0.0" errorplus="0.0">120.0</period>
+      <radius errorminus="-0.07" errorplus="0.08">1.51</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.07">1.51</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">120.0</period>
       <inclination/>
+      <name>Kepler-1000 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.07" errorplus="0.08">1.51</radius>
   </star>
-  <distance errorplus="51.17" errorminus="-50.08">925.0</distance>
   <declination>47 05 53</declination>
 </system>
 

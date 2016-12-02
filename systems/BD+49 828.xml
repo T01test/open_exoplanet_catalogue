@@ -1,23 +1,23 @@
 <system>
-  <name>BD+49 828</name>
   <rightascension>03 38 25</rightascension>
-  <star>
-    <name>BD+49 828</name>
-    <radius errorplus="1.3" errorminus="-1.3">7.6</radius>
-    <mass errorplus="0.22" errorminus="-0.22">1.52</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">4943.0</temperature>
-    <planet>
-      <name>BD+49 828 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-02-05</lastupdate>
-      <radius errorplus="1.3" errorminus="-1.3">7.6</radius>
-      <semimajoraxis errorplus="0.32" errorminus="-0.2">4.2</semimajoraxis>
-      <eccentricity>0.35</eccentricity>
-      <period errorplus="300.0" errorminus="-180.0">2590.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>BD+49 828</name>
+  <star>
+    <temperature errorminus="-30.0" errorplus="30.0">4943.0</temperature>
+    <mass errorminus="-0.22" errorplus="0.22">1.52</mass>
+    <name>BD+49 828</name>
+    <planet>
+      <eccentricity>0.35</eccentricity>
+      <period errorminus="-180.0" errorplus="300.0">2590.0</period>
+      <radius errorminus="-1.3" errorplus="1.3">7.6</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>BD+49 828 b</name>
+      <lastupdate>2015-02-05</lastupdate>
+      <semimajoraxis errorminus="-0.2" errorplus="0.32">4.2</semimajoraxis>
+    </planet>
+    <radius errorminus="-1.3" errorplus="1.3">7.6</radius>
+  </star>
   <declination>49 43 48</declination>
 </system>
 

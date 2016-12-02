@@ -1,23 +1,23 @@
 <system>
-  <name>4 UMa</name>
   <rightascension>08 03 12</rightascension>
+  <distance errorminus="-4.5" errorplus="4.03">77.4</distance>
+  <name>4 UMa</name>
   <star>
+    <temperature errorminus="-70.0" errorplus="70.0">4415.0</temperature>
+    <mass errorminus="-0.15" errorplus="0.15">1.23</mass>
     <name>4 UMa</name>
-    <radius errorplus="1.47" errorminus="-1.47">18.11</radius>
-    <mass errorplus="0.15" errorminus="-0.15">1.23</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">4415.0</temperature>
     <planet>
-      <name>4 UMa b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="1.47" errorminus="-1.47">18.11</radius>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">0.87</semimajoraxis>
       <eccentricity>0.432</eccentricity>
-      <period errorplus="2.0" errorminus="-2.0">269.3</period>
+      <period errorminus="-2.0" errorplus="2.0">269.3</period>
+      <radius errorminus="-1.47" errorplus="1.47">18.11</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>4 UMa b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.04" errorplus="0.04">0.87</semimajoraxis>
     </planet>
+    <radius errorminus="-1.47" errorplus="1.47">18.11</radius>
   </star>
-  <distance errorplus="4.03" errorminus="-4.5">77.4</distance>
   <declination>64 19 40</declination>
 </system>
 

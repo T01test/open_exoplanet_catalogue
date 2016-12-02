@@ -1,53 +1,53 @@
 <system>
-  <name>Kepler-167</name>
   <rightascension>19 39 30</rightascension>
+  <distance errorminus="-10.0" errorplus="10.0">330.0</distance>
+  <name>Kepler-167</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">4890.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.02">0.77</mass>
     <name>Kepler-167</name>
-    <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-    <mass errorplus="0.02" errorminus="-0.03">0.77</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">4890.0</temperature>
     <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">4.4</period>
+      <radius errorminus="-0.01" errorplus="0.02">0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.8" errorplus="0.47">89.33</inclination>
       <name>Kepler-167 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-03-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.0017" errorminus="-0.0025">0.0483</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
-      <inclination errorplus="0.47" errorminus="-0.8">89.33</inclination>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0017">0.0483</semimajoraxis>
     </planet>
     <planet>
-      <name>Kepler-167 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-03-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.024" errorminus="-0.0035">0.0684</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
-      <inclination errorplus="0.36" errorminus="-0.43">89.3</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-167 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-03-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.005" errorminus="-0.0071">0.1405</semimajoraxis>
-      <eccentricity>0.12</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">21.8</period>
-      <inclination errorplus="0.09" errorminus="-0.14">89.352</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-167 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-03-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.058" errorminus="-0.067">1.89</semimajoraxis>
       <eccentricity>0.062</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1071.2</period>
-      <inclination errorplus="0.007" errorminus="-0.005">89.976</inclination>
+      <period errorminus="-0.0" errorplus="0.0">1071.2</period>
+      <radius errorminus="-0.01" errorplus="0.02">0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.005" errorplus="0.007">89.976</inclination>
+      <name>Kepler-167 e</name>
+      <lastupdate>2016-03-10</lastupdate>
+      <semimajoraxis errorminus="-0.067" errorplus="0.058">1.89</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.12</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">21.8</period>
+      <radius errorminus="-0.01" errorplus="0.02">0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.14" errorplus="0.09">89.352</inclination>
+      <name>Kepler-167 d</name>
+      <lastupdate>2016-03-10</lastupdate>
+      <semimajoraxis errorminus="-0.0071" errorplus="0.005">0.1405</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">7.4</period>
+      <radius errorminus="-0.01" errorplus="0.02">0.73</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.43" errorplus="0.36">89.3</inclination>
+      <name>Kepler-167 c</name>
+      <lastupdate>2016-03-10</lastupdate>
+      <semimajoraxis errorminus="-0.0035" errorplus="0.024">0.0684</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.01" errorplus="0.02">0.73</radius>
   </star>
-  <distance errorplus="10.0" errorminus="-10.0">330.0</distance>
   <declination>38 20 43</declination>
 </system>
 

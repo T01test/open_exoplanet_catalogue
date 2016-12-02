@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-466</name>
   <rightascension>19 38 55</rightascension>
+  <distance errorminus="-27.08" errorplus="34.11">436.0</distance>
+  <name>Kepler-466</name>
   <star>
+    <temperature errorminus="-68.52" errorplus="77.35">5927.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.04</mass>
     <name>Kepler-466</name>
-    <radius errorplus="0.08" errorminus="-0.06">1.05</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.04</mass>
-    <temperature errorplus="77.35" errorminus="-68.52">5927.0</temperature>
     <planet>
-      <name>Kepler-466 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.7</period>
+      <radius errorminus="-0.06" errorplus="0.08">1.05</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.06">1.05</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">51.1</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-466 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.06">1.05</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">51.1</period>
+      <radius errorminus="-0.06" errorplus="0.08">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-466 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.08">1.05</radius>
   </star>
-  <distance errorplus="34.11" errorminus="-27.08">436.0</distance>
   <declination>48 29 44</declination>
 </system>
 

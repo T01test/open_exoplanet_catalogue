@@ -1,22 +1,22 @@
 <system>
-  <name>HD 149026</name>
   <rightascension>16 37 24</rightascension>
+  <distance errorminus="-5.24" errorplus="4.62">78.86</distance>
+  <name>HD 149026</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">6160.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">1.34</mass>
     <name>HD 149026</name>
-    <radius errorplus="0.05" errorminus="-0.04">1.54</radius>
-    <mass errorplus="0.02" errorminus="-0.02">1.34</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">6160.0</temperature>
     <planet>
-      <name>HD 149026 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.04" errorplus="0.05">1.54</radius>
       <discoverymethod>RV</discoverymethod>
+      <inclination errorminus="-0.81" errorplus="0.35">84.55</inclination>
+      <name>HD 149026 b</name>
       <lastupdate>2014-10-15</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.04">1.54</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <inclination errorplus="0.35" errorminus="-0.81">84.55</inclination>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.05">1.54</radius>
   </star>
-  <distance errorplus="4.62" errorminus="-5.24">78.86</distance>
   <declination>38 20 50</declination>
 </system>
 

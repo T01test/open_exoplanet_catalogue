@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-937</name>
   <rightascension>19 10 07</rightascension>
+  <distance errorminus="-191.89" errorplus="508.28">1482.0</distance>
+  <name>Kepler-937</name>
   <star>
+    <temperature errorminus="-127.3" errorplus="81.71">6095.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.12">1.15</mass>
     <name>Kepler-937</name>
-    <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
-    <mass errorplus="0.12" errorminus="-0.08">1.15</mass>
-    <temperature errorplus="81.71" errorminus="-127.3">6095.0</temperature>
     <planet>
-      <name>Kepler-937 b</name>
+      <period errorminus="-0.0" errorplus="0.0">153.3</period>
+      <radius errorminus="-0.15" errorplus="0.42">1.22</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">67.7</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-937 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.42" errorminus="-0.15">1.22</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">153.3</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">67.7</period>
+      <radius errorminus="-0.15" errorplus="0.42">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-937 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.15" errorplus="0.42">1.22</radius>
   </star>
-  <distance errorplus="508.28" errorminus="-191.89">1482.0</distance>
   <declination>46 42 52</declination>
 </system>
 

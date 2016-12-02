@@ -1,23 +1,23 @@
 <system>
-  <name>HD 114762</name>
   <rightascension>13 04 56</rightascension>
+  <distance errorminus="-2.52" errorplus="2.24">40.57</distance>
+  <name>HD 114762</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5673.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">0.83</mass>
     <name>HD 114762</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.24</radius>
-    <mass errorplus="0.01" errorminus="-0.01">0.83</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5673.0</temperature>
     <planet>
-      <name>HD 114762 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-12-17</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.24</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.353</semimajoraxis>
       <eccentricity>0.3354</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">83.9</period>
+      <period errorminus="-0.0" errorplus="0.0">83.9</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.24</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 114762 b</name>
+      <lastupdate>2014-12-17</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.353</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.24</radius>
   </star>
-  <distance errorplus="2.24" errorminus="-2.52">40.57</distance>
   <declination>17 31 01</declination>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-419</name>
   <rightascension>19 25 04</rightascension>
-  <star>
-    <name>Kepler-419</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.74</radius>
-    <mass errorplus="0.08" errorminus="-0.07">1.39</mass>
-    <temperature errorplus="79.0" errorminus="-79.0">6430.0</temperature>
-    <planet>
-      <name>Kepler-419 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-06-25</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">1.74</radius>
-      <semimajoraxis errorplus="0.007" errorminus="-0.006">0.37</semimajoraxis>
-      <eccentricity>0.833</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">69.8</period>
-      <inclination errorplus="0.14" errorminus="-0.17">88.95</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-419 c</name>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-      <lastupdate>2014-06-25</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">1.74</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.68</semimajoraxis>
-      <eccentricity>0.184</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">675.5</period>
-      <inclination errorplus="3.0" errorminus="-2.0">88.0</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-419</name>
+  <star>
+    <temperature errorminus="-79.0" errorplus="79.0">6430.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.08">1.39</mass>
+    <name>Kepler-419</name>
+    <planet>
+      <eccentricity>0.833</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">69.8</period>
+      <radius errorminus="-0.07" errorplus="0.07">1.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.17" errorplus="0.14">88.95</inclination>
+      <name>Kepler-419 b</name>
+      <lastupdate>2014-06-25</lastupdate>
+      <semimajoraxis errorminus="-0.006" errorplus="0.007">0.37</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.184</eccentricity>
+      <period errorminus="-0.1" errorplus="0.1">675.5</period>
+      <radius errorminus="-0.07" errorplus="0.07">1.74</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <inclination errorminus="-2.0" errorplus="3.0">88.0</inclination>
+      <name>Kepler-419 c</name>
+      <lastupdate>2014-06-25</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">1.68</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.07" errorplus="0.07">1.74</radius>
+  </star>
   <declination>51 11 05</declination>
 </system>
 

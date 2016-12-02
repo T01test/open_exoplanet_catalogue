@@ -1,23 +1,23 @@
 <system>
-  <name>KOI-12</name>
   <rightascension>19 27 13</rightascension>
+  <distance errorminus="-40.0" errorplus="40.0">426.0</distance>
+  <name>KOI-12</name>
   <star>
+    <temperature errorminus="-120.0" errorplus="120.0">6820.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.09">1.45</mass>
     <name>KOI-12</name>
-    <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
-    <mass errorplus="0.09" errorminus="-0.09">1.45</mass>
-    <temperature errorplus="120.0" errorminus="-120.0">6820.0</temperature>
     <planet>
-      <name>KOI-12 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.15">1.63</radius>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.151</semimajoraxis>
       <eccentricity>0.72</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">17.9</period>
-      <inclination errorplus="0.15" errorminus="-0.25">88.95</inclination>
+      <period errorminus="-0.0" errorplus="0.0">17.9</period>
+      <radius errorminus="-0.15" errorplus="0.15">1.63</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.25" errorplus="0.15">88.95</inclination>
+      <name>KOI-12 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.003" errorplus="0.003">0.151</semimajoraxis>
     </planet>
+    <radius errorminus="-0.15" errorplus="0.15">1.63</radius>
   </star>
-  <distance errorplus="40.0" errorminus="-40.0">426.0</distance>
   <declination>41 00 39</declination>
 </system>
 

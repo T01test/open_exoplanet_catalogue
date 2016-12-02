@@ -1,33 +1,33 @@
 <system>
-  <name>HIP 65407</name>
   <rightascension>13 05 15</rightascension>
+  <distance errorminus="-4.6" errorplus="4.6">55.5</distance>
+  <name>HIP 65407</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5460.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.93</mass>
     <name>HIP 65407</name>
-    <radius/>
-    <mass errorplus="0.07" errorminus="-0.07">0.93</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5460.0</temperature>
     <planet>
-      <name>HIP 65407 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-25</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.177</semimajoraxis>
-      <eccentricity>0.14</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">28.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HIP 65407 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-25</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.008" errorminus="-0.008">0.316</semimajoraxis>
       <eccentricity>0.12</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">67.3</period>
+      <period errorminus="-0.1" errorplus="0.1">67.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 65407 c</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <semimajoraxis errorminus="-0.008" errorplus="0.008">0.316</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.14</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">28.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HIP 65407 b</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <semimajoraxis errorminus="-0.005" errorplus="0.005">0.177</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="4.6" errorminus="-4.6">55.5</distance>
   <declination>48 53 06</declination>
 </system>
 

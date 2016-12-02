@@ -1,33 +1,33 @@
 <system>
-  <name>HD 38529</name>
   <rightascension>05 38 43</rightascension>
+  <distance errorminus="-1.7" errorplus="1.7">42.4</distance>
+  <name>HD 38529</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5697.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.48</mass>
     <name>HD 38529</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">1.48</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5697.0</temperature>
     <planet>
-      <name>HD 38529 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.048" errorminus="-0.048">3.712</semimajoraxis>
-      <eccentricity>0.341</eccentricity>
-      <period errorplus="5.7" errorminus="-5.7">2140.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 38529 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.131</semimajoraxis>
       <eccentricity>0.257</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">14.3</period>
+      <period errorminus="-0.0" errorplus="0.0">14.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 38529 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.131</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.341</eccentricity>
+      <period errorminus="-5.7" errorplus="5.7">2140.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 38529 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.048" errorplus="0.048">3.712</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.7" errorminus="-1.7">42.4</distance>
   <declination>01 10 05</declination>
 </system>
 

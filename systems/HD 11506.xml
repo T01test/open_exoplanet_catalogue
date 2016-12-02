@@ -1,33 +1,33 @@
 <system>
-  <name>HD 11506</name>
   <rightascension>01 12 38</rightascension>
+  <distance errorminus="-1.6" errorplus="1.6">51.7</distance>
+  <name>HD 11506</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">6055.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">1.24</mass>
     <name>HD 11506</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.33</radius>
-    <mass errorplus="0.02" errorminus="-0.02">1.24</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">6055.0</temperature>
     <planet>
-      <name>HD 11506 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-12-03</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.33</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.721</semimajoraxis>
-      <eccentricity>0.24</eccentricity>
-      <period errorplus="0.6" errorminus="-0.6">223.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 11506 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-12-03</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.33</radius>
-      <semimajoraxis errorplus="0.007" errorminus="-0.007">2.708</semimajoraxis>
       <eccentricity>0.37</eccentricity>
-      <period errorplus="5.9" errorminus="-5.9">1627.5</period>
+      <period errorminus="-5.9" errorplus="5.9">1627.5</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.33</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 11506 b</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <semimajoraxis errorminus="-0.007" errorplus="0.007">2.708</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.24</eccentricity>
+      <period errorminus="-0.6" errorplus="0.6">223.6</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.33</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 11506 c</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.721</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.33</radius>
   </star>
-  <distance errorplus="1.6" errorminus="-1.6">51.7</distance>
   <declination>-19 30 25</declination>
 </system>
 

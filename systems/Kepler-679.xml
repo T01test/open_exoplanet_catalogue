@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-679</name>
   <rightascension>19 01 16</rightascension>
+  <distance errorminus="-75.62" errorplus="89.61">968.0</distance>
+  <name>Kepler-679</name>
   <star>
+    <temperature errorminus="-105.75" errorplus="97.13">5403.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.87</mass>
     <name>Kepler-679</name>
-    <radius errorplus="0.07" errorminus="-0.06">0.84</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.87</mass>
-    <temperature errorplus="97.13" errorminus="-105.75">5403.0</temperature>
     <planet>
-      <name>Kepler-679 b</name>
+      <period errorminus="-0.0" errorplus="0.0">12.4</period>
+      <radius errorminus="-0.06" errorplus="0.07">0.84</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.06">0.84</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">12.4</period>
       <inclination/>
+      <name>Kepler-679 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.07">0.84</radius>
   </star>
-  <distance errorplus="89.61" errorminus="-75.62">968.0</distance>
   <declination>50 34 04</declination>
 </system>
 

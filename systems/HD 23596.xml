@@ -1,23 +1,23 @@
 <system>
-  <name>HD 23596</name>
   <rightascension>03 00 05</rightascension>
+  <distance errorminus="-2.3" errorplus="2.3">52.0</distance>
+  <name>HD 23596</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5904.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.16</mass>
     <name>HD 23596</name>
-    <radius/>
-    <mass errorplus="0.06" errorminus="-0.06">1.16</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5904.0</temperature>
     <planet>
-      <name>HD 23596 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.062" errorminus="-0.062">2.772</semimajoraxis>
       <eccentricity>0.266</eccentricity>
-      <period errorplus="12.0" errorminus="-12.0">1561.0</period>
+      <period errorminus="-12.0" errorplus="12.0">1561.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 23596 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.062" errorplus="0.062">2.772</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.3" errorminus="-2.3">52.0</distance>
   <declination>40 31 50</declination>
 </system>
 

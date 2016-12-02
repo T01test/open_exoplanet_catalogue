@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-58</name>
   <rightascension>19 21 31</rightascension>
-  <star>
-    <name>Kepler-58</name>
-    <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-    <mass>0.95</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">6099.0</temperature>
-    <planet>
-      <name>Kepler-58 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">10.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-58 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-      <semimajoraxis>0.236</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">40.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-58 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">15.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-58</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">6099.0</temperature>
+    <mass>0.95</mass>
+    <name>Kepler-58</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">15.6</period>
+      <radius errorminus="-0.53" errorplus="0.53">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-58 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.2</period>
+      <radius errorminus="-0.53" errorplus="0.53">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-58 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">40.1</period>
+      <radius errorminus="-0.53" errorplus="0.53">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-58 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.236</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.53" errorplus="0.53">1.13</radius>
+  </star>
   <declination>39 06 54</declination>
 </system>
 

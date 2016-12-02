@@ -1,23 +1,23 @@
 <system>
-  <name>HD 33142</name>
   <rightascension>05 53 53</rightascension>
+  <distance errorminus="-20.43" errorplus="15.73">136.8</distance>
+  <name>HD 33142</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5052.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.48</mass>
     <name>HD 33142</name>
-    <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.48</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5052.0</temperature>
     <planet>
-      <name>HD 33142 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.06</semimajoraxis>
       <eccentricity>0.12</eccentricity>
-      <period errorplus="3.9" errorminus="-3.9">326.6</period>
+      <period errorminus="-3.9" errorplus="3.9">326.6</period>
+      <radius errorminus="-0.1" errorplus="0.1">4.2</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 33142 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">1.06</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">4.2</radius>
   </star>
-  <distance errorplus="15.73" errorminus="-20.43">136.8</distance>
   <declination>-13 59 11</declination>
 </system>
 

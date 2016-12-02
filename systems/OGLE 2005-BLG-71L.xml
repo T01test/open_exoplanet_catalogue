@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2005-BLG-71L</name>
   <rightascension>17 32 26</rightascension>
+  <distance errorminus="-400.0" errorplus="400.0">3200.0</distance>
+  <name>OGLE 2005-BLG-71L</name>
   <star>
-    <name>OGLE 2005-BLG-71L</name>
-    <radius/>
-    <mass errorplus="0.04" errorminus="-0.04">0.46</mass>
     <temperature/>
+    <mass errorminus="-0.04" errorplus="0.04">0.46</mass>
+    <name>OGLE 2005-BLG-71L</name>
     <planet>
-      <name>OGLE 2005-BLG-71L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2014-10-29</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.2" errorminus="-0.2">3.6</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2005-BLG-71L b</name>
+      <lastupdate>2014-10-29</lastupdate>
+      <semimajoraxis errorminus="-0.2" errorplus="0.2">3.6</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="400.0" errorminus="-400.0">3200.0</distance>
   <declination>-34 40 23</declination>
 </system>
 

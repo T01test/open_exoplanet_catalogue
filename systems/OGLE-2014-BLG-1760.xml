@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE-2014-BLG-1760</name>
   <rightascension>17 24 32</rightascension>
+  <distance errorminus="-1110.0" errorplus="1110.0">6860.0</distance>
+  <name>OGLE-2014-BLG-1760</name>
   <star>
-    <name>OGLE-2014-BLG-1760</name>
-    <radius/>
-    <mass errorplus="0.44" errorminus="-0.28">0.51</mass>
     <temperature/>
+    <mass errorminus="-0.28" errorplus="0.44">0.51</mass>
+    <name>OGLE-2014-BLG-1760</name>
     <planet>
-      <name>OGLE-2014-BLG-1760 b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-11-10</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.34" errorminus="-0.33">1.75</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE-2014-BLG-1760 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <semimajoraxis errorminus="-0.33" errorplus="0.34">1.75</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1110.0" errorminus="-1110.0">6860.0</distance>
   <declination>-28 57 47</declination>
 </system>
 

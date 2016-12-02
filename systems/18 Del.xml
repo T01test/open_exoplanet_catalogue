@@ -1,23 +1,23 @@
 <system>
-  <name>18 Del</name>
   <rightascension>20 36 29</rightascension>
+  <distance errorminus="-3.94" errorplus="3.56">73.1</distance>
+  <name>18 Del</name>
   <star>
-    <name>18 Del</name>
-    <radius>8.5</radius>
+    <temperature errorminus="-18.0" errorplus="18.0">4979.0</temperature>
     <mass>2.3</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">4979.0</temperature>
+    <name>18 Del</name>
     <planet>
-      <name>18 Del b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>8.5</radius>
-      <semimajoraxis>2.6</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="3.2" errorminus="-3.2">993.3</period>
+      <period errorminus="-3.2" errorplus="3.2">993.3</period>
+      <radius>8.5</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>18 Del b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>2.6</semimajoraxis>
     </planet>
+    <radius>8.5</radius>
   </star>
-  <distance errorplus="3.56" errorminus="-3.94">73.1</distance>
   <declination>10 50 21</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 164595</name>
   <rightascension>18 09 43</rightascension>
+  <distance errorminus="-0.62" errorplus="0.6">28.93</distance>
+  <name>HD 164595</name>
   <star>
+    <temperature errorminus="-40.0" errorplus="40.0">5790.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.99</mass>
     <name>HD 164595</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">0.99</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5790.0</temperature>
     <planet>
-      <name>HD 164595 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-10</lastupdate>
-      <radius/>
-      <semimajoraxis>0.23</semimajoraxis>
       <eccentricity>0.088</eccentricity>
-      <period errorplus="0.2" errorminus="-0.2">40.0</period>
+      <period errorminus="-0.2" errorplus="0.2">40.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 164595 b</name>
+      <lastupdate>2015-09-10</lastupdate>
+      <semimajoraxis>0.23</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.6" errorminus="-0.62">28.93</distance>
   <declination>29 34 18</declination>
 </system>
 

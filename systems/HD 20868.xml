@@ -1,23 +1,23 @@
 <system>
-  <name>HD 20868</name>
   <rightascension>03 10 40</rightascension>
+  <distance errorminus="-3.5" errorplus="3.5">48.9</distance>
+  <name>HD 20868</name>
   <star>
+    <temperature errorminus="-124.0" errorplus="124.0">4795.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.78</mass>
     <name>HD 20868</name>
-    <radius>0.79</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.78</mass>
-    <temperature errorplus="124.0" errorminus="-124.0">4795.0</temperature>
     <planet>
-      <name>HD 20868 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-11-05</lastupdate>
-      <radius>0.79</radius>
-      <semimajoraxis errorplus="0.012" errorminus="-0.012">0.947</semimajoraxis>
       <eccentricity>0.75</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">380.9</period>
+      <period errorminus="-0.1" errorplus="0.1">380.9</period>
+      <radius>0.79</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 20868 b</name>
+      <lastupdate>2014-11-05</lastupdate>
+      <semimajoraxis errorminus="-0.012" errorplus="0.012">0.947</semimajoraxis>
     </planet>
+    <radius>0.79</radius>
   </star>
-  <distance errorplus="3.5" errorminus="-3.5">48.9</distance>
   <declination>-33 43 48</declination>
 </system>
 

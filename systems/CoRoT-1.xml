@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-1</name>
   <rightascension>06 04 47</rightascension>
-  <star>
-    <name>CoRoT-1</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.11</radius>
-    <mass errorplus="0.15" errorminus="-0.15">0.95</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">5950.0</temperature>
-    <planet>
-      <name>CoRoT-1 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.11</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1.5</period>
-      <inclination errorplus="0.5" errorminus="-0.5">85.1</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>CoRoT-1</name>
+  <star>
+    <temperature errorminus="-150.0" errorplus="150.0">5950.0</temperature>
+    <mass errorminus="-0.15" errorplus="0.15">0.95</mass>
+    <name>CoRoT-1</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">1.5</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.5" errorplus="0.5">85.1</inclination>
+      <name>CoRoT-1 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.11</radius>
+  </star>
   <declination>-3 06 07</declination>
 </system>
 

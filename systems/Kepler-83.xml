@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-83</name>
   <rightascension>18 13 57</rightascension>
-  <star>
-    <name>Kepler-83</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-    <mass errorplus="0.41" errorminus="-0.25">0.66</mass>
-    <temperature errorplus="116.0" errorminus="-116.0">4648.0</temperature>
-    <planet>
-      <name>Kepler-83 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <semimajoraxis>0.051</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-83 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <semimajoraxis/>
-      <period>20.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-83 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <semimajoraxis/>
-      <period>9.8</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-83</name>
+  <star>
+    <temperature errorminus="-116.0" errorplus="116.0">4648.0</temperature>
+    <mass errorminus="-0.25" errorplus="0.41">0.66</mass>
+    <name>Kepler-83</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-83 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.051</semimajoraxis>
+    </planet>
+    <planet>
+      <period>9.8</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-83 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>20.1</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-83 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.59</radius>
+  </star>
   <declination>43 39 56</declination>
 </system>
 

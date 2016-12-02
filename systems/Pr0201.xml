@@ -1,23 +1,23 @@
 <system>
-  <name>Pr0201</name>
   <rightascension>08 25 57</rightascension>
-  <star>
-    <name>Pr0201</name>
-    <radius errorplus="0.12">1.17</radius>
-    <mass errorplus="0.03">1.23</mass>
-    <temperature errorplus="50.0">6174.0</temperature>
-    <planet>
-      <name>Pr0201 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-10</lastupdate>
-      <radius errorplus="0.12">1.17</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Pr0201</name>
+  <star>
+    <temperature errorplus="50.0">6174.0</temperature>
+    <mass errorplus="0.03">1.23</mass>
+    <name>Pr0201</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">4.4</period>
+      <radius errorplus="0.12">1.17</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>Pr0201 b</name>
+      <lastupdate>2015-09-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorplus="0.12">1.17</radius>
+  </star>
   <declination>20 13 36</declination>
 </system>
 

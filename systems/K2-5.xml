@@ -1,31 +1,31 @@
 <system>
-  <name>K2-5</name>
   <rightascension>11 18 12</rightascension>
-  <star>
-    <name>K2-5</name>
-    <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-    <mass errorplus="0.13" errorminus="-0.13">0.61</mass>
-    <temperature errorplus="375.0" errorminus="-375.0">3930.0</temperature>
-    <planet>
-      <name>K2-5 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.0818</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">10.9</period>
-      <inclination errorplus="2.47" errorminus="-2.47">86.95</inclination>
-    </planet>
-    <planet>
-      <name>K2-5 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
-      <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0532</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
-      <inclination errorplus="1.88" errorminus="-3.37">87.35</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-5</name>
+  <star>
+    <temperature errorminus="-375.0" errorplus="375.0">3930.0</temperature>
+    <mass errorminus="-0.13" errorplus="0.13">0.61</mass>
+    <name>K2-5</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.9</period>
+      <radius errorminus="-0.12" errorplus="0.12">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.47" errorplus="2.47">86.95</inclination>
+      <name>K2-5 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0059" errorplus="0.0059">0.0818</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.7</period>
+      <radius errorminus="-0.12" errorplus="0.12">0.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-3.37" errorplus="1.88">87.35</inclination>
+      <name>K2-5 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0038" errorplus="0.0038">0.0532</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.12" errorplus="0.12">0.57</radius>
+  </star>
   <declination>-1 52 40</declination>
 </system>
 

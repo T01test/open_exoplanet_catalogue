@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-700</name>
   <rightascension>19 09 15</rightascension>
+  <distance errorminus="-86.23" errorplus="161.82">1061.0</distance>
+  <name>Kepler-700</name>
   <star>
+    <temperature errorminus="-115.63" errorplus="77.65">5692.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.98</mass>
     <name>Kepler-700</name>
-    <radius errorplus="0.15" errorminus="-0.07">0.96</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="77.65" errorminus="-115.63">5692.0</temperature>
     <planet>
-      <name>Kepler-700 b</name>
+      <period errorminus="-0.0" errorplus="0.0">80.9</period>
+      <radius errorminus="-0.07" errorplus="0.15">0.96</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.07">0.96</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">80.9</period>
       <inclination/>
+      <name>Kepler-700 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.07" errorplus="0.15">0.96</radius>
   </star>
-  <distance errorplus="161.82" errorminus="-86.23">1061.0</distance>
   <declination>41 33 56</declination>
 </system>
 

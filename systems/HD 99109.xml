@@ -1,23 +1,23 @@
 <system>
-  <name>HD 99109</name>
   <rightascension>11 04 20</rightascension>
+  <distance errorminus="-5.2" errorplus="4.44">60.46</distance>
+  <name>HD 99109</name>
   <star>
-    <name>HD 99109</name>
-    <radius/>
-    <mass>0.93</mass>
     <temperature>5272.0</temperature>
+    <mass>0.93</mass>
+    <name>HD 99109</name>
     <planet>
-      <name>HD 99109 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.065" errorminus="-0.065">1.105</semimajoraxis>
       <eccentricity>0.09</eccentricity>
-      <period errorplus="5.6" errorminus="-5.6">439.3</period>
+      <period errorminus="-5.6" errorplus="5.6">439.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 99109 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.065" errorplus="0.065">1.105</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="4.44" errorminus="-5.2">60.46</distance>
   <declination>-1 31 44</declination>
 </system>
 

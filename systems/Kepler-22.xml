@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-22</name>
   <rightascension>19 13 02</rightascension>
-  <star>
-    <name>Kepler-22</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.98</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.97</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5518.0</temperature>
-    <planet>
-      <name>Kepler-22 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.98</radius>
-      <semimajoraxis errorplus="0.018" errorminus="-0.017">0.849</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">289.9</period>
-      <inclination errorplus="0.025" errorminus="-0.042">89.764</inclination>
-    </planet>
-  </star>
   <distance>190.0</distance>
+  <name>Kepler-22</name>
+  <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5518.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.97</mass>
+    <name>Kepler-22</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">289.9</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.042" errorplus="0.025">89.764</inclination>
+      <name>Kepler-22 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.017" errorplus="0.018">0.849</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.98</radius>
+  </star>
   <declination>47 53 04</declination>
 </system>
 

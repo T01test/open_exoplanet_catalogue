@@ -1,22 +1,22 @@
 <system>
-  <name>K2-54</name>
   <rightascension>22 03 15</rightascension>
-  <star>
-    <name>K2-54</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.38</radius>
-    <mass errorplus="0.07" errorminus="-0.07">0.42</mass>
-    <temperature errorplus="113.0" errorminus="-113.0">3798.0</temperature>
-    <planet>
-      <name>K2-54 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.38</radius>
-      <semimajoraxis errorplus="0.0037" errorminus="-0.0037">0.0671</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">9.8</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-54</name>
+  <star>
+    <temperature errorminus="-113.0" errorplus="113.0">3798.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.42</mass>
+    <name>K2-54</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">9.8</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-54 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0037" errorplus="0.0037">0.0671</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.38</radius>
+  </star>
   <declination>-17 32 38</declination>
 </system>
 

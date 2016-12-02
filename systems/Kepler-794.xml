@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-794</name>
   <rightascension>19 08 01</rightascension>
+  <distance errorminus="-121.81" errorplus="186.35">763.0</distance>
+  <name>Kepler-794</name>
   <star>
+    <temperature errorminus="-64.99" errorplus="74.39">5839.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.11">1.19</mass>
     <name>Kepler-794</name>
-    <radius errorplus="0.34" errorminus="-0.22">1.38</radius>
-    <mass errorplus="0.11" errorminus="-0.07">1.19</mass>
-    <temperature errorplus="74.39" errorminus="-64.99">5839.0</temperature>
     <planet>
-      <name>Kepler-794 b</name>
+      <period errorminus="-0.0" errorplus="0.0">11.1</period>
+      <radius errorminus="-0.22" errorplus="0.34">1.38</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.34" errorminus="-0.22">1.38</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">11.1</period>
       <inclination/>
+      <name>Kepler-794 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.22" errorplus="0.34">1.38</radius>
   </star>
-  <distance errorplus="186.35" errorminus="-121.81">763.0</distance>
   <declination>38 59 48</declination>
 </system>
 

@@ -1,43 +1,43 @@
 <system>
-  <name>HD 69830</name>
   <rightascension>08 35 59</rightascension>
+  <distance errorminus="-0.12" errorplus="0.12">12.58</distance>
+  <name>HD 69830</name>
   <star>
+    <temperature errorminus="-20.0" errorplus="20.0">5385.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.86</mass>
     <name>HD 69830</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">0.86</mass>
-    <temperature errorplus="20.0" errorminus="-20.0">5385.0</temperature>
     <planet>
-      <name>HD 69830 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>0.0785</semimajoraxis>
-      <eccentricity>0.1</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">8.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 69830 d</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>0.63</semimajoraxis>
       <eccentricity>0.07</eccentricity>
-      <period errorplus="3.0" errorminus="-3.0">197.0</period>
+      <period errorminus="-3.0" errorplus="3.0">197.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 69830 d</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>0.63</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 69830 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>0.186</semimajoraxis>
       <eccentricity>0.13</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">31.6</period>
+      <period errorminus="-0.0" errorplus="0.0">31.6</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 69830 c</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>0.186</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.1</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">8.7</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 69830 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>0.0785</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.12" errorminus="-0.12">12.58</distance>
   <declination>-12 37 55</declination>
 </system>
 

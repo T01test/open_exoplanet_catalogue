@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1345</name>
   <rightascension>19 28 40</rightascension>
+  <distance errorminus="-227.09" errorplus="507.55">1164.0</distance>
+  <name>Kepler-1345</name>
   <star>
+    <temperature errorminus="-141.28" errorplus="123.48">6449.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.22">1.32</mass>
     <name>Kepler-1345</name>
-    <radius errorplus="0.69" errorminus="-0.3">1.55</radius>
-    <mass errorplus="0.22" errorminus="-0.14">1.32</mass>
-    <temperature errorplus="123.48" errorminus="-141.28">6449.0</temperature>
     <planet>
-      <name>Kepler-1345 b</name>
+      <period errorminus="-0.0" errorplus="0.0">44.6</period>
+      <radius errorminus="-0.3" errorplus="0.69">1.55</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.69" errorminus="-0.3">1.55</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">44.6</period>
       <inclination/>
+      <name>Kepler-1345 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.3" errorplus="0.69">1.55</radius>
   </star>
-  <distance errorplus="507.55" errorminus="-227.09">1164.0</distance>
   <declination>46 01 22</declination>
 </system>
 

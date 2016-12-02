@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-6</name>
   <rightascension>23 46 27</rightascension>
+  <distance errorminus="-20.0" errorplus="20.0">261.0</distance>
+  <name>HAT-P-6</name>
   <star>
+    <temperature errorminus="-80.0" errorplus="80.0">6570.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.29</mass>
     <name>HAT-P-6</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.46</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.29</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">6570.0</temperature>
     <planet>
-      <name>HAT-P-6 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.46</radius>
-      <semimajoraxis errorplus="0.00087" errorminus="-0.00087">0.05235</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <inclination errorplus="0.35" errorminus="-0.35">85.51</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.9</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.46</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.35" errorplus="0.35">85.51</inclination>
+      <name>HAT-P-6 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00087" errorplus="0.00087">0.05235</semimajoraxis>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.46</radius>
   </star>
-  <distance errorplus="20.0" errorminus="-20.0">261.0</distance>
   <declination>42 27 57</declination>
 </system>
 

@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-203</name>
   <rightascension>19 05 23</rightascension>
-  <star>
-    <name>Kepler-203</name>
-    <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-    <mass>0.98</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5821.0</temperature>
-    <planet>
-      <name>Kepler-203 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-      <semimajoraxis>0.061</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-203 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-      <semimajoraxis>0.1</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">11.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-203 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-      <semimajoraxis>0.043</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-203</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5821.0</temperature>
+    <mass>0.98</mass>
+    <name>Kepler-203</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.4</period>
+      <radius errorminus="-0.21" errorplus="0.21">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-203 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.061</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.2</period>
+      <radius errorminus="-0.21" errorplus="0.21">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-203 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.043</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">11.3</period>
+      <radius errorminus="-0.21" errorplus="0.21">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-203 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.1</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.21" errorplus="0.21">1.11</radius>
+  </star>
   <declination>41 23 16</declination>
 </system>
 

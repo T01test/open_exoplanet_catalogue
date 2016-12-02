@@ -1,23 +1,23 @@
 <system>
-  <name>HD 103197</name>
   <rightascension>11 13 14</rightascension>
+  <distance errorminus="-3.86" errorplus="3.34">49.33</distance>
+  <name>HD 103197</name>
   <star>
-    <name>HD 103197</name>
-    <radius/>
+    <temperature errorminus="-58.0" errorplus="58.0">5303.0</temperature>
     <mass>0.9</mass>
-    <temperature errorplus="58.0" errorminus="-58.0">5303.0</temperature>
+    <name>HD 103197</name>
     <planet>
-      <name>HD 103197 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.249</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">47.8</period>
+      <period errorminus="-0.0" errorplus="0.0">47.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 103197 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.004" errorplus="0.004">0.249</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="3.34" errorminus="-3.86">49.33</distance>
   <declination>-50 17 34</declination>
 </system>
 

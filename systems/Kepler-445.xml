@@ -1,43 +1,43 @@
 <system>
-  <name>Kepler-445</name>
   <rightascension>19 44 09</rightascension>
-  <star>
-    <name>Kepler-445</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.21</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.18</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">3157.0</temperature>
-    <planet>
-      <name>Kepler-445 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.21</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <inclination errorplus="0.18" errorminus="-0.28">89.74</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-445 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.21</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
-      <inclination errorplus="0.07" errorminus="-0.1">89.91</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-445 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.21</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">8.2</period>
-      <inclination errorplus="0.27" errorminus="-0.25">89.61</inclination>
-    </planet>
-  </star>
   <distance>90.0</distance>
+  <name>Kepler-445</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">3157.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.18</mass>
+    <name>Kepler-445</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.0</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.28" errorplus="0.18">89.74</inclination>
+      <name>Kepler-445 b</name>
+      <lastupdate>2015-01-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">8.2</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.25" errorplus="0.27">89.61</inclination>
+      <name>Kepler-445 d</name>
+      <lastupdate>2015-01-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">4.9</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.1" errorplus="0.07">89.91</inclination>
+      <name>Kepler-445 c</name>
+      <lastupdate>2015-01-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.21</radius>
+  </star>
   <declination>46 29 54</declination>
 </system>
 

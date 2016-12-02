@@ -1,31 +1,31 @@
 <system>
-  <name>KIC 9663113</name>
   <rightascension>19 02 43</rightascension>
-  <star>
-    <name>KIC 9663113</name>
-    <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-    <mass errorplus="0.13" errorminus="-0.13">0.98</mass>
-    <temperature errorplus="155.0" errorminus="-180.0">6065.0</temperature>
-    <planet>
-      <name>KIC 9663113 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">20.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>KIC 9663113 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-01-05</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.12">1.03</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">572.4</period>
-      <inclination errorplus="0.095" errorminus="-0.062">89.768</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>KIC 9663113</name>
+  <star>
+    <temperature errorminus="-180.0" errorplus="155.0">6065.0</temperature>
+    <mass errorminus="-0.13" errorplus="0.13">0.98</mass>
+    <name>KIC 9663113</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">20.7</period>
+      <radius errorminus="-0.12" errorplus="0.12">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>KIC 9663113 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">572.4</period>
+      <radius errorminus="-0.12" errorplus="0.12">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.062" errorplus="0.095">89.768</inclination>
+      <name>KIC 9663113 b</name>
+      <lastupdate>2016-01-05</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.12" errorplus="0.12">1.03</radius>
+  </star>
   <declination>46 19 43</declination>
 </system>
 

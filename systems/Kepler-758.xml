@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-758</name>
   <rightascension>19 05 04</rightascension>
+  <distance errorminus="-212.6" errorplus="292.62">1353.0</distance>
+  <name>Kepler-758</name>
   <star>
+    <temperature errorminus="-60.59" errorplus="72.21">6228.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.12">1.16</mass>
     <name>Kepler-758</name>
-    <radius errorplus="0.31" errorminus="-0.23">1.42</radius>
-    <mass errorplus="0.12" errorminus="-0.08">1.16</mass>
-    <temperature errorplus="72.21" errorminus="-60.59">6228.0</temperature>
     <planet>
-      <name>Kepler-758 c</name>
+      <period errorminus="-0.0" errorplus="0.0">8.2</period>
+      <radius errorminus="-0.23" errorplus="0.31">1.42</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.23">1.42</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.8</period>
       <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-758 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.23">1.42</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">20.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-758 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.23">1.42</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">12.1</period>
-      <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-758 e</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.23">1.42</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">8.2</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.8</period>
+      <radius errorminus="-0.23" errorplus="0.31">1.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-758 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">12.1</period>
+      <radius errorminus="-0.23" errorplus="0.31">1.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-758 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">20.5</period>
+      <radius errorminus="-0.23" errorplus="0.31">1.42</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-758 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.23" errorplus="0.31">1.42</radius>
   </star>
-  <distance errorplus="292.62" errorminus="-212.6">1353.0</distance>
   <declination>41 08 07</declination>
 </system>
 

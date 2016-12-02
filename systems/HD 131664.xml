@@ -1,23 +1,23 @@
 <system>
-  <name>HD 131664</name>
   <rightascension>15 01 31</rightascension>
+  <distance errorminus="-3.11" errorplus="2.8">57.21</distance>
+  <name>HD 131664</name>
   <star>
+    <temperature errorminus="-21.0" errorplus="21.0">5886.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.1</mass>
     <name>HD 131664</name>
-    <radius>1.16</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.1</mass>
-    <temperature errorplus="21.0" errorminus="-21.0">5886.0</temperature>
     <planet>
-      <name>HD 131664 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>1.16</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">3.17</semimajoraxis>
       <eccentricity>0.638</eccentricity>
-      <period errorplus="41.0" errorminus="-41.0">1951.0</period>
+      <period errorminus="-41.0" errorplus="41.0">1951.0</period>
+      <radius>1.16</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 131664 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">3.17</semimajoraxis>
     </planet>
+    <radius>1.16</radius>
   </star>
-  <distance errorplus="2.8" errorminus="-3.11">57.21</distance>
   <declination>-73 32 07</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 23127</name>
   <rightascension>03 50 54</rightascension>
+  <distance errorminus="-6.48" errorplus="5.65">89.13</distance>
+  <name>HD 23127</name>
   <star>
-    <name>HD 23127</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">1.13</mass>
     <temperature/>
+    <mass errorminus="-0.1" errorplus="0.1">1.13</mass>
+    <name>HD 23127</name>
     <planet>
-      <name>HD 23127 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-11-19</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.3" errorminus="-0.3">2.4</semimajoraxis>
       <eccentricity>0.44</eccentricity>
-      <period errorplus="9.0" errorminus="-9.0">1214.0</period>
+      <period errorminus="-9.0" errorplus="9.0">1214.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 23127 b</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <semimajoraxis errorminus="-0.3" errorplus="0.3">2.4</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="5.65" errorminus="-6.48">89.13</distance>
   <declination>-60 04 40</declination>
 </system>
 

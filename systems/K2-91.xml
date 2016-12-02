@@ -1,22 +1,22 @@
 <system>
-  <name>K2-91</name>
   <rightascension>04 13 05</rightascension>
-  <star>
-    <name>K2-91</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.28</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.29</mass>
-    <temperature errorplus="104.0" errorminus="-104.0">3622.0</temperature>
-    <planet>
-      <name>K2-91 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.28</radius>
-      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0164</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">1.4</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-91</name>
+  <star>
+    <temperature errorminus="-104.0" errorplus="104.0">3622.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.29</mass>
+    <name>K2-91</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">1.4</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.28</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-91 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0164</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.28</radius>
+  </star>
   <declination>24 12 18</declination>
 </system>
 

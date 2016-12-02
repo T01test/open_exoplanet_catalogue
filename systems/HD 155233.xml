@@ -1,23 +1,23 @@
 <system>
-  <name>HD 155233</name>
   <rightascension>17 46 05</rightascension>
+  <distance errorminus="-3.33" errorplus="3.33">75.13</distance>
+  <name>HD 155233</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4960.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.14">1.69</mass>
     <name>HD 155233</name>
-    <radius errorplus="0.39" errorminus="-0.39">5.03</radius>
-    <mass errorplus="0.14" errorminus="-0.14">1.69</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4960.0</temperature>
     <planet>
-      <name>HD 155233 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-03-17</lastupdate>
-      <radius errorplus="0.39" errorminus="-0.39">5.03</radius>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">2.0</semimajoraxis>
       <eccentricity>0.04</eccentricity>
-      <period errorplus="12.1" errorminus="-12.1">818.8</period>
+      <period errorminus="-12.1" errorplus="12.1">818.8</period>
+      <radius errorminus="-0.39" errorplus="0.39">5.03</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 155233 b</name>
+      <lastupdate>2016-03-17</lastupdate>
+      <semimajoraxis errorminus="-0.06" errorplus="0.06">2.0</semimajoraxis>
     </planet>
+    <radius errorminus="-0.39" errorplus="0.39">5.03</radius>
   </star>
-  <distance errorplus="3.33" errorminus="-3.33">75.13</distance>
   <declination>-20 39 16</declination>
 </system>
 

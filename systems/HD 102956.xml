@@ -1,23 +1,23 @@
 <system>
-  <name>HD 102956</name>
   <rightascension>11 50 37</rightascension>
+  <distance errorminus="-15.55" errorplus="12.37">121.07</distance>
+  <name>HD 102956</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5054.0</temperature>
+    <mass errorminus="-0.11" errorplus="0.11">1.68</mass>
     <name>HD 102956</name>
-    <radius errorplus="0.1" errorminus="-0.1">4.4</radius>
-    <mass errorplus="0.11" errorminus="-0.11">1.68</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5054.0</temperature>
     <planet>
-      <name>HD 102956 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">4.4</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.081</semimajoraxis>
       <eccentricity>0.048</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <period errorminus="-0.0" errorplus="0.0">6.5</period>
+      <radius errorminus="-0.1" errorplus="0.1">4.4</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 102956 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.081</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">4.4</radius>
   </star>
-  <distance errorplus="12.37" errorminus="-15.55">121.07</distance>
   <declination>57 38 26</declination>
 </system>
 

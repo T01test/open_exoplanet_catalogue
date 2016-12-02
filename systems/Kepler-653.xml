@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-653</name>
   <rightascension>18 12 46</rightascension>
+  <distance errorminus="-79.11" errorplus="86.31">593.0</distance>
+  <name>Kepler-653</name>
   <star>
+    <temperature errorminus="-60.88" errorplus="54.97">5665.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.05">1.02</mass>
     <name>Kepler-653</name>
-    <radius errorplus="0.17" errorminus="-0.16">1.19</radius>
-    <mass errorplus="0.05" errorminus="-0.04">1.02</mass>
-    <temperature errorplus="54.97" errorminus="-60.88">5665.0</temperature>
     <planet>
-      <name>Kepler-653 b</name>
+      <period errorminus="-0.0" errorplus="0.0">0.9</period>
+      <radius errorminus="-0.16" errorplus="0.17">1.19</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.16">1.19</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">14.7</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-653 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.16">1.19</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">0.9</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">14.7</period>
+      <radius errorminus="-0.16" errorplus="0.17">1.19</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-653 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.16" errorplus="0.17">1.19</radius>
   </star>
-  <distance errorplus="86.31" errorminus="-79.11">593.0</distance>
   <declination>46 43 04</declination>
 </system>
 

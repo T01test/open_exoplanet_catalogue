@@ -1,31 +1,31 @@
 <system>
-  <name>K2-75</name>
   <rightascension>22 50 41</rightascension>
-  <star>
-    <name>K2-75</name>
-    <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.16</mass>
-    <temperature errorplus="94.0" errorminus="-94.0">5995.0</temperature>
-    <planet>
-      <name>K2-75 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1429</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">18.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>K2-75 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.15">1.56</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.081</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-75</name>
+  <star>
+    <temperature errorminus="-94.0" errorplus="94.0">5995.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.16</mass>
+    <name>K2-75</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.8</period>
+      <radius errorminus="-0.15" errorplus="0.15">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-75 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0014" errorplus="0.0014">0.081</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">18.3</period>
+      <radius errorminus="-0.15" errorplus="0.15">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-75 c</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.1429</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.15" errorplus="0.15">1.56</radius>
+  </star>
   <declination>-7 28 11</declination>
 </system>
 

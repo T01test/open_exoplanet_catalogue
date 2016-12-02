@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2015-BLG-0051L</name>
   <rightascension>17 39 45</rightascension>
+  <distance errorminus="-900.0" errorplus="900.0">8200.0</distance>
+  <name>OGLE 2015-BLG-0051L</name>
   <star>
-    <name>OGLE 2015-BLG-0051L</name>
-    <radius/>
-    <mass errorplus="0.09" errorminus="-0.01">0.1</mass>
     <temperature/>
+    <mass errorminus="-0.01" errorplus="0.09">0.1</mass>
+    <name>OGLE 2015-BLG-0051L</name>
     <planet>
-      <name>OGLE 2015-BLG-0051L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-10-06</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.73</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2015-BLG-0051L b</name>
+      <lastupdate>2016-10-06</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">0.73</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="900.0" errorminus="-900.0">8200.0</distance>
   <declination>-28 01 54</declination>
 </system>
 

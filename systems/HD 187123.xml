@@ -1,33 +1,33 @@
 <system>
-  <name>HD 187123</name>
   <rightascension>19 44 31</rightascension>
+  <distance errorminus="-1.69" errorplus="1.58">47.92</distance>
+  <name>HD 187123</name>
   <star>
+    <temperature errorminus="-40.0" errorplus="40.0">5830.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.0</mass>
     <name>HD 187123</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5830.0</temperature>
     <planet>
-      <name>HD 187123 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.53" errorminus="-0.53">4.89</semimajoraxis>
       <eccentricity>0.252</eccentricity>
-      <period errorplus="420.0" errorminus="-420.0">3810.0</period>
+      <period errorminus="-420.0" errorplus="420.0">3810.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 187123 c</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.53" errorplus="0.53">4.89</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 187123 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.0426</semimajoraxis>
       <eccentricity>0.0103</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <period errorminus="-0.0" errorplus="0.0">3.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 187123 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.0426</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.58" errorminus="-1.69">47.92</distance>
   <declination>34 25 10</declination>
 </system>
 

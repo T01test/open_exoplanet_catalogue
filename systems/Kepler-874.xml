@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-874</name>
   <rightascension>19 57 24</rightascension>
+  <distance errorminus="-159.64" errorplus="291.27">1072.0</distance>
+  <name>Kepler-874</name>
   <star>
+    <temperature errorminus="-210.62" errorplus="155.87">6020.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.12">1.09</mass>
     <name>Kepler-874</name>
-    <radius errorplus="0.31" errorminus="-0.15">1.13</radius>
-    <mass errorplus="0.12" errorminus="-0.09">1.09</mass>
-    <temperature errorplus="155.87" errorminus="-210.62">6020.0</temperature>
     <planet>
-      <name>Kepler-874 b</name>
+      <period errorminus="-0.0" errorplus="0.0">40.1</period>
+      <radius errorminus="-0.15" errorplus="0.31">1.13</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.15">1.13</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">40.1</period>
       <inclination/>
+      <name>Kepler-874 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.15" errorplus="0.31">1.13</radius>
   </star>
-  <distance errorplus="291.27" errorminus="-159.64">1072.0</distance>
   <declination>43 00 51</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>PSR J1719-1438</name>
   <rightascension>17 47 31</rightascension>
+  <distance errorminus="-300.0" errorplus="300.0">1200.0</distance>
+  <name>PSR J1719-1438</name>
   <star>
-    <name>PSR J1719-1438</name>
-    <radius>0.04</radius>
-    <mass>1.4</mass>
     <temperature>4500.0</temperature>
+    <mass>1.4</mass>
+    <name>PSR J1719-1438</name>
     <planet>
-      <name>PSR J1719-1438 b</name>
-      <discoverymethod>pulsar Timing</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>0.04</radius>
-      <semimajoraxis>0.0044</semimajoraxis>
       <eccentricity>0.06</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">0.1</period>
+      <period errorminus="-0.0" errorplus="0.0">0.1</period>
+      <radius>0.04</radius>
+      <discoverymethod>pulsar Timing</discoverymethod>
       <inclination/>
+      <name>PSR J1719-1438 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.0044</semimajoraxis>
     </planet>
+    <radius>0.04</radius>
   </star>
-  <distance errorplus="300.0" errorminus="-300.0">1200.0</distance>
   <declination>-14 38 00</declination>
 </system>
 

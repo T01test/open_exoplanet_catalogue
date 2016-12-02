@@ -1,33 +1,33 @@
 <system>
-  <name>HD 159868</name>
   <rightascension>17 44 52</rightascension>
+  <distance errorminus="-3.15" errorplus="2.82">52.72</distance>
+  <name>HD 159868</name>
   <star>
+    <temperature errorminus="-15.0" errorplus="15.0">5558.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.09</mass>
     <name>HD 159868</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">1.09</mass>
-    <temperature errorplus="15.0" errorminus="-15.0">5558.0</temperature>
     <planet>
-      <name>HD 159868 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">2.25</semimajoraxis>
       <eccentricity>0.01</eccentricity>
-      <period errorplus="8.8" errorminus="-8.8">1178.4</period>
+      <period errorminus="-8.8" errorplus="8.8">1178.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 159868 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">2.25</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 159868 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">1.0</semimajoraxis>
       <eccentricity>0.15</eccentricity>
-      <period errorplus="1.3" errorminus="-1.3">352.3</period>
+      <period errorminus="-1.3" errorplus="1.3">352.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 159868 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.01" errorplus="0.01">1.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.82" errorminus="-3.15">52.72</distance>
   <declination>-43 08 43</declination>
 </system>
 

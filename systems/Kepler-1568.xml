@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1568</name>
   <rightascension>19 10 57</rightascension>
+  <distance errorminus="-97.28" errorplus="134.46">883.0</distance>
+  <name>Kepler-1568</name>
   <star>
+    <temperature errorminus="-55.35" errorplus="69.05">5956.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.09</mass>
     <name>Kepler-1568</name>
-    <radius errorplus="0.18" errorminus="-0.13">1.19</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.09</mass>
-    <temperature errorplus="69.05" errorminus="-55.35">5956.0</temperature>
     <planet>
-      <name>Kepler-1568 b</name>
+      <period errorminus="-0.0" errorplus="0.0">20.9</period>
+      <radius errorminus="-0.13" errorplus="0.18">1.19</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.18" errorminus="-0.13">1.19</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">20.9</period>
       <inclination/>
+      <name>Kepler-1568 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.13" errorplus="0.18">1.19</radius>
   </star>
-  <distance errorplus="134.46" errorminus="-97.28">883.0</distance>
   <declination>47 52 24</declination>
 </system>
 

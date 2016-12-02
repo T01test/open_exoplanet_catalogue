@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-854</name>
   <rightascension>19 21 04</rightascension>
+  <distance errorminus="-107.88" errorplus="299.8">741.0</distance>
+  <name>Kepler-854</name>
   <star>
+    <temperature errorminus="-142.15" errorplus="110.41">6179.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.17">1.17</mass>
     <name>Kepler-854</name>
-    <radius errorplus="0.51" errorminus="-0.17">1.27</radius>
-    <mass errorplus="0.17" errorminus="-0.09">1.17</mass>
-    <temperature errorplus="110.41" errorminus="-142.15">6179.0</temperature>
     <planet>
-      <name>Kepler-854 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.1</period>
+      <radius errorminus="-0.17" errorplus="0.51">1.27</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.51" errorminus="-0.17">1.27</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
       <inclination/>
+      <name>Kepler-854 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.17" errorplus="0.51">1.27</radius>
   </star>
-  <distance errorplus="299.8" errorminus="-107.88">741.0</distance>
   <declination>43 08 04</declination>
 </system>
 

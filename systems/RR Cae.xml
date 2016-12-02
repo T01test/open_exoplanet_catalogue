@@ -1,23 +1,23 @@
 <system>
-  <name>RR Cae</name>
   <rightascension>04 16 23</rightascension>
-  <star>
-    <name>RR Cae</name>
-    <radius/>
-    <mass>0.44</mass>
-    <temperature/>
-    <planet>
-      <name>RR Cae b</name>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-      <lastupdate>2015-08-27</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.6" errorminus="-0.6">5.3</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="36.5" errorminus="-36.5">4343.5</period>
-      <inclination>17.6</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>RR Cae</name>
+  <star>
+    <temperature/>
+    <mass>0.44</mass>
+    <name>RR Cae</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-36.5" errorplus="36.5">4343.5</period>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <inclination>17.6</inclination>
+      <name>RR Cae b</name>
+      <lastupdate>2015-08-27</lastupdate>
+      <semimajoraxis errorminus="-0.6" errorplus="0.6">5.3</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>-48 39 07</declination>
 </system>
 

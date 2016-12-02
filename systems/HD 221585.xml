@@ -1,23 +1,23 @@
 <system>
-  <name>HD 221585</name>
   <rightascension>23 13 30</rightascension>
+  <distance errorminus="-2.06" errorplus="1.91">53.59</distance>
+  <name>HD 221585</name>
   <star>
+    <temperature errorminus="-27.0" errorplus="27.0">5620.0</temperature>
+    <mass errorminus="-0.12" errorplus="0.12">1.19</mass>
     <name>HD 221585</name>
-    <radius/>
-    <mass errorplus="0.12" errorminus="-0.12">1.19</mass>
-    <temperature errorplus="27.0" errorminus="-27.0">5620.0</temperature>
     <planet>
-      <name>HD 221585 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-05-19</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.081" errorminus="-0.081">2.306</semimajoraxis>
       <eccentricity>0.123</eccentricity>
-      <period errorplus="16.0" errorminus="-16.0">1173.0</period>
+      <period errorminus="-16.0" errorplus="16.0">1173.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 221585 b</name>
+      <lastupdate>2016-05-19</lastupdate>
+      <semimajoraxis errorminus="-0.081" errorplus="0.081">2.306</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.91" errorminus="-2.06">53.59</distance>
   <declination>63 09 19</declination>
 </system>
 

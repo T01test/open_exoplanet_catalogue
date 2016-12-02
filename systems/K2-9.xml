@@ -1,22 +1,22 @@
 <system>
-  <name>K2-9</name>
   <rightascension>11 15 52</rightascension>
+  <distance errorminus="-12.0" errorplus="12.0">110.0</distance>
+  <name>K2-9</name>
   <star>
+    <temperature errorminus="-150.0" errorplus="150.0">3390.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.14">0.3</mass>
     <name>K2-9</name>
-    <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
-    <mass errorplus="0.14" errorminus="-0.14">0.3</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">3390.0</temperature>
     <planet>
-      <name>K2-9 b</name>
+      <period errorminus="-0.0" errorplus="0.0">18.4</period>
+      <radius errorminus="-0.11" errorplus="0.11">0.31</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.08" errorplus="1.593">87.983</inclination>
+      <name>K2-9 b</name>
       <lastupdate>2016-01-21</lastupdate>
-      <radius errorplus="0.11" errorminus="-0.11">0.31</radius>
-      <semimajoraxis errorplus="0.013" errorminus="-0.016">0.091</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">18.4</period>
-      <inclination errorplus="1.593" errorminus="-0.08">87.983</inclination>
+      <semimajoraxis errorminus="-0.016" errorplus="0.013">0.091</semimajoraxis>
     </planet>
+    <radius errorminus="-0.11" errorplus="0.11">0.31</radius>
   </star>
-  <distance errorplus="12.0" errorminus="-12.0">110.0</distance>
   <declination>00 00 19</declination>
 </system>
 

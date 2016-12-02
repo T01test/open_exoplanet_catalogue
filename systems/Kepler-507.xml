@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-507</name>
   <rightascension>19 01 07</rightascension>
+  <distance errorminus="-51.95" errorplus="72.87">410.0</distance>
+  <name>Kepler-507</name>
   <star>
+    <temperature errorminus="-67.92" errorplus="66.08">6113.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.07">1.16</mass>
     <name>Kepler-507</name>
-    <radius errorplus="0.24" errorminus="-0.17">1.32</radius>
-    <mass errorplus="0.07" errorminus="-0.05">1.16</mass>
-    <temperature errorplus="66.08" errorminus="-67.92">6113.0</temperature>
     <planet>
-      <name>Kepler-507 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.6</period>
+      <radius errorminus="-0.17" errorplus="0.24">1.32</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.24" errorminus="-0.17">1.32</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <inclination/>
+      <name>Kepler-507 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.17" errorplus="0.24">1.32</radius>
   </star>
-  <distance errorplus="72.87" errorminus="-51.95">410.0</distance>
   <declination>50 24 32</declination>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-553</name>
   <rightascension>19 33 02</rightascension>
+  <distance errorminus="-22.31" errorplus="23.86">725.0</distance>
+  <name>Kepler-553</name>
   <star>
+    <temperature errorminus="-74.44" errorplus="88.28">5266.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.92</mass>
     <name>Kepler-553</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.92</mass>
-    <temperature errorplus="88.28" errorminus="-74.44">5266.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">328.2</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-553 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">328.2</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-553 b</name>
+      <period errorminus="-0.0" errorplus="0.0">4.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
       <inclination/>
+      <name>Kepler-553 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
   </star>
-  <distance errorplus="23.86" errorminus="-22.31">725.0</distance>
   <declination>48 19 56</declination>
 </system>
 

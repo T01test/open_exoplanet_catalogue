@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1143</name>
   <rightascension>19 18 10</rightascension>
+  <distance errorminus="-39.16" errorplus="50.17">632.0</distance>
+  <name>Kepler-1143</name>
   <star>
+    <temperature errorminus="-130.21" errorplus="192.88">5053.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.81</mass>
     <name>Kepler-1143</name>
-    <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.81</mass>
-    <temperature errorplus="192.88" errorminus="-130.21">5053.0</temperature>
     <planet>
-      <name>Kepler-1143 c</name>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.04" errorplus="0.05">0.77</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">210.6</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-1143 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.04">0.77</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">210.6</period>
+      <radius errorminus="-0.04" errorplus="0.05">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-1143 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.05">0.77</radius>
   </star>
-  <distance errorplus="50.17" errorminus="-39.16">632.0</distance>
   <declination>39 17 22</declination>
 </system>
 

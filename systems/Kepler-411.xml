@@ -1,32 +1,32 @@
 <system>
-  <name>Kepler-411</name>
   <rightascension>19 36 20</rightascension>
-  <star>
-    <name>Kepler-411</name>
-    <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-    <mass errorplus="0.04" errorminus="-0.1">0.83</mass>
-    <temperature errorplus="46.0" errorminus="-51.0">4974.0</temperature>
-    <planet>
-      <name>Kepler-411 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-411 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.038</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <inclination errorplus="1.73" errorminus="-1.83">88.27</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-411</name>
+  <star>
+    <temperature errorminus="-51.0" errorplus="46.0">4974.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.04">0.83</mass>
+    <name>Kepler-411</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.8</period>
+      <radius errorminus="-0.06" errorplus="0.07">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-411 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.0</period>
+      <radius errorminus="-0.06" errorplus="0.07">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.83" errorplus="1.73">88.27</inclination>
+      <name>Kepler-411 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.038</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.07">0.79</radius>
+  </star>
   <declination>49 31 23</declination>
 </system>
 

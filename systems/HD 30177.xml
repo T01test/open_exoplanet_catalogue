@@ -1,23 +1,23 @@
 <system>
-  <name>HD 30177</name>
   <rightascension>04 28 35</rightascension>
+  <distance errorminus="-2.41" errorplus="2.21">54.71</distance>
+  <name>HD 30177</name>
   <star>
-    <name>HD 30177</name>
-    <radius/>
-    <mass>1.01</mass>
     <temperature>5588.0</temperature>
+    <mass>1.01</mass>
+    <name>HD 30177</name>
     <planet>
-      <name>HD 30177 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.26" errorminus="-0.26">3.95</semimajoraxis>
       <eccentricity>0.193</eccentricity>
-      <period errorplus="100.0" errorminus="-100.0">2770.0</period>
+      <period errorminus="-100.0" errorplus="100.0">2770.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 30177 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.26" errorplus="0.26">3.95</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.21" errorminus="-2.41">54.71</distance>
   <declination>-58 01 14</declination>
 </system>
 

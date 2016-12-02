@@ -1,23 +1,23 @@
 <system>
-  <name>HD 89307</name>
   <rightascension>10 35 19</rightascension>
+  <distance errorminus="-0.97" errorplus="0.92">30.88</distance>
+  <name>HD 89307</name>
   <star>
-    <name>HD 89307</name>
-    <radius/>
-    <mass/>
     <temperature/>
+    <mass/>
+    <name>HD 89307</name>
     <planet>
-      <name>HD 89307 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-24</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">3.27</semimajoraxis>
       <eccentricity>0.241</eccentricity>
-      <period errorplus="63.0" errorminus="-63.0">2157.0</period>
+      <period errorminus="-63.0" errorplus="63.0">2157.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 89307 b</name>
+      <lastupdate>2015-04-24</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">3.27</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.92" errorminus="-0.97">30.88</distance>
   <declination>12 37 15</declination>
 </system>
 

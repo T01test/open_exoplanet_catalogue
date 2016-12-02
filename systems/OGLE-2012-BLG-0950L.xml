@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE-2012-BLG-0950L</name>
   <rightascension>18 01 09</rightascension>
+  <distance errorminus="-1100.0" errorplus="800.0">3000.0</distance>
+  <name>OGLE-2012-BLG-0950L</name>
   <star>
-    <name>OGLE-2012-BLG-0950L</name>
-    <radius/>
-    <mass errorplus="0.12" errorminus="-0.16">0.56</mass>
     <temperature/>
+    <mass errorminus="-0.16" errorplus="0.12">0.56</mass>
+    <name>OGLE-2012-BLG-0950L</name>
     <planet>
-      <name>OGLE-2012-BLG-0950L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-11-03</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.6" errorminus="-0.7">2.7</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE-2012-BLG-0950L b</name>
+      <lastupdate>2016-11-03</lastupdate>
+      <semimajoraxis errorminus="-0.7" errorplus="0.6">2.7</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="800.0" errorminus="-1100.0">3000.0</distance>
   <declination>-29 43 53</declination>
 </system>
 

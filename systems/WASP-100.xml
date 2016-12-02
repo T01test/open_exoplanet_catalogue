@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-100</name>
   <rightascension>04 57 35</rightascension>
-  <star>
-    <name>WASP-100</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">1.57</mass>
-    <temperature errorplus="120.0" errorminus="-120.0">6900.0</temperature>
-    <planet>
-      <name>WASP-100 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.0457</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
-      <inclination errorplus="2.6" errorminus="-1.7">82.6</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>WASP-100</name>
+  <star>
+    <temperature errorminus="-120.0" errorplus="120.0">6900.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.57</mass>
+    <name>WASP-100</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">2.8</period>
+      <radius/>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.7" errorplus="2.6">82.6</inclination>
+      <name>WASP-100 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.0457</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>-64 01 37</declination>
 </system>
 

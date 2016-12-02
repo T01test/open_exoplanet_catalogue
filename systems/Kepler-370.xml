@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-370</name>
   <rightascension>19 10 16</rightascension>
-  <star>
-    <name>Kepler-370</name>
-    <radius errorplus="0.42" errorminus="-0.42">0.9</radius>
-    <mass>0.94</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5852.0</temperature>
-    <planet>
-      <name>Kepler-370 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.42" errorminus="-0.42">0.9</radius>
-      <semimajoraxis>0.14</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">19.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-370 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.42" errorminus="-0.42">0.9</radius>
-      <semimajoraxis>0.054</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-370</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">5852.0</temperature>
+    <mass>0.94</mass>
+    <name>Kepler-370</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">19.0</period>
+      <radius errorminus="-0.42" errorplus="0.42">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-370 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.14</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.6</period>
+      <radius errorminus="-0.42" errorplus="0.42">0.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-370 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.054</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.42" errorplus="0.42">0.9</radius>
+  </star>
   <declination>40 54 58</declination>
 </system>
 

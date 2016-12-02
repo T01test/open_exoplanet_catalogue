@@ -1,32 +1,32 @@
 <system>
-  <name>Kepler-19</name>
   <rightascension>19 25 15</rightascension>
-  <star>
-    <name>Kepler-19</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5541.0</temperature>
-    <planet>
-      <name>Kepler-19 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">9.3</period>
-      <inclination errorplus="0.06" errorminus="-0.44">89.94</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-19 c</name>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.85</radius>
-      <semimajoraxis/>
-      <period>160.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>2119.0</distance>
+  <name>Kepler-19</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">5541.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.94</mass>
+    <name>Kepler-19</name>
+    <planet>
+      <period>160.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <inclination/>
+      <name>Kepler-19 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">9.3</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.44" errorplus="0.06">89.94</inclination>
+      <name>Kepler-19 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.85</radius>
+  </star>
   <declination>37 51 06</declination>
 </system>
 

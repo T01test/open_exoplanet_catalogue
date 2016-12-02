@@ -1,23 +1,23 @@
 <system>
-  <name>HD 196067</name>
   <rightascension>20 26 01</rightascension>
+  <distance errorminus="-4.39" errorplus="3.65">43.57</distance>
+  <name>HD 196067</name>
   <star>
+    <temperature errorminus="-46.0" errorplus="46.0">6017.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">1.29</mass>
     <name>HD 196067</name>
-    <radius errorplus="0.21" errorminus="-0.21">1.73</radius>
-    <mass errorplus="0.08" errorminus="-0.08">1.29</mass>
-    <temperature errorplus="46.0" errorminus="-46.0">6017.0</temperature>
     <planet>
-      <name>HD 196067 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.21" errorminus="-0.21">1.73</radius>
-      <semimajoraxis errorplus="0.19" errorminus="-0.19">5.02</semimajoraxis>
       <eccentricity>0.66</eccentricity>
-      <period errorplus="232.0" errorminus="-185.0">3638.0</period>
+      <period errorminus="-185.0" errorplus="232.0">3638.0</period>
+      <radius errorminus="-0.21" errorplus="0.21">1.73</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 196067 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.19" errorplus="0.19">5.02</semimajoraxis>
     </planet>
+    <radius errorminus="-0.21" errorplus="0.21">1.73</radius>
   </star>
-  <distance errorplus="3.65" errorminus="-4.39">43.57</distance>
   <declination>-75 21 02</declination>
 </system>
 

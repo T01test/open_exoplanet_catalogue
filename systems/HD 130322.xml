@@ -1,23 +1,23 @@
 <system>
-  <name>HD 130322</name>
   <rightascension>14 53 10</rightascension>
+  <distance errorminus="-1.4" errorplus="1.28">29.76</distance>
+  <name>HD 130322</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5387.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.92</mass>
     <name>HD 130322</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.92</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5387.0</temperature>
     <planet>
-      <name>HD 130322 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-02-19</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-      <semimajoraxis>0.0925</semimajoraxis>
       <eccentricity>0.029</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">10.7</period>
+      <period errorminus="-0.0" errorplus="0.0">10.7</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 130322 b</name>
+      <lastupdate>2015-02-19</lastupdate>
+      <semimajoraxis>0.0925</semimajoraxis>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
   </star>
-  <distance errorplus="1.28" errorminus="-1.4">29.76</distance>
   <declination>00 16 53</declination>
 </system>
 

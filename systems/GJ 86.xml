@@ -1,23 +1,23 @@
 <system>
-  <name>GJ 86</name>
   <rightascension>02 36 29</rightascension>
+  <distance errorminus="-0.07" errorplus="0.07">10.91</distance>
+  <name>GJ 86</name>
   <star>
-    <name>GJ 86</name>
-    <radius/>
-    <mass>0.77</mass>
     <temperature>5151.0</temperature>
+    <mass>0.77</mass>
+    <name>GJ 86</name>
     <planet>
-      <name>GJ 86 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0065" errorminus="-0.0065">0.113</semimajoraxis>
       <eccentricity>0.0416</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">15.8</period>
+      <period errorminus="-0.0" errorplus="0.0">15.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>GJ 86 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0065" errorplus="0.0065">0.113</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.07" errorminus="-0.07">10.91</distance>
   <declination>-50 49 25</declination>
 </system>
 

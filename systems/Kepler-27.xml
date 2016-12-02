@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-27</name>
   <rightascension>19 14 12</rightascension>
-  <star>
-    <name>Kepler-27</name>
-    <radius errorplus="0.15" errorminus="-0.15">0.59</radius>
-    <mass errorplus="0.16" errorminus="-0.16">0.65</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5400.0</temperature>
-    <planet>
-      <name>Kepler-27 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.15">0.59</radius>
-      <semimajoraxis>0.191</semimajoraxis>
-      <period>31.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-27 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.15">0.59</radius>
-      <semimajoraxis>0.118</semimajoraxis>
-      <period>15.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-27</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">5400.0</temperature>
+    <mass errorminus="-0.16" errorplus="0.16">0.65</mass>
+    <name>Kepler-27</name>
+    <planet>
+      <period>15.3</period>
+      <radius errorminus="-0.15" errorplus="0.15">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-27 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.118</semimajoraxis>
+    </planet>
+    <planet>
+      <period>31.3</period>
+      <radius errorminus="-0.15" errorplus="0.15">0.59</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-27 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.191</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.15" errorplus="0.15">0.59</radius>
+  </star>
   <declination>41 05 09</declination>
 </system>
 

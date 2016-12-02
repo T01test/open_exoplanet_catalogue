@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-673</name>
   <rightascension>19 47 08</rightascension>
+  <distance errorminus="-65.42" errorplus="79.56">978.0</distance>
+  <name>Kepler-673</name>
   <star>
+    <temperature errorminus="-71.68" errorplus="60.4">5355.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.88</mass>
     <name>Kepler-673</name>
-    <radius errorplus="0.07" errorminus="-0.05">0.84</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.88</mass>
-    <temperature errorplus="60.4" errorminus="-71.68">5355.0</temperature>
     <planet>
-      <name>Kepler-673 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.7</period>
+      <radius errorminus="-0.05" errorplus="0.07">0.84</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.05">0.84</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
       <inclination/>
+      <name>Kepler-673 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.07">0.84</radius>
   </star>
-  <distance errorplus="79.56" errorminus="-65.42">978.0</distance>
   <declination>50 03 14</declination>
 </system>
 

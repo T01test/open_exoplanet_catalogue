@@ -1,23 +1,23 @@
 <system>
-  <name>HD 27894</name>
   <rightascension>04 11 45</rightascension>
+  <distance errorminus="-1.7" errorplus="1.57">42.37</distance>
+  <name>HD 27894</name>
   <star>
-    <name>HD 27894</name>
-    <radius/>
+    <temperature errorminus="-81.0" errorplus="81.0">4875.0</temperature>
     <mass>0.8</mass>
-    <temperature errorplus="81.0" errorminus="-81.0">4875.0</temperature>
+    <name>HD 27894</name>
     <planet>
-      <name>HD 27894 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-16</lastupdate>
-      <radius/>
-      <semimajoraxis>0.125</semimajoraxis>
       <eccentricity>0.0486</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">18.0</period>
+      <period errorminus="-0.0" errorplus="0.0">18.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 27894 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <semimajoraxis>0.125</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.57" errorminus="-1.7">42.37</distance>
   <declination>-59 24 39</declination>
 </system>
 

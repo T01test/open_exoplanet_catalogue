@@ -1,58 +1,58 @@
 <system>
-  <name>Kepler-292</name>
   <rightascension>19 45 58</rightascension>
-  <star>
-    <name>Kepler-292</name>
-    <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-    <mass>0.88</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5299.0</temperature>
-    <planet>
-      <name>Kepler-292 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-      <semimajoraxis>0.045</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-292 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-      <semimajoraxis>0.035</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">2.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-292 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-      <semimajoraxis>0.097</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">12.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-292 f</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-      <semimajoraxis>0.141</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">20.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-292 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.83</radius>
-      <semimajoraxis>0.068</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-292</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5299.0</temperature>
+    <mass>0.88</mass>
+    <name>Kepler-292</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">20.8</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-292 f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.141</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.1</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-292 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.068</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">12.0</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-292 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.097</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.7</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-292 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.045</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">2.6</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-292 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.035</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.07" errorplus="0.07">0.83</radius>
+  </star>
   <declination>42 25 27</declination>
 </system>
 

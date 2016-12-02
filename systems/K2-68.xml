@@ -1,22 +1,22 @@
 <system>
-  <name>K2-68</name>
   <rightascension>22 01 11</rightascension>
-  <star>
-    <name>K2-68</name>
-    <radius errorplus="0.09" errorminus="-0.09">0.68</radius>
-    <mass errorplus="0.1" errorminus="-0.1">0.73</mass>
-    <temperature errorplus="96.0" errorminus="-96.0">4746.0</temperature>
-    <planet>
-      <name>K2-68 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">0.68</radius>
-      <semimajoraxis errorplus="0.0031" errorminus="-0.0031">0.0708</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">8.1</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-68</name>
+  <star>
+    <temperature errorminus="-96.0" errorplus="96.0">4746.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">0.73</mass>
+    <name>K2-68</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">8.1</period>
+      <radius errorminus="-0.09" errorplus="0.09">0.68</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-68 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0031" errorplus="0.0031">0.0708</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.09" errorplus="0.09">0.68</radius>
+  </star>
   <declination>-10 34 02</declination>
 </system>
 

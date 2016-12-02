@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1079</name>
   <rightascension>19 32 58</rightascension>
+  <distance errorminus="-80.38" errorplus="94.52">481.0</distance>
+  <name>Kepler-1079</name>
   <star>
+    <temperature errorminus="-84.62" errorplus="90.64">5758.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.12">1.08</mass>
     <name>Kepler-1079</name>
-    <radius errorplus="0.27" errorminus="-0.23">1.36</radius>
-    <mass errorplus="0.12" errorminus="-0.06">1.08</mass>
-    <temperature errorplus="90.64" errorminus="-84.62">5758.0</temperature>
     <planet>
-      <name>Kepler-1079 b</name>
+      <period errorminus="-0.0" errorplus="0.0">13.2</period>
+      <radius errorminus="-0.23" errorplus="0.27">1.36</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.27" errorminus="-0.23">1.36</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">13.2</period>
       <inclination/>
+      <name>Kepler-1079 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.23" errorplus="0.27">1.36</radius>
   </star>
-  <distance errorplus="94.52" errorminus="-80.38">481.0</distance>
   <declination>45 46 11</declination>
 </system>
 

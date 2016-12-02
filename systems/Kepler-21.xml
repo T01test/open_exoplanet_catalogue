@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-21</name>
   <rightascension>19 21 42</rightascension>
+  <distance errorminus="-7.0" errorplus="7.0">113.0</distance>
+  <name>Kepler-21</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">6305.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.02">1.41</mass>
     <name>Kepler-21</name>
-    <radius errorplus="0.02" errorminus="-0.01">1.9</radius>
-    <mass errorplus="0.02" errorminus="-0.03">1.41</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">6305.0</temperature>
     <planet>
-      <name>Kepler-21 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-10-06</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.01">1.9</radius>
-      <semimajoraxis errorplus="0.0" errorminus="-0.0">0.042717</semimajoraxis>
       <eccentricity>0.02</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
-      <inclination errorplus="0.28" errorminus="-0.26">83.2</inclination>
+      <period errorminus="-0.0" errorplus="0.0">2.8</period>
+      <radius errorminus="-0.01" errorplus="0.02">1.9</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.26" errorplus="0.28">83.2</inclination>
+      <name>Kepler-21 b</name>
+      <lastupdate>2016-10-06</lastupdate>
+      <semimajoraxis errorminus="-0.0" errorplus="0.0">0.042717</semimajoraxis>
     </planet>
+    <radius errorminus="-0.01" errorplus="0.02">1.9</radius>
   </star>
-  <distance errorplus="7.0" errorminus="-7.0">113.0</distance>
   <declination>38 42 50</declination>
 </system>
 

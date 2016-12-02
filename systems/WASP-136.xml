@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-136</name>
   <rightascension>00 19 32</rightascension>
+  <distance errorminus="-18.0" errorplus="18.0">164.0</distance>
+  <name>WASP-136</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6260.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">1.41</mass>
     <name>WASP-136</name>
-    <radius errorplus="0.22" errorminus="-0.22">2.21</radius>
-    <mass errorplus="0.07" errorminus="-0.07">1.41</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6260.0</temperature>
     <planet>
-      <name>WASP-136 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.22" errorplus="0.22">2.21</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.3" errorplus="1.6">84.7</inclination>
+      <name>WASP-136 b</name>
       <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.22" errorminus="-0.22">2.21</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0661</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination errorplus="1.6" errorminus="-1.3">84.7</inclination>
+      <semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.0661</semimajoraxis>
     </planet>
+    <radius errorminus="-0.22" errorplus="0.22">2.21</radius>
   </star>
-  <distance errorplus="18.0" errorminus="-18.0">164.0</distance>
   <declination>-8 55 34</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HATS-17</name>
   <rightascension>12 11 23</rightascension>
+  <distance errorminus="-16.0" errorplus="22.0">339.0</distance>
+  <name>HATS-17</name>
   <star>
+    <temperature errorminus="-78.0" errorplus="78.0">5846.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.13</mass>
     <name>HATS-17</name>
-    <radius errorplus="0.07" errorminus="-0.05">1.09</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.13</mass>
-    <temperature errorplus="78.0" errorminus="-78.0">5846.0</temperature>
     <planet>
-      <name>HATS-17 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-09-15</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.05">1.09</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.1308</semimajoraxis>
       <eccentricity>0.029</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">16.3</period>
-      <inclination errorplus="0.26" errorminus="-0.26">89.08</inclination>
+      <period errorminus="-0.0" errorplus="0.0">16.3</period>
+      <radius errorminus="-0.05" errorplus="0.07">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.26" errorplus="0.26">89.08</inclination>
+      <name>HATS-17 b</name>
+      <lastupdate>2016-09-15</lastupdate>
+      <semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.1308</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.07">1.09</radius>
   </star>
-  <distance errorplus="22.0" errorminus="-16.0">339.0</distance>
   <declination>-47 36 49</declination>
 </system>
 

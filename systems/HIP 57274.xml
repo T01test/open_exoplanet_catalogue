@@ -1,43 +1,43 @@
 <system>
-  <name>HIP 57274</name>
   <rightascension>11 10 14</rightascension>
+  <distance errorminus="-0.75" errorplus="0.71">25.87</distance>
+  <name>HIP 57274</name>
   <star>
-    <name>HIP 57274</name>
-    <radius/>
-    <mass/>
     <temperature/>
+    <mass/>
+    <name>HIP 57274</name>
     <planet>
-      <name>HIP 57274 d</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>1.01</semimajoraxis>
       <eccentricity>0.27</eccentricity>
-      <period errorplus="8.5" errorminus="-8.5">431.7</period>
+      <period errorminus="-8.5" errorplus="8.5">431.7</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 57274 d</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>1.01</semimajoraxis>
     </planet>
     <planet>
-      <name>HIP 57274 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-24</lastupdate>
-      <radius/>
-      <semimajoraxis>0.178</semimajoraxis>
-      <eccentricity>0.05</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">32.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HIP 57274 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-24</lastupdate>
-      <radius/>
-      <semimajoraxis>0.07</semimajoraxis>
       <eccentricity>0.187</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">8.1</period>
+      <period errorminus="-0.0" errorplus="0.0">8.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 57274 b</name>
+      <lastupdate>2015-04-24</lastupdate>
+      <semimajoraxis>0.07</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.05</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">32.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HIP 57274 c</name>
+      <lastupdate>2015-04-24</lastupdate>
+      <semimajoraxis>0.178</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.71" errorminus="-0.75">25.87</distance>
   <declination>30 57 33</declination>
 </system>
 

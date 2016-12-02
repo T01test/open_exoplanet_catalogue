@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2003-BLG-235L</name>
   <rightascension>18 19 05</rightascension>
+  <distance errorminus="-700.0" errorplus="600.0">5800.0</distance>
+  <name>OGLE 2003-BLG-235L</name>
   <star>
-    <name>OGLE 2003-BLG-235L</name>
-    <radius/>
-    <mass errorplus="0.07" errorminus="-0.09">0.63</mass>
     <temperature/>
+    <mass errorminus="-0.09" errorplus="0.07">0.63</mass>
+    <name>OGLE 2003-BLG-235L</name>
     <planet>
-      <name>OGLE 2003-BLG-235L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-02-25</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.5" errorminus="-0.8">4.3</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2003-BLG-235L b</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <semimajoraxis errorminus="-0.8" errorplus="2.5">4.3</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="600.0" errorminus="-700.0">5800.0</distance>
   <declination>-28 53 41</declination>
 </system>
 

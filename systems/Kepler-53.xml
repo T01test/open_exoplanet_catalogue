@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-53</name>
   <rightascension>19 27 42</rightascension>
-  <star>
-    <name>Kepler-53</name>
-    <radius>0.89</radius>
-    <mass>0.98</mass>
-    <temperature>5858.0</temperature>
-    <planet>
-      <name>Kepler-53 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>0.89</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">38.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-53 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>0.89</radius>
-      <semimajoraxis>0.091</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">9.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-53 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>0.89</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">18.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-53</name>
+  <star>
+    <temperature>5858.0</temperature>
+    <mass>0.98</mass>
+    <name>Kepler-53</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">38.6</period>
+      <radius>0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-53 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">9.8</period>
+      <radius>0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-53 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.091</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">18.6</period>
+      <radius>0.89</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-53 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius>0.89</radius>
+  </star>
   <declination>40 33 44</declination>
 </system>
 

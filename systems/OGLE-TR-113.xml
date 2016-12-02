@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE-TR-113</name>
   <rightascension>10 06 06</rightascension>
-  <star>
-    <name>OGLE-TR-113</name>
-    <radius errorplus="0.02">0.77</radius>
-    <mass errorplus="0.02">0.78</mass>
-    <temperature errorplus="75.0">4790.0</temperature>
-    <planet>
-      <name>OGLE-TR-113 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02">0.77</radius>
-      <semimajoraxis errorplus="0.00016" errorminus="-0.00015">0.02289</semimajoraxis>
-      <period>1.4</period>
-      <inclination errorplus="1.6" errorminus="-0.62">87.8</inclination>
-    </planet>
-  </star>
   <distance>600.0</distance>
+  <name>OGLE-TR-113</name>
+  <star>
+    <temperature errorplus="75.0">4790.0</temperature>
+    <mass errorplus="0.02">0.78</mass>
+    <name>OGLE-TR-113</name>
+    <planet>
+      <period>1.4</period>
+      <radius errorplus="0.02">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.62" errorplus="1.6">87.8</inclination>
+      <name>OGLE-TR-113 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00015" errorplus="0.00016">0.02289</semimajoraxis>
+    </planet>
+    <radius errorplus="0.02">0.77</radius>
+  </star>
   <declination>-61 26 48</declination>
 </system>
 

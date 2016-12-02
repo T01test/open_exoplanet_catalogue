@@ -1,31 +1,31 @@
 <system>
-  <name>OGLE 2012-BLG-26L</name>
   <rightascension>17 34 40</rightascension>
+  <distance errorminus="-380.0" errorplus="380.0">4019.0</distance>
+  <name>OGLE 2012-BLG-26L</name>
   <star>
-    <name>OGLE 2012-BLG-26L</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">1.06</mass>
     <temperature/>
+    <mass errorminus="-0.05" errorplus="0.05">1.06</mass>
+    <name>OGLE 2012-BLG-26L</name>
     <planet>
+      <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
       <name>OGLE 2012-BLG-26L b</name>
-      <discoverymethod>microlensing</discoverymethod>
       <lastupdate>2016-07-07</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">4.0</semimajoraxis>
-      <period/>
-      <inclination/>
+      <semimajoraxis errorminus="-0.5" errorplus="0.5">4.0</semimajoraxis>
     </planet>
     <planet>
-      <name>OGLE 2012-BLG-26L c</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.7" errorminus="-0.7">4.8</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2012-BLG-26L c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.7" errorplus="0.7">4.8</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="380.0" errorminus="-380.0">4019.0</distance>
   <declination>-27 08 33</declination>
 </system>
 

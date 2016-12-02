@@ -1,23 +1,23 @@
 <system>
-  <name>HD 31253</name>
   <rightascension>04 40 54</rightascension>
+  <distance errorminus="-3.45" errorplus="3.06">53.82</distance>
+  <name>HD 31253</name>
   <star>
-    <name>HD 31253</name>
-    <radius errorplus="0.17" errorminus="-0.17">1.71</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.23</mass>
     <temperature>5960.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.23</mass>
+    <name>HD 31253</name>
     <planet>
-      <name>HD 31253 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.17">1.71</radius>
-      <semimajoraxis errorplus="0.006" errorminus="-0.006">1.26</semimajoraxis>
       <eccentricity>0.3</eccentricity>
-      <period errorplus="3.0" errorminus="-3.0">466.0</period>
+      <period errorminus="-3.0" errorplus="3.0">466.0</period>
+      <radius errorminus="-0.17" errorplus="0.17">1.71</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 31253 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.006" errorplus="0.006">1.26</semimajoraxis>
     </planet>
+    <radius errorminus="-0.17" errorplus="0.17">1.71</radius>
   </star>
-  <distance errorplus="3.06" errorminus="-3.45">53.82</distance>
   <declination>12 21 07</declination>
 </system>
 

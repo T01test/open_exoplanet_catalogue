@@ -1,23 +1,23 @@
 <system>
-  <name>HD 43197</name>
   <rightascension>06 23 54</rightascension>
+  <distance errorminus="-3.6" errorplus="4.2">56.3</distance>
+  <name>HD 43197</name>
   <star>
-    <name>HD 43197</name>
-    <radius errorplus="0.01" errorminus="-0.01">1.0</radius>
+    <temperature errorminus="-46.0" errorplus="46.0">5508.0</temperature>
     <mass>0.96</mass>
-    <temperature errorplus="46.0" errorminus="-46.0">5508.0</temperature>
+    <name>HD 43197</name>
     <planet>
-      <name>HD 43197 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-12-03</lastupdate>
-      <radius errorplus="0.01" errorminus="-0.01">1.0</radius>
-      <semimajoraxis errorplus="0.01" errorminus="-0.02">0.92</semimajoraxis>
       <eccentricity>0.83</eccentricity>
-      <period errorplus="1.2" errorminus="-1.2">327.8</period>
+      <period errorminus="-1.2" errorplus="1.2">327.8</period>
+      <radius errorminus="-0.01" errorplus="0.01">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 43197 b</name>
+      <lastupdate>2014-12-03</lastupdate>
+      <semimajoraxis errorminus="-0.02" errorplus="0.01">0.92</semimajoraxis>
     </planet>
+    <radius errorminus="-0.01" errorplus="0.01">1.0</radius>
   </star>
-  <distance errorplus="4.2" errorminus="-3.6">56.3</distance>
   <declination>-29 53 50</declination>
 </system>
 

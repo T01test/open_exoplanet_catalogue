@@ -1,22 +1,22 @@
 <system>
-  <name>K2-71</name>
   <rightascension>22 43 27</rightascension>
-  <star>
-    <name>K2-71</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.43</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.48</mass>
-    <temperature errorplus="133.0" errorminus="-133.0">4006.0</temperature>
-    <planet>
-      <name>K2-71 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.43</radius>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.0559</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-71</name>
+  <star>
+    <temperature errorminus="-133.0" errorplus="133.0">4006.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.48</mass>
+    <name>K2-71</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.0</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.43</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-71 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.0559</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.43</radius>
+  </star>
   <declination>-9 52 53</declination>
 </system>
 

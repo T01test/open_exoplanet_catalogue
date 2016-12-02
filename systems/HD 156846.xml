@@ -1,23 +1,23 @@
 <system>
-  <name>HD 156846</name>
   <rightascension>17 08 34</rightascension>
+  <distance errorminus="-2.34" errorplus="2.13">49.0</distance>
+  <name>HD 156846</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5969.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.35</mass>
     <name>HD 156846</name>
-    <radius errorplus="0.12" errorminus="-0.12">2.12</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.35</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5969.0</temperature>
     <planet>
-      <name>HD 156846 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.12">2.12</radius>
-      <semimajoraxis errorplus="0.021" errorminus="-0.021">1.096</semimajoraxis>
       <eccentricity>0.84785</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">359.6</period>
+      <period errorminus="-0.0" errorplus="0.0">359.6</period>
+      <radius errorminus="-0.12" errorplus="0.12">2.12</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 156846 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.021" errorplus="0.021">1.096</semimajoraxis>
     </planet>
+    <radius errorminus="-0.12" errorplus="0.12">2.12</radius>
   </star>
-  <distance errorplus="2.13" errorminus="-2.34">49.0</distance>
   <declination>-19 20 01</declination>
 </system>
 

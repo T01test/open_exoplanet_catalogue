@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1299</name>
   <rightascension>19 09 00</rightascension>
+  <distance errorminus="-103.91" errorplus="196.3">1352.0</distance>
+  <name>Kepler-1299</name>
   <star>
+    <temperature errorminus="-129.75" errorplus="92.88">5609.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.04">0.94</mass>
     <name>Kepler-1299</name>
-    <radius errorplus="0.13" errorminus="-0.06">0.91</radius>
-    <mass errorplus="0.04" errorminus="-0.06">0.94</mass>
-    <temperature errorplus="92.88" errorminus="-129.75">5609.0</temperature>
     <planet>
-      <name>Kepler-1299 b</name>
+      <period errorminus="-0.0" errorplus="0.0">19.9</period>
+      <radius errorminus="-0.06" errorplus="0.13">0.91</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.13" errorminus="-0.06">0.91</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">19.9</period>
       <inclination/>
+      <name>Kepler-1299 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.13">0.91</radius>
   </star>
-  <distance errorplus="196.3" errorminus="-103.91">1352.0</distance>
   <declination>37 24 40</declination>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-903</name>
   <rightascension>19 46 15</rightascension>
+  <distance errorminus="-71.62" errorplus="142.58">829.0</distance>
+  <name>Kepler-903</name>
   <star>
+    <temperature errorminus="-110.73" errorplus="77.93">5682.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.98</mass>
     <name>Kepler-903</name>
-    <radius errorplus="0.17" errorminus="-0.08">0.97</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="77.93" errorminus="-110.73">5682.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.4</period>
+      <radius errorminus="-0.08" errorplus="0.17">0.97</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-903 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.08">0.97</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">10.4</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-903 c</name>
+      <period errorminus="-0.0" errorplus="0.0">62.9</period>
+      <radius errorminus="-0.08" errorplus="0.17">0.97</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.08">0.97</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">62.9</period>
       <inclination/>
+      <name>Kepler-903 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.17">0.97</radius>
   </star>
-  <distance errorplus="142.58" errorminus="-71.62">829.0</distance>
   <declination>40 39 51</declination>
 </system>
 

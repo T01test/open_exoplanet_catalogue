@@ -1,23 +1,23 @@
 <system>
-  <name>HD 285507</name>
   <rightascension>04 45 18</rightascension>
+  <distance errorminus="-4.5" errorplus="3.71">42.43</distance>
+  <name>HD 285507</name>
   <star>
+    <temperature errorminus="-61.0" errorplus="85.0">4503.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.73</mass>
     <name>HD 285507</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.73</mass>
-    <temperature errorplus="85.0" errorminus="-61.0">4503.0</temperature>
     <planet>
-      <name>HD 285507 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.66</radius>
-      <semimajoraxis/>
       <eccentricity>0.086</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
+      <period errorminus="-0.0" errorplus="0.0">6.1</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.66</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 285507 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.66</radius>
   </star>
-  <distance errorplus="3.71" errorminus="-4.5">42.43</distance>
   <declination>15 20 06</declination>
 </system>
 

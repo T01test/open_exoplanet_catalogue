@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1319</name>
   <rightascension>19 57 21</rightascension>
+  <distance errorminus="-6.26" errorplus="6.13">114.0</distance>
+  <name>Kepler-1319</name>
   <star>
+    <temperature errorminus="-50.09" errorplus="45.46">3655.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.01">0.56</mass>
     <name>Kepler-1319</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.54</radius>
-    <mass errorplus="0.01" errorminus="-0.02">0.56</mass>
-    <temperature errorplus="45.46" errorminus="-50.09">3655.0</temperature>
     <planet>
-      <name>Kepler-1319 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.54</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.54</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
       <inclination/>
+      <name>Kepler-1319 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.54</radius>
   </star>
-  <distance errorplus="6.13" errorminus="-6.26">114.0</distance>
   <declination>49 21 58</declination>
 </system>
 

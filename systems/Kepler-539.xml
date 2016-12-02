@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-539</name>
   <rightascension>19 07 20</rightascension>
+  <distance errorminus="-12.73" errorplus="13.2">313.0</distance>
+  <name>Kepler-539</name>
   <star>
+    <temperature errorminus="-80.0" errorplus="80.0">5820.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.05</mass>
     <name>Kepler-539</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
     <planet>
-      <name>Kepler-539 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
-      <eccentricity>0.39</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">125.6</period>
-      <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-539 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
       <eccentricity>0.5</eccentricity>
       <period>1000.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
       <inclination/>
+      <name>Kepler-539 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis errorminus="-0.51" errorplus="0.5">2.42</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.39</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">125.6</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.086" errorplus="0.086">89.845</inclination>
+      <name>Kepler-539 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis errorminus="-0.0067" errorplus="0.0067">0.4988</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.95</radius>
   </star>
-  <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
   <declination>41 52 00</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-3</name>
   <rightascension>18 37 54</rightascension>
-  <star>
-    <name>WASP-3</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.23</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6400.0</temperature>
-    <planet>
-      <name>WASP-3 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
-      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.0315</semimajoraxis>
-      <eccentricity>0.003</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1.8</period>
-      <inclination errorplus="0.29" errorminus="-0.29">84.06</inclination>
-    </planet>
-  </star>
   <distance>220.0</distance>
+  <name>WASP-3</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6400.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.23</mass>
+    <name>WASP-3</name>
+    <planet>
+      <eccentricity>0.003</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">1.8</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.29" errorplus="0.29">84.06</inclination>
+      <name>WASP-3 b</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.0003" errorplus="0.0003">0.0315</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">1.36</radius>
+  </star>
   <declination>35 39 41</declination>
 </system>
 

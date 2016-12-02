@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1642</name>
   <rightascension>19 12 43</rightascension>
+  <distance errorminus="-35.29" errorplus="49.12">447.0</distance>
+  <name>Kepler-1642</name>
   <star>
+    <temperature errorminus="-191.86" errorplus="178.89">5355.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.06">0.88</mass>
     <name>Kepler-1642</name>
-    <radius errorplus="0.09" errorminus="-0.06">0.84</radius>
-    <mass errorplus="0.06" errorminus="-0.05">0.88</mass>
-    <temperature errorplus="178.89" errorminus="-191.86">5355.0</temperature>
     <planet>
-      <name>Kepler-1642 b</name>
+      <period errorminus="-0.0" errorplus="0.0">6.7</period>
+      <radius errorminus="-0.06" errorplus="0.09">0.84</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.06">0.84</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">12.2</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-1642 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.06">0.84</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">6.7</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">12.2</period>
+      <radius errorminus="-0.06" errorplus="0.09">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-1642 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.09">0.84</radius>
   </star>
-  <distance errorplus="49.12" errorminus="-35.29">447.0</distance>
   <declination>43 38 37</declination>
 </system>
 

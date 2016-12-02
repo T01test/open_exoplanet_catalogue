@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-435</name>
   <rightascension>19 17 14</rightascension>
+  <distance errorminus="-200.0" errorplus="200.0">2070.0</distance>
+  <name>Kepler-435</name>
   <star>
+    <temperature errorminus="-94.0" errorplus="94.0">6161.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.09">1.54</mass>
     <name>Kepler-435</name>
-    <radius errorplus="0.3" errorminus="-0.3">3.21</radius>
-    <mass errorplus="0.09" errorminus="-0.09">1.54</mass>
-    <temperature errorplus="94.0" errorminus="-94.0">6161.0</temperature>
     <planet>
-      <name>Kepler-435 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-14</lastupdate>
-      <radius errorplus="0.3" errorminus="-0.3">3.21</radius>
-      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0948</semimajoraxis>
       <eccentricity>0.114</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">8.6</period>
-      <inclination errorplus="0.52" errorminus="-0.52">85.51</inclination>
+      <period errorminus="-0.0" errorplus="0.0">8.6</period>
+      <radius errorminus="-0.3" errorplus="0.3">3.21</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.52" errorplus="0.52">85.51</inclination>
+      <name>Kepler-435 b</name>
+      <lastupdate>2015-01-14</lastupdate>
+      <semimajoraxis errorminus="-0.0018" errorplus="0.0018">0.0948</semimajoraxis>
     </planet>
+    <radius errorminus="-0.3" errorplus="0.3">3.21</radius>
   </star>
-  <distance errorplus="200.0" errorminus="-200.0">2070.0</distance>
   <declination>43 11 50</declination>
 </system>
 

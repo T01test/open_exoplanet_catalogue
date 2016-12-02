@@ -1,63 +1,63 @@
 <system>
-  <name>GJ 667 C</name>
   <rightascension>17 44 42</rightascension>
-  <star>
-    <name>GJ 667 C</name>
-    <radius/>
-    <mass errorplus="0.02" errorminus="-0.02">0.33</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">3350.0</temperature>
-    <planet>
-      <name>GJ 667 C b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0044" errorminus="-0.0053">0.0505</semimajoraxis>
-      <eccentricity>0.13</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">7.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>GJ 667 C f</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.014" errorminus="-0.017">0.156</semimajoraxis>
-      <eccentricity>0.03</eccentricity>
-      <period errorplus="0.2" errorminus="-0.2">39.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>GJ 667 C e</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.019" errorminus="-0.022">0.213</semimajoraxis>
-      <eccentricity>0.02</eccentricity>
-      <period errorplus="0.6" errorminus="-0.6">62.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>GJ 667 C c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.012" errorminus="-0.013">0.125</semimajoraxis>
-      <eccentricity>0.02</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">28.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>GJ 667 C g</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.052" errorminus="-0.058">0.549</semimajoraxis>
-      <eccentricity>0.08</eccentricity>
-      <period errorplus="13.8" errorminus="-7.9">256.2</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>6.8</distance>
+  <name>GJ 667 C</name>
+  <star>
+    <temperature errorminus="-50.0" errorplus="50.0">3350.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">0.33</mass>
+    <name>GJ 667 C</name>
+    <planet>
+      <eccentricity>0.08</eccentricity>
+      <period errorminus="-7.9" errorplus="13.8">256.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 667 C g</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.058" errorplus="0.052">0.549</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.02</eccentricity>
+      <period errorminus="-0.1" errorplus="0.1">28.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 667 C c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.013" errorplus="0.012">0.125</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.03</eccentricity>
+      <period errorminus="-0.2" errorplus="0.2">39.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 667 C f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.017" errorplus="0.014">0.156</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.13</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">7.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 667 C b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0053" errorplus="0.0044">0.0505</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.02</eccentricity>
+      <period errorminus="-0.6" errorplus="0.6">62.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 667 C e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.022" errorplus="0.019">0.213</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>-34 59 48</declination>
 </system>
 

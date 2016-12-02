@@ -1,23 +1,23 @@
 <system>
-  <name>HD 32518</name>
   <rightascension>05 24 10</rightascension>
+  <distance errorminus="-11.83" errorplus="9.84">117.37</distance>
+  <name>HD 32518</name>
   <star>
+    <temperature errorminus="-70.0" errorplus="70.0">4580.0</temperature>
+    <mass errorminus="-0.18" errorplus="0.18">1.13</mass>
     <name>HD 32518</name>
-    <radius errorplus="0.87" errorminus="-0.87">10.22</radius>
-    <mass errorplus="0.18" errorminus="-0.18">1.13</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">4580.0</temperature>
     <planet>
-      <name>HD 32518 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.87" errorminus="-0.87">10.22</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.59</semimajoraxis>
       <eccentricity>0.01</eccentricity>
-      <period errorplus="0.4" errorminus="-0.4">157.5</period>
+      <period errorminus="-0.4" errorplus="0.4">157.5</period>
+      <radius errorminus="-0.87" errorplus="0.87">10.22</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 32518 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">0.59</semimajoraxis>
     </planet>
+    <radius errorminus="-0.87" errorplus="0.87">10.22</radius>
   </star>
-  <distance errorplus="9.84" errorminus="-11.83">117.37</distance>
   <declination>69 38 21</declination>
 </system>
 

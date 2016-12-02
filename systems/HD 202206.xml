@@ -1,33 +1,33 @@
 <system>
-  <name>HD 202206</name>
   <rightascension>21 44 26</rightascension>
+  <distance errorminus="-2.58" errorplus="2.33">46.34</distance>
+  <name>HD 202206</name>
   <star>
-    <name>HD 202206</name>
-    <radius/>
+    <temperature errorminus="-40.0" errorplus="40.0">5765.0</temperature>
     <mass>1.15</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">5765.0</temperature>
+    <name>HD 202206</name>
     <planet>
-      <name>HD 202206 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-08-27</lastupdate>
-      <radius/>
-      <semimajoraxis>0.83</semimajoraxis>
-      <eccentricity>0.435</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">255.9</period>
-      <inclination>90.0</inclination>
-    </planet>
-    <planet>
-      <name>HD 202206 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-08-27</lastupdate>
-      <radius/>
-      <semimajoraxis>2.55</semimajoraxis>
       <eccentricity>0.267</eccentricity>
-      <period errorplus="18.4" errorminus="-18.4">1383.4</period>
+      <period errorminus="-18.4" errorplus="18.4">1383.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination>90.0</inclination>
+      <name>HD 202206 c</name>
+      <lastupdate>2015-08-27</lastupdate>
+      <semimajoraxis>2.55</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.435</eccentricity>
+      <period errorminus="-0.1" errorplus="0.1">255.9</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination>90.0</inclination>
+      <name>HD 202206 b</name>
+      <lastupdate>2015-08-27</lastupdate>
+      <semimajoraxis>0.83</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.33" errorminus="-2.58">46.34</distance>
   <declination>-20 47 21</declination>
 </system>
 

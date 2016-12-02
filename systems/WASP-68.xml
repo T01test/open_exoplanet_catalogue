@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-68</name>
   <rightascension>20 05 44</rightascension>
-  <star>
-    <name>WASP-68</name>
-    <radius errorplus="0.11" errorminus="-0.06">1.69</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.24</mass>
-    <temperature errorplus="59.0" errorminus="-60.0">5911.0</temperature>
-    <planet>
-      <name>WASP-68 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.11" errorminus="-0.06">1.69</radius>
-      <semimajoraxis errorplus="0.00045" errorminus="-0.0004">0.06206</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
-      <inclination errorplus="1.3" errorminus="-1.3">88.1</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>WASP-68</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="59.0">5911.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.24</mass>
+    <name>WASP-68</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">5.1</period>
+      <radius errorminus="-0.06" errorplus="0.11">1.69</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.3" errorplus="1.3">88.1</inclination>
+      <name>WASP-68 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0004" errorplus="0.00045">0.06206</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.11">1.69</radius>
+  </star>
   <declination>-19 18 52</declination>
 </system>
 

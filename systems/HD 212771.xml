@@ -1,23 +1,23 @@
 <system>
-  <name>HD 212771</name>
   <rightascension>22 45 46</rightascension>
+  <distance errorminus="-18.06" errorplus="13.93">121.8</distance>
+  <name>HD 212771</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5121.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">1.15</mass>
     <name>HD 212771</name>
-    <radius errorplus="0.1" errorminus="-0.1">5.0</radius>
-    <mass errorplus="0.08" errorminus="-0.08">1.15</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5121.0</temperature>
     <planet>
-      <name>HD 212771 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">5.0</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.22</semimajoraxis>
       <eccentricity>0.111</eccentricity>
-      <period errorplus="3.4" errorminus="-3.4">373.3</period>
+      <period errorminus="-3.4" errorplus="3.4">373.3</period>
+      <radius errorminus="-0.1" errorplus="0.1">5.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 212771 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">1.22</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">5.0</radius>
   </star>
-  <distance errorplus="13.93" errorminus="-18.06">121.8</distance>
   <declination>-17 15 49</declination>
 </system>
 

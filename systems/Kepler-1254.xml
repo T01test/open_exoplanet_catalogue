@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-1254</name>
   <rightascension>19 10 23</rightascension>
+  <distance errorminus="-48.38" errorplus="31.89">676.0</distance>
+  <name>Kepler-1254</name>
   <star>
+    <temperature errorminus="-45.04" errorplus="53.0">4985.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.78</mass>
     <name>Kepler-1254</name>
-    <radius errorplus="0.03" errorminus="-0.05">0.75</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.78</mass>
-    <temperature errorplus="53.0" errorminus="-45.04">4985.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.0</period>
+      <radius errorminus="-0.05" errorplus="0.03">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-1254 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.05">0.75</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-1254 d</name>
+      <period errorminus="-0.0" errorplus="0.0">3.6</period>
+      <radius errorminus="-0.05" errorplus="0.03">0.75</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.05">0.75</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-1254 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.05">0.75</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.7</period>
+      <radius errorminus="-0.05" errorplus="0.03">0.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-1254 d</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.03">0.75</radius>
   </star>
-  <distance errorplus="31.89" errorminus="-48.38">676.0</distance>
   <declination>48 46 12</declination>
 </system>
 

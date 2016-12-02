@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-79</name>
   <rightascension>04 22 15</rightascension>
+  <distance errorminus="-50.0" errorplus="50.0">240.0</distance>
+  <name>WASP-79</name>
   <star>
-    <name>WASP-79</name>
-    <radius errorplus="0.31">1.53</radius>
-    <mass errorplus="0.12">1.38</mass>
     <temperature errorplus="100.0">6600.0</temperature>
+    <mass errorplus="0.12">1.38</mass>
+    <name>WASP-79</name>
     <planet>
-      <name>WASP-79 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.31">1.53</radius>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0535</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <inclination errorplus="0.5" errorminus="-0.5">83.3</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.7</period>
+      <radius errorplus="0.31">1.53</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.5" errorplus="0.5">83.3</inclination>
+      <name>WASP-79 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0008" errorplus="0.0008">0.0535</semimajoraxis>
     </planet>
+    <radius errorplus="0.31">1.53</radius>
   </star>
-  <distance errorplus="50.0" errorminus="-50.0">240.0</distance>
   <declination>-30 36 01</declination>
 </system>
 

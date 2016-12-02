@@ -1,23 +1,23 @@
 <system>
-  <name>11 Com</name>
   <rightascension>12 10 45</rightascension>
+  <distance errorminus="-11.63" errorplus="9.61">110.62</distance>
+  <name>11 Com</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4742.0</temperature>
+    <mass errorminus="-0.3" errorplus="0.3">2.7</mass>
     <name>11 Com</name>
-    <radius errorplus="2.0" errorminus="-2.0">19.0</radius>
-    <mass errorplus="0.3" errorminus="-0.3">2.7</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4742.0</temperature>
     <planet>
-      <name>11 Com b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="2.0" errorminus="-2.0">19.0</radius>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.29</semimajoraxis>
       <eccentricity>0.231</eccentricity>
-      <period errorplus="0.3" errorminus="-0.3">326.0</period>
+      <period errorminus="-0.3" errorplus="0.3">326.0</period>
+      <radius errorminus="-2.0" errorplus="2.0">19.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>11 Com b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.05" errorplus="0.05">1.29</semimajoraxis>
     </planet>
+    <radius errorminus="-2.0" errorplus="2.0">19.0</radius>
   </star>
-  <distance errorplus="9.61" errorminus="-11.63">110.62</distance>
   <declination>17 47 34</declination>
 </system>
 

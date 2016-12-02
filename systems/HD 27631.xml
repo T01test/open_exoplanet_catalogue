@@ -1,23 +1,23 @@
 <system>
-  <name>HD 27631</name>
   <rightascension>04 56 22</rightascension>
+  <distance errorminus="-1.6" errorplus="1.5">44.54</distance>
+  <name>HD 27631</name>
   <star>
+    <temperature errorminus="-36.0" errorplus="36.0">5737.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.94</mass>
     <name>HD 27631</name>
-    <radius>1.0</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
-    <temperature errorplus="36.0" errorminus="-36.0">5737.0</temperature>
     <planet>
-      <name>HD 27631 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius>1.0</radius>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">3.25</semimajoraxis>
       <eccentricity>0.12</eccentricity>
-      <period errorplus="66.0" errorminus="-66.0">2208.0</period>
+      <period errorminus="-66.0" errorplus="66.0">2208.0</period>
+      <radius>1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 27631 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">3.25</semimajoraxis>
     </planet>
+    <radius>1.0</radius>
   </star>
-  <distance errorplus="1.5" errorminus="-1.6">44.54</distance>
   <declination>-41 57 36</declination>
 </system>
 

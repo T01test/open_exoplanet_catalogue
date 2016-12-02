@@ -1,23 +1,23 @@
 <system>
-  <name>TrES-4</name>
   <rightascension>17 18 15</rightascension>
+  <distance errorminus="-39.0" errorplus="39.0">492.0</distance>
+  <name>TrES-4</name>
   <star>
+    <temperature errorminus="-65.0" errorplus="65.0">6295.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.45</mass>
     <name>TrES-4</name>
-    <radius errorplus="0.08" errorminus="-0.08">1.81</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.45</mass>
-    <temperature errorplus="65.0" errorminus="-65.0">6295.0</temperature>
     <planet>
-      <name>TrES-4 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-05</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">1.81</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0516</semimajoraxis>
       <eccentricity>0.016</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <inclination errorplus="0.51" errorminus="-0.44">83.07</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.6</period>
+      <radius errorminus="-0.08" errorplus="0.08">1.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.44" errorplus="0.51">83.07</inclination>
+      <name>TrES-4 b</name>
+      <lastupdate>2016-05-05</lastupdate>
+      <semimajoraxis errorminus="-0.0005" errorplus="0.0005">0.0516</semimajoraxis>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.08">1.81</radius>
   </star>
-  <distance errorplus="39.0" errorminus="-39.0">492.0</distance>
   <declination>37 12 42</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-17</name>
   <rightascension>15 57 44</rightascension>
+  <distance errorminus="-60.0" errorplus="60.0">400.0</distance>
+  <name>WASP-17</name>
   <star>
+    <temperature errorminus="-80.0" errorplus="80.0">6650.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.31</mass>
     <name>WASP-17</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.57</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.31</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">6650.0</temperature>
     <planet>
-      <name>WASP-17 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-09-08</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.57</radius>
-      <semimajoraxis errorplus="0.00034" errorminus="-0.00034">0.0515</semimajoraxis>
       <eccentricity>0.028</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <inclination errorplus="0.68" errorminus="-0.56">86.83</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.7</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.57</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.56" errorplus="0.68">86.83</inclination>
+      <name>WASP-17 b</name>
+      <lastupdate>2016-09-08</lastupdate>
+      <semimajoraxis errorminus="-0.00034" errorplus="0.00034">0.0515</semimajoraxis>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.57</radius>
   </star>
-  <distance errorplus="60.0" errorminus="-60.0">400.0</distance>
   <declination>-28 03 42</declination>
 </system>
 

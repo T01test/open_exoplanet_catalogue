@@ -1,33 +1,33 @@
 <system>
-  <name>24 Sex</name>
   <rightascension>10 52 05</rightascension>
+  <distance errorminus="-5.21" errorplus="4.57">74.79</distance>
+  <name>24 Sex</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5098.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">1.54</mass>
     <name>24 Sex</name>
-    <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
-    <mass errorplus="0.08" errorminus="-0.08">1.54</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5098.0</temperature>
     <planet>
-      <name>24 Sex c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
-      <semimajoraxis errorplus="0.05" errorminus="-0.02">2.08</semimajoraxis>
       <eccentricity>0.29</eccentricity>
-      <period errorplus="32.4" errorminus="-13.8">883.0</period>
+      <period errorminus="-13.8" errorplus="32.4">883.0</period>
+      <radius errorminus="-0.08" errorplus="0.08">4.9</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>24 Sex c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.02" errorplus="0.05">2.08</semimajoraxis>
     </planet>
     <planet>
-      <name>24 Sex b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">4.9</radius>
-      <semimajoraxis errorplus="0.004" errorminus="-0.009">1.333</semimajoraxis>
       <eccentricity>0.09</eccentricity>
-      <period errorplus="2.1" errorminus="-4.5">452.8</period>
+      <period errorminus="-4.5" errorplus="2.1">452.8</period>
+      <radius errorminus="-0.08" errorplus="0.08">4.9</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>24 Sex b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.009" errorplus="0.004">1.333</semimajoraxis>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.08">4.9</radius>
   </star>
-  <distance errorplus="4.57" errorminus="-5.21">74.79</distance>
   <declination>00 54 08</declination>
 </system>
 

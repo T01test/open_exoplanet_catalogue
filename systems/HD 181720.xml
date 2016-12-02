@@ -1,23 +1,23 @@
 <system>
-  <name>HD 181720</name>
   <rightascension>19 43 14</rightascension>
+  <distance errorminus="-4.42" errorplus="3.82">55.93</distance>
+  <name>HD 181720</name>
   <star>
-    <name>HD 181720</name>
-    <radius>1.39</radius>
+    <temperature errorminus="-18.0" errorplus="18.0">5781.0</temperature>
     <mass>0.92</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">5781.0</temperature>
+    <name>HD 181720</name>
     <planet>
-      <name>HD 181720 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius>1.39</radius>
-      <semimajoraxis>1.78</semimajoraxis>
       <eccentricity>0.26</eccentricity>
-      <period errorplus="14.0" errorminus="-14.0">956.0</period>
+      <period errorminus="-14.0" errorplus="14.0">956.0</period>
+      <radius>1.39</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 181720 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis>1.78</semimajoraxis>
     </planet>
+    <radius>1.39</radius>
   </star>
-  <distance errorplus="3.82" errorminus="-4.42">55.93</distance>
   <declination>-32 55 08</declination>
 </system>
 

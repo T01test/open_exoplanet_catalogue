@@ -1,23 +1,23 @@
 <system>
-  <name>HD 178911 B</name>
   <rightascension>19 15 46</rightascension>
+  <distance errorminus="-11.0" errorplus="11.0">47.0</distance>
+  <name>HD 178911 B</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5668.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.01</mass>
     <name>HD 178911 B</name>
-    <radius/>
-    <mass errorplus="0.06" errorminus="-0.06">1.01</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5668.0</temperature>
     <planet>
-      <name>HD 178911 B b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.006" errorminus="-0.006">0.339</semimajoraxis>
       <eccentricity>0.114</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">71.5</period>
+      <period errorminus="-0.0" errorplus="0.0">71.5</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 178911 B b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.006" errorplus="0.006">0.339</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="11.0" errorminus="-11.0">47.0</distance>
   <declination>34 35 59</declination>
 </system>
 

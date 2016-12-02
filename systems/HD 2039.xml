@@ -1,23 +1,23 @@
 <system>
-  <name>HD 2039</name>
   <rightascension>00 05 04</rightascension>
+  <distance errorminus="-10.15" errorplus="8.28">89.85</distance>
+  <name>HD 2039</name>
   <star>
-    <name>HD 2039</name>
-    <radius/>
-    <mass>1.17</mass>
     <temperature>5941.0</temperature>
+    <mass>1.17</mass>
+    <name>HD 2039</name>
     <planet>
-      <name>HD 2039 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-08-21</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.13" errorminus="-0.13">2.23</semimajoraxis>
       <eccentricity>0.715</eccentricity>
-      <period errorplus="23.0" errorminus="-23.0">1120.0</period>
+      <period errorminus="-23.0" errorplus="23.0">1120.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 2039 b</name>
+      <lastupdate>2014-08-21</lastupdate>
+      <semimajoraxis errorminus="-0.13" errorplus="0.13">2.23</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="8.28" errorminus="-10.15">89.85</distance>
   <declination>-56 39 00</declination>
 </system>
 

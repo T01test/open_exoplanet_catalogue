@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-951</name>
   <rightascension>19 44 15</rightascension>
+  <distance errorminus="-20.71" errorplus="18.81">408.0</distance>
+  <name>Kepler-951</name>
   <star>
+    <temperature errorminus="-91.65" errorplus="86.05">4834.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.77</mass>
     <name>Kepler-951</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.73</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.77</mass>
-    <temperature errorplus="86.05" errorminus="-91.65">4834.0</temperature>
     <planet>
-      <name>Kepler-951 b</name>
+      <period errorminus="-0.0" errorplus="0.0">71.5</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.73</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.73</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">71.5</period>
       <inclination/>
+      <name>Kepler-951 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.73</radius>
   </star>
-  <distance errorplus="18.81" errorminus="-20.71">408.0</distance>
   <declination>38 06 52</declination>
 </system>
 

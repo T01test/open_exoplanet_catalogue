@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2005-BLG-169L</name>
   <rightascension>18 31 19</rightascension>
+  <distance errorminus="-400.0" errorplus="400.0">4100.0</distance>
+  <name>OGLE 2005-BLG-169L</name>
   <star>
-    <name>OGLE 2005-BLG-169L</name>
-    <radius/>
-    <mass errorplus="0.02" errorminus="-0.02">0.69</mass>
     <temperature/>
+    <mass errorminus="-0.02" errorplus="0.02">0.69</mass>
+    <name>OGLE 2005-BLG-169L</name>
     <planet>
-      <name>OGLE 2005-BLG-169L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2015-11-19</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.3" errorminus="-0.3">3.5</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2005-BLG-169L b</name>
+      <lastupdate>2015-11-19</lastupdate>
+      <semimajoraxis errorminus="-0.3" errorplus="0.3">3.5</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="400.0" errorminus="-400.0">4100.0</distance>
   <declination>-30 43 57</declination>
 </system>
 

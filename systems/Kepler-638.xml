@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-638</name>
   <rightascension>18 55 09</rightascension>
+  <distance errorminus="-41.61" errorplus="137.23">426.0</distance>
+  <name>Kepler-638</name>
   <star>
+    <temperature errorminus="-59.39" errorplus="50.1">5382.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.88</mass>
     <name>Kepler-638</name>
-    <radius errorplus="0.29" errorminus="-0.09">0.93</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.88</mass>
-    <temperature errorplus="50.1" errorminus="-59.39">5382.0</temperature>
     <planet>
-      <name>Kepler-638 b</name>
+      <period errorminus="-0.0" errorplus="0.0">6.1</period>
+      <radius errorminus="-0.09" errorplus="0.29">0.93</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.29" errorminus="-0.09">0.93</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
       <inclination/>
+      <name>Kepler-638 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.29">0.93</radius>
   </star>
-  <distance errorplus="137.23" errorminus="-41.61">426.0</distance>
   <declination>41 37 01</declination>
 </system>
 

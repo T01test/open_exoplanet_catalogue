@@ -1,23 +1,23 @@
 <system>
-  <name>HD 224538</name>
   <rightascension>23 42 56</rightascension>
+  <distance errorminus="-4.41" errorplus="4.41">77.76</distance>
+  <name>HD 224538</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6097.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.34</mass>
     <name>HD 224538</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.54</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.34</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6097.0</temperature>
     <planet>
-      <name>HD 224538 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-11-10</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.54</radius>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">2.28</semimajoraxis>
       <eccentricity>0.464</eccentricity>
-      <period errorplus="5.1" errorminus="-5.1">1189.1</period>
+      <period errorminus="-5.1" errorplus="5.1">1189.1</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.54</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 224538 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">2.28</semimajoraxis>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.54</radius>
   </star>
-  <distance errorplus="4.41" errorminus="-4.41">77.76</distance>
   <declination>-61 35 12</declination>
 </system>
 

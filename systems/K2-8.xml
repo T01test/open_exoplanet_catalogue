@@ -1,31 +1,31 @@
 <system>
-  <name>K2-8</name>
   <rightascension>11 47 37</rightascension>
-  <star>
-    <name>K2-8</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.78</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">4870.0</temperature>
-    <planet>
-      <name>K2-8 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0532</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.1</period>
-      <inclination errorplus="2.48" errorminus="-2.48">86.7</inclination>
-    </planet>
-    <planet>
-      <name>K2-8 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0856</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">10.4</period>
-      <inclination errorplus="2.56" errorminus="-1.37">86.42</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-8</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">4870.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.78</mass>
+    <name>K2-8</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.1</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.48" errorplus="2.48">86.7</inclination>
+      <name>K2-8 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0532</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.4</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.37" errorplus="2.56">86.42</inclination>
+      <name>K2-8 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0014" errorplus="0.0014">0.0856</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+  </star>
   <declination>00 17 03</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 195019</name>
   <rightascension>20 04 39</rightascension>
+  <distance errorminus="-1.28" errorplus="1.2">37.35</distance>
+  <name>HD 195019</name>
   <star>
-    <name>HD 195019</name>
-    <radius/>
-    <mass>1.07</mass>
     <temperature>5788.0</temperature>
+    <mass>1.07</mass>
+    <name>HD 195019</name>
     <planet>
-      <name>HD 195019 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.008" errorminus="-0.008">0.1388</semimajoraxis>
       <eccentricity>0.0138</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">18.2</period>
+      <period errorminus="-0.0" errorplus="0.0">18.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 195019 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.008" errorplus="0.008">0.1388</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.2" errorminus="-1.28">37.35</distance>
   <declination>18 46 10</declination>
 </system>
 

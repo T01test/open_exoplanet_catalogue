@@ -1,23 +1,23 @@
 <system>
-  <name>HD 121504</name>
   <rightascension>13 19 18</rightascension>
+  <distance errorminus="-1.87" errorplus="1.72">44.37</distance>
+  <name>HD 121504</name>
   <star>
-    <name>HD 121504</name>
-    <radius/>
-    <mass>1.18</mass>
     <temperature>6075.0</temperature>
+    <mass>1.18</mass>
+    <name>HD 121504</name>
     <planet>
-      <name>HD 121504 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>0.33</semimajoraxis>
       <eccentricity>0.03</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">63.3</period>
+      <period errorminus="-0.0" errorplus="0.0">63.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 121504 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.33</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.72" errorminus="-1.87">44.37</distance>
   <declination>-56 02 24</declination>
 </system>
 

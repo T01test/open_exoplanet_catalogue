@@ -1,23 +1,23 @@
 <system>
-  <name>BD+14 4559</name>
   <rightascension>21 23 59</rightascension>
+  <distance errorminus="-4.38" errorplus="3.73">50.03</distance>
+  <name>BD+14 4559</name>
   <star>
+    <temperature errorminus="-20.0" errorplus="20.0">5008.0</temperature>
+    <mass errorminus="-0.15" errorplus="0.15">0.86</mass>
     <name>BD+14 4559</name>
-    <radius errorplus="0.2" errorminus="-0.2">0.95</radius>
-    <mass errorplus="0.15" errorminus="-0.15">0.86</mass>
-    <temperature errorplus="20.0" errorminus="-20.0">5008.0</temperature>
     <planet>
-      <name>BD+14 4559 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.2" errorminus="-0.2">0.95</radius>
-      <semimajoraxis>0.777</semimajoraxis>
       <eccentricity>0.29</eccentricity>
-      <period errorplus="1.0" errorminus="-1.0">268.9</period>
+      <period errorminus="-1.0" errorplus="1.0">268.9</period>
+      <radius errorminus="-0.2" errorplus="0.2">0.95</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>BD+14 4559 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.777</semimajoraxis>
     </planet>
+    <radius errorminus="-0.2" errorplus="0.2">0.95</radius>
   </star>
-  <distance errorplus="3.73" errorminus="-4.38">50.03</distance>
   <declination>14 41 21</declination>
 </system>
 

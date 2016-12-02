@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-879</name>
   <rightascension>19 48 23</rightascension>
+  <distance errorminus="-75.25" errorplus="162.65">772.0</distance>
+  <name>Kepler-879</name>
   <star>
+    <temperature errorminus="-120.23" errorplus="96.05">5792.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.02</mass>
     <name>Kepler-879</name>
-    <radius errorplus="0.22" errorminus="-0.1">1.02</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
-    <temperature errorplus="96.05" errorminus="-120.23">5792.0</temperature>
     <planet>
-      <name>Kepler-879 b</name>
+      <period errorminus="-0.0" errorplus="0.0">33.4</period>
+      <radius errorminus="-0.1" errorplus="0.22">1.02</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.22" errorminus="-0.1">1.02</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">33.4</period>
       <inclination/>
+      <name>Kepler-879 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.22">1.02</radius>
   </star>
-  <distance errorplus="162.65" errorminus="-75.25">772.0</distance>
   <declination>50 54 35</declination>
 </system>
 

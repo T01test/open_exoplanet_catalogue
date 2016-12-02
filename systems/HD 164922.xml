@@ -1,33 +1,33 @@
 <system>
-  <name>HD 164922</name>
   <rightascension>18 37 42</rightascension>
+  <distance errorminus="-0.27" errorplus="0.27">22.13</distance>
+  <name>HD 164922</name>
   <star>
+    <temperature errorminus="-32.0" errorplus="32.0">5293.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">0.87</mass>
     <name>HD 164922</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-    <mass errorplus="0.01" errorminus="-0.01">0.87</mass>
-    <temperature errorplus="32.0" errorminus="-32.0">5293.0</temperature>
     <planet>
-      <name>HD 164922 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-      <semimajoraxis errorplus="0.012" errorminus="-0.012">2.115</semimajoraxis>
       <eccentricity>0.126</eccentricity>
-      <period errorplus="5.6" errorminus="-5.5">1201.1</period>
+      <period errorminus="-5.5" errorplus="5.6">1201.1</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 164922 b</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis errorminus="-0.012" errorplus="0.012">2.115</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 164922 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-      <semimajoraxis errorplus="0.0015" errorminus="-0.0015">0.3351</semimajoraxis>
       <eccentricity>0.22</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">75.8</period>
+      <period errorminus="-0.1" errorplus="0.1">75.8</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 164922 c</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis errorminus="-0.0015" errorplus="0.0015">0.3351</semimajoraxis>
     </planet>
+    <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
   </star>
-  <distance errorplus="0.27" errorminus="-0.27">22.13</distance>
   <declination>26 18 46</declination>
 </system>
 

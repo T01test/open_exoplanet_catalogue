@@ -1,23 +1,23 @@
 <system>
-  <name>HD 75289</name>
   <rightascension>08 55 05</rightascension>
+  <distance errorminus="-0.48" errorplus="0.46">28.94</distance>
+  <name>HD 75289</name>
   <star>
-    <name>HD 75289</name>
-    <radius/>
-    <mass>1.21</mass>
     <temperature>6095.0</temperature>
+    <mass>1.21</mass>
+    <name>HD 75289</name>
     <planet>
-      <name>HD 75289 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-16</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0028" errorminus="-0.0028">0.0482</semimajoraxis>
       <eccentricity>0.034</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <period errorminus="-0.0" errorplus="0.0">3.5</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 75289 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <semimajoraxis errorminus="-0.0028" errorplus="0.0028">0.0482</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.46" errorminus="-0.48">28.94</distance>
   <declination>-41 44 12</declination>
 </system>
 

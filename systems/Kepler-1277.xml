@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1277</name>
   <rightascension>19 06 08</rightascension>
+  <distance errorminus="-34.03" errorplus="40.99">606.0</distance>
+  <name>Kepler-1277</name>
   <star>
+    <temperature errorminus="-68.73" errorplus="82.21">5578.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.94</mass>
     <name>Kepler-1277</name>
-    <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
-    <temperature errorplus="82.21" errorminus="-68.73">5578.0</temperature>
     <planet>
-      <name>Kepler-1277 b</name>
+      <period errorminus="-0.0" errorplus="0.0">40.8</period>
+      <radius errorminus="-0.05" errorplus="0.06">0.92</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.05">0.92</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">40.8</period>
       <inclination/>
+      <name>Kepler-1277 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.06">0.92</radius>
   </star>
-  <distance errorplus="40.99" errorminus="-34.03">606.0</distance>
   <declination>40 34 20</declination>
 </system>
 

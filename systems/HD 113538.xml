@@ -1,33 +1,33 @@
 <system>
-  <name>HD 113538</name>
   <rightascension>13 14 22</rightascension>
-  <star>
-    <name>HD 113538</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.58</mass>
-    <temperature errorplus="145.0" errorminus="-145.0">4462.0</temperature>
-    <planet>
-      <name>HD 113538 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-01-08</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.24</semimajoraxis>
-      <eccentricity>0.14</eccentricity>
-      <period errorplus="8.4" errorminus="-7.4">663.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 113538 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-01-08</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.53</radius>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">2.44</semimajoraxis>
-      <eccentricity>0.2</eccentricity>
-      <period errorplus="25.0" errorminus="-22.0">1818.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>15.9</distance>
+  <name>HD 113538</name>
+  <star>
+    <temperature errorminus="-145.0" errorplus="145.0">4462.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.58</mass>
+    <name>HD 113538</name>
+    <planet>
+      <eccentricity>0.2</eccentricity>
+      <period errorminus="-22.0" errorplus="25.0">1818.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.53</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 113538 c</name>
+      <lastupdate>2015-01-08</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">2.44</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.14</eccentricity>
+      <period errorminus="-7.4" errorplus="8.4">663.2</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.53</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 113538 b</name>
+      <lastupdate>2015-01-08</lastupdate>
+      <semimajoraxis errorminus="-0.04" errorplus="0.04">1.24</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.53</radius>
+  </star>
   <declination>-52 26 34</declination>
 </system>
 

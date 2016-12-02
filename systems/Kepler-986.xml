@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-986</name>
   <rightascension>19 05 38</rightascension>
+  <distance errorminus="-44.89" errorplus="68.13">563.0</distance>
+  <name>Kepler-986</name>
   <star>
+    <temperature errorminus="-60.93" errorplus="74.24">5642.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.96</mass>
     <name>Kepler-986</name>
-    <radius errorplus="0.12" errorminus="-0.08">0.98</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.96</mass>
-    <temperature errorplus="74.24" errorminus="-60.93">5642.0</temperature>
     <planet>
-      <name>Kepler-986 b</name>
+      <period errorminus="-0.0" errorplus="0.0">56.4</period>
+      <radius errorminus="-0.08" errorplus="0.12">0.98</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.08">0.98</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">56.4</period>
       <inclination/>
+      <name>Kepler-986 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.12">0.98</radius>
   </star>
-  <distance errorplus="68.13" errorminus="-44.89">563.0</distance>
   <declination>42 53 47</declination>
 </system>
 

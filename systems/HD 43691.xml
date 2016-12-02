@@ -1,23 +1,23 @@
 <system>
-  <name>HD 43691</name>
   <rightascension>06 53 40</rightascension>
+  <distance errorminus="-11.3" errorplus="9.09">93.2</distance>
+  <name>HD 43691</name>
   <star>
+    <temperature errorminus="-40.0" errorplus="40.0">6200.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.38</mass>
     <name>HD 43691</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">1.38</mass>
-    <temperature errorplus="40.0" errorminus="-40.0">6200.0</temperature>
     <planet>
-      <name>HD 43691 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-01-22</lastupdate>
-      <radius/>
-      <semimajoraxis>0.24</semimajoraxis>
       <eccentricity>0.14</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">37.0</period>
+      <period errorminus="-0.0" errorplus="0.0">37.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 43691 b</name>
+      <lastupdate>2015-01-22</lastupdate>
+      <semimajoraxis>0.24</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="9.09" errorminus="-11.3">93.2</distance>
   <declination>41 05 32</declination>
 </system>
 

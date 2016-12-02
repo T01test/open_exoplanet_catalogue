@@ -1,23 +1,23 @@
 <system>
-  <name>HD 109749</name>
   <rightascension>12 19 05</rightascension>
+  <distance errorminus="-7.5" errorplus="5.98">59.03</distance>
+  <name>HD 109749</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5903.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.2</mass>
     <name>HD 109749</name>
-    <radius errorplus="0.1" errorminus="-0.1">1.24</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.2</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5903.0</temperature>
     <planet>
-      <name>HD 109749 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">1.24</radius>
-      <semimajoraxis>0.0635</semimajoraxis>
       <eccentricity>0.01</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.1" errorplus="0.1">1.24</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 109749 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.0635</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">1.24</radius>
   </star>
-  <distance errorplus="5.98" errorminus="-7.5">59.03</distance>
   <declination>-40 48 43</declination>
 </system>
 

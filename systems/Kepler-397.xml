@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-397</name>
   <rightascension>19 53 38</rightascension>
-  <star>
-    <name>Kepler-397</name>
-    <radius errorplus="0.07" errorminus="-0.07">0.77</radius>
-    <mass/>
-    <temperature errorplus="100.0" errorminus="-100.0">5307.0</temperature>
-    <planet>
-      <name>Kepler-397 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.77</radius>
-      <semimajoraxis>0.48</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">135.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-397 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">0.77</radius>
-      <semimajoraxis>0.144</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">22.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-397</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5307.0</temperature>
+    <mass/>
+    <name>Kepler-397</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">135.5</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-397 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.48</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">22.3</period>
+      <radius errorminus="-0.07" errorplus="0.07">0.77</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-397 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.144</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.07" errorplus="0.07">0.77</radius>
+  </star>
   <declination>42 22 49</declination>
 </system>
 

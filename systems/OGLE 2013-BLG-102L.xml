@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2013-BLG-102L</name>
   <rightascension>17 01 46</rightascension>
+  <distance errorminus="-310.0" errorplus="310.0">3040.0</distance>
+  <name>OGLE 2013-BLG-102L</name>
   <star>
-    <name>OGLE 2013-BLG-102L</name>
-    <radius/>
-    <mass errorplus="0.01" errorminus="-0.01">0.1</mass>
     <temperature/>
+    <mass errorminus="-0.01" errorplus="0.01">0.1</mass>
+    <name>OGLE 2013-BLG-102L</name>
     <planet>
-      <name>OGLE 2013-BLG-102L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2015-01-29</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.8</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2013-BLG-102L b</name>
+      <lastupdate>2015-01-29</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">0.8</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="310.0" errorminus="-310.0">3040.0</distance>
   <declination>-31 41 26</declination>
 </system>
 

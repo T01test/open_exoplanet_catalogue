@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-734</name>
   <rightascension>19 02 44</rightascension>
+  <distance errorminus="-22.51" errorplus="23.23">553.0</distance>
+  <name>Kepler-734</name>
   <star>
+    <temperature errorminus="-44.6" errorplus="51.69">5326.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.03">0.85</mass>
     <name>Kepler-734</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
-    <mass errorplus="0.03" errorminus="-0.04">0.85</mass>
-    <temperature errorplus="51.69" errorminus="-44.6">5326.0</temperature>
     <planet>
-      <name>Kepler-734 b</name>
+      <period errorminus="-0.0" errorplus="0.0">6.1</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.78</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.78</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">6.1</period>
       <inclination/>
+      <name>Kepler-734 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.78</radius>
   </star>
-  <distance errorplus="23.23" errorminus="-22.51">553.0</distance>
   <declination>46 01 38</declination>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-884</name>
   <rightascension>19 35 03</rightascension>
+  <distance errorminus="-14.26" errorplus="15.95">420.0</distance>
+  <name>Kepler-884</name>
   <star>
+    <temperature errorminus="-52.56" errorplus="62.9">5715.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.0</mass>
     <name>Kepler-884</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.94</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.0</mass>
-    <temperature errorplus="62.9" errorminus="-52.56">5715.0</temperature>
     <planet>
-      <name>Kepler-884 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.7</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.94</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.94</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
       <inclination/>
+      <name>Kepler-884 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.94</radius>
   </star>
-  <distance errorplus="15.95" errorminus="-14.26">420.0</distance>
   <declination>49 55 23</declination>
 </system>
 

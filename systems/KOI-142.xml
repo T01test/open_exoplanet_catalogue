@@ -1,33 +1,33 @@
 <system>
-  <name>KOI-142</name>
   <rightascension>19 08 53</rightascension>
+  <distance errorminus="-23.0" errorplus="25.0">339.0</distance>
+  <name>KOI-142</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5471.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.96</mass>
     <name>KOI-142</name>
-    <radius errorplus="0.03" errorminus="-0.04">0.88</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.96</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5471.0</temperature>
     <planet>
-      <name>KOI-142 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.04">0.88</radius>
-      <semimajoraxis/>
-      <eccentricity>0.05593</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">11.0</period>
-      <inclination errorplus="0.074" errorminus="-0.07">89.055</inclination>
-    </planet>
-    <planet>
-      <name>KOI-142 c</name>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.04">0.88</radius>
-      <semimajoraxis>0.15525</semimajoraxis>
       <eccentricity>0.05628</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">22.3</period>
-      <inclination errorplus="1.3" errorminus="-1.6">86.2</inclination>
+      <period errorminus="-0.0" errorplus="0.0">22.3</period>
+      <radius errorminus="-0.04" errorplus="0.03">0.88</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <inclination errorminus="-1.6" errorplus="1.3">86.2</inclination>
+      <name>KOI-142 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.15525</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.05593</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">11.0</period>
+      <radius errorminus="-0.04" errorplus="0.03">0.88</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.07" errorplus="0.074">89.055</inclination>
+      <name>KOI-142 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.03">0.88</radius>
   </star>
-  <distance errorplus="25.0" errorminus="-23.0">339.0</distance>
   <declination>40 40 09</declination>
 </system>
 

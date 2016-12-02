@@ -1,33 +1,33 @@
 <system>
-  <name>HAT-P-13</name>
   <rightascension>08 52 57</rightascension>
+  <distance errorminus="-12.0" errorplus="12.0">214.0</distance>
+  <name>HAT-P-13</name>
   <star>
+    <temperature errorminus="-90.0" errorplus="90.0">5653.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.05">1.22</mass>
     <name>HAT-P-13</name>
-    <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-    <mass errorplus="0.05" errorminus="-0.1">1.22</mass>
-    <temperature errorplus="90.0" errorminus="-90.0">5653.0</temperature>
     <planet>
-      <name>HAT-P-13 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-10-15</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <semimajoraxis/>
       <eccentricity>0.0133</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <inclination errorplus="0.68" errorminus="-0.68">83.4</inclination>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.08" errorplus="0.08">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.68" errorplus="0.68">83.4</inclination>
+      <name>HAT-P-13 b</name>
+      <lastupdate>2014-10-15</lastupdate>
+      <semimajoraxis/>
     </planet>
     <planet>
-      <name>HAT-P-13 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-16</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">1.56</radius>
-      <semimajoraxis/>
       <eccentricity>0.6616</eccentricity>
-      <period errorplus="0.2" errorminus="-0.2">446.3</period>
+      <period errorminus="-0.2" errorplus="0.2">446.3</period>
+      <radius errorminus="-0.08" errorplus="0.08">1.56</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HAT-P-13 c</name>
+      <lastupdate>2014-05-16</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.08">1.56</radius>
   </star>
-  <distance errorplus="12.0" errorminus="-12.0">214.0</distance>
   <declination>47 21 07</declination>
 </system>
 

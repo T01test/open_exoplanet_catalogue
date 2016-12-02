@@ -1,23 +1,23 @@
 <system>
-  <name>HD 102195</name>
   <rightascension>11 25 34</rightascension>
+  <distance errorminus="-1.01" errorplus="0.94">28.98</distance>
+  <name>HD 102195</name>
   <star>
-    <name>HD 102195</name>
-    <radius/>
+    <temperature errorminus="-34.0" errorplus="34.0">5291.0</temperature>
     <mass>0.87</mass>
-    <temperature errorplus="34.0" errorminus="-34.0">5291.0</temperature>
+    <name>HD 102195</name>
     <planet>
-      <name>HD 102195 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis/>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <period errorminus="-0.0" errorplus="0.0">4.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 102195 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.94" errorminus="-1.01">28.98</distance>
   <declination>02 49 17</declination>
 </system>
 

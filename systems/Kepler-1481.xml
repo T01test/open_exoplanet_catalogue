@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1481</name>
   <rightascension>19 26 20</rightascension>
+  <distance errorminus="-22.23" errorplus="21.56">493.0</distance>
+  <name>Kepler-1481</name>
   <star>
+    <temperature errorminus="-65.82" errorplus="52.54">4908.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.03">0.8</mass>
     <name>Kepler-1481</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-    <mass errorplus="0.03" errorminus="-0.04">0.8</mass>
-    <temperature errorplus="52.54" errorminus="-65.82">4908.0</temperature>
     <planet>
-      <name>Kepler-1481 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.9</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.75</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.9</period>
       <inclination/>
+      <name>Kepler-1481 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.75</radius>
   </star>
-  <distance errorplus="21.56" errorminus="-22.23">493.0</distance>
   <declination>49 43 52</declination>
 </system>
 

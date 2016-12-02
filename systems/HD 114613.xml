@@ -1,23 +1,23 @@
 <system>
-  <name>HD 114613</name>
   <rightascension>13 00 47</rightascension>
+  <distance errorminus="-0.34" errorplus="0.33">20.48</distance>
+  <name>HD 114613</name>
   <star>
-    <name>HD 114613</name>
-    <radius/>
+    <temperature errorminus="-17.0" errorplus="17.0">5729.0</temperature>
     <mass>1.36</mass>
-    <temperature errorplus="17.0" errorminus="-17.0">5729.0</temperature>
+    <name>HD 114613</name>
     <planet>
-      <name>HD 114613 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.13" errorminus="-0.13">5.16</semimajoraxis>
       <eccentricity>0.25</eccentricity>
-      <period errorplus="105.0" errorminus="-105.0">3827.0</period>
+      <period errorminus="-105.0" errorplus="105.0">3827.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 114613 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.13" errorplus="0.13">5.16</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.33" errorminus="-0.34">20.48</distance>
   <declination>-37 48 10</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>BD+20 1790</name>
   <rightascension>07 55 53</rightascension>
+  <distance errorminus="-4.0" errorplus="4.0">25.4</distance>
+  <name>BD+20 1790</name>
   <star>
-    <name>BD+20 1790</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.71</radius>
-    <mass errorplus="0.09" errorminus="-0.09">0.63</mass>
     <temperature>4410.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.09">0.63</mass>
+    <name>BD+20 1790</name>
     <planet>
-      <name>BD+20 1790 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.71</radius>
-      <semimajoraxis errorplus="0.005" errorminus="-0.006">0.066</semimajoraxis>
       <eccentricity>0.22</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <period errorminus="-0.0" errorplus="0.0">7.8</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.71</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>BD+20 1790 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis errorminus="-0.006" errorplus="0.005">0.066</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.71</radius>
   </star>
-  <distance errorplus="4.0" errorminus="-4.0">25.4</distance>
   <declination>20 24 58</declination>
 </system>
 

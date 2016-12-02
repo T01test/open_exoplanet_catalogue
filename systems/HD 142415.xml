@@ -1,23 +1,23 @@
 <system>
-  <name>HD 142415</name>
   <rightascension>15 25 11</rightascension>
+  <distance errorminus="-1.03" errorplus="0.98">34.57</distance>
+  <name>HD 142415</name>
   <star>
-    <name>HD 142415</name>
-    <radius/>
-    <mass>1.03</mass>
     <temperature>6045.0</temperature>
+    <mass>1.03</mass>
+    <name>HD 142415</name>
     <planet>
-      <name>HD 142415 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>1.05</semimajoraxis>
       <eccentricity>0.5</eccentricity>
-      <period errorplus="1.6" errorminus="-1.6">386.3</period>
+      <period errorminus="-1.6" errorplus="1.6">386.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 142415 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>1.05</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.98" errorminus="-1.03">34.57</distance>
   <declination>-60 12 00</declination>
 </system>
 

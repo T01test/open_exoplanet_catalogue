@@ -1,33 +1,33 @@
 <system>
-  <name>HD 159243</name>
   <rightascension>17 20 23</rightascension>
+  <distance errorminus="-6.43" errorplus="5.42">68.59</distance>
+  <name>HD 159243</name>
   <star>
+    <temperature errorminus="-65.0" errorplus="65.0">6123.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.12</mass>
     <name>HD 159243</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.12</mass>
-    <temperature errorplus="65.0" errorminus="-65.0">6123.0</temperature>
     <planet>
-      <name>HD 159243 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.8</semimajoraxis>
       <eccentricity>0.075</eccentricity>
-      <period errorplus="4.9" errorminus="-4.9">248.4</period>
+      <period errorminus="-4.9" errorplus="4.9">248.4</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.12</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 159243 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.02" errorplus="0.02">0.8</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 159243 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.12</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.11</semimajoraxis>
       <eccentricity>0.02</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">12.6</period>
+      <period errorminus="-0.0" errorplus="0.0">12.6</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.12</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 159243 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.11</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.12</radius>
   </star>
-  <distance errorplus="5.42" errorminus="-6.43">68.59</distance>
   <declination>05 42 02</declination>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1085</name>
   <rightascension>19 28 39</rightascension>
+  <distance errorminus="-156.98" errorplus="411.02">1518.0</distance>
+  <name>Kepler-1085</name>
   <star>
+    <temperature errorminus="-89.9" errorplus="83.83">6000.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.09">1.11</mass>
     <name>Kepler-1085</name>
-    <radius errorplus="0.31" errorminus="-0.11">1.14</radius>
-    <mass errorplus="0.09" errorminus="-0.06">1.11</mass>
-    <temperature errorplus="83.83" errorminus="-89.9">6000.0</temperature>
     <planet>
-      <name>Kepler-1085 b</name>
+      <period errorminus="-0.0" errorplus="0.0">219.3</period>
+      <radius errorminus="-0.11" errorplus="0.31">1.14</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.31" errorminus="-0.11">1.14</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">219.3</period>
       <inclination/>
+      <name>Kepler-1085 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.11" errorplus="0.31">1.14</radius>
   </star>
-  <distance errorplus="411.02" errorminus="-156.98">1518.0</distance>
   <declination>46 08 28</declination>
 </system>
 

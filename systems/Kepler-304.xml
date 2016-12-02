@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-304</name>
   <rightascension>19 26 30</rightascension>
-  <star>
-    <name>Kepler-304</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.69</radius>
-    <mass>0.8</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4731.0</temperature>
-    <planet>
-      <name>Kepler-304 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.69</radius>
-      <semimajoraxis>0.039</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-304 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.69</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">1.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-304 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.69</radius>
-      <semimajoraxis>0.08</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">9.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-304 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.69</radius>
-      <semimajoraxis>0.054</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-304</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4731.0</temperature>
+    <mass>0.8</mass>
+    <name>Kepler-304</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.3</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.69</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-304 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.054</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">1.5</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.69</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-304 e</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">9.7</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.69</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-304 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.08</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.3</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.69</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-304 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.039</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.69</radius>
+  </star>
   <declination>40 33 27</declination>
 </system>
 

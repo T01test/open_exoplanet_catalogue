@@ -1,22 +1,22 @@
 <system>
-  <name>POTS-1</name>
   <rightascension>13 36 31</rightascension>
+  <distance errorminus="-600.0" errorplus="600.0">1200.0</distance>
+  <name>POTS-1</name>
   <star>
+    <temperature errorminus="-200.0" errorplus="200.0">4400.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.69</mass>
     <name>POTS-1</name>
-    <radius errorplus="0.02" errorminus="-0.03">0.59</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.69</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">4400.0</temperature>
     <planet>
-      <name>POTS-1 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.2</period>
+      <radius errorminus="-0.03" errorplus="0.02">0.59</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.34" errorplus="0.47">88.06</inclination>
+      <name>POTS-1 b</name>
       <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.03">0.59</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.03734</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <inclination errorplus="0.47" errorminus="-0.34">88.06</inclination>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.03734</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.02">0.59</radius>
   </star>
-  <distance errorplus="600.0" errorminus="-600.0">1200.0</distance>
   <declination>-66 34 52</declination>
 </system>
 

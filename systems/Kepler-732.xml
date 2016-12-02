@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-732</name>
   <rightascension>18 43 55</rightascension>
+  <distance errorminus="-13.53" errorplus="11.13">150.0</distance>
+  <name>Kepler-732</name>
   <star>
+    <temperature errorminus="-37.03" errorplus="35.05">3631.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.49</mass>
     <name>Kepler-732</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.46</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.49</mass>
-    <temperature errorplus="35.05" errorminus="-37.03">3631.0</temperature>
     <planet>
-      <name>Kepler-732 c</name>
+      <period errorminus="-0.0" errorplus="0.0">9.5</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.46</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.46</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">0.9</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-732 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.46</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">9.5</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">0.9</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.46</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-732 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.46</radius>
   </star>
-  <distance errorplus="11.13" errorminus="-13.53">150.0</distance>
   <declination>45 57 31</declination>
 </system>
 

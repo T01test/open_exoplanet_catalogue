@@ -1,40 +1,40 @@
 <system>
-  <name>KIC 10001893</name>
   <rightascension>19 23 21</rightascension>
-  <star>
-    <name>KIC 10001893</name>
-    <radius/>
-    <mass/>
-    <temperature errorplus="200.0" errorminus="-500.0">27500.0</temperature>
-    <planet>
-      <name>KIC 10001893 d</name>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-      <lastupdate>2014-10-03</lastupdate>
-      <radius/>
-      <semimajoraxis/>
-      <period>0.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>KIC 10001893 c</name>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-      <lastupdate>2014-10-03</lastupdate>
-      <radius/>
-      <semimajoraxis/>
-      <period>0.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>KIC 10001893 b</name>
-      <discoverymethod>orbital Brightness Modulation</discoverymethod>
-      <lastupdate>2014-10-03</lastupdate>
-      <radius/>
-      <semimajoraxis/>
-      <period>0.2</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>KIC 10001893</name>
+  <star>
+    <temperature errorminus="-500.0" errorplus="200.0">27500.0</temperature>
+    <mass/>
+    <name>KIC 10001893</name>
+    <planet>
+      <period>0.8</period>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <name>KIC 10001893 d</name>
+      <lastupdate>2014-10-03</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>0.3</period>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <name>KIC 10001893 c</name>
+      <lastupdate>2014-10-03</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>0.2</period>
+      <radius/>
+      <discoverymethod>orbital Brightness Modulation</discoverymethod>
+      <inclination/>
+      <name>KIC 10001893 b</name>
+      <lastupdate>2014-10-03</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius/>
+  </star>
   <declination>46 59 04</declination>
 </system>
 

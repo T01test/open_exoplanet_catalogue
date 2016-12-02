@@ -1,23 +1,23 @@
 <system>
-  <name>HD 24040</name>
   <rightascension>03 35 44</rightascension>
+  <distance errorminus="-2.34" errorplus="2.13">46.51</distance>
+  <name>HD 24040</name>
   <star>
-    <name>HD 24040</name>
-    <radius/>
+    <temperature errorminus="-44.0" errorplus="44.0">5853.0</temperature>
     <mass>1.18</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5853.0</temperature>
+    <name>HD 24040</name>
     <planet>
-      <name>HD 24040 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.38" errorminus="-0.38">4.92</semimajoraxis>
       <eccentricity>0.04</eccentricity>
-      <period errorplus="169.0" errorminus="-171.0">3668.0</period>
+      <period errorminus="-171.0" errorplus="169.0">3668.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 24040 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.38" errorplus="0.38">4.92</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.13" errorminus="-2.34">46.51</distance>
   <declination>17 28 34</declination>
 </system>
 

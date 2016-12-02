@@ -1,23 +1,23 @@
 <system>
-  <name>HD 139357</name>
   <rightascension>15 49 02</rightascension>
+  <distance errorminus="-8.51" errorplus="7.46">121.36</distance>
+  <name>HD 139357</name>
   <star>
+    <temperature errorminus="-70.0" errorplus="70.0">4700.0</temperature>
+    <mass errorminus="-0.24" errorplus="0.24">1.35</mass>
     <name>HD 139357</name>
-    <radius errorplus="0.75" errorminus="-0.75">11.47</radius>
-    <mass errorplus="0.24" errorminus="-0.24">1.35</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">4700.0</temperature>
     <planet>
-      <name>HD 139357 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.75" errorminus="-0.75">11.47</radius>
-      <semimajoraxis errorplus="0.2" errorminus="-0.2">2.36</semimajoraxis>
       <eccentricity>0.1</eccentricity>
-      <period errorplus="9.0" errorminus="-9.0">1125.7</period>
+      <period errorminus="-9.0" errorplus="9.0">1125.7</period>
+      <radius errorminus="-0.75" errorplus="0.75">11.47</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 139357 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.2" errorplus="0.2">2.36</semimajoraxis>
     </planet>
+    <radius errorminus="-0.75" errorplus="0.75">11.47</radius>
   </star>
-  <distance errorplus="7.46" errorminus="-8.51">121.36</distance>
   <declination>53 55 19</declination>
 </system>
 

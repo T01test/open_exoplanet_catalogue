@@ -1,23 +1,23 @@
 <system>
-  <name>BD+48 738</name>
   <rightascension>02 42 36</rightascension>
-  <star>
-    <name>BD+48 738</name>
-    <radius errorplus="1.0" errorminus="-1.0">11.0</radius>
-    <mass errorplus="0.39" errorminus="-0.39">0.74</mass>
-    <temperature errorplus="15.0" errorminus="-15.0">4414.0</temperature>
-    <planet>
-      <name>BD+48 738 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-08-13</lastupdate>
-      <radius errorplus="1.0" errorminus="-1.0">11.0</radius>
-      <semimajoraxis>1.0</semimajoraxis>
-      <eccentricity>0.2</eccentricity>
-      <period errorplus="5.5" errorminus="-5.5">392.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>BD+48 738</name>
+  <star>
+    <temperature errorminus="-15.0" errorplus="15.0">4414.0</temperature>
+    <mass errorminus="-0.39" errorplus="0.39">0.74</mass>
+    <name>BD+48 738</name>
+    <planet>
+      <eccentricity>0.2</eccentricity>
+      <period errorminus="-5.5" errorplus="5.5">392.6</period>
+      <radius errorminus="-1.0" errorplus="1.0">11.0</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>BD+48 738 b</name>
+      <lastupdate>2015-08-13</lastupdate>
+      <semimajoraxis>1.0</semimajoraxis>
+    </planet>
+    <radius errorminus="-1.0" errorplus="1.0">11.0</radius>
+  </star>
   <declination>49 35 13</declination>
 </system>
 

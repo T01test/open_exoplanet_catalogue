@@ -1,23 +1,23 @@
 <system>
-  <name>HD 28185</name>
   <rightascension>04 36 34</rightascension>
+  <distance errorminus="-1.7" errorplus="1.7">39.6</distance>
+  <name>HD 28185</name>
   <star>
+    <temperature errorminus="-75.0" errorplus="75.0">5546.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.98</mass>
     <name>HD 28185</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5546.0</temperature>
     <planet>
-      <name>HD 28185 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.019" errorminus="-0.019">1.032</semimajoraxis>
       <eccentricity>0.092</eccentricity>
-      <period errorplus="0.6" errorminus="-0.6">385.9</period>
+      <period errorminus="-0.6" errorplus="0.6">385.9</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 28185 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.019" errorplus="0.019">1.032</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.7" errorminus="-1.7">39.6</distance>
   <declination>-10 33 02</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 114386</name>
   <rightascension>13 39 57</rightascension>
+  <distance errorminus="-1.08" errorplus="1.0">28.04</distance>
+  <name>HD 114386</name>
   <star>
-    <name>HD 114386</name>
-    <radius/>
-    <mass>0.68</mass>
     <temperature>4804.0</temperature>
+    <mass>0.68</mass>
+    <name>HD 114386</name>
     <planet>
-      <name>HD 114386 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>1.65</semimajoraxis>
       <eccentricity>0.23</eccentricity>
-      <period errorplus="15.6" errorminus="-15.6">937.7</period>
+      <period errorminus="-15.6" errorplus="15.6">937.7</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 114386 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>1.65</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.0" errorminus="-1.08">28.04</distance>
   <declination>-35 03 17</declination>
 </system>
 

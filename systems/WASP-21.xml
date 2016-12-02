@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-21</name>
   <rightascension>23 29 33</rightascension>
+  <distance errorminus="-30.0" errorplus="50.0">242.0</distance>
+  <name>WASP-21</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5800.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">0.89</mass>
     <name>WASP-21</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-    <mass errorplus="0.08" errorminus="-0.08">0.89</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5800.0</temperature>
     <planet>
-      <name>WASP-21 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-      <semimajoraxis errorplus="0.00041" errorminus="-0.00044">0.052</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <inclination errorplus="0.84" errorminus="-0.7">88.75</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.3</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.14</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.7" errorplus="0.84">88.75</inclination>
+      <name>WASP-21 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00044" errorplus="0.00041">0.052</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.14</radius>
   </star>
-  <distance errorplus="50.0" errorminus="-30.0">242.0</distance>
   <declination>18 23 45</declination>
 </system>
 

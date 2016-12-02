@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-812</name>
   <rightascension>19 51 19</rightascension>
+  <distance errorminus="-230.86" errorplus="547.32">1482.0</distance>
+  <name>Kepler-812</name>
   <star>
+    <temperature errorminus="-102.89" errorplus="124.82">6761.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.21">1.45</mass>
     <name>Kepler-812</name>
-    <radius errorplus="0.64" errorminus="-0.26">1.71</radius>
-    <mass errorplus="0.21" errorminus="-0.14">1.45</mass>
-    <temperature errorplus="124.82" errorminus="-102.89">6761.0</temperature>
     <planet>
-      <name>Kepler-812 b</name>
+      <period errorminus="-0.0" errorplus="0.0">10.1</period>
+      <radius errorminus="-0.26" errorplus="0.64">1.71</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.64" errorminus="-0.26">1.71</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">10.1</period>
       <inclination/>
+      <name>Kepler-812 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.26" errorplus="0.64">1.71</radius>
   </star>
-  <distance errorplus="547.32" errorminus="-230.86">1482.0</distance>
   <declination>48 12 30</declination>
 </system>
 

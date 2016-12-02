@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-754</name>
   <rightascension>19 15 14</rightascension>
+  <distance errorminus="-141.53" errorplus="281.57">1192.0</distance>
+  <name>Kepler-754</name>
   <star>
+    <temperature errorminus="-181.97" errorplus="126.07">5935.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">1.06</mass>
     <name>Kepler-754</name>
-    <radius errorplus="0.26" errorminus="-0.12">1.08</radius>
-    <mass errorplus="0.08" errorminus="-0.08">1.06</mass>
-    <temperature errorplus="126.07" errorminus="-181.97">5935.0</temperature>
     <planet>
-      <name>Kepler-754 b</name>
+      <period errorminus="-0.0" errorplus="0.0">14.6</period>
+      <radius errorminus="-0.12" errorplus="0.26">1.08</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.12">1.08</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">14.6</period>
       <inclination/>
+      <name>Kepler-754 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.12" errorplus="0.26">1.08</radius>
   </star>
-  <distance errorplus="281.57" errorminus="-141.53">1192.0</distance>
   <declination>37 50 46</declination>
 </system>
 

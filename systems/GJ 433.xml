@@ -1,23 +1,23 @@
 <system>
-  <name>GJ 433</name>
   <rightascension>11 51 44</rightascension>
+  <distance errorminus="-0.15" errorplus="0.14">9.04</distance>
+  <name>GJ 433</name>
   <star>
-    <name>GJ 433</name>
-    <radius/>
-    <mass>0.48</mass>
     <temperature>3600.0</temperature>
+    <mass>0.48</mass>
+    <name>GJ 433</name>
     <planet>
-      <name>GJ 433 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>0.058</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <period errorminus="-0.0" errorplus="0.0">7.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>GJ 433 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.058</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.14" errorminus="-0.15">9.04</distance>
   <declination>-32 32 23</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 75898</name>
   <rightascension>08 27 42</rightascension>
+  <distance errorminus="-7.68" errorplus="6.45">80.58</distance>
+  <name>HD 75898</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">6021.0</temperature>
+    <mass errorminus="-0.13" errorplus="0.13">1.28</mass>
     <name>HD 75898</name>
-    <radius errorplus="0.18" errorminus="-0.18">1.6</radius>
-    <mass errorplus="0.13" errorminus="-0.13">1.28</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">6021.0</temperature>
     <planet>
-      <name>HD 75898 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-16</lastupdate>
-      <radius errorplus="0.18" errorminus="-0.18">1.6</radius>
-      <semimajoraxis>1.19</semimajoraxis>
       <eccentricity>0.1</eccentricity>
-      <period errorplus="5.7" errorminus="-5.7">418.2</period>
+      <period errorminus="-5.7" errorplus="5.7">418.2</period>
+      <radius errorminus="-0.18" errorplus="0.18">1.6</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 75898 b</name>
+      <lastupdate>2015-04-16</lastupdate>
+      <semimajoraxis>1.19</semimajoraxis>
     </planet>
+    <radius errorminus="-0.18" errorplus="0.18">1.6</radius>
   </star>
-  <distance errorplus="6.45" errorminus="-7.68">80.58</distance>
   <declination>33 03 24</declination>
 </system>
 

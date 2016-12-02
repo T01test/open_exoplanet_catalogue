@@ -1,33 +1,33 @@
 <system>
-  <name>TYC 1422-614-1</name>
   <rightascension>10 16 40</rightascension>
+  <distance errorminus="-181.0" errorplus="181.0">759.0</distance>
+  <name>TYC 1422-614-1</name>
   <star>
+    <temperature errorminus="-45.0" errorplus="45.0">4806.0</temperature>
+    <mass errorminus="-0.18" errorplus="0.18">1.15</mass>
     <name>TYC 1422-614-1</name>
-    <radius errorplus="1.38" errorminus="-1.38">6.85</radius>
-    <mass errorplus="0.18" errorminus="-0.18">1.15</mass>
-    <temperature errorplus="45.0" errorminus="-45.0">4806.0</temperature>
     <planet>
-      <name>TYC 1422-614-1 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-10-29</lastupdate>
-      <radius errorplus="1.38" errorminus="-1.38">6.85</radius>
-      <semimajoraxis errorplus="0.06" errorminus="-0.06">1.37</semimajoraxis>
       <eccentricity>0.048</eccentricity>
-      <period errorplus="1.2" errorminus="-1.2">559.3</period>
+      <period errorminus="-1.2" errorplus="1.2">559.3</period>
+      <radius errorminus="-1.38" errorplus="1.38">6.85</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>TYC 1422-614-1 c</name>
+      <lastupdate>2014-10-29</lastupdate>
+      <semimajoraxis errorminus="-0.06" errorplus="0.06">1.37</semimajoraxis>
     </planet>
     <planet>
-      <name>TYC 1422-614-1 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-10-29</lastupdate>
-      <radius errorplus="1.38" errorminus="-1.38">6.85</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.69</semimajoraxis>
       <eccentricity>0.06</eccentricity>
-      <period errorplus="0.4" errorminus="-0.4">198.4</period>
+      <period errorminus="-0.4" errorplus="0.4">198.4</period>
+      <radius errorminus="-1.38" errorplus="1.38">6.85</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>TYC 1422-614-1 b</name>
+      <lastupdate>2014-10-29</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">0.69</semimajoraxis>
     </planet>
+    <radius errorminus="-1.38" errorplus="1.38">6.85</radius>
   </star>
-  <distance errorplus="181.0" errorminus="-181.0">759.0</distance>
   <declination>19 33 30</declination>
 </system>
 

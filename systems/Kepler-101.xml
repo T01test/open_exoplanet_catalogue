@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-101</name>
   <rightascension>18 15 19</rightascension>
-  <star>
-    <name>Kepler-101</name>
-    <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-    <mass errorplus="0.07" errorminus="-0.05">1.17</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5667.0</temperature>
-    <planet>
-      <name>Kepler-101 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-09-25</lastupdate>
-      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0684</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">6.0</period>
-      <inclination errorplus="3.4" errorminus="-3.1">84.6</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-101 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-09-25</lastupdate>
-      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.0008">0.0474</semimajoraxis>
-      <eccentricity>0.086</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
-      <inclination errorplus="1.73" errorminus="-1.53">85.82</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-101</name>
+  <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5667.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.07">1.17</mass>
+    <name>Kepler-101</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">6.0</period>
+      <radius errorminus="-0.2" errorplus="0.2">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-3.1" errorplus="3.4">84.6</inclination>
+      <name>Kepler-101 c</name>
+      <lastupdate>2014-09-25</lastupdate>
+      <semimajoraxis errorminus="-0.0014" errorplus="0.0014">0.0684</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.086</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.5</period>
+      <radius errorminus="-0.2" errorplus="0.2">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.53" errorplus="1.73">85.82</inclination>
+      <name>Kepler-101 b</name>
+      <lastupdate>2014-09-25</lastupdate>
+      <semimajoraxis errorminus="-0.0008" errorplus="0.001">0.0474</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.2" errorplus="0.2">1.56</radius>
+  </star>
   <declination>48 21 18</declination>
 </system>
 

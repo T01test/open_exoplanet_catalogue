@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-178</name>
   <rightascension>19 06 03</rightascension>
-  <star>
-    <name>Kepler-178</name>
-    <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-    <mass/>
-    <temperature errorplus="200.0" errorminus="-200.0">5676.0</temperature>
-    <planet>
-      <name>Kepler-178 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-      <semimajoraxis>0.142</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">20.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-178 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-      <semimajoraxis>0.397</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">96.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-178 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-      <semimajoraxis>0.085</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">9.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-178</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">5676.0</temperature>
+    <mass/>
+    <name>Kepler-178</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">96.7</period>
+      <radius errorminus="-0.45" errorplus="0.45">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-178 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.397</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">9.6</period>
+      <radius errorminus="-0.45" errorplus="0.45">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-178 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.085</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">20.6</period>
+      <radius errorminus="-0.45" errorplus="0.45">1.07</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-178 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.142</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.45" errorplus="0.45">1.07</radius>
+  </star>
   <declination>46 53 47</declination>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1245</name>
   <rightascension>19 44 39</rightascension>
+  <distance errorminus="-52.28" errorplus="66.19">861.0</distance>
+  <name>Kepler-1245</name>
   <star>
+    <temperature errorminus="-101.98" errorplus="77.49">5306.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.86</mass>
     <name>Kepler-1245</name>
-    <radius errorplus="0.06" errorminus="-0.05">0.83</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
-    <temperature errorplus="77.49" errorminus="-101.98">5306.0</temperature>
     <planet>
-      <name>Kepler-1245 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.05" errorplus="0.06">0.83</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.05">0.83</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-1245 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.05">0.83</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.4</period>
+      <radius errorminus="-0.05" errorplus="0.06">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-1245 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.06">0.83</radius>
   </star>
-  <distance errorplus="66.19" errorminus="-52.28">861.0</distance>
   <declination>43 15 38</declination>
 </system>
 

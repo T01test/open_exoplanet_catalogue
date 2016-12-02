@@ -1,23 +1,23 @@
 <system>
-  <name>HD 152079</name>
   <rightascension>16 22 26</rightascension>
+  <distance errorminus="-10.56" errorplus="10.56">83.33</distance>
+  <name>HD 152079</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5726.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.1</mass>
     <name>HD 152079</name>
-    <radius errorplus="0.13" errorminus="-0.13">1.15</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.1</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5726.0</temperature>
     <planet>
-      <name>HD 152079 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-11-10</lastupdate>
-      <radius errorplus="0.13" errorminus="-0.13">1.15</radius>
-      <semimajoraxis errorplus="0.15" errorminus="-0.15">3.98</semimajoraxis>
       <eccentricity>0.52</eccentricity>
-      <period errorplus="52.0" errorminus="-52.0">2899.0</period>
+      <period errorminus="-52.0" errorplus="52.0">2899.0</period>
+      <radius errorminus="-0.13" errorplus="0.13">1.15</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 152079 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <semimajoraxis errorminus="-0.15" errorplus="0.15">3.98</semimajoraxis>
     </planet>
+    <radius errorminus="-0.13" errorplus="0.13">1.15</radius>
   </star>
-  <distance errorplus="10.56" errorminus="-10.56">83.33</distance>
   <declination>-46 19 58</declination>
 </system>
 

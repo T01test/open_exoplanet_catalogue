@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-231</name>
   <rightascension>19 58 24</rightascension>
-  <star>
-    <name>Kepler-231</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
-    <mass>0.58</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">3767.0</temperature>
-    <planet>
-      <name>Kepler-231 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
-      <semimajoraxis>0.114</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">19.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-231 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.49</radius>
-      <semimajoraxis>0.074</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">10.1</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-231</name>
+  <star>
+    <temperature errorminus="-150.0" errorplus="150.0">3767.0</temperature>
+    <mass>0.58</mass>
+    <name>Kepler-231</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">19.3</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-231 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.114</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">10.1</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-231 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.074</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.49</radius>
+  </star>
   <declination>50 31 54</declination>
 </system>
 

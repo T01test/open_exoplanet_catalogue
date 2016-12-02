@@ -1,23 +1,23 @@
 <system>
-  <name>HD 45350</name>
   <rightascension>06 11 25</rightascension>
+  <distance errorminus="-2.47" errorplus="2.24">48.95</distance>
+  <name>HD 45350</name>
   <star>
-    <name>HD 45350</name>
-    <radius/>
-    <mass>1.02</mass>
     <temperature>5616.0</temperature>
+    <mass>1.02</mass>
+    <name>HD 45350</name>
     <planet>
-      <name>HD 45350 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-09-18</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">1.92</semimajoraxis>
       <eccentricity>0.778</eccentricity>
-      <period errorplus="3.4" errorminus="-3.4">963.6</period>
+      <period errorminus="-3.4" errorplus="3.4">963.6</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 45350 b</name>
+      <lastupdate>2014-09-18</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">1.92</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.24" errorminus="-2.47">48.95</distance>
   <declination>38 57 46</declination>
 </system>
 

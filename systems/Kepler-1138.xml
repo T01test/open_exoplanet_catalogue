@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1138</name>
   <rightascension>19 53 57</rightascension>
+  <distance errorminus="-73.19" errorplus="152.35">1101.0</distance>
+  <name>Kepler-1138</name>
   <star>
+    <temperature errorminus="-65.24" errorplus="62.16">5582.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.95</mass>
     <name>Kepler-1138</name>
-    <radius errorplus="0.13" errorminus="-0.06">0.92</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.95</mass>
-    <temperature errorplus="62.16" errorminus="-65.24">5582.0</temperature>
     <planet>
-      <name>Kepler-1138 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.2</period>
+      <radius errorminus="-0.06" errorplus="0.13">0.92</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.13" errorminus="-0.06">0.92</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <inclination/>
+      <name>Kepler-1138 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.13">0.92</radius>
   </star>
-  <distance errorplus="152.35" errorminus="-73.19">1101.0</distance>
   <declination>48 18 26</declination>
 </system>
 

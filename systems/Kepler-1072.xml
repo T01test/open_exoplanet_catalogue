@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1072</name>
   <rightascension>19 02 39</rightascension>
+  <distance errorminus="-149.65" errorplus="433.82">976.0</distance>
+  <name>Kepler-1072</name>
   <star>
+    <temperature errorminus="-123.19" errorplus="102.85">6199.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.19">1.2</mass>
     <name>Kepler-1072</name>
-    <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
-    <mass errorplus="0.19" errorminus="-0.09">1.2</mass>
-    <temperature errorplus="102.85" errorminus="-123.19">6199.0</temperature>
     <planet>
-      <name>Kepler-1072 b</name>
+      <period errorminus="-0.0" errorplus="0.0">1.6</period>
+      <radius errorminus="-0.2" errorplus="0.6">1.32</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.6" errorminus="-0.2">1.32</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">1.6</period>
       <inclination/>
+      <name>Kepler-1072 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.2" errorplus="0.6">1.32</radius>
   </star>
-  <distance errorplus="433.82" errorminus="-149.65">976.0</distance>
   <declination>46 19 44</declination>
 </system>
 

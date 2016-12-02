@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-899</name>
   <rightascension>19 28 57</rightascension>
+  <distance errorminus="-107.0" errorplus="184.74">1038.0</distance>
+  <name>Kepler-899</name>
   <star>
+    <temperature errorminus="-192.07" errorplus="270.58">5595.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.08">0.93</mass>
     <name>Kepler-899</name>
-    <radius errorplus="0.15" errorminus="-0.09">0.91</radius>
-    <mass errorplus="0.08" errorminus="-0.07">0.93</mass>
-    <temperature errorplus="270.58" errorminus="-192.07">5595.0</temperature>
     <planet>
-      <name>Kepler-899 b</name>
+      <period errorminus="-0.0" errorplus="0.0">19.2</period>
+      <radius errorminus="-0.09" errorplus="0.15">0.91</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.15" errorminus="-0.09">0.91</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">19.2</period>
       <inclination/>
+      <name>Kepler-899 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.15">0.91</radius>
   </star>
-  <distance errorplus="184.74" errorminus="-107.0">1038.0</distance>
   <declination>40 40 50</declination>
 </system>
 

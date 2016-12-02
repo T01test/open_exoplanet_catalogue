@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-289</name>
   <rightascension>19 27 55</rightascension>
+  <distance errorminus="-14.0" errorplus="14.0">700.0</distance>
+  <name>Kepler-289</name>
   <star>
+    <temperature errorminus="-38.0" errorplus="38.0">5990.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">1.08</mass>
     <name>Kepler-289</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-    <mass errorplus="0.02" errorminus="-0.02">1.08</mass>
-    <temperature errorplus="38.0" errorminus="-38.0">5990.0</temperature>
     <planet>
-      <name>Kepler-289 c</name>
+      <period errorminus="-0.0" errorplus="0.0">34.5</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-11-19</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.51</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">125.9</period>
-      <inclination errorplus="0.017" errorminus="-0.016">89.794</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-289 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-11-19</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.33</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">66.1</period>
-      <inclination errorplus="0.2" errorminus="-0.38">89.73</inclination>
-    </planet>
-    <planet>
+      <inclination errorminus="-0.48" errorplus="0.3">89.59</inclination>
       <name>Kepler-289 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2014-11-19</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.0</radius>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.21</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">34.5</period>
-      <inclination errorplus="0.3" errorminus="-0.48">89.59</inclination>
+      <semimajoraxis errorminus="-0.01" errorplus="0.01">0.21</semimajoraxis>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">125.9</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.016" errorplus="0.017">89.794</inclination>
+      <name>Kepler-289 c</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">0.51</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">66.1</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.38" errorplus="0.2">89.73</inclination>
+      <name>Kepler-289 d</name>
+      <lastupdate>2014-11-19</lastupdate>
+      <semimajoraxis errorminus="-0.02" errorplus="0.02">0.33</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">1.0</radius>
   </star>
-  <distance errorplus="14.0" errorminus="-14.0">700.0</distance>
   <declination>42 52 58</declination>
 </system>
 

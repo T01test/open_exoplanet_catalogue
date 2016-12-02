@@ -1,23 +1,23 @@
 <system>
-  <name>HD 217786</name>
   <rightascension>23 47 03</rightascension>
+  <distance errorminus="-2.0" errorplus="2.0">54.8</distance>
+  <name>HD 217786</name>
   <star>
+    <temperature errorminus="-65.0" errorplus="65.0">5966.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.02</mass>
     <name>HD 217786</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.27</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.02</mass>
-    <temperature errorplus="65.0" errorminus="-65.0">5966.0</temperature>
     <planet>
-      <name>HD 217786 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.27</radius>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">2.38</semimajoraxis>
       <eccentricity>0.4</eccentricity>
-      <period errorplus="4.0" errorminus="-4.0">1319.0</period>
+      <period errorminus="-4.0" errorplus="4.0">1319.0</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.27</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 217786 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.04" errorplus="0.04">2.38</semimajoraxis>
     </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.27</radius>
   </star>
-  <distance errorplus="2.0" errorminus="-2.0">54.8</distance>
   <declination>00 25 46</declination>
 </system>
 

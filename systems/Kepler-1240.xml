@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1240</name>
   <rightascension>18 59 58</rightascension>
+  <distance errorminus="-52.76" errorplus="99.89">614.0</distance>
+  <name>Kepler-1240</name>
   <star>
+    <temperature errorminus="-116.7" errorplus="103.27">5682.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.98</mass>
     <name>Kepler-1240</name>
-    <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.98</mass>
-    <temperature errorplus="103.27" errorminus="-116.7">5682.0</temperature>
     <planet>
-      <name>Kepler-1240 b</name>
+      <period errorminus="-0.0" errorplus="0.0">4.9</period>
+      <radius errorminus="-0.08" errorplus="0.16">0.96</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.16" errorminus="-0.08">0.96</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
       <inclination/>
+      <name>Kepler-1240 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.16">0.96</radius>
   </star>
-  <distance errorplus="99.89" errorminus="-52.76">614.0</distance>
   <declination>40 33 26</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 86950</name>
   <rightascension>10 24 24</rightascension>
+  <distance errorminus="-22.0" errorplus="22.0">169.0</distance>
+  <name>HD 86950</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4805.0</temperature>
+    <mass errorminus="-0.25" errorplus="0.25">1.66</mass>
     <name>HD 86950</name>
-    <radius errorplus="0.6" errorminus="-0.6">8.8</radius>
-    <mass errorplus="0.25" errorminus="-0.25">1.66</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4805.0</temperature>
     <planet>
-      <name>HD 86950 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.6" errorminus="-0.6">8.8</radius>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">2.72</semimajoraxis>
       <eccentricity>0.17</eccentricity>
-      <period errorplus="57.0" errorminus="-57.0">1270.0</period>
+      <period errorminus="-57.0" errorplus="57.0">1270.0</period>
+      <radius errorminus="-0.6" errorplus="0.6">8.8</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 86950 b</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">2.72</semimajoraxis>
     </planet>
+    <radius errorminus="-0.6" errorplus="0.6">8.8</radius>
   </star>
-  <distance errorplus="22.0" errorminus="-22.0">169.0</distance>
   <declination>-17 19 58</declination>
 </system>
 

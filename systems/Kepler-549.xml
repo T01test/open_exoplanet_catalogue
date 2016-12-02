@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-549</name>
   <rightascension>18 01 22</rightascension>
+  <distance errorminus="-40.6" errorplus="56.49">648.0</distance>
+  <name>Kepler-549</name>
   <star>
+    <temperature errorminus="-72.9" errorplus="66.88">5360.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.04">0.88</mass>
     <name>Kepler-549</name>
-    <radius errorplus="0.07" errorminus="-0.05">0.84</radius>
-    <mass errorplus="0.04" errorminus="-0.05">0.88</mass>
-    <temperature errorplus="66.88" errorminus="-72.9">5360.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">42.9</period>
+      <radius errorminus="-0.05" errorplus="0.07">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-549 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.05">0.84</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">42.9</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-549 c</name>
+      <period errorminus="-0.0" errorplus="0.0">117.0</period>
+      <radius errorminus="-0.05" errorplus="0.07">0.84</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.05">0.84</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">117.0</period>
       <inclination/>
+      <name>Kepler-549 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.07">0.84</radius>
   </star>
-  <distance errorplus="56.49" errorminus="-40.6">648.0</distance>
   <declination>47 15 40</declination>
 </system>
 

@@ -1,53 +1,53 @@
 <system>
-  <name>WASP-47</name>
   <rightascension>22 12 10</rightascension>
+  <distance errorminus="-30.0" errorplus="30.0">200.0</distance>
+  <name>WASP-47</name>
   <star>
+    <temperature errorminus="-68.0" errorplus="68.0">5576.0</temperature>
+    <mass errorminus="-0.49" errorplus="0.89">1.11</mass>
     <name>WASP-47</name>
-    <radius errorplus="0.26" errorminus="-0.26">1.16</radius>
-    <mass errorplus="0.89" errorminus="-0.49">1.11</mass>
-    <temperature errorplus="68.0" errorminus="-68.0">5576.0</temperature>
     <planet>
-      <name>WASP-47 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.26">1.16</radius>
-      <semimajoraxis errorplus="0.3" errorminus="-0.3">1.41</semimajoraxis>
-      <eccentricity>0.36</eccentricity>
-      <period errorplus="9.6" errorminus="-9.6">580.7</period>
-      <inclination errorplus="45.0" errorminus="-45.0">87.0</inclination>
-    </planet>
-    <planet>
-      <name>WASP-47 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.26">1.16</radius>
-      <semimajoraxis errorplus="0.011" errorminus="-0.011">0.052</semimajoraxis>
       <eccentricity>0.0028</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <inclination errorplus="0.17" errorminus="-0.17">89.02</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.2</period>
+      <radius errorminus="-0.26" errorplus="0.26">1.16</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.17" errorplus="0.17">89.02</inclination>
+      <name>WASP-47 b</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.011" errorplus="0.011">0.052</semimajoraxis>
     </planet>
     <planet>
-      <name>WASP-47 d</name>
-      <discoverymethod>transit</discoverymethod>
+      <eccentricity>0.36</eccentricity>
+      <period errorminus="-9.6" errorplus="9.6">580.7</period>
+      <radius errorminus="-0.26" errorplus="0.26">1.16</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorminus="-45.0" errorplus="45.0">87.0</inclination>
+      <name>WASP-47 c</name>
       <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.26">1.16</radius>
-      <semimajoraxis errorplus="0.019" errorminus="-0.019">0.088</semimajoraxis>
-      <eccentricity>0.006</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">9.1</period>
-      <inclination errorplus="0.13" errorminus="-0.13">89.22</inclination>
+      <semimajoraxis errorminus="-0.3" errorplus="0.3">1.41</semimajoraxis>
     </planet>
     <planet>
-      <name>WASP-47 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-12-01</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.26">1.16</radius>
-      <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0173</semimajoraxis>
       <eccentricity>0.03</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">0.8</period>
-      <inclination errorplus="2.1" errorminus="-2.1">86.2</inclination>
+      <period errorminus="-0.0" errorplus="0.0">0.8</period>
+      <radius errorminus="-0.26" errorplus="0.26">1.16</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.1" errorplus="2.1">86.2</inclination>
+      <name>WASP-47 e</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.0038" errorplus="0.0038">0.0173</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.006</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">9.1</period>
+      <radius errorminus="-0.26" errorplus="0.26">1.16</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.13" errorplus="0.13">89.22</inclination>
+      <name>WASP-47 d</name>
+      <lastupdate>2016-12-01</lastupdate>
+      <semimajoraxis errorminus="-0.019" errorplus="0.019">0.088</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.26" errorplus="0.26">1.16</radius>
   </star>
-  <distance errorplus="30.0" errorminus="-30.0">200.0</distance>
   <declination>-12 01 07</declination>
 </system>
 

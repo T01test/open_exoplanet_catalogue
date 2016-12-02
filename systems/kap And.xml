@@ -1,22 +1,22 @@
 <system>
-  <name>kap And</name>
   <rightascension>23 06 07</rightascension>
+  <distance errorminus="-1.82" errorplus="1.7">52.03</distance>
+  <name>kap And</name>
   <star>
+    <temperature errorminus="-300.0" errorplus="300.0">10900.0</temperature>
+    <mass errorminus="-0.2" errorplus="0.2">2.6</mass>
     <name>kap And</name>
-    <radius/>
-    <mass errorplus="0.2" errorminus="-0.2">2.6</mass>
-    <temperature errorplus="300.0" errorminus="-300.0">10900.0</temperature>
     <planet>
-      <name>kap And b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.0" errorminus="-2.0">55.0</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
       <inclination/>
+      <name>kap And b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-2.0" errorplus="2.0">55.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.7" errorminus="-1.82">52.03</distance>
   <declination>44 20 02</declination>
 </system>
 

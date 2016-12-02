@@ -1,23 +1,23 @@
 <system>
-  <name>PH2</name>
   <rightascension>19 45 48</rightascension>
-  <star>
-    <name>PH2</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.0</radius>
-    <mass errorplus="0.02" errorminus="-0.02">0.94</mass>
-    <temperature errorplus="42.0" errorminus="-45.0">5629.0</temperature>
-    <planet>
-      <name>PH2 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.0</radius>
-      <semimajoraxis errorplus="0.009" errorminus="-0.009">0.828</semimajoraxis>
-      <eccentricity>0.41</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">282.5</period>
-      <inclination errorplus="0.03" errorminus="-0.02">89.83</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>PH2</name>
+  <star>
+    <temperature errorminus="-45.0" errorplus="42.0">5629.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">0.94</mass>
+    <name>PH2</name>
+    <planet>
+      <eccentricity>0.41</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">282.5</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.02" errorplus="0.03">89.83</inclination>
+      <name>PH2 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.009" errorplus="0.009">0.828</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.0</radius>
+  </star>
   <declination>51 57 45</declination>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-471</name>
   <rightascension>19 05 51</rightascension>
+  <distance errorminus="-276.83" errorplus="489.66">1373.0</distance>
+  <name>Kepler-471</name>
   <star>
+    <temperature errorminus="-288.8" errorplus="288.74">6733.0</temperature>
+    <mass errorminus="-0.18" errorplus="0.22">1.49</mass>
     <name>Kepler-471</name>
-    <radius errorplus="0.65" errorminus="-0.36">1.8</radius>
-    <mass errorplus="0.22" errorminus="-0.18">1.49</mass>
-    <temperature errorplus="288.74" errorminus="-288.8">6733.0</temperature>
     <planet>
-      <name>Kepler-471 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.0</period>
+      <radius errorminus="-0.36" errorplus="0.65">1.8</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.65" errorminus="-0.36">1.8</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.0</period>
       <inclination/>
+      <name>Kepler-471 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.36" errorplus="0.65">1.8</radius>
   </star>
-  <distance errorplus="489.66" errorminus="-276.83">1373.0</distance>
   <declination>43 29 51</declination>
 </system>
 

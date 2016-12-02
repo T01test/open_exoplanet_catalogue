@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2012-BLG-0724L</name>
   <rightascension>17 58 05</rightascension>
+  <distance errorminus="-1200.0" errorplus="1100.0">6700.0</distance>
+  <name>OGLE 2012-BLG-0724L</name>
   <star>
-    <name>OGLE 2012-BLG-0724L</name>
-    <radius/>
-    <mass errorplus="0.33" errorminus="-0.16">0.29</mass>
     <temperature/>
+    <mass errorminus="-0.16" errorplus="0.33">0.29</mass>
+    <name>OGLE 2012-BLG-0724L</name>
     <planet>
-      <name>OGLE 2012-BLG-0724L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2016-04-28</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.4" errorminus="-0.3">1.6</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2012-BLG-0724L b</name>
+      <lastupdate>2016-04-28</lastupdate>
+      <semimajoraxis errorminus="-0.3" errorplus="0.4">1.6</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1100.0" errorminus="-1200.0">6700.0</distance>
   <declination>-29 49 06</declination>
 </system>
 

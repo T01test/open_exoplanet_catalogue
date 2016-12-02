@@ -1,42 +1,42 @@
 <system>
-  <name>Kepler-46</name>
   <rightascension>19 16 07</rightascension>
+  <distance errorminus="-65.0" errorplus="68.0">855.0</distance>
+  <name>Kepler-46</name>
   <star>
+    <temperature errorminus="-200.0" errorplus="200.0">5309.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.9</mass>
     <name>Kepler-46</name>
-    <radius errorplus="0.44" errorminus="-0.44">0.79</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.9</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5309.0</temperature>
     <planet>
-      <name>Kepler-46 d</name>
+      <period errorminus="-0.0" errorplus="0.0">6.8</period>
+      <radius errorminus="-0.44" errorplus="0.44">0.79</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.44" errorminus="-0.44">0.79</radius>
-      <semimajoraxis>0.067</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
       <inclination/>
+      <name>Kepler-46 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.067</semimajoraxis>
     </planet>
     <planet>
-      <name>Kepler-46 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.44" errorminus="-0.44">0.79</radius>
-      <semimajoraxis errorplus="0.0029" errorminus="-0.0028">0.1968</semimajoraxis>
       <eccentricity>0.01</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">33.6</period>
-      <inclination errorplus="0.075" errorminus="-0.067">89.038</inclination>
+      <period errorminus="-0.0" errorplus="0.0">33.6</period>
+      <radius errorminus="-0.44" errorplus="0.44">0.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.067" errorplus="0.075">89.038</inclination>
+      <name>Kepler-46 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0028" errorplus="0.0029">0.1968</semimajoraxis>
     </planet>
     <planet>
-      <name>Kepler-46 c</name>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.44" errorminus="-0.44">0.79</radius>
-      <semimajoraxis errorplus="0.0041" errorminus="-0.004">0.2799</semimajoraxis>
       <eccentricity>0.0146</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">57.0</period>
-      <inclination errorplus="1.6" errorminus="-1.0">87.4</inclination>
+      <period errorminus="-0.1" errorplus="0.1">57.0</period>
+      <radius errorminus="-0.44" errorplus="0.44">0.79</radius>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <inclination errorminus="-1.0" errorplus="1.6">87.4</inclination>
+      <name>Kepler-46 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.004" errorplus="0.0041">0.2799</semimajoraxis>
     </planet>
+    <radius errorminus="-0.44" errorplus="0.44">0.79</radius>
   </star>
-  <distance errorplus="68.0" errorminus="-65.0">855.0</distance>
   <declination>42 36 15</declination>
 </system>
 

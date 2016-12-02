@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-136</name>
   <rightascension>19 28 02</rightascension>
-  <star>
-    <name>Kepler-136</name>
-    <radius errorplus="0.25" errorminus="-0.25">1.35</radius>
-    <mass>1.2</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6165.0</temperature>
-    <planet>
-      <name>Kepler-136 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.25" errorminus="-0.25">1.35</radius>
-      <semimajoraxis>0.106</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">11.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-136 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.25" errorminus="-0.25">1.35</radius>
-      <semimajoraxis>0.133</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">16.4</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-136</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6165.0</temperature>
+    <mass>1.2</mass>
+    <name>Kepler-136</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">16.4</period>
+      <radius errorminus="-0.25" errorplus="0.25">1.35</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-136 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.133</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">11.6</period>
+      <radius errorminus="-0.25" errorplus="0.25">1.35</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-136 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.106</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.25" errorplus="0.25">1.35</radius>
+  </star>
   <declination>42 35 55</declination>
 </system>
 

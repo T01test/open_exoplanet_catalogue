@@ -1,23 +1,23 @@
 <system>
-  <name>HD 216536</name>
   <rightascension>22 15 59</rightascension>
-  <star>
-    <name>HD 216536</name>
-    <radius errorplus="4.0" errorminus="-4.0">12.5</radius>
-    <mass errorplus="0.38" errorminus="-0.38">1.36</mass>
-    <temperature errorplus="45.0" errorminus="-45.0">4639.0</temperature>
-    <planet>
-      <name>HD 216536 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-02-05</lastupdate>
-      <radius errorplus="4.0" errorminus="-4.0">12.5</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.609</semimajoraxis>
-      <eccentricity>0.38</eccentricity>
-      <period errorplus="0.7" errorminus="-0.7">148.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>HD 216536</name>
+  <star>
+    <temperature errorminus="-45.0" errorplus="45.0">4639.0</temperature>
+    <mass errorminus="-0.38" errorplus="0.38">1.36</mass>
+    <name>HD 216536</name>
+    <planet>
+      <eccentricity>0.38</eccentricity>
+      <period errorminus="-0.7" errorplus="0.7">148.6</period>
+      <radius errorminus="-4.0" errorplus="4.0">12.5</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 216536 b</name>
+      <lastupdate>2015-02-05</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.609</semimajoraxis>
+    </planet>
+    <radius errorminus="-4.0" errorplus="4.0">12.5</radius>
+  </star>
   <declination>44 28 39</declination>
 </system>
 

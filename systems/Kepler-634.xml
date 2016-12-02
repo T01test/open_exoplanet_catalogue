@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-634</name>
   <rightascension>19 11 42</rightascension>
+  <distance errorminus="-99.05" errorplus="118.16">757.0</distance>
+  <name>Kepler-634</name>
   <star>
+    <temperature errorminus="-77.53" errorplus="86.22">6075.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.09">1.03</mass>
     <name>Kepler-634</name>
-    <radius errorplus="0.19" errorminus="-0.16">1.24</radius>
-    <mass errorplus="0.09" errorminus="-0.07">1.03</mass>
-    <temperature errorplus="86.22" errorminus="-77.53">6075.0</temperature>
     <planet>
-      <name>Kepler-634 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.16" errorplus="0.19">1.24</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.19" errorminus="-0.16">1.24</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
       <inclination/>
+      <name>Kepler-634 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.16" errorplus="0.19">1.24</radius>
   </star>
-  <distance errorplus="118.16" errorminus="-99.05">757.0</distance>
   <declination>40 42 09</declination>
 </system>
 

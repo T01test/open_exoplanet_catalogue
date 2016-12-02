@@ -1,31 +1,31 @@
 <system>
-  <name>LkCa 15</name>
   <rightascension>04 49 26</rightascension>
-  <star>
-    <name>LkCa 15</name>
-    <radius/>
-    <mass/>
-    <temperature/>
-    <planet>
-      <name>LkCa 15 c</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-12-03</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.5" errorminus="-2.5">18.6</semimajoraxis>
-      <period/>
-      <inclination>50.0</inclination>
-    </planet>
-    <planet>
-      <name>LkCa 15 b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-12-03</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.1" errorminus="-2.1">14.7</semimajoraxis>
-      <period/>
-      <inclination>50.0</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>LkCa 15</name>
+  <star>
+    <temperature/>
+    <mass/>
+    <name>LkCa 15</name>
+    <planet>
+      <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination>50.0</inclination>
+      <name>LkCa 15 b</name>
+      <lastupdate>2015-12-03</lastupdate>
+      <semimajoraxis errorminus="-2.1" errorplus="2.1">14.7</semimajoraxis>
+    </planet>
+    <planet>
+      <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination>50.0</inclination>
+      <name>LkCa 15 c</name>
+      <lastupdate>2015-12-03</lastupdate>
+      <semimajoraxis errorminus="-2.5" errorplus="2.5">18.6</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>22 21 03</declination>
 </system>
 

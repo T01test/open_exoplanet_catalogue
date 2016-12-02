@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-71</name>
   <rightascension>01 15 48</rightascension>
+  <distance errorminus="-32.0" errorplus="32.0">345.0</distance>
+  <name>WASP-71</name>
   <star>
+    <temperature errorminus="-98.0" errorplus="98.0">6059.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">1.56</mass>
     <name>WASP-71</name>
-    <radius errorplus="0.17" errorminus="-0.17">2.26</radius>
-    <mass errorplus="0.07" errorminus="-0.07">1.56</mass>
-    <temperature errorplus="98.0" errorminus="-98.0">6059.0</temperature>
     <planet>
-      <name>WASP-71 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.17">2.26</radius>
-      <semimajoraxis errorplus="0.00069" errorminus="-0.00069">0.04619</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
-      <inclination errorplus="2.2" errorminus="-2.2">84.9</inclination>
+      <period errorminus="-0.0" errorplus="0.0">2.9</period>
+      <radius errorminus="-0.17" errorplus="0.17">2.26</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.2" errorplus="2.2">84.9</inclination>
+      <name>WASP-71 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00069" errorplus="0.00069">0.04619</semimajoraxis>
     </planet>
+    <radius errorminus="-0.17" errorplus="0.17">2.26</radius>
   </star>
-  <distance errorplus="32.0" errorminus="-32.0">345.0</distance>
   <declination>00 45 31</declination>
 </system>
 

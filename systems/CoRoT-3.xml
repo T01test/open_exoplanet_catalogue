@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-3</name>
   <rightascension>19 03 18</rightascension>
+  <distance errorminus="-160.0" errorplus="160.0">680.0</distance>
+  <name>CoRoT-3</name>
   <star>
+    <temperature errorminus="-140.0" errorplus="140.0">6740.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.09">1.37</mass>
     <name>CoRoT-3</name>
-    <radius errorplus="0.09" errorminus="-0.09">1.56</radius>
-    <mass errorplus="0.09" errorminus="-0.09">1.37</mass>
-    <temperature errorplus="140.0" errorminus="-140.0">6740.0</temperature>
     <planet>
-      <name>CoRoT-3 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">1.56</radius>
-      <semimajoraxis/>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <inclination errorplus="0.8" errorminus="-0.8">85.9</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.3</period>
+      <radius errorminus="-0.09" errorplus="0.09">1.56</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.8" errorplus="0.8">85.9</inclination>
+      <name>CoRoT-3 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.09">1.56</radius>
   </star>
-  <distance errorplus="160.0" errorminus="-160.0">680.0</distance>
   <declination>00 07 18</declination>
 </system>
 

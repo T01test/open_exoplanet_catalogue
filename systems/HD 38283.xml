@@ -1,23 +1,23 @@
 <system>
-  <name>HD 38283</name>
   <rightascension>05 15 30</rightascension>
+  <distance errorminus="-0.82" errorplus="0.78">37.78</distance>
+  <name>HD 38283</name>
   <star>
-    <name>HD 38283</name>
-    <radius/>
-    <mass errorplus="0.02" errorminus="-0.02">1.08</mass>
     <temperature>5998.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">1.08</mass>
+    <name>HD 38283</name>
     <planet>
-      <name>HD 38283 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-10</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">1.02</semimajoraxis>
       <eccentricity>0.41</eccentricity>
-      <period errorplus="1.6" errorminus="-1.6">363.2</period>
+      <period errorminus="-1.6" errorplus="1.6">363.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 38283 b</name>
+      <lastupdate>2015-09-10</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">1.02</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.78" errorminus="-0.82">37.78</distance>
   <declination>-73 41 57</declination>
 </system>
 

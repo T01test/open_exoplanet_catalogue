@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-100</name>
   <rightascension>19 23 09</rightascension>
-  <star>
-    <name>Kepler-100</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.08</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">5825.0</temperature>
-    <planet>
-      <name>Kepler-100 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-10-13</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <semimajoraxis/>
-      <period>35.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-100 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-10-13</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <semimajoraxis/>
-      <period>12.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-100 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.49</radius>
-      <semimajoraxis/>
-      <period>6.9</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-100</name>
+  <star>
+    <temperature errorminus="-75.0" errorplus="75.0">5825.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.08</mass>
+    <name>Kepler-100</name>
+    <planet>
+      <period>35.3</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-100 d</name>
+      <lastupdate>2016-10-13</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>6.9</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-100 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>12.8</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.49</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-100 c</name>
+      <lastupdate>2016-10-13</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">1.49</radius>
+  </star>
   <declination>41 59 24</declination>
 </system>
 

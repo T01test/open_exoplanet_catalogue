@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-276</name>
   <rightascension>19 34 05</rightascension>
-  <star>
-    <name>Kepler-276</name>
-    <radius errorplus="0.48" errorminus="-0.48">1.05</radius>
-    <mass errorplus="0.22" errorminus="-0.14">1.1</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">6105.0</temperature>
-    <planet>
-      <name>Kepler-276 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.48" errorminus="-0.48">1.05</radius>
-      <semimajoraxis/>
-      <period>31.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-276 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.48" errorminus="-0.48">1.05</radius>
-      <semimajoraxis>0.119</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">14.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-276 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.48" errorminus="-0.48">1.05</radius>
-      <semimajoraxis/>
-      <period>48.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-276</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">6105.0</temperature>
+    <mass errorminus="-0.14" errorplus="0.22">1.1</mass>
+    <name>Kepler-276</name>
+    <planet>
+      <period>31.9</period>
+      <radius errorminus="-0.48" errorplus="0.48">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-276 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">14.1</period>
+      <radius errorminus="-0.48" errorplus="0.48">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-276 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.119</semimajoraxis>
+    </planet>
+    <planet>
+      <period>48.6</period>
+      <radius errorminus="-0.48" errorplus="0.48">1.05</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-276 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.48" errorplus="0.48">1.05</radius>
+  </star>
   <declination>39 02 10</declination>
 </system>
 

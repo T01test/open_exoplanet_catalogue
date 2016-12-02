@@ -1,23 +1,23 @@
 <system>
-  <name>HD 48265</name>
   <rightascension>06 00 25</rightascension>
+  <distance errorminus="-4.23" errorplus="4.23">85.4</distance>
+  <name>HD 48265</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5650.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.28</mass>
     <name>HD 48265</name>
-    <radius errorplus="0.05" errorminus="-0.05">2.05</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.28</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5650.0</temperature>
     <planet>
-      <name>HD 48265 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-11-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">2.05</radius>
-      <semimajoraxis errorplus="0.07" errorminus="-0.07">1.81</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="4.6" errorminus="-4.6">780.3</period>
+      <period errorminus="-4.6" errorplus="4.6">780.3</period>
+      <radius errorminus="-0.05" errorplus="0.05">2.05</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 48265 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <semimajoraxis errorminus="-0.07" errorplus="0.07">1.81</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">2.05</radius>
   </star>
-  <distance errorplus="4.23" errorminus="-4.23">85.4</distance>
   <declination>-48 32 31</declination>
 </system>
 

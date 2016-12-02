@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-9</name>
   <rightascension>18 47 12</rightascension>
-  <star>
-    <name>CoRoT-9</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.94</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.99</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">5625.0</temperature>
-    <planet>
-      <name>CoRoT-9 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.94</radius>
-      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.407</semimajoraxis>
-      <eccentricity>0.11</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">95.3</period>
-      <inclination errorplus="0.01" errorminus="-0.04">89.99</inclination>
-    </planet>
-  </star>
   <distance>460.0</distance>
+  <name>CoRoT-9</name>
+  <star>
+    <temperature errorminus="-80.0" errorplus="80.0">5625.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.99</mass>
+    <name>CoRoT-9</name>
+    <planet>
+      <eccentricity>0.11</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">95.3</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.94</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.04" errorplus="0.01">89.99</inclination>
+      <name>CoRoT-9 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.005" errorplus="0.005">0.407</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.94</radius>
+  </star>
   <declination>06 12 15</declination>
 </system>
 

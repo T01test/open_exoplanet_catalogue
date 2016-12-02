@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-674</name>
   <rightascension>19 10 34</rightascension>
+  <distance errorminus="-17.56" errorplus="18.81">302.0</distance>
+  <name>Kepler-674</name>
   <star>
+    <temperature errorminus="-42.83" errorplus="40.95">4192.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.6</mass>
     <name>Kepler-674</name>
-    <radius errorplus="0.03" errorminus="-0.02">0.57</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.6</mass>
-    <temperature errorplus="40.95" errorminus="-42.83">4192.0</temperature>
     <planet>
-      <name>Kepler-674 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.2</period>
+      <radius errorminus="-0.02" errorplus="0.03">0.57</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.02">0.57</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
       <inclination/>
+      <name>Kepler-674 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.02" errorplus="0.03">0.57</radius>
   </star>
-  <distance errorplus="18.81" errorminus="-17.56">302.0</distance>
   <declination>50 08 59</declination>
 </system>
 

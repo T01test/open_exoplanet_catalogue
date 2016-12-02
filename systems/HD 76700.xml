@@ -1,23 +1,23 @@
 <system>
-  <name>HD 76700</name>
   <rightascension>08 28 52</rightascension>
+  <distance errorminus="-2.45" errorplus="2.26">59.7</distance>
+  <name>HD 76700</name>
   <star>
-    <name>HD 76700</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">1.0</mass>
     <temperature/>
+    <mass errorminus="-0.05" errorplus="0.05">1.0</mass>
+    <name>HD 76700</name>
     <planet>
-      <name>HD 76700 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-04-24</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.049</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <period errorminus="-0.0" errorplus="0.0">4.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 76700 b</name>
+      <lastupdate>2015-04-24</lastupdate>
+      <semimajoraxis errorminus="-0.004" errorplus="0.004">0.049</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.26" errorminus="-2.45">59.7</distance>
   <declination>-66 48 03</declination>
 </system>
 

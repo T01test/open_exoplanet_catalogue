@@ -1,22 +1,22 @@
 <system>
-  <name>TrES-2</name>
   <rightascension>19 48 30</rightascension>
+  <distance errorminus="-11.0" errorplus="11.0">213.0</distance>
+  <name>TrES-2</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">5850.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.98</mass>
     <name>TrES-2</name>
-    <radius errorplus="0.04" errorminus="-0.03">1.0</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.98</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">5850.0</temperature>
     <planet>
-      <name>TrES-2 b</name>
+      <period errorminus="-0.0" errorplus="0.0">2.5</period>
+      <radius errorminus="-0.03" errorplus="0.04">1.0</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.018" errorplus="0.02">83.872</inclination>
+      <name>TrES-2 b</name>
       <lastupdate>2015-10-15</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.03">1.0</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0013">0.0367</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
-      <inclination errorplus="0.02" errorminus="-0.018">83.872</inclination>
+      <semimajoraxis errorminus="-0.0013" errorplus="0.0014">0.0367</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.04">1.0</radius>
   </star>
-  <distance errorplus="11.0" errorminus="-11.0">213.0</distance>
   <declination>49 18 59</declination>
 </system>
 

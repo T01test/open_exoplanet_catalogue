@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-348</name>
   <rightascension>19 15 18</rightascension>
-  <star>
-    <name>Kepler-348</name>
-    <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
-    <mass>1.15</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6177.0</temperature>
-    <planet>
-      <name>Kepler-348 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
-      <semimajoraxis>0.076</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-348 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.25" errorminus="-0.25">1.36</radius>
-      <semimajoraxis>0.138</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">17.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-348</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6177.0</temperature>
+    <mass>1.15</mass>
+    <name>Kepler-348</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">17.3</period>
+      <radius errorminus="-0.25" errorplus="0.25">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-348 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.138</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.1</period>
+      <radius errorminus="-0.25" errorplus="0.25">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-348 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.076</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.25" errorplus="0.25">1.36</radius>
+  </star>
   <declination>40 32 54</declination>
 </system>
 

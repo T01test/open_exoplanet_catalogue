@@ -1,23 +1,23 @@
 <system>
-  <name>XO-3</name>
   <rightascension>04 28 10</rightascension>
+  <distance errorminus="-18.0" errorplus="18.0">174.0</distance>
+  <name>XO-3</name>
   <star>
-    <name>XO-3</name>
-    <radius errorplus="0.08">1.38</radius>
-    <mass errorplus="0.07">1.21</mass>
     <temperature errorplus="100.0">6429.0</temperature>
+    <mass errorplus="0.07">1.21</mass>
+    <name>XO-3</name>
     <planet>
-      <name>XO-3 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.08">1.38</radius>
-      <semimajoraxis errorplus="0.00082" errorminus="-0.00082">0.0454</semimajoraxis>
       <eccentricity>0.26</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <inclination errorplus="0.54" errorminus="-0.54">84.2</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.2</period>
+      <radius errorplus="0.08">1.38</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.54" errorplus="0.54">84.2</inclination>
+      <name>XO-3 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00082" errorplus="0.00082">0.0454</semimajoraxis>
     </planet>
+    <radius errorplus="0.08">1.38</radius>
   </star>
-  <distance errorplus="18.0" errorminus="-18.0">174.0</distance>
   <declination>57 49 01</declination>
 </system>
 

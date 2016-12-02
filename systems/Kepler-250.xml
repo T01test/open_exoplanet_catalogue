@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-250</name>
   <rightascension>19 35 41</rightascension>
-  <star>
-    <name>Kepler-250</name>
-    <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-    <mass>0.8</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5160.0</temperature>
-    <planet>
-      <name>Kepler-250 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-      <semimajoraxis>0.048</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-250 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-      <semimajoraxis>0.069</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-250 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-      <semimajoraxis>0.127</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">17.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-250</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">5160.0</temperature>
+    <mass>0.8</mass>
+    <name>Kepler-250</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.1</period>
+      <radius errorminus="-0.46" errorplus="0.46">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-250 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.048</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">17.6</period>
+      <radius errorminus="-0.46" errorplus="0.46">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-250 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.127</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.2</period>
+      <radius errorminus="-0.46" errorplus="0.46">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-250 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.069</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.46" errorplus="0.46">0.81</radius>
+  </star>
   <declination>44 08 31</declination>
 </system>
 

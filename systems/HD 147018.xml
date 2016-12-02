@@ -1,33 +1,33 @@
 <system>
-  <name>HD 147018</name>
   <rightascension>16 45 02</rightascension>
+  <distance errorminus="-1.59" errorplus="1.59">42.96</distance>
+  <name>HD 147018</name>
   <star>
+    <temperature errorminus="-55.0" errorplus="55.0">5441.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.93</mass>
     <name>HD 147018</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">0.93</mass>
-    <temperature errorplus="55.0" errorminus="-55.0">5441.0</temperature>
     <planet>
-      <name>HD 147018 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0039" errorminus="-0.0039">0.2388</semimajoraxis>
       <eccentricity>0.4686</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">44.2</period>
+      <period errorminus="-0.0" errorplus="0.0">44.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 147018 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0039" errorplus="0.0039">0.2388</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 147018 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.039" errorminus="-0.039">1.922</semimajoraxis>
       <eccentricity>0.133</eccentricity>
-      <period errorplus="18.0" errorminus="-18.0">1008.0</period>
+      <period errorminus="-18.0" errorplus="18.0">1008.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 147018 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.039" errorplus="0.039">1.922</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.59" errorminus="-1.59">42.96</distance>
   <declination>-61 41 19</declination>
 </system>
 

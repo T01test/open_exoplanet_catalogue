@@ -1,23 +1,23 @@
 <system>
-  <name>HD 13189</name>
   <rightascension>02 25 02</rightascension>
-  <star>
-    <name>HD 13189</name>
-    <radius/>
-    <mass/>
-    <temperature/>
-    <planet>
-      <name>HD 13189 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.35" errorminus="-0.35">1.85</semimajoraxis>
-      <eccentricity>0.27</eccentricity>
-      <period errorplus="6.0" errorminus="-6.0">471.6</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>300.3</distance>
+  <name>HD 13189</name>
+  <star>
+    <temperature/>
+    <mass/>
+    <name>HD 13189</name>
+    <planet>
+      <eccentricity>0.27</eccentricity>
+      <period errorminus="-6.0" errorplus="6.0">471.6</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 13189 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.35" errorplus="0.35">1.85</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>32 18 59</declination>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>OGLE 2008-BLG-355L</name>
   <rightascension>17 47 12</rightascension>
+  <distance errorminus="-1100.0" errorplus="1100.0">6800.0</distance>
+  <name>OGLE 2008-BLG-355L</name>
   <star>
-    <name>OGLE 2008-BLG-355L</name>
-    <radius/>
-    <mass errorplus="0.3" errorminus="-0.17">0.37</mass>
     <temperature/>
+    <mass errorminus="-0.17" errorplus="0.3">0.37</mass>
+    <name>OGLE 2008-BLG-355L</name>
     <planet>
-      <name>OGLE 2008-BLG-355L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2014-06-11</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.29" errorminus="-0.3">1.7</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
       <inclination/>
+      <name>OGLE 2008-BLG-355L b</name>
+      <lastupdate>2014-06-11</lastupdate>
+      <semimajoraxis errorminus="-0.3" errorplus="0.29">1.7</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1100.0" errorminus="-1100.0">6800.0</distance>
   <declination>-30 45 34</declination>
 </system>
 

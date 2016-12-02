@@ -1,40 +1,40 @@
 <system>
-  <name>K2-37</name>
   <rightascension>16 27 03</rightascension>
-  <star>
-    <name>K2-37</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-    <mass errorplus="0.05" errorminus="-0.05">0.9</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5413.0</temperature>
-    <planet>
-      <name>K2-37 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.1103</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">14.1</period>
-      <inclination errorplus="1.18" errorminus="-1.65">88.34</inclination>
-    </planet>
-    <planet>
-      <name>K2-37 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0511</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
-      <inclination errorplus="1.95" errorminus="-3.37">87.28</inclination>
-    </planet>
-    <planet>
-      <name>K2-37 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.85</radius>
-      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0654</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">6.4</period>
-      <inclination errorplus="1.83" errorminus="-2.5">87.37</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-37</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">5413.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.9</mass>
+    <name>K2-37</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.4</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-3.37" errorplus="1.95">87.28</inclination>
+      <name>K2-37 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0511</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">6.4</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.5" errorplus="1.83">87.37</inclination>
+      <name>K2-37 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0011" errorplus="0.0011">0.0654</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">14.1</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.65" errorplus="1.18">88.34</inclination>
+      <name>K2-37 d</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0018" errorplus="0.0018">0.1103</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.85</radius>
+  </star>
   <declination>-24 47 13</declination>
 </system>
 

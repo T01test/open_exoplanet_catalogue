@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-98</name>
   <rightascension>03 25 43</rightascension>
-  <star>
-    <name>WASP-98</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.74</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.81</mass>
-    <temperature errorplus="121.0" errorminus="-121.0">5473.0</temperature>
-    <planet>
-      <name>WASP-98 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-08-04</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.74</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.03762</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <inclination errorplus="0.07" errorminus="-0.07">86.38</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>WASP-98</name>
+  <star>
+    <temperature errorminus="-121.0" errorplus="121.0">5473.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.81</mass>
+    <name>WASP-98</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.07" errorplus="0.07">86.38</inclination>
+      <name>WASP-98 b</name>
+      <lastupdate>2016-08-04</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.03762</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.74</radius>
+  </star>
   <declination>-34 19 41</declination>
 </system>
 

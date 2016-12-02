@@ -1,23 +1,23 @@
 <system>
-  <name>HD 17092</name>
   <rightascension>02 35 31</rightascension>
-  <star>
-    <name>HD 17092</name>
-    <radius/>
-    <mass errorplus="0.3" errorminus="-0.3">2.3</mass>
-    <temperature errorplus="35.0" errorminus="-35.0">4650.0</temperature>
-    <planet>
-      <name>HD 17092 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-02</lastupdate>
-      <radius/>
-      <semimajoraxis/>
-      <eccentricity>0.166</eccentricity>
-      <period errorplus="2.4" errorminus="-2.4">359.9</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>HD 17092</name>
+  <star>
+    <temperature errorminus="-35.0" errorplus="35.0">4650.0</temperature>
+    <mass errorminus="-0.3" errorplus="0.3">2.3</mass>
+    <name>HD 17092</name>
+    <planet>
+      <eccentricity>0.166</eccentricity>
+      <period errorminus="-2.4" errorplus="2.4">359.9</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 17092 b</name>
+      <lastupdate>2014-07-02</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius/>
+  </star>
   <declination>49 39 11</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 25171</name>
   <rightascension>03 57 21</rightascension>
+  <distance errorminus="-1.95" errorplus="1.82">56.05</distance>
+  <name>HD 25171</name>
   <star>
+    <temperature errorminus="-65.0" errorplus="65.0">6160.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.09</mass>
     <name>HD 25171</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.18</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.09</mass>
-    <temperature errorplus="65.0" errorminus="-65.0">6160.0</temperature>
     <planet>
-      <name>HD 25171 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.18</radius>
-      <semimajoraxis errorplus="0.16" errorminus="-0.16">3.02</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="167.0" errorminus="-167.0">1845.0</period>
+      <period errorminus="-167.0" errorplus="167.0">1845.0</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.18</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 25171 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.16" errorplus="0.16">3.02</semimajoraxis>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.04">1.18</radius>
   </star>
-  <distance errorplus="1.82" errorminus="-1.95">56.05</distance>
   <declination>-65 11 12</declination>
 </system>
 

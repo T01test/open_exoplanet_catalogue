@@ -1,58 +1,58 @@
 <system>
-  <name>Kepler-169</name>
   <rightascension>19 59 59</rightascension>
-  <star>
-    <name>Kepler-169</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-    <mass>0.86</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4997.0</temperature>
-    <planet>
-      <name>Kepler-169 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <semimajoraxis>0.075</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">8.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-169 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <semimajoraxis>0.062</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">6.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-169 f</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <semimajoraxis>0.359</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">87.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-169 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <semimajoraxis>0.105</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">13.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-169 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.76</radius>
-      <semimajoraxis>0.04</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-169</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4997.0</temperature>
+    <mass>0.86</mass>
+    <name>Kepler-169</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">13.8</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-169 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.105</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.3</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-169 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.04</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">8.3</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-169 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.075</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">87.1</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-169 f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.359</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">6.2</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-169 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.062</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.76</radius>
+  </star>
   <declination>40 55 09</declination>
 </system>
 

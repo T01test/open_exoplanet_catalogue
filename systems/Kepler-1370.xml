@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1370</name>
   <rightascension>18 33 56</rightascension>
+  <distance errorminus="-128.51" errorplus="308.5">878.0</distance>
+  <name>Kepler-1370</name>
   <star>
+    <temperature errorminus="-131.46" errorplus="115.03">6202.0</temperature>
+    <mass errorminus="-0.09" errorplus="0.15">1.19</mass>
     <name>Kepler-1370</name>
-    <radius errorplus="0.46" errorminus="-0.18">1.29</radius>
-    <mass errorplus="0.15" errorminus="-0.09">1.19</mass>
-    <temperature errorplus="115.03" errorminus="-131.46">6202.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.4</period>
+      <radius errorminus="-0.18" errorplus="0.46">1.29</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-1370 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.46" errorminus="-0.18">1.29</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-1370 b</name>
+      <period errorminus="-0.0" errorplus="0.0">20.3</period>
+      <radius errorminus="-0.18" errorplus="0.46">1.29</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.46" errorminus="-0.18">1.29</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">20.3</period>
       <inclination/>
+      <name>Kepler-1370 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.18" errorplus="0.46">1.29</radius>
   </star>
-  <distance errorplus="308.5" errorminus="-128.51">878.0</distance>
   <declination>41 46 42</declination>
 </system>
 

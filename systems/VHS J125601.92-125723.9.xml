@@ -1,22 +1,22 @@
 <system>
-  <name>VHS J125601.92-125723.9</name>
   <rightascension>12 00 32</rightascension>
+  <distance errorminus="-1.0" errorplus="1.0">12.7</distance>
+  <name>VHS J125601.92-125723.9</name>
   <star>
+    <temperature errorminus="-140.0" errorplus="140.0">2620.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.02">0.07</mass>
     <name>VHS J125601.92-125723.9</name>
-    <radius/>
-    <mass errorplus="0.02" errorminus="-0.01">0.07</mass>
-    <temperature errorplus="140.0" errorminus="-140.0">2620.0</temperature>
     <planet>
-      <name>VHS J125601.92-125723.9 b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="9.0" errorminus="-9.0">102.0</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
       <inclination/>
+      <name>VHS J125601.92-125723.9 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis errorminus="-9.0" errorplus="9.0">102.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.0" errorminus="-1.0">12.7</distance>
   <declination>-12 57 21</declination>
 </system>
 

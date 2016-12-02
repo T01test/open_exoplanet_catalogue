@@ -1,23 +1,23 @@
 <system>
-  <name>HD 162020</name>
   <rightascension>17 39 35</rightascension>
+  <distance errorminus="-1.52" errorplus="1.38">31.26</distance>
+  <name>HD 162020</name>
   <star>
-    <name>HD 162020</name>
-    <radius/>
+    <temperature errorminus="-80.0" errorplus="80.0">4830.0</temperature>
     <mass>0.75</mass>
-    <temperature errorplus="80.0" errorminus="-80.0">4830.0</temperature>
+    <name>HD 162020</name>
     <planet>
-      <name>HD 162020 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>0.074</semimajoraxis>
       <eccentricity>0.277</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">8.4</period>
+      <period errorminus="-0.0" errorplus="0.0">8.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 162020 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.074</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.38" errorminus="-1.52">31.26</distance>
   <declination>-40 19 06</declination>
 </system>
 

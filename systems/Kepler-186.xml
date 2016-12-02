@@ -1,59 +1,59 @@
 <system>
-  <name>Kepler-186</name>
   <rightascension>19 39 09</rightascension>
+  <distance errorminus="-10.0" errorplus="13.0">172.0</distance>
+  <name>Kepler-186</name>
   <star>
+    <temperature errorminus="-90.0" errorplus="90.0">3755.0</temperature>
+    <mass errorminus="-0.02" errorplus="0.02">0.54</mass>
     <name>Kepler-186</name>
-    <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-    <mass errorplus="0.02" errorminus="-0.02">0.54</mass>
-    <temperature errorplus="90.0" errorminus="-90.0">3755.0</temperature>
     <planet>
-      <name>Kepler-186 b</name>
+      <period errorminus="-0.0" errorplus="0.0">22.4</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-      <semimajoraxis errorplus="0.0046" errorminus="-0.0046">0.0343</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-186 f</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-01-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-      <semimajoraxis errorplus="0.171" errorminus="-0.053">0.432</semimajoraxis>
-      <eccentricity>0.04</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">129.9</period>
-      <inclination errorplus="0.04" errorminus="-0.1">89.96</inclination>
-    </planet>
-    <planet>
       <name>Kepler-186 e</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-      <semimajoraxis errorplus="0.015" errorminus="-0.015">0.11</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">22.4</period>
-      <inclination/>
+      <semimajoraxis errorminus="-0.015" errorplus="0.015">0.11</semimajoraxis>
     </planet>
     <planet>
-      <name>Kepler-186 c</name>
+      <period errorminus="-0.0" errorplus="0.0">13.3</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-      <semimajoraxis errorplus="0.007" errorminus="-0.007">0.0451</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.3</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-186 d</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">0.52</radius>
-      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.0781</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">13.3</period>
-      <inclination/>
+      <semimajoraxis errorminus="-0.01" errorplus="0.01">0.0781</semimajoraxis>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.3</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-186 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.007" errorplus="0.007">0.0451</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">3.9</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-186 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0046" errorplus="0.0046">0.0343</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.04</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">129.9</period>
+      <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.1" errorplus="0.04">89.96</inclination>
+      <name>Kepler-186 f</name>
+      <lastupdate>2015-01-14</lastupdate>
+      <semimajoraxis errorminus="-0.053" errorplus="0.171">0.432</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">0.52</radius>
   </star>
-  <distance errorplus="13.0" errorminus="-10.0">172.0</distance>
   <declination>43 57 18</declination>
 </system>
 

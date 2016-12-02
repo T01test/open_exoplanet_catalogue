@@ -1,22 +1,22 @@
 <system>
-  <name>K2-26</name>
   <rightascension>06 12 23</rightascension>
+  <distance errorminus="-7.0" errorplus="7.0">93.0</distance>
+  <name>K2-26</name>
   <star>
+    <temperature errorminus="-185.0" errorplus="185.0">3785.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">0.56</mass>
     <name>K2-26</name>
-    <radius errorplus="0.08" errorminus="-0.08">0.52</radius>
-    <mass errorplus="0.1" errorminus="-0.1">0.56</mass>
-    <temperature errorplus="185.0" errorminus="-185.0">3785.0</temperature>
     <planet>
-      <name>K2-26 b</name>
+      <period errorminus="-0.0" errorplus="0.0">14.6</period>
+      <radius errorminus="-0.08" errorplus="0.08">0.52</radius>
       <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.5" errorplus="1.2">88.4</inclination>
+      <name>K2-26 b</name>
       <lastupdate>2016-01-21</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">0.52</radius>
-      <semimajoraxis errorplus="0.0054" errorminus="-0.0061">0.0962</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">14.6</period>
-      <inclination errorplus="1.2" errorminus="-1.5">88.4</inclination>
+      <semimajoraxis errorminus="-0.0061" errorplus="0.0054">0.0962</semimajoraxis>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.08">0.52</radius>
   </star>
-  <distance errorplus="7.0" errorminus="-7.0">93.0</distance>
   <declination>24 35 47</declination>
 </system>
 

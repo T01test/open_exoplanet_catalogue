@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-520</name>
   <rightascension>19 10 49</rightascension>
+  <distance errorminus="-25.26" errorplus="26.52">492.0</distance>
+  <name>Kepler-520</name>
   <star>
+    <temperature errorminus="-60.87" errorplus="68.96">6112.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">1.1</mass>
     <name>Kepler-520</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.09</radius>
-    <mass errorplus="0.04" errorminus="-0.04">1.1</mass>
-    <temperature errorplus="68.96" errorminus="-60.87">6112.0</temperature>
     <planet>
-      <name>Kepler-520 b</name>
+      <period errorminus="-0.0" errorplus="0.0">5.2</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.09</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.09</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">19.7</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-520 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.09</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">19.7</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-520 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.09</radius>
   </star>
-  <distance errorplus="26.52" errorminus="-25.26">492.0</distance>
   <declination>41 37 03</declination>
 </system>
 

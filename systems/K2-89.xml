@@ -1,22 +1,22 @@
 <system>
-  <name>K2-89</name>
   <rightascension>03 04 00</rightascension>
-  <star>
-    <name>K2-89</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.32</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.35</mass>
-    <temperature errorplus="51.0" errorminus="-51.0">3691.0</temperature>
-    <planet>
-      <name>K2-89 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-18</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.32</radius>
-      <semimajoraxis errorplus="0.00051" errorminus="-0.00051">0.01462</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">1.1</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-89</name>
+  <star>
+    <temperature errorminus="-51.0" errorplus="51.0">3691.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.35</mass>
+    <name>K2-89</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">1.1</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.32</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-89 b</name>
+      <lastupdate>2016-07-18</lastupdate>
+      <semimajoraxis errorminus="-0.00051" errorplus="0.00051">0.01462</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.32</radius>
+  </star>
   <declination>20 27 34</declination>
 </system>
 

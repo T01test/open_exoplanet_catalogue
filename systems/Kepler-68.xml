@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-68</name>
   <rightascension>19 01 56</rightascension>
+  <distance errorminus="-10.0" errorplus="10.0">135.0</distance>
+  <name>Kepler-68</name>
   <star>
+    <temperature errorminus="-74.0" errorplus="74.0">5793.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.08</mass>
     <name>Kepler-68</name>
-    <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
-    <temperature errorplus="74.0" errorminus="-74.0">5793.0</temperature>
     <planet>
-      <name>Kepler-68 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
-      <period>9.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-68 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
       <period>5.4</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
       <inclination/>
+      <name>Kepler-68 b</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
     </planet>
     <planet>
-      <name>Kepler-68 d</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
-      <period errorplus="16.0" errorminus="-16.0">625.0</period>
+      <period>9.6</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.24</radius>
+      <discoverymethod>transit</discoverymethod>
       <inclination/>
+      <name>Kepler-68 c</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <planet>
+      <period errorminus="-16.0" errorplus="16.0">625.0</period>
+      <radius errorminus="-0.02" errorplus="0.02">1.24</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>Kepler-68 d</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.02" errorplus="0.02">1.24</radius>
   </star>
-  <distance errorplus="10.0" errorminus="-10.0">135.0</distance>
   <declination>49 02 24</declination>
 </system>
 

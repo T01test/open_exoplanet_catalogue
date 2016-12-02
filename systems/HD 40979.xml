@@ -1,23 +1,23 @@
 <system>
-  <name>HD 40979</name>
   <rightascension>06 07 29</rightascension>
+  <distance errorminus="-0.9" errorplus="0.9">33.3</distance>
+  <name>HD 40979</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">6089.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.15</mass>
     <name>HD 40979</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">1.15</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">6089.0</temperature>
     <planet>
-      <name>HD 40979 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.007" errorminus="-0.007">0.846</semimajoraxis>
       <eccentricity>0.252</eccentricity>
-      <period errorplus="0.2" errorminus="-0.2">264.1</period>
+      <period errorminus="-0.2" errorplus="0.2">264.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 40979 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.007" errorplus="0.007">0.846</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.9" errorminus="-0.9">33.3</distance>
   <declination>44 15 37</declination>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
-  <name>HD 219828</name>
   <rightascension>23 41 41</rightascension>
-  <star>
-    <name>HD 219828</name>
-    <radius>1.69</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.23</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">5891.0</temperature>
-    <planet>
-      <name>HD 219828 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-06-03</lastupdate>
-      <radius>1.69</radius>
-      <semimajoraxis>0.045</semimajoraxis>
-      <eccentricity>0.059</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 219828 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-06-03</lastupdate>
-      <radius>1.69</radius>
-      <semimajoraxis>5.96</semimajoraxis>
-      <eccentricity>0.8115</eccentricity>
-      <period errorplus="75.0" errorminus="-75.0">4791.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>77.9</distance>
+  <name>HD 219828</name>
+  <star>
+    <temperature errorminus="-18.0" errorplus="18.0">5891.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.23</mass>
+    <name>HD 219828</name>
+    <planet>
+      <eccentricity>0.8115</eccentricity>
+      <period errorminus="-75.0" errorplus="75.0">4791.0</period>
+      <radius>1.69</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 219828 c</name>
+      <lastupdate>2016-06-03</lastupdate>
+      <semimajoraxis>5.96</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.059</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.8</period>
+      <radius>1.69</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 219828 b</name>
+      <lastupdate>2016-06-03</lastupdate>
+      <semimajoraxis>0.045</semimajoraxis>
+    </planet>
+    <radius>1.69</radius>
+  </star>
   <declination>18 38 44</declination>
 </system>
 

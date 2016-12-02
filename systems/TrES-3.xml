@@ -1,23 +1,23 @@
 <system>
-  <name>TrES-3</name>
   <rightascension>17 01 45</rightascension>
+  <distance errorminus="-12.0" errorplus="12.0">228.0</distance>
+  <name>TrES-3</name>
   <star>
-    <name>TrES-3</name>
-    <radius errorplus="0.02">0.83</radius>
-    <mass errorplus="0.05">0.93</mass>
     <temperature errorplus="75.0">5650.0</temperature>
+    <mass errorplus="0.05">0.93</mass>
+    <name>TrES-3</name>
     <planet>
-      <name>TrES-3 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.02">0.83</radius>
-      <semimajoraxis errorplus="0.00023" errorminus="-0.0004">0.02282</semimajoraxis>
       <eccentricity>0.0</eccentricity>
       <period>1.3</period>
-      <inclination errorplus="0.16" errorminus="-0.16">81.85</inclination>
+      <radius errorplus="0.02">0.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.16" errorplus="0.16">81.85</inclination>
+      <name>TrES-3 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0004" errorplus="0.00023">0.02282</semimajoraxis>
     </planet>
+    <radius errorplus="0.02">0.83</radius>
   </star>
-  <distance errorplus="12.0" errorminus="-12.0">228.0</distance>
   <declination>37 32 46</declination>
 </system>
 

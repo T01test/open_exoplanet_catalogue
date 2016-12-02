@@ -1,22 +1,22 @@
 <system>
-  <name>K2-6</name>
   <rightascension>11 11 32</rightascension>
-  <star>
-    <name>K2-6</name>
-    <radius errorplus="0.14" errorminus="-0.09">0.96</radius>
-    <mass errorplus="0.07" errorminus="-0.07">0.97</mass>
-    <temperature errorplus="79.0" errorminus="-98.0">5850.0</temperature>
-    <planet>
-      <name>K2-6 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-07-16</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.09">0.96</radius>
-      <semimajoraxis errorplus="0.0056" errorminus="-0.0056">0.1898</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">30.9</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-6</name>
+  <star>
+    <temperature errorminus="-98.0" errorplus="79.0">5850.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.97</mass>
+    <name>K2-6</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">30.9</period>
+      <radius errorminus="-0.09" errorplus="0.14">0.96</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>K2-6 b</name>
+      <lastupdate>2015-07-16</lastupdate>
+      <semimajoraxis errorminus="-0.0056" errorplus="0.0056">0.1898</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.09" errorplus="0.14">0.96</radius>
+  </star>
   <declination>-1 11 54</declination>
 </system>
 

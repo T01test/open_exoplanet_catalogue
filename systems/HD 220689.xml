@@ -1,23 +1,23 @@
 <system>
-  <name>HD 220689</name>
   <rightascension>23 28 14</rightascension>
+  <distance errorminus="-1.96" errorplus="1.81">45.23</distance>
+  <name>HD 220689</name>
   <star>
+    <temperature errorminus="-26.0" errorplus="26.0">5921.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.04</mass>
     <name>HD 220689</name>
-    <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.04</mass>
-    <temperature errorplus="26.0" errorminus="-26.0">5921.0</temperature>
     <planet>
-      <name>HD 220689 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">1.07</radius>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">3.36</semimajoraxis>
       <eccentricity>0.16</eccentricity>
-      <period errorplus="103.0" errorminus="-81.0">2209.0</period>
+      <period errorminus="-81.0" errorplus="103.0">2209.0</period>
+      <radius errorminus="-0.04" errorplus="0.04">1.07</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 220689 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.09" errorplus="0.09">3.36</semimajoraxis>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.04">1.07</radius>
   </star>
-  <distance errorplus="1.81" errorminus="-1.96">45.23</distance>
   <declination>-20 36 57</declination>
 </system>
 

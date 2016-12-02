@@ -1,23 +1,23 @@
 <system>
-  <name>HD 8673</name>
   <rightascension>01 32 11</rightascension>
+  <distance errorminus="-1.19" errorplus="1.12">38.26</distance>
+  <name>HD 8673</name>
   <star>
-    <name>HD 8673</name>
-    <radius/>
-    <mass/>
     <temperature/>
+    <mass/>
+    <name>HD 8673</name>
     <planet>
-      <name>HD 8673 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.15" errorminus="-0.15">3.02</semimajoraxis>
       <eccentricity>0.723</eccentricity>
-      <period errorplus="17.0" errorminus="-17.0">1634.0</period>
+      <period errorminus="-17.0" errorplus="17.0">1634.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 8673 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.15" errorplus="0.15">3.02</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.12" errorminus="-1.19">38.26</distance>
   <declination>34 34 46</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 109246</name>
   <rightascension>12 01 47</rightascension>
-  <star>
-    <name>HD 109246</name>
-    <radius errorplus="0.07" errorminus="-0.07">1.02</radius>
-    <mass errorplus="0.11" errorminus="-0.11">1.01</mass>
-    <temperature errorplus="21.0" errorminus="-21.0">5844.0</temperature>
-    <planet>
-      <name>HD 109246 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.07">1.02</radius>
-      <semimajoraxis errorplus="0.08" errorminus="-0.08">0.33</semimajoraxis>
-      <eccentricity>0.12</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">68.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>65.6</distance>
+  <name>HD 109246</name>
+  <star>
+    <temperature errorminus="-21.0" errorplus="21.0">5844.0</temperature>
+    <mass errorminus="-0.11" errorplus="0.11">1.01</mass>
+    <name>HD 109246</name>
+    <planet>
+      <eccentricity>0.12</eccentricity>
+      <period errorminus="-0.1" errorplus="0.1">68.3</period>
+      <radius errorminus="-0.07" errorplus="0.07">1.02</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 109246 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.08" errorplus="0.08">0.33</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.07" errorplus="0.07">1.02</radius>
+  </star>
   <declination>74 29 22</declination>
 </system>
 

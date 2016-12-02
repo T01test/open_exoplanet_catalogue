@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1016</name>
   <rightascension>19 36 49</rightascension>
+  <distance errorminus="-141.4" errorplus="210.99">1239.0</distance>
+  <name>Kepler-1016</name>
   <star>
+    <temperature errorminus="-169.89" errorplus="177.41">5821.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.08">0.99</mass>
     <name>Kepler-1016</name>
-    <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
-    <mass errorplus="0.08" errorminus="-0.07">0.99</mass>
-    <temperature errorplus="177.41" errorminus="-169.89">5821.0</temperature>
     <planet>
-      <name>Kepler-1016 b</name>
+      <period errorminus="-0.0" errorplus="0.0">105.7</period>
+      <radius errorminus="-0.1" errorplus="0.17">1.0</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">2.0</period>
       <inclination/>
-    </planet>
-    <planet>
       <name>Kepler-1016 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.1">1.0</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">105.7</period>
-      <inclination/>
     </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">2.0</period>
+      <radius errorminus="-0.1" errorplus="0.17">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-1016 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.1" errorplus="0.17">1.0</radius>
   </star>
-  <distance errorplus="210.99" errorminus="-141.4">1239.0</distance>
   <declination>45 59 04</declination>
 </system>
 

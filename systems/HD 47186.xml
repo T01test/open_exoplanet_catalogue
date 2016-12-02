@@ -1,33 +1,33 @@
 <system>
-  <name>HD 47186</name>
   <rightascension>06 02 11</rightascension>
+  <distance errorminus="-1.29" errorplus="1.21">37.84</distance>
+  <name>HD 47186</name>
   <star>
-    <name>HD 47186</name>
-    <radius/>
+    <temperature errorminus="-21.0" errorplus="21.0">5675.0</temperature>
     <mass>0.99</mass>
-    <temperature errorplus="21.0" errorminus="-21.0">5675.0</temperature>
+    <name>HD 47186</name>
     <planet>
-      <name>HD 47186 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>2.395</semimajoraxis>
       <eccentricity>0.249</eccentricity>
-      <period errorplus="57.1" errorminus="-57.1">1353.6</period>
+      <period errorminus="-57.1" errorplus="57.1">1353.6</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 47186 c</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>2.395</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 47186 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-03-26</lastupdate>
-      <radius/>
-      <semimajoraxis>0.05</semimajoraxis>
       <eccentricity>0.038</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <period errorminus="-0.0" errorplus="0.0">4.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 47186 b</name>
+      <lastupdate>2015-03-26</lastupdate>
+      <semimajoraxis>0.05</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.21" errorminus="-1.29">37.84</distance>
   <declination>-27 37 20</declination>
 </system>
 

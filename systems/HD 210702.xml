@@ -1,23 +1,23 @@
 <system>
-  <name>HD 210702</name>
   <rightascension>22 57 49</rightascension>
+  <distance errorminus="-2.41" errorplus="2.22">55.93</distance>
+  <name>HD 210702</name>
   <star>
-    <name>HD 210702</name>
-    <radius errorplus="0.4">5.1</radius>
-    <mass errorplus="0.18">1.68</mass>
     <temperature errorplus="25.0">4967.0</temperature>
+    <mass errorplus="0.18">1.68</mass>
+    <name>HD 210702</name>
     <planet>
-      <name>HD 210702 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="0.4">5.1</radius>
-      <semimajoraxis>1.2</semimajoraxis>
       <eccentricity>0.094</eccentricity>
-      <period errorplus="1.1" errorminus="-1.1">354.8</period>
+      <period errorminus="-1.1" errorplus="1.1">354.8</period>
+      <radius errorplus="0.4">5.1</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 210702 b</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis>1.2</semimajoraxis>
     </planet>
+    <radius errorplus="0.4">5.1</radius>
   </star>
-  <distance errorplus="2.22" errorminus="-2.41">55.93</distance>
   <declination>16 02 25</declination>
 </system>
 

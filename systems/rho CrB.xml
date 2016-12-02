@@ -1,33 +1,33 @@
 <system>
-  <name>rho CrB</name>
   <rightascension>16 15 39</rightascension>
+  <distance errorminus="-0.02" errorplus="0.02">17.24</distance>
+  <name>rho CrB</name>
   <star>
+    <temperature errorminus="-54.0" errorplus="54.0">5627.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.89</mass>
     <name>rho CrB</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
-    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
     <planet>
-      <name>rho CrB b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
-      <eccentricity>0.0373</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">39.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>rho CrB c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-10-27</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
       <eccentricity>0.052</eccentricity>
-      <period errorplus="0.2" errorminus="-0.2">102.5</period>
+      <period errorminus="-0.2" errorplus="0.2">102.5</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.36</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>rho CrB c</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis errorminus="-0.0047" errorplus="0.0046">0.4123</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.0373</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">39.8</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.36</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>rho CrB b</name>
+      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0024">0.2196</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.03" errorplus="0.03">1.36</radius>
   </star>
-  <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
   <declination>33 18 12</declination>
 </system>
 

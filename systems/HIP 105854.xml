@@ -1,23 +1,23 @@
 <system>
-  <name>HIP 105854</name>
   <rightascension>21 35 43</rightascension>
+  <distance errorminus="-6.14" errorplus="5.36">84.6</distance>
+  <name>HIP 105854</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">4780.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">2.1</mass>
     <name>HIP 105854</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">2.1</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">4780.0</temperature>
     <planet>
-      <name>HIP 105854 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-06-11</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">0.81</semimajoraxis>
       <eccentricity>0.02</eccentricity>
-      <period errorplus="0.5" errorminus="-0.5">184.2</period>
+      <period errorminus="-0.5" errorplus="0.5">184.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HIP 105854 b</name>
+      <lastupdate>2014-06-11</lastupdate>
+      <semimajoraxis errorminus="-0.03" errorplus="0.03">0.81</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="5.36" errorminus="-6.14">84.6</distance>
   <declination>-37 49 45</declination>
 </system>
 

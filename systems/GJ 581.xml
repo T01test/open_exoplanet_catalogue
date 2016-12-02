@@ -1,43 +1,43 @@
 <system>
-  <name>GJ 581</name>
   <rightascension>15 51 42</rightascension>
+  <distance errorminus="-0.09" errorplus="0.09">6.27</distance>
+  <name>GJ 581</name>
   <star>
-    <name>GJ 581</name>
-    <radius>0.29</radius>
-    <mass errorplus="0.02" errorminus="-0.02">0.31</mass>
     <temperature/>
+    <mass errorminus="-0.02" errorplus="0.02">0.31</mass>
+    <name>GJ 581</name>
     <planet>
-      <name>GJ 581 e</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-09</lastupdate>
-      <radius>0.29</radius>
-      <semimajoraxis errorplus="6e-05" errorminus="-6e-05">0.02815</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>GJ 581 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-09</lastupdate>
+      <period errorminus="-0.0" errorplus="0.0">5.4</period>
       <radius>0.29</radius>
-      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.0721</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">12.9</period>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
-    </planet>
-    <planet>
       <name>GJ 581 b</name>
-      <discoverymethod>RV</discoverymethod>
       <lastupdate>2014-07-09</lastupdate>
-      <radius>0.29</radius>
-      <semimajoraxis errorplus="3e-05" errorminus="-3e-05">0.04061</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <inclination/>
+      <semimajoraxis errorminus="-3e-05" errorplus="3e-05">0.04061</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">12.9</period>
+      <radius>0.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 581 c</name>
+      <lastupdate>2014-07-09</lastupdate>
+      <semimajoraxis errorminus="-0.0003" errorplus="0.0003">0.0721</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.1</period>
+      <radius>0.29</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>GJ 581 e</name>
+      <lastupdate>2014-07-09</lastupdate>
+      <semimajoraxis errorminus="-6e-05" errorplus="6e-05">0.02815</semimajoraxis>
+    </planet>
+    <radius>0.29</radius>
   </star>
-  <distance errorplus="0.09" errorminus="-0.09">6.27</distance>
   <declination>-7 43 20</declination>
 </system>
 

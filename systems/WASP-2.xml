@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-2</name>
   <rightascension>20 43 31</rightascension>
+  <distance errorminus="-30.0" errorplus="30.0">166.0</distance>
+  <name>WASP-2</name>
   <star>
+    <temperature errorminus="-200.0" errorplus="200.0">5200.0</temperature>
+    <mass errorminus="-0.12" errorplus="0.12">0.89</mass>
     <name>WASP-2</name>
-    <radius errorplus="0.06" errorminus="-0.07">0.84</radius>
-    <mass errorplus="0.12" errorminus="-0.12">0.89</mass>
-    <temperature errorplus="200.0" errorminus="-200.0">5200.0</temperature>
     <planet>
-      <name>WASP-2 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-10-29</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.07">0.84</radius>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.00154">0.03138</semimajoraxis>
       <period>2.2</period>
-      <inclination errorplus="0.35" errorminus="-0.27">84.81</inclination>
+      <radius errorminus="-0.07" errorplus="0.06">0.84</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.27" errorplus="0.35">84.81</inclination>
+      <name>WASP-2 b</name>
+      <lastupdate>2014-10-29</lastupdate>
+      <semimajoraxis errorminus="-0.00154" errorplus="0.0013">0.03138</semimajoraxis>
     </planet>
+    <radius errorminus="-0.07" errorplus="0.06">0.84</radius>
   </star>
-  <distance errorplus="30.0" errorminus="-30.0">166.0</distance>
   <declination>06 25 46</declination>
 </system>
 

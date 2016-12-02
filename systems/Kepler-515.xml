@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-515</name>
   <rightascension>19 29 38</rightascension>
+  <distance errorminus="-9.17" errorplus="10.47">255.0</distance>
+  <name>Kepler-515</name>
   <star>
+    <temperature errorminus="-61.29" errorplus="49.66">5293.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.9</mass>
     <name>Kepler-515</name>
-    <radius errorplus="0.03" errorminus="-0.03">0.83</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.9</mass>
-    <temperature errorplus="49.66" errorminus="-61.29">5293.0</temperature>
     <planet>
-      <name>Kepler-515 b</name>
+      <period errorminus="-0.0" errorplus="0.0">20.0</period>
+      <radius errorminus="-0.03" errorplus="0.03">0.83</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">0.83</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">20.0</period>
       <inclination/>
+      <name>Kepler-515 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">0.83</radius>
   </star>
-  <distance errorplus="10.47" errorminus="-9.17">255.0</distance>
   <declination>52 03 20</declination>
 </system>
 

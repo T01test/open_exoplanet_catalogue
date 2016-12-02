@@ -1,23 +1,23 @@
 <system>
-  <name>bet Pic</name>
   <rightascension>05 49 16</rightascension>
+  <distance errorminus="-0.19" errorplus="0.19">19.28</distance>
+  <name>bet Pic</name>
   <star>
-    <name>bet Pic</name>
-    <radius/>
-    <mass errorplus="0.18" errorminus="-0.17">1.76</mass>
     <temperature/>
+    <mass errorminus="-0.17" errorplus="0.18">1.76</mass>
+    <name>bet Pic</name>
     <planet>
-      <name>bet Pic b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-08-13</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="5.3" errorminus="-0.5">9.1</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="7300.0" errorminus="-730.0">7665.0</period>
-      <inclination errorplus="0.7" errorminus="-0.7">88.9</inclination>
+      <period errorminus="-730.0" errorplus="7300.0">7665.0</period>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination errorminus="-0.7" errorplus="0.7">88.9</inclination>
+      <name>bet Pic b</name>
+      <lastupdate>2015-08-13</lastupdate>
+      <semimajoraxis errorminus="-0.5" errorplus="5.3">9.1</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.19" errorminus="-0.19">19.28</distance>
   <declination>-51 03 59</declination>
 </system>
 

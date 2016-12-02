@@ -1,63 +1,63 @@
 <system>
-  <name>HD 40307</name>
   <rightascension>05 31 03</rightascension>
+  <distance errorminus="-0.09" errorplus="0.09">12.83</distance>
+  <name>HD 40307</name>
   <star>
+    <temperature errorminus="-50.0" errorplus="50.0">4956.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">0.77</mass>
     <name>HD 40307</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.05">0.77</mass>
-    <temperature errorplus="50.0" errorminus="-50.0">4956.0</temperature>
     <planet>
-      <name>HD 40307 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0023">0.0468</semimajoraxis>
-      <eccentricity>0.2</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 40307 g</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.034" errorminus="-0.033">0.6</semimajoraxis>
-      <eccentricity>0.29</eccentricity>
-      <period errorplus="5.7" errorminus="-9.0">197.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 40307 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.0799</semimajoraxis>
-      <eccentricity>0.06</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">9.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 40307 d</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0066" errorminus="-0.0066">0.1321</semimajoraxis>
       <eccentricity>0.07</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">20.4</period>
+      <period errorminus="-0.0" errorplus="0.0">20.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 40307 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0066" errorplus="0.0066">0.1321</semimajoraxis>
     </planet>
     <planet>
-      <name>HD 40307 f</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.06</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">9.6</period>
       <radius/>
-      <semimajoraxis errorplus="0.011" errorminus="-0.014">0.247</semimajoraxis>
-      <eccentricity>0.02</eccentricity>
-      <period errorplus="0.5" errorminus="-0.5">51.8</period>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 40307 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.004" errorplus="0.004">0.0799</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.2</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">4.3</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 40307 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0023" errorplus="0.0024">0.0468</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.29</eccentricity>
+      <period errorminus="-9.0" errorplus="5.7">197.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 40307 g</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.033" errorplus="0.034">0.6</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.02</eccentricity>
+      <period errorminus="-0.5" errorplus="0.5">51.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 40307 f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.014" errorplus="0.011">0.247</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.09" errorminus="-0.09">12.83</distance>
   <declination>-60 01 24</declination>
 </system>
 

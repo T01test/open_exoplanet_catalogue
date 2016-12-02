@@ -1,23 +1,23 @@
 <system>
-  <name>HD 145934</name>
   <rightascension>16 17 28</rightascension>
-  <star>
-    <name>HD 145934</name>
-    <radius errorplus="0.44" errorminus="-0.44">5.38</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.75</mass>
-    <temperature/>
-    <planet>
-      <name>HD 145934 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-01-08</lastupdate>
-      <radius errorplus="0.44" errorminus="-0.44">5.38</radius>
-      <semimajoraxis errorplus="0.14" errorminus="-0.14">4.6</semimajoraxis>
-      <eccentricity>0.053</eccentricity>
-      <period errorplus="100.0" errorminus="-100.0">2730.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>HD 145934</name>
+  <star>
+    <temperature/>
+    <mass errorminus="-0.1" errorplus="0.1">1.75</mass>
+    <name>HD 145934</name>
+    <planet>
+      <eccentricity>0.053</eccentricity>
+      <period errorminus="-100.0" errorplus="100.0">2730.0</period>
+      <radius errorminus="-0.44" errorplus="0.44">5.38</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 145934 b</name>
+      <lastupdate>2015-01-08</lastupdate>
+      <semimajoraxis errorminus="-0.14" errorplus="0.14">4.6</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.44" errorplus="0.44">5.38</radius>
+  </star>
   <declination>13 14 22</declination>
 </system>
 

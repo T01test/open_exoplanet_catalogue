@@ -1,23 +1,23 @@
 <system>
-  <name>BD+20 594</name>
   <rightascension>03 39 03</rightascension>
+  <distance errorminus="-7.4" errorplus="9.7">152.1</distance>
+  <name>BD+20 594</name>
   <star>
+    <temperature errorminus="-99.0" errorplus="99.0">5766.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.96</mass>
     <name>BD+20 594</name>
-    <radius errorplus="0.06" errorminus="-0.04">0.93</radius>
-    <mass errorplus="0.03" errorminus="-0.03">0.96</mass>
-    <temperature errorplus="99.0" errorminus="-99.0">5766.0</temperature>
     <planet>
-      <name>BD+20 594 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-28</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.04">0.93</radius>
-      <semimajoraxis errorplus="0.019" errorminus="-0.017">0.241</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">41.7</period>
-      <inclination errorplus="0.17" errorminus="-0.14">89.55</inclination>
+      <period errorminus="-0.0" errorplus="0.0">41.7</period>
+      <radius errorminus="-0.04" errorplus="0.06">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.14" errorplus="0.17">89.55</inclination>
+      <name>BD+20 594 b</name>
+      <lastupdate>2016-07-28</lastupdate>
+      <semimajoraxis errorminus="-0.017" errorplus="0.019">0.241</semimajoraxis>
     </planet>
+    <radius errorminus="-0.04" errorplus="0.06">0.93</radius>
   </star>
-  <distance errorplus="9.7" errorminus="-7.4">152.1</distance>
   <declination>20 35 57</declination>
 </system>
 

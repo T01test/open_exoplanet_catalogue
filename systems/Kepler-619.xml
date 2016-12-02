@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-619</name>
   <rightascension>19 50 56</rightascension>
+  <distance errorminus="-113.12" errorplus="223.44">1111.0</distance>
+  <name>Kepler-619</name>
   <star>
+    <temperature errorminus="-113.14" errorplus="106.44">5980.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.07">1.09</mass>
     <name>Kepler-619</name>
-    <radius errorplus="0.23" errorminus="-0.11">1.11</radius>
-    <mass errorplus="0.07" errorminus="-0.06">1.09</mass>
-    <temperature errorplus="106.44" errorminus="-113.14">5980.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.4</period>
+      <radius errorminus="-0.11" errorplus="0.23">1.11</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-619 b</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.11">1.11</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-619 c</name>
+      <period errorminus="-0.0" errorplus="0.0">1.2</period>
+      <radius errorminus="-0.11" errorplus="0.23">1.11</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.23" errorminus="-0.11">1.11</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">1.2</period>
       <inclination/>
+      <name>Kepler-619 c</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.11" errorplus="0.23">1.11</radius>
   </star>
-  <distance errorplus="223.44" errorminus="-113.12">1111.0</distance>
   <declination>48 24 57</declination>
 </system>
 

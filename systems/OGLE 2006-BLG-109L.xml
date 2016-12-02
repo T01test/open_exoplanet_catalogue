@@ -1,32 +1,32 @@
 <system>
-  <name>OGLE 2006-BLG-109L</name>
   <rightascension>17 08 37</rightascension>
+  <distance errorminus="-120.0" errorplus="110.0">1510.0</distance>
+  <name>OGLE 2006-BLG-109L</name>
   <star>
-    <name>OGLE 2006-BLG-109L</name>
-    <radius/>
-    <mass errorplus="0.05" errorminus="-0.04">0.51</mass>
     <temperature/>
+    <mass errorminus="-0.04" errorplus="0.05">0.51</mass>
+    <name>OGLE 2006-BLG-109L</name>
     <planet>
-      <name>OGLE 2006-BLG-109L b</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2014-11-05</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">2.3</semimajoraxis>
-      <period errorplus="584.0" errorminus="-547.5">1788.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>OGLE 2006-BLG-109L c</name>
-      <discoverymethod>microlensing</discoverymethod>
-      <lastupdate>2014-11-05</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="2.1" errorminus="-1.0">4.5</semimajoraxis>
       <eccentricity>0.15</eccentricity>
-      <period errorplus="3540.5" errorminus="-1752.0">4927.5</period>
-      <inclination errorplus="4.0" errorminus="-7.0">64.0</inclination>
+      <period errorminus="-1752.0" errorplus="3540.5">4927.5</period>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination errorminus="-7.0" errorplus="4.0">64.0</inclination>
+      <name>OGLE 2006-BLG-109L c</name>
+      <lastupdate>2014-11-05</lastupdate>
+      <semimajoraxis errorminus="-1.0" errorplus="2.1">4.5</semimajoraxis>
     </planet>
+    <planet>
+      <period errorminus="-547.5" errorplus="584.0">1788.5</period>
+      <radius/>
+      <discoverymethod>microlensing</discoverymethod>
+      <inclination/>
+      <name>OGLE 2006-BLG-109L b</name>
+      <lastupdate>2014-11-05</lastupdate>
+      <semimajoraxis errorminus="-0.5" errorplus="0.5">2.3</semimajoraxis>
+    </planet>
+    <radius/>
   </star>
-  <distance errorplus="110.0" errorminus="-120.0">1510.0</distance>
   <declination>-30 05 16</declination>
 </system>
 

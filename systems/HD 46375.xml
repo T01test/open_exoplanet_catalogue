@@ -1,23 +1,23 @@
 <system>
-  <name>HD 46375</name>
   <rightascension>06 18 09</rightascension>
+  <distance errorminus="-1.24" errorplus="1.15">33.41</distance>
+  <name>HD 46375</name>
   <star>
-    <name>HD 46375</name>
-    <radius/>
-    <mass>0.92</mass>
     <temperature>5285.0</temperature>
+    <mass>0.92</mass>
+    <name>HD 46375</name>
     <planet>
-      <name>HD 46375 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0023" errorminus="-0.0023">0.0398</semimajoraxis>
       <eccentricity>0.063</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <period errorminus="-0.0" errorplus="0.0">3.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 46375 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.0023" errorplus="0.0023">0.0398</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.15" errorminus="-1.24">33.41</distance>
   <declination>05 27 46</declination>
 </system>
 

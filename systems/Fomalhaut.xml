@@ -1,23 +1,23 @@
 <system>
-  <name>Fomalhaut</name>
   <rightascension>22 24 45</rightascension>
+  <distance errorminus="-0.05" errorplus="0.05">7.69</distance>
+  <name>Fomalhaut</name>
   <star>
-    <name>Fomalhaut</name>
-    <radius/>
-    <mass>2.0</mass>
     <temperature/>
+    <mass>2.0</mass>
+    <name>Fomalhaut</name>
     <planet>
-      <name>Fomalhaut b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-11-19</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="33.0" errorminus="-79.0">160.0</semimajoraxis>
       <eccentricity>0.87</eccentricity>
-      <period errorplus="184690.0" errorminus="-353320.0">555530.0</period>
-      <inclination errorplus="26.0" errorminus="-12.0">55.0</inclination>
+      <period errorminus="-353320.0" errorplus="184690.0">555530.0</period>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
+      <inclination errorminus="-12.0" errorplus="26.0">55.0</inclination>
+      <name>Fomalhaut b</name>
+      <lastupdate>2015-11-19</lastupdate>
+      <semimajoraxis errorminus="-79.0" errorplus="33.0">160.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.05" errorminus="-0.05">7.69</distance>
   <declination>-29 37 20</declination>
 </system>
 

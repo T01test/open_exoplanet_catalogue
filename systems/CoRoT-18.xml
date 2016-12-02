@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-18</name>
   <rightascension>06 10 20</rightascension>
+  <distance errorminus="-90.0" errorplus="90.0">870.0</distance>
+  <name>CoRoT-18</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5440.0</temperature>
+    <mass errorminus="-0.15" errorplus="0.15">0.95</mass>
     <name>CoRoT-18</name>
-    <radius errorplus="0.13" errorminus="-0.13">1.0</radius>
-    <mass errorplus="0.15" errorminus="-0.15">0.95</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5440.0</temperature>
     <planet>
-      <name>CoRoT-18 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.13" errorminus="-0.13">1.0</radius>
-      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.0295</semimajoraxis>
       <eccentricity>0.08</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1.9</period>
-      <inclination errorplus="1.4" errorminus="-0.9">86.5</inclination>
+      <period errorminus="-0.0" errorplus="0.0">1.9</period>
+      <radius errorminus="-0.13" errorplus="0.13">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.9" errorplus="1.4">86.5</inclination>
+      <name>CoRoT-18 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0016" errorplus="0.0016">0.0295</semimajoraxis>
     </planet>
+    <radius errorminus="-0.13" errorplus="0.13">1.0</radius>
   </star>
-  <distance errorplus="90.0" errorminus="-90.0">870.0</distance>
   <declination>00 01 53</declination>
 </system>
 

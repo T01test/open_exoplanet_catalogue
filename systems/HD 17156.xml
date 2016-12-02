@@ -1,23 +1,23 @@
 <system>
-  <name>HD 17156</name>
   <rightascension>02 26 07</rightascension>
-  <star>
-    <name>HD 17156</name>
-    <radius errorplus="0.08" errorminus="-0.08">1.44</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.24</mass>
-    <temperature errorplus="75.0" errorminus="-75.0">6100.0</temperature>
-    <planet>
-      <name>HD 17156 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-10-29</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.08">1.44</radius>
-      <semimajoraxis errorplus="0.0022" errorminus="-0.0022">0.1614</semimajoraxis>
-      <eccentricity>0.6819</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">21.2</period>
-      <inclination errorplus="0.11" errorminus="-0.11">87.89</inclination>
-    </planet>
-  </star>
   <distance>75.0</distance>
+  <name>HD 17156</name>
+  <star>
+    <temperature errorminus="-75.0" errorplus="75.0">6100.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.24</mass>
+    <name>HD 17156</name>
+    <planet>
+      <eccentricity>0.6819</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">21.2</period>
+      <radius errorminus="-0.08" errorplus="0.08">1.44</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination errorminus="-0.11" errorplus="0.11">87.89</inclination>
+      <name>HD 17156 b</name>
+      <lastupdate>2014-10-29</lastupdate>
+      <semimajoraxis errorminus="-0.0022" errorplus="0.0022">0.1614</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.08" errorplus="0.08">1.44</radius>
+  </star>
   <declination>71 45 11</declination>
 </system>
 

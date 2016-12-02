@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-117</name>
   <rightascension>02 46 31</rightascension>
-  <star>
-    <name>WASP-117</name>
-    <radius errorplus="0.07" errorminus="-0.06">1.17</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.13</mass>
-    <temperature errorplus="88.0" errorminus="-88.0">6038.0</temperature>
-    <planet>
-      <name>WASP-117 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-08-27</lastupdate>
-      <radius errorplus="0.07" errorminus="-0.06">1.17</radius>
-      <semimajoraxis errorplus="0.00084" errorminus="-0.00079">0.09459</semimajoraxis>
-      <eccentricity>0.302</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
-      <inclination errorplus="0.3" errorminus="-0.3">89.14</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>WASP-117</name>
+  <star>
+    <temperature errorminus="-88.0" errorplus="88.0">6038.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.13</mass>
+    <name>WASP-117</name>
+    <planet>
+      <eccentricity>0.302</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">10.0</period>
+      <radius errorminus="-0.06" errorplus="0.07">1.17</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.3" errorplus="0.3">89.14</inclination>
+      <name>WASP-117 b</name>
+      <lastupdate>2014-08-27</lastupdate>
+      <semimajoraxis errorminus="-0.00079" errorplus="0.00084">0.09459</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.07">1.17</radius>
+  </star>
   <declination>-50 17 04</declination>
 </system>
 

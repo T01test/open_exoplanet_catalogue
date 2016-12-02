@@ -1,23 +1,23 @@
 <system>
-  <name>XO-5</name>
   <rightascension>07 42 59</rightascension>
+  <distance errorminus="-12.0" errorplus="12.0">260.0</distance>
+  <name>XO-5</name>
   <star>
+    <temperature errorminus="-70.0" errorplus="70.0">5430.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">1.04</mass>
     <name>XO-5</name>
-    <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-    <mass errorplus="0.03" errorminus="-0.03">1.04</mass>
-    <temperature errorplus="70.0" errorminus="-70.0">5430.0</temperature>
     <planet>
-      <name>XO-5 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-02-12</lastupdate>
-      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0515</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <inclination errorplus="0.2" errorminus="-0.2">86.8</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.2</period>
+      <radius errorminus="-0.03" errorplus="0.03">1.13</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.2" errorplus="0.2">86.8</inclination>
+      <name>XO-5 b</name>
+      <lastupdate>2015-02-12</lastupdate>
+      <semimajoraxis errorminus="-0.0005" errorplus="0.0005">0.0515</semimajoraxis>
     </planet>
+    <radius errorminus="-0.03" errorplus="0.03">1.13</radius>
   </star>
-  <distance errorplus="12.0" errorminus="-12.0">260.0</distance>
   <declination>39 05 40</declination>
 </system>
 

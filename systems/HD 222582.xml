@@ -1,23 +1,23 @@
 <system>
-  <name>HD 222582</name>
   <rightascension>23 27 52</rightascension>
+  <distance errorminus="-2.05" errorplus="1.87">41.95</distance>
+  <name>HD 222582</name>
   <star>
-    <name>HD 222582</name>
-    <radius/>
-    <mass>0.99</mass>
     <temperature>5727.0</temperature>
+    <mass>0.99</mass>
+    <name>HD 222582</name>
     <planet>
-      <name>HD 222582 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.078" errorminus="-0.078">1.347</semimajoraxis>
       <eccentricity>0.725</eccentricity>
-      <period errorplus="0.6" errorminus="-0.6">572.4</period>
+      <period errorminus="-0.6" errorplus="0.6">572.4</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 222582 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis errorminus="-0.078" errorplus="0.078">1.347</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="1.87" errorminus="-2.05">41.95</distance>
   <declination>-5 59 08</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>91 Aqr</name>
   <rightascension>23 58 22</rightascension>
+  <distance errorminus="-1.92" errorplus="1.77">45.52</distance>
+  <name>91 Aqr</name>
   <star>
+    <temperature errorminus="-18.0" errorplus="18.0">4665.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.4</mass>
     <name>91 Aqr</name>
-    <radius errorplus="0.1" errorminus="-0.1">11.0</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.4</mass>
-    <temperature errorplus="18.0" errorminus="-18.0">4665.0</temperature>
     <planet>
-      <name>91 Aqr b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">11.0</radius>
-      <semimajoraxis>0.7</semimajoraxis>
       <eccentricity>0.027</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">181.4</period>
+      <period errorminus="-0.1" errorplus="0.1">181.4</period>
+      <radius errorminus="-0.1" errorplus="0.1">11.0</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>91 Aqr b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.7</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">11.0</radius>
   </star>
-  <distance errorplus="1.77" errorminus="-1.92">45.52</distance>
   <declination>-9 05 15</declination>
 </system>
 

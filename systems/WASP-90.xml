@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-90</name>
   <rightascension>21 31 55</rightascension>
+  <distance errorminus="-60.0" errorplus="60.0">340.0</distance>
+  <name>WASP-90</name>
   <star>
+    <temperature errorminus="-130.0" errorplus="130.0">6430.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">1.55</mass>
     <name>WASP-90</name>
-    <radius errorplus="0.09" errorminus="-0.09">1.98</radius>
-    <mass errorplus="0.1" errorminus="-0.1">1.55</mass>
-    <temperature errorplus="130.0" errorminus="-130.0">6430.0</temperature>
     <planet>
-      <name>WASP-90 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-01-21</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">1.98</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0562</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <inclination errorplus="0.4" errorminus="-0.4">82.1</inclination>
+      <period errorminus="-0.0" errorplus="0.0">3.9</period>
+      <radius errorminus="-0.09" errorplus="0.09">1.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.4" errorplus="0.4">82.1</inclination>
+      <name>WASP-90 b</name>
+      <lastupdate>2016-01-21</lastupdate>
+      <semimajoraxis errorminus="-0.0012" errorplus="0.0012">0.0562</semimajoraxis>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.09">1.98</radius>
   </star>
-  <distance errorplus="60.0" errorminus="-60.0">340.0</distance>
   <declination>07 03 22</declination>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>K2-36</name>
   <rightascension>11 26 56</rightascension>
-  <star>
-    <name>K2-36</name>
-    <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.8</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">4924.0</temperature>
-    <planet>
-      <name>K2-36 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.023</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">1.4</period>
-      <inclination errorplus="1.62" errorminus="-2.4">87.75</inclination>
-    </planet>
-    <planet>
-      <name>K2-36 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.04" errorminus="-0.04">0.74</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0555</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">5.3</period>
-      <inclination errorplus="1.19" errorminus="-1.63">88.33</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-36</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">4924.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.8</mass>
+    <name>K2-36</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.3</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.63" errorplus="1.19">88.33</inclination>
+      <name>K2-36 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0555</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">1.4</period>
+      <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.4" errorplus="1.62">87.75</inclination>
+      <name>K2-36 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0004" errorplus="0.0004">0.023</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.04">0.74</radius>
+  </star>
   <declination>03 51 59</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 3651</name>
   <rightascension>00 50 27</rightascension>
+  <distance errorminus="-0.1" errorplus="0.1">11.1</distance>
+  <name>HD 3651</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5221.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.03">0.88</mass>
     <name>HD 3651</name>
-    <radius/>
-    <mass errorplus="0.03" errorminus="-0.03">0.88</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5221.0</temperature>
     <planet>
-      <name>HD 3651 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.295</semimajoraxis>
       <eccentricity>0.596</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">62.2</period>
+      <period errorminus="-0.0" errorplus="0.0">62.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 3651 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.003" errorplus="0.003">0.295</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.1" errorminus="-0.1">11.1</distance>
   <declination>21 15 01</declination>
 </system>
 

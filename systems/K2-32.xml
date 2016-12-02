@@ -1,40 +1,40 @@
 <system>
-  <name>K2-32</name>
   <rightascension>16 25 33</rightascension>
-  <star>
-    <name>K2-32</name>
-    <radius errorplus="0.05" errorminus="-0.05">0.87</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.87</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">5315.0</temperature>
-    <planet>
-      <name>K2-32 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.87</radius>
-      <semimajoraxis errorplus="0.0031" errorminus="-0.0031">0.1873</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">31.7</period>
-      <inclination errorplus="1.06" errorminus="-0.65">88.4</inclination>
-    </planet>
-    <planet>
-      <name>K2-32 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.87</radius>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0024">0.1407</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">20.7</period>
-      <inclination errorplus="1.32" errorminus="-2.68">88.23</inclination>
-    </planet>
-    <planet>
-      <name>K2-32 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-07-07</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">0.87</radius>
-      <semimajoraxis errorplus="0.0013" errorminus="-0.0013">0.0808</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
-      <inclination errorplus="0.69" errorminus="-0.9">89.0</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>K2-32</name>
+  <star>
+    <temperature errorminus="-60.0" errorplus="60.0">5315.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.87</mass>
+    <name>K2-32</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">9.0</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.9" errorplus="0.69">89.0</inclination>
+      <name>K2-32 b</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0013" errorplus="0.0013">0.0808</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">31.7</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.65" errorplus="1.06">88.4</inclination>
+      <name>K2-32 d</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0031" errorplus="0.0031">0.1873</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">20.7</period>
+      <radius errorminus="-0.05" errorplus="0.05">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-2.68" errorplus="1.32">88.23</inclination>
+      <name>K2-32 c</name>
+      <lastupdate>2016-07-07</lastupdate>
+      <semimajoraxis errorminus="-0.0024" errorplus="0.0024">0.1407</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.05" errorplus="0.05">0.87</radius>
+  </star>
   <declination>-19 32 34</declination>
 </system>
 

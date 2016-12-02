@@ -1,23 +1,23 @@
 <system>
-  <name>HD 6434</name>
   <rightascension>01 10 02</rightascension>
+  <distance errorminus="-1.5" errorplus="1.4">40.32</distance>
+  <name>HD 6434</name>
   <star>
+    <temperature errorminus="-92.0" errorplus="92.0">5690.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.89</mass>
     <name>HD 6434</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.89</mass>
-    <temperature errorplus="92.0" errorminus="-92.0">5690.0</temperature>
     <planet>
-      <name>HD 6434 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-11-19</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.14</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.148</semimajoraxis>
       <eccentricity>0.146</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">22.0</period>
+      <period errorminus="-0.0" errorplus="0.0">22.0</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.14</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 6434 b</name>
+      <lastupdate>2015-11-19</lastupdate>
+      <semimajoraxis errorminus="-0.002" errorplus="0.002">0.148</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.14</radius>
   </star>
-  <distance errorplus="1.4" errorminus="-1.5">40.32</distance>
   <declination>-39 29 17</declination>
 </system>
 

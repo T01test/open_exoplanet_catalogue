@@ -1,23 +1,23 @@
 <system>
-  <name>HD 179949</name>
   <rightascension>19 53 18</rightascension>
+  <distance errorminus="-0.6" errorplus="0.57">27.05</distance>
+  <name>HD 179949</name>
   <star>
-    <name>HD 179949</name>
-    <radius/>
-    <mass>1.21</mass>
     <temperature>6168.0</temperature>
+    <mass>1.21</mass>
+    <name>HD 179949</name>
     <planet>
-      <name>HD 179949 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-09</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0026" errorminus="-0.0026">0.0443</semimajoraxis>
       <eccentricity>0.022</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <period errorminus="-0.0" errorplus="0.0">3.1</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 179949 b</name>
+      <lastupdate>2014-07-09</lastupdate>
+      <semimajoraxis errorminus="-0.0026" errorplus="0.0026">0.0443</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.57" errorminus="-0.6">27.05</distance>
   <declination>-24 10 45</declination>
 </system>
 

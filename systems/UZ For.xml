@@ -1,33 +1,33 @@
 <system>
-  <name>UZ For</name>
   <rightascension>03 52 09</rightascension>
-  <star>
-    <name>UZ For</name>
-    <radius/>
-    <mass>0.7</mass>
-    <temperature/>
-    <planet>
-      <name>UZ For c</name>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">2.8</semimajoraxis>
-      <eccentricity>0.05</eccentricity>
-      <period errorplus="91.2" errorminus="-91.2">1916.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>UZ For b</name>
-      <discoverymethod>eclipse Timing Variations</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="1.4" errorminus="-1.4">5.9</semimajoraxis>
-      <eccentricity>0.04</eccentricity>
-      <period errorplus="1095.0" errorminus="-1095.0">5840.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>UZ For</name>
+  <star>
+    <temperature/>
+    <mass>0.7</mass>
+    <name>UZ For</name>
+    <planet>
+      <eccentricity>0.05</eccentricity>
+      <period errorminus="-91.2" errorplus="91.2">1916.2</period>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <inclination/>
+      <name>UZ For c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.5" errorplus="0.5">2.8</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.04</eccentricity>
+      <period errorminus="-1095.0" errorplus="1095.0">5840.0</period>
+      <radius/>
+      <discoverymethod>eclipse Timing Variations</discoverymethod>
+      <inclination/>
+      <name>UZ For b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-1.4" errorplus="1.4">5.9</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>-25 44 21</declination>
 </system>
 

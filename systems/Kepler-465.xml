@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-465</name>
   <rightascension>18 33 20</rightascension>
+  <distance errorminus="-34.38" errorplus="49.9">587.0</distance>
+  <name>Kepler-465</name>
   <star>
+    <temperature errorminus="-60.38" errorplus="63.38">6310.0</temperature>
+    <mass errorminus="-0.03" errorplus="0.04">1.23</mass>
     <name>Kepler-465</name>
-    <radius errorplus="0.11" errorminus="-0.07">1.29</radius>
-    <mass errorplus="0.04" errorminus="-0.03">1.23</mass>
-    <temperature errorplus="63.38" errorminus="-60.38">6310.0</temperature>
     <planet>
-      <name>Kepler-465 b</name>
+      <period errorminus="-0.0" errorplus="0.0">9.9</period>
+      <radius errorminus="-0.07" errorplus="0.11">1.29</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.11" errorminus="-0.07">1.29</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">9.9</period>
       <inclination/>
+      <name>Kepler-465 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.07" errorplus="0.11">1.29</radius>
   </star>
-  <distance errorplus="49.9" errorminus="-34.38">587.0</distance>
   <declination>46 03 49</declination>
 </system>
 

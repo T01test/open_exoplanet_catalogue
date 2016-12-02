@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1343</name>
   <rightascension>19 17 40</rightascension>
+  <distance errorminus="-122.36" errorplus="167.65">1307.0</distance>
+  <name>Kepler-1343</name>
   <star>
+    <temperature errorminus="-75.84" errorplus="107.08">5759.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.06">0.95</mass>
     <name>Kepler-1343</name>
-    <radius errorplus="0.11" errorminus="-0.08">0.93</radius>
-    <mass errorplus="0.06" errorminus="-0.08">0.95</mass>
-    <temperature errorplus="107.08" errorminus="-75.84">5759.0</temperature>
     <planet>
-      <name>Kepler-1343 b</name>
+      <period errorminus="-0.0" errorplus="0.0">3.4</period>
+      <radius errorminus="-0.08" errorplus="0.11">0.93</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.11" errorminus="-0.08">0.93</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">3.4</period>
       <inclination/>
+      <name>Kepler-1343 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.08" errorplus="0.11">0.93</radius>
   </star>
-  <distance errorplus="167.65" errorminus="-122.36">1307.0</distance>
   <declination>50 43 31</declination>
 </system>
 

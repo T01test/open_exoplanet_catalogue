@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-29</name>
   <rightascension>23 52 46</rightascension>
-  <star>
-    <name>WASP-29</name>
-    <radius errorplus="0.04">0.81</radius>
-    <mass errorplus="0.03">0.82</mass>
-    <temperature errorplus="150.0">4800.0</temperature>
-    <planet>
-      <name>WASP-29 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.04">0.81</radius>
-      <semimajoraxis errorplus="0.0006" errorminus="-0.0006">0.0457</semimajoraxis>
-      <eccentricity>0.03</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
-      <inclination errorplus="0.7" errorminus="-0.7">88.8</inclination>
-    </planet>
-  </star>
   <distance>70.0</distance>
+  <name>WASP-29</name>
+  <star>
+    <temperature errorplus="150.0">4800.0</temperature>
+    <mass errorplus="0.03">0.82</mass>
+    <name>WASP-29</name>
+    <planet>
+      <eccentricity>0.03</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">3.9</period>
+      <radius errorplus="0.04">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.7" errorplus="0.7">88.8</inclination>
+      <name>WASP-29 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0006" errorplus="0.0006">0.0457</semimajoraxis>
+    </planet>
+    <radius errorplus="0.04">0.81</radius>
+  </star>
   <declination>-39 54 24</declination>
 </system>
 

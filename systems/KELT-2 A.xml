@@ -1,23 +1,23 @@
 <system>
-  <name>KELT-2 A</name>
   <rightascension>06 39 50</rightascension>
+  <distance errorminus="-22.62" errorplus="16.58">124.22</distance>
+  <name>KELT-2 A</name>
   <star>
-    <name>KELT-2 A</name>
-    <radius errorplus="0.07">1.83</radius>
-    <mass errorplus="0.03">1.31</mass>
     <temperature errorplus="50.0">6151.0</temperature>
+    <mass errorplus="0.03">1.31</mass>
+    <name>KELT-2 A</name>
     <planet>
-      <name>KELT-2 A b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.07">1.83</radius>
-      <semimajoraxis errorplus="0.00039" errorminus="-0.00036">0.05496</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
-      <inclination errorplus="1.0" errorminus="-1.4">88.6</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.1</period>
+      <radius errorplus="0.07">1.83</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.4" errorplus="1.0">88.6</inclination>
+      <name>KELT-2 A b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.00036" errorplus="0.00039">0.05496</semimajoraxis>
     </planet>
+    <radius errorplus="0.07">1.83</radius>
   </star>
-  <distance errorplus="16.58" errorminus="-22.62">124.22</distance>
   <declination>30 57 25</declination>
 </system>
 

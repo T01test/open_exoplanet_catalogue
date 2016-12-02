@@ -1,33 +1,33 @@
 <system>
-  <name>nu Oph</name>
   <rightascension>17 45 23</rightascension>
+  <distance errorminus="-1.8" errorplus="1.67">46.84</distance>
+  <name>nu Oph</name>
   <star>
-    <name>nu Oph</name>
-    <radius errorplus="1.1">15.1</radius>
-    <mass errorplus="0.06">3.04</mass>
     <temperature errorplus="25.0">4928.0</temperature>
+    <mass errorplus="0.06">3.04</mass>
+    <name>nu Oph</name>
     <planet>
-      <name>nu Oph c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="1.1">15.1</radius>
-      <semimajoraxis>6.1</semimajoraxis>
-      <eccentricity>0.165</eccentricity>
-      <period errorplus="14.0" errorminus="-14.0">3186.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>nu Oph b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="1.1">15.1</radius>
-      <semimajoraxis>1.9</semimajoraxis>
       <eccentricity>0.1256</eccentricity>
-      <period errorplus="0.3" errorminus="-0.3">530.3</period>
+      <period errorminus="-0.3" errorplus="0.3">530.3</period>
+      <radius errorplus="1.1">15.1</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>nu Oph b</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis>1.9</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.165</eccentricity>
+      <period errorminus="-14.0" errorplus="14.0">3186.0</period>
+      <radius errorplus="1.1">15.1</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>nu Oph c</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis>6.1</semimajoraxis>
+    </planet>
+    <radius errorplus="1.1">15.1</radius>
   </star>
-  <distance errorplus="1.67" errorminus="-1.8">46.84</distance>
   <declination>-9 46 25</declination>
 </system>
 

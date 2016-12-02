@@ -1,63 +1,63 @@
 <system>
-  <name>Kepler-33</name>
   <rightascension>19 04 39</rightascension>
-  <star>
-    <name>Kepler-33</name>
-    <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-    <mass errorplus="0.06" errorminus="-0.12">1.29</mass>
-    <temperature errorplus="47.0" errorminus="-47.0">5904.0</temperature>
-    <planet>
-      <name>Kepler-33 e</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-      <semimajoraxis errorplus="0.0045" errorminus="-0.0045">0.2138</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">31.8</period>
-      <inclination errorplus="0.45" errorminus="-0.35">88.94</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-33 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0677</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
-      <inclination errorplus="0.96" errorminus="-1.62">86.39</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-33 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-      <semimajoraxis errorplus="0.0025" errorminus="-0.0025">0.1189</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">13.2</period>
-      <inclination errorplus="0.58" errorminus="-1.06">88.19</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-33 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-      <semimajoraxis errorplus="0.0035" errorminus="-0.0035">0.1662</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">21.8</period>
-      <inclination errorplus="0.61" errorminus="-0.48">88.71</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-33 f</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.18">1.82</radius>
-      <semimajoraxis errorplus="0.0054" errorminus="-0.0054">0.2535</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">41.0</period>
-      <inclination errorplus="0.33" errorminus="-0.42">89.17</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-33</name>
+  <star>
+    <temperature errorminus="-47.0" errorplus="47.0">5904.0</temperature>
+    <mass errorminus="-0.12" errorplus="0.06">1.29</mass>
+    <name>Kepler-33</name>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">41.0</period>
+      <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.42" errorplus="0.33">89.17</inclination>
+      <name>Kepler-33 f</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0054" errorplus="0.0054">0.2535</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">5.7</period>
+      <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.62" errorplus="0.96">86.39</inclination>
+      <name>Kepler-33 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0014" errorplus="0.0014">0.0677</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">21.8</period>
+      <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.48" errorplus="0.61">88.71</inclination>
+      <name>Kepler-33 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0035" errorplus="0.0035">0.1662</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">13.2</period>
+      <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-1.06" errorplus="0.58">88.19</inclination>
+      <name>Kepler-33 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0025" errorplus="0.0025">0.1189</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.0</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">31.8</period>
+      <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.35" errorplus="0.45">88.94</inclination>
+      <name>Kepler-33 e</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0045" errorplus="0.0045">0.2138</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.18" errorplus="0.14">1.82</radius>
+  </star>
   <declination>46 00 18</declination>
 </system>
 

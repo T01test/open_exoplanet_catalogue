@@ -1,23 +1,23 @@
 <system>
-  <name>HD 152581</name>
   <rightascension>16 25 53</rightascension>
+  <distance errorminus="-48.67" errorplus="31.76">182.82</distance>
+  <name>HD 152581</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">5155.0</temperature>
+    <mass errorminus="-0.07" errorplus="0.07">0.93</mass>
     <name>HD 152581</name>
-    <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
-    <mass errorplus="0.07" errorminus="-0.07">0.93</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">5155.0</temperature>
     <planet>
-      <name>HD 152581 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.1" errorminus="-0.1">4.8</radius>
-      <semimajoraxis errorplus="0.04" errorminus="-0.04">1.48</semimajoraxis>
       <eccentricity>0.074</eccentricity>
-      <period errorplus="13.0" errorminus="-13.0">689.0</period>
+      <period errorminus="-13.0" errorplus="13.0">689.0</period>
+      <radius errorminus="-0.1" errorplus="0.1">4.8</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 152581 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.04" errorplus="0.04">1.48</semimajoraxis>
     </planet>
+    <radius errorminus="-0.1" errorplus="0.1">4.8</radius>
   </star>
-  <distance errorplus="31.76" errorminus="-48.67">182.82</distance>
   <declination>11 58 25</declination>
 </system>
 

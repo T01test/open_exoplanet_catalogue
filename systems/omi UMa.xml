@@ -1,23 +1,23 @@
 <system>
-  <name>omi UMa</name>
   <rightascension>08 33 58</rightascension>
+  <distance errorminus="-2.14" errorplus="1.99">56.31</distance>
+  <name>omi UMa</name>
   <star>
-    <name>omi UMa</name>
-    <radius errorplus="1.0">14.1</radius>
-    <mass errorplus="0.07">3.09</mass>
     <temperature errorplus="10.0">5242.0</temperature>
+    <mass errorplus="0.07">3.09</mass>
+    <name>omi UMa</name>
     <planet>
-      <name>omi UMa b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="1.0">14.1</radius>
-      <semimajoraxis>3.9</semimajoraxis>
       <eccentricity>0.13</eccentricity>
-      <period errorplus="35.0" errorminus="-35.0">1630.0</period>
+      <period errorminus="-35.0" errorplus="35.0">1630.0</period>
+      <radius errorplus="1.0">14.1</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>omi UMa b</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis>3.9</semimajoraxis>
     </planet>
+    <radius errorplus="1.0">14.1</radius>
   </star>
-  <distance errorplus="1.99" errorminus="-2.14">56.31</distance>
   <declination>60 43 05</declination>
 </system>
 

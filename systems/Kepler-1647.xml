@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-1647</name>
   <rightascension>19 09 00</rightascension>
-  <star>
-    <name>Kepler-1647</name>
-    <radius errorplus="0.01" errorminus="-0.01">1.79</radius>
-    <mass errorplus="0.01" errorminus="-0.01">1.22</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">6210.0</temperature>
-    <planet>
-      <name>Kepler-1647 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-19</lastupdate>
-      <radius errorplus="0.01" errorminus="-0.01">1.79</radius>
-      <semimajoraxis errorplus="0.007" errorminus="-0.007">2.7205</semimajoraxis>
-      <eccentricity>0.0581</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">1107.6</period>
-      <inclination errorplus="0.004" errorminus="-0.004">90.097</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-1647</name>
+  <star>
+    <temperature errorminus="-100.0" errorplus="100.0">6210.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">1.22</mass>
+    <name>Kepler-1647</name>
+    <planet>
+      <eccentricity>0.0581</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">1107.6</period>
+      <radius errorminus="-0.01" errorplus="0.01">1.79</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.004" errorplus="0.004">90.097</inclination>
+      <name>Kepler-1647 b</name>
+      <lastupdate>2016-05-19</lastupdate>
+      <semimajoraxis errorminus="-0.007" errorplus="0.007">2.7205</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.01" errorplus="0.01">1.79</radius>
+  </star>
   <declination>40 39 22</declination>
 </system>
 

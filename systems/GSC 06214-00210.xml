@@ -1,22 +1,22 @@
 <system>
-  <name>GSC 06214-00210</name>
   <rightascension>16 28 40</rightascension>
+  <distance errorminus="-14.0" errorplus="14.0">145.0</distance>
+  <name>GSC 06214-00210</name>
   <star>
+    <temperature errorminus="-150.0" errorplus="150.0">4200.0</temperature>
+    <mass errorminus="-0.1" errorplus="0.1">0.9</mass>
     <name>GSC 06214-00210</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.1">0.9</mass>
-    <temperature errorplus="150.0" errorminus="-150.0">4200.0</temperature>
     <planet>
-      <name>GSC 06214-00210 b</name>
-      <discoverymethod>imaging</discoverymethod>
-      <lastupdate>2015-04-01</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="30.0" errorminus="-30.0">320.0</semimajoraxis>
       <period/>
+      <radius/>
+      <discoverymethod>imaging</discoverymethod>
       <inclination/>
+      <name>GSC 06214-00210 b</name>
+      <lastupdate>2015-04-01</lastupdate>
+      <semimajoraxis errorminus="-30.0" errorplus="30.0">320.0</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="14.0" errorminus="-14.0">145.0</distance>
   <declination>-20 43 09</declination>
 </system>
 

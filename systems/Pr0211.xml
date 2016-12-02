@@ -1,33 +1,33 @@
 <system>
-  <name>Pr0211</name>
   <rightascension>08 32 52</rightascension>
-  <star>
-    <name>Pr0211</name>
-    <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-    <mass errorplus="0.01" errorminus="-0.01">0.94</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">5300.0</temperature>
-    <planet>
-      <name>Pr0211 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-11</lastupdate>
-      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <semimajoraxis errorplus="0.00015" errorminus="-0.00015">0.03176</semimajoraxis>
-      <eccentricity>0.011</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Pr0211 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-11</lastupdate>
-      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <semimajoraxis errorplus="3.0" errorminus="-1.4">5.5</semimajoraxis>
-      <eccentricity>0.71</eccentricity>
-      <period errorplus="4560.0" errorminus="-1750.0">4850.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Pr0211</name>
+  <star>
+    <temperature errorminus="-30.0" errorplus="30.0">5300.0</temperature>
+    <mass errorminus="-0.01" errorplus="0.01">0.94</mass>
+    <name>Pr0211</name>
+    <planet>
+      <eccentricity>0.71</eccentricity>
+      <period errorminus="-1750.0" errorplus="4560.0">4850.0</period>
+      <radius errorminus="-0.01" errorplus="0.01">0.83</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>Pr0211 c</name>
+      <lastupdate>2016-02-11</lastupdate>
+      <semimajoraxis errorminus="-1.4" errorplus="3.0">5.5</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.011</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">2.1</period>
+      <radius errorminus="-0.01" errorplus="0.01">0.83</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>Pr0211 b</name>
+      <lastupdate>2016-02-11</lastupdate>
+      <semimajoraxis errorminus="-0.00015" errorplus="0.00015">0.03176</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.01" errorplus="0.01">0.83</radius>
+  </star>
   <declination>19 16 37</declination>
 </system>
 

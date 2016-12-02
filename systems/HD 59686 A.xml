@@ -1,23 +1,23 @@
 <system>
-  <name>HD 59686 A</name>
   <rightascension>07 57 05</rightascension>
+  <distance errorminus="-2.6" errorplus="2.7">96.8</distance>
+  <name>HD 59686 A</name>
   <star>
+    <temperature errorminus="-24.0" errorplus="24.0">4658.0</temperature>
+    <mass errorminus="-0.2" errorplus="0.2">1.9</mass>
     <name>HD 59686 A</name>
-    <radius errorplus="0.3" errorminus="-0.3">13.2</radius>
-    <mass errorplus="0.2" errorminus="-0.2">1.9</mass>
-    <temperature errorplus="24.0" errorminus="-24.0">4658.0</temperature>
     <planet>
-      <name>HD 59686 A b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-08-12</lastupdate>
-      <radius errorplus="0.3" errorminus="-0.3">13.2</radius>
-      <semimajoraxis errorplus="0.0006" errorminus="-0.0007">1.086</semimajoraxis>
       <eccentricity>0.05</eccentricity>
-      <period errorplus="0.3" errorminus="-0.3">299.4</period>
+      <period errorminus="-0.3" errorplus="0.3">299.4</period>
+      <radius errorminus="-0.3" errorplus="0.3">13.2</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 59686 A b</name>
+      <lastupdate>2016-08-12</lastupdate>
+      <semimajoraxis errorminus="-0.0007" errorplus="0.0006">1.086</semimajoraxis>
     </planet>
+    <radius errorminus="-0.3" errorplus="0.3">13.2</radius>
   </star>
-  <distance errorplus="2.7" errorminus="-2.6">96.8</distance>
   <declination>17 05 09</declination>
 </system>
 

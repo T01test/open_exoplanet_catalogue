@@ -1,33 +1,33 @@
 <system>
-  <name>KELT-6</name>
   <rightascension>13 58 54</rightascension>
+  <distance errorminus="-8.0" errorplus="8.0">222.0</distance>
+  <name>KELT-6</name>
   <star>
+    <temperature errorminus="-61.0" errorplus="61.0">6272.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.13</mass>
     <name>KELT-6</name>
-    <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.13</mass>
-    <temperature errorplus="61.0" errorminus="-61.0">6272.0</temperature>
     <planet>
-      <name>KELT-6 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
-      <semimajoraxis errorplus="0.11" errorminus="-0.11">2.39</semimajoraxis>
-      <eccentricity>0.21</eccentricity>
-      <period errorplus="81.0" errorminus="-67.0">1276.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>KELT-6 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2015-09-03</lastupdate>
-      <radius errorplus="0.14" errorminus="-0.14">1.53</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.08</semimajoraxis>
       <eccentricity>0.029</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <inclination errorplus="0.79" errorminus="-0.91">88.81</inclination>
+      <period errorminus="-0.0" errorplus="0.0">7.8</period>
+      <radius errorminus="-0.14" errorplus="0.14">1.53</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.91" errorplus="0.79">88.81</inclination>
+      <name>KELT-6 b</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis errorminus="-0.001" errorplus="0.001">0.08</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.21</eccentricity>
+      <period errorminus="-67.0" errorplus="81.0">1276.0</period>
+      <radius errorminus="-0.14" errorplus="0.14">1.53</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>KELT-6 c</name>
+      <lastupdate>2015-09-03</lastupdate>
+      <semimajoraxis errorminus="-0.11" errorplus="0.11">2.39</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.14" errorplus="0.14">1.53</radius>
   </star>
-  <distance errorplus="8.0" errorminus="-8.0">222.0</distance>
   <declination>30 38 24</declination>
 </system>
 

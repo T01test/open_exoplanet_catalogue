@@ -1,23 +1,23 @@
 <system>
-  <name>NGC 4349 127</name>
   <rightascension>12 08 52</rightascension>
-  <star>
-    <name>NGC 4349 127</name>
-    <radius/>
-    <mass errorplus="0.3" errorminus="-0.3">3.9</mass>
-    <temperature/>
-    <planet>
-      <name>NGC 4349 127 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2015-05-14</lastupdate>
-      <radius/>
-      <semimajoraxis>2.38</semimajoraxis>
-      <eccentricity>0.19</eccentricity>
-      <period errorplus="6.2" errorminus="-6.2">677.8</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>2200.0</distance>
+  <name>NGC 4349 127</name>
+  <star>
+    <temperature/>
+    <mass errorminus="-0.3" errorplus="0.3">3.9</mass>
+    <name>NGC 4349 127</name>
+    <planet>
+      <eccentricity>0.19</eccentricity>
+      <period errorminus="-6.2" errorplus="6.2">677.8</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>NGC 4349 127 b</name>
+      <lastupdate>2015-05-14</lastupdate>
+      <semimajoraxis>2.38</semimajoraxis>
+    </planet>
+    <radius/>
+  </star>
   <declination>-61 49 12</declination>
 </system>
 

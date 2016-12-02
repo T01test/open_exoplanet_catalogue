@@ -1,23 +1,23 @@
 <system>
-  <name>HD 171028</name>
   <rightascension>18 03 52</rightascension>
-  <star>
-    <name>HD 171028</name>
-    <radius errorplus="0.26" errorminus="-0.26">1.95</radius>
-    <mass errorplus="0.08" errorminus="-0.08">0.99</mass>
-    <temperature errorplus="20.0" errorminus="-20.0">5663.0</temperature>
-    <planet>
-      <name>HD 171028 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-02</lastupdate>
-      <radius errorplus="0.26" errorminus="-0.26">1.95</radius>
-      <semimajoraxis>1.32</semimajoraxis>
-      <eccentricity>0.59</eccentricity>
-      <period errorplus="3.0" errorminus="-3.0">550.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance>90.0</distance>
+  <name>HD 171028</name>
+  <star>
+    <temperature errorminus="-20.0" errorplus="20.0">5663.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.08">0.99</mass>
+    <name>HD 171028</name>
+    <planet>
+      <eccentricity>0.59</eccentricity>
+      <period errorminus="-3.0" errorplus="3.0">550.0</period>
+      <radius errorminus="-0.26" errorplus="0.26">1.95</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 171028 b</name>
+      <lastupdate>2014-07-02</lastupdate>
+      <semimajoraxis>1.32</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.26" errorplus="0.26">1.95</radius>
+  </star>
   <declination>06 56 44</declination>
 </system>
 

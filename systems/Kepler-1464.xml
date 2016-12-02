@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1464</name>
   <rightascension>19 14 08</rightascension>
+  <distance errorminus="-68.73" errorplus="118.93">692.0</distance>
+  <name>Kepler-1464</name>
   <star>
+    <temperature errorminus="-169.63" errorplus="112.18">5828.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">1.02</mass>
     <name>Kepler-1464</name>
-    <radius errorplus="0.17" errorminus="-0.09">1.01</radius>
-    <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
-    <temperature errorplus="112.18" errorminus="-169.63">5828.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">5.3</period>
+      <radius errorminus="-0.09" errorplus="0.17">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-1464 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.09">1.01</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">5.3</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-1464 b</name>
+      <period errorminus="-0.0" errorplus="0.0">31.8</period>
+      <radius errorminus="-0.09" errorplus="0.17">1.01</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.17" errorminus="-0.09">1.01</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">31.8</period>
       <inclination/>
+      <name>Kepler-1464 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.09" errorplus="0.17">1.01</radius>
   </star>
-  <distance errorplus="118.93" errorminus="-68.73">692.0</distance>
   <declination>38 45 14</declination>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-69</name>
   <rightascension>19 15 39</rightascension>
-  <star>
-    <name>Kepler-69</name>
-    <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
-    <mass errorplus="0.09" errorminus="-0.08">0.81</mass>
-    <temperature errorplus="168.0" errorminus="-168.0">5638.0</temperature>
-    <planet>
-      <name>Kepler-69 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
-      <semimajoraxis errorplus="0.023" errorminus="-0.016">0.094</semimajoraxis>
-      <eccentricity>0.16</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">13.7</period>
-      <inclination errorplus="0.26" errorminus="-0.45">89.62</inclination>
-    </planet>
-    <planet>
-      <name>Kepler-69 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.18" errorminus="-0.12">0.93</radius>
-      <semimajoraxis errorplus="0.15" errorminus="-0.11">0.64</semimajoraxis>
-      <eccentricity>0.14</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">242.5</period>
-      <inclination errorplus="0.03" errorminus="-0.08">89.85</inclination>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-69</name>
+  <star>
+    <temperature errorminus="-168.0" errorplus="168.0">5638.0</temperature>
+    <mass errorminus="-0.08" errorplus="0.09">0.81</mass>
+    <name>Kepler-69</name>
+    <planet>
+      <eccentricity>0.14</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">242.5</period>
+      <radius errorminus="-0.12" errorplus="0.18">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.08" errorplus="0.03">89.85</inclination>
+      <name>Kepler-69 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.11" errorplus="0.15">0.64</semimajoraxis>
+    </planet>
+    <planet>
+      <eccentricity>0.16</eccentricity>
+      <period errorminus="-0.0" errorplus="0.0">13.7</period>
+      <radius errorminus="-0.12" errorplus="0.18">0.93</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.45" errorplus="0.26">89.62</inclination>
+      <name>Kepler-69 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.016" errorplus="0.023">0.094</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.12" errorplus="0.18">0.93</radius>
+  </star>
   <declination>44 52 08</declination>
 </system>
 

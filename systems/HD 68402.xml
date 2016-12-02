@@ -1,23 +1,23 @@
 <system>
-  <name>HD 68402</name>
   <rightascension>08 20 55</rightascension>
+  <distance errorminus="-3.71" errorplus="3.71">78.0</distance>
+  <name>HD 68402</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5950.0</temperature>
+    <mass errorminus="-0.05" errorplus="0.05">1.12</mass>
     <name>HD 68402</name>
-    <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
-    <mass errorplus="0.05" errorminus="-0.05">1.12</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5950.0</temperature>
     <planet>
-      <name>HD 68402 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-11-10</lastupdate>
-      <radius errorplus="0.05" errorminus="-0.05">1.02</radius>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">2.18</semimajoraxis>
       <eccentricity>0.03</eccentricity>
-      <period errorplus="33.0" errorminus="-33.0">1103.0</period>
+      <period errorminus="-33.0" errorplus="33.0">1103.0</period>
+      <radius errorminus="-0.05" errorplus="0.05">1.02</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 68402 b</name>
+      <lastupdate>2016-11-10</lastupdate>
+      <semimajoraxis errorminus="-0.09" errorplus="0.09">2.18</semimajoraxis>
     </planet>
+    <radius errorminus="-0.05" errorplus="0.05">1.02</radius>
   </star>
-  <distance errorplus="3.71" errorminus="-3.71">78.0</distance>
   <declination>-74 24 37</declination>
 </system>
 

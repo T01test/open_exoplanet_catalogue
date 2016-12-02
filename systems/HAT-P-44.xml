@@ -1,33 +1,33 @@
 <system>
-  <name>HAT-P-44</name>
   <rightascension>14 08 38</rightascension>
+  <distance errorminus="-17.0" errorplus="31.0">363.0</distance>
+  <name>HAT-P-44</name>
   <star>
+    <temperature errorminus="-100.0" errorplus="100.0">5295.0</temperature>
+    <mass errorminus="-0.04" errorplus="0.04">0.94</mass>
     <name>HAT-P-44</name>
-    <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
-    <temperature errorplus="100.0" errorminus="-100.0">5295.0</temperature>
     <planet>
-      <name>HAT-P-44 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.752</semimajoraxis>
-      <eccentricity>0.494</eccentricity>
-      <period errorplus="1.7" errorminus="-1.7">872.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HAT-P-44 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0507</semimajoraxis>
       <eccentricity>0.044</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <inclination errorplus="0.4" errorminus="-0.4">89.1</inclination>
+      <period errorminus="-0.0" errorplus="0.0">4.3</period>
+      <radius errorminus="-0.04" errorplus="0.08">0.95</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination errorminus="-0.4" errorplus="0.4">89.1</inclination>
+      <name>HAT-P-44 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0007" errorplus="0.0007">0.0507</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.494</eccentricity>
+      <period errorminus="-1.7" errorplus="1.7">872.2</period>
+      <radius errorminus="-0.04" errorplus="0.08">0.95</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HAT-P-44 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.025" errorplus="0.025">1.752</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.04" errorplus="0.08">0.95</radius>
   </star>
-  <distance errorplus="31.0" errorminus="-17.0">363.0</distance>
   <declination>47 00 52</declination>
 </system>
 

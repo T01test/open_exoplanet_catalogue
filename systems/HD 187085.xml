@@ -1,23 +1,23 @@
 <system>
-  <name>HD 187085</name>
   <rightascension>19 23 29</rightascension>
+  <distance errorminus="-2.43" errorplus="2.19">44.98</distance>
+  <name>HD 187085</name>
   <star>
+    <temperature errorminus="-30.0" errorplus="30.0">6075.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.1">1.22</mass>
     <name>HD 187085</name>
-    <radius/>
-    <mass errorplus="0.1" errorminus="-0.06">1.22</mass>
-    <temperature errorplus="30.0" errorminus="-30.0">6075.0</temperature>
     <planet>
-      <name>HD 187085 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-07-23</lastupdate>
-      <radius/>
-      <semimajoraxis>2.05</semimajoraxis>
       <eccentricity>0.47</eccentricity>
       <period>986.0</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 187085 b</name>
+      <lastupdate>2014-07-23</lastupdate>
+      <semimajoraxis>2.05</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="2.19" errorminus="-2.43">44.98</distance>
   <declination>-37 46 49</declination>
 </system>
 

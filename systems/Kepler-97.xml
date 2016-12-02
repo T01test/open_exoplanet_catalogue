@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-97</name>
   <rightascension>19 19 35</rightascension>
-  <star>
-    <name>Kepler-97</name>
-    <radius errorplus="0.09" errorminus="-0.09">0.98</radius>
-    <mass errorplus="0.06" errorminus="-0.06">0.94</mass>
-    <temperature errorplus="74.0" errorminus="-74.0">5779.0</temperature>
-    <planet>
-      <name>Kepler-97 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">0.98</radius>
-      <semimajoraxis/>
-      <period>2.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-97 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.09" errorminus="-0.09">0.98</radius>
-      <semimajoraxis/>
-      <period>789.0</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-97</name>
+  <star>
+    <temperature errorminus="-74.0" errorplus="74.0">5779.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.06">0.94</mass>
+    <name>Kepler-97</name>
+    <planet>
+      <period>2.6</period>
+      <radius errorminus="-0.09" errorplus="0.09">0.98</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-97 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>789.0</period>
+      <radius errorminus="-0.09" errorplus="0.09">0.98</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>Kepler-97 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <radius errorminus="-0.09" errorplus="0.09">0.98</radius>
+  </star>
   <declination>48 40 24</declination>
 </system>
 

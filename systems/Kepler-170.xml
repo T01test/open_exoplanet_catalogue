@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-170</name>
   <rightascension>18 31 16</rightascension>
-  <star>
-    <name>Kepler-170</name>
-    <radius errorplus="0.06" errorminus="-0.06">1.03</radius>
-    <mass/>
-    <temperature errorplus="57.0" errorminus="-57.0">5679.0</temperature>
-    <planet>
-      <name>Kepler-170 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.03</radius>
-      <semimajoraxis>0.08</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">7.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-170 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">1.03</radius>
-      <semimajoraxis>0.131</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">16.7</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-170</name>
+  <star>
+    <temperature errorminus="-57.0" errorplus="57.0">5679.0</temperature>
+    <mass/>
+    <name>Kepler-170</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">16.7</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-170 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.131</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">7.9</period>
+      <radius errorminus="-0.06" errorplus="0.06">1.03</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-170 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.08</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.06">1.03</radius>
+  </star>
   <declination>41 37 46</declination>
 </system>
 

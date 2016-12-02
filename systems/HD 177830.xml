@@ -1,33 +1,33 @@
 <system>
-  <name>HD 177830</name>
   <rightascension>19 20 11</rightascension>
+  <distance errorminus="-2.77" errorplus="2.54">59.03</distance>
+  <name>HD 177830</name>
   <star>
-    <name>HD 177830</name>
-    <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
-    <mass>1.47</mass>
     <temperature>4949.0</temperature>
+    <mass>1.47</mass>
+    <name>HD 177830</name>
     <planet>
-      <name>HD 177830 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">1.2218</semimajoraxis>
-      <eccentricity>0.009</eccentricity>
-      <period errorplus="0.4" errorminus="-0.4">406.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>HD 177830 c</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.06" errorminus="-0.06">2.62</radius>
-      <semimajoraxis errorplus="0.0003" errorminus="-0.0003">0.5137</semimajoraxis>
       <eccentricity>0.3</eccentricity>
-      <period errorplus="0.1" errorminus="-0.1">110.9</period>
+      <period errorminus="-0.1" errorplus="0.1">110.9</period>
+      <radius errorminus="-0.06" errorplus="0.06">2.62</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 177830 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0003" errorplus="0.0003">0.5137</semimajoraxis>
     </planet>
+    <planet>
+      <eccentricity>0.009</eccentricity>
+      <period errorminus="-0.4" errorplus="0.4">406.6</period>
+      <radius errorminus="-0.06" errorplus="0.06">2.62</radius>
+      <discoverymethod>RV</discoverymethod>
+      <inclination/>
+      <name>HD 177830 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.0008" errorplus="0.0008">1.2218</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.06" errorplus="0.06">2.62</radius>
   </star>
-  <distance errorplus="2.54" errorminus="-2.77">59.03</distance>
   <declination>25 55 14</declination>
 </system>
 

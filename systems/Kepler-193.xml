@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-193</name>
   <rightascension>19 29 54</rightascension>
-  <star>
-    <name>Kepler-193</name>
-    <radius errorplus="0.52" errorminus="-0.52">1.15</radius>
-    <mass/>
-    <temperature errorplus="200.0" errorminus="-200.0">6335.0</temperature>
-    <planet>
-      <name>Kepler-193 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.52" errorminus="-0.52">1.15</radius>
-      <semimajoraxis>0.286</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">50.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-193 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.52" errorminus="-0.52">1.15</radius>
-      <semimajoraxis>0.106</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">11.4</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-193</name>
+  <star>
+    <temperature errorminus="-200.0" errorplus="200.0">6335.0</temperature>
+    <mass/>
+    <name>Kepler-193</name>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">50.7</period>
+      <radius errorminus="-0.52" errorplus="0.52">1.15</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-193 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.286</semimajoraxis>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">11.4</period>
+      <radius errorminus="-0.52" errorplus="0.52">1.15</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-193 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.106</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.52" errorplus="0.52">1.15</radius>
+  </star>
   <declination>46 34 38</declination>
 </system>
 

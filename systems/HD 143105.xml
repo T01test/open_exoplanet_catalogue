@@ -1,23 +1,23 @@
 <system>
-  <name>HD 143105</name>
   <rightascension>15 24 08</rightascension>
+  <distance errorminus="-0.8" errorplus="0.8">48.7</distance>
+  <name>HD 143105</name>
   <star>
+    <temperature errorminus="-60.0" errorplus="60.0">6380.0</temperature>
+    <mass errorminus="-0.11" errorplus="0.11">1.51</mass>
     <name>HD 143105</name>
-    <radius/>
-    <mass errorplus="0.11" errorminus="-0.11">1.51</mass>
-    <temperature errorplus="60.0" errorminus="-60.0">6380.0</temperature>
     <planet>
-      <name>HD 143105 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2016-02-25</lastupdate>
-      <radius/>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0379</semimajoraxis>
       <eccentricity>0.07</eccentricity>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <period errorminus="-0.0" errorplus="0.0">2.2</period>
+      <radius/>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 143105 b</name>
+      <lastupdate>2016-02-25</lastupdate>
+      <semimajoraxis errorminus="-0.0009" errorplus="0.0009">0.0379</semimajoraxis>
     </planet>
+    <radius/>
   </star>
-  <distance errorplus="0.8" errorminus="-0.8">48.7</distance>
   <declination>68 43 12</declination>
 </system>
 

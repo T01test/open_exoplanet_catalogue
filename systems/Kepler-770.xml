@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-770</name>
   <rightascension>19 29 25</rightascension>
+  <distance errorminus="-58.2" errorplus="105.6">761.0</distance>
+  <name>Kepler-770</name>
   <star>
+    <temperature errorminus="-124.54" errorplus="127.6">5598.0</temperature>
+    <mass errorminus="-0.06" errorplus="0.05">0.94</mass>
     <name>Kepler-770</name>
-    <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
-    <mass errorplus="0.05" errorminus="-0.06">0.94</mass>
-    <temperature errorplus="127.6" errorminus="-124.54">5598.0</temperature>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">4.2</period>
+      <radius errorminus="-0.07" errorplus="0.12">0.92</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-770 d</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <inclination/>
     </planet>
     <planet>
+      <period errorminus="-0.0" errorplus="0.0">1.5</period>
+      <radius errorminus="-0.07" errorplus="0.12">0.92</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
       <name>Kepler-770 c</name>
-      <discoverymethod>transit</discoverymethod>
       <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
       <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">1.5</period>
-      <inclination/>
     </planet>
     <planet>
-      <name>Kepler-770 b</name>
+      <period errorminus="-0.0" errorplus="0.0">18.9</period>
+      <radius errorminus="-0.07" errorplus="0.12">0.92</radius>
       <discoverymethod>transit</discoverymethod>
-      <lastupdate>2016-05-10</lastupdate>
-      <radius errorplus="0.12" errorminus="-0.07">0.92</radius>
-      <semimajoraxis/>
-      <period errorplus="0.0" errorminus="-0.0">18.9</period>
       <inclination/>
+      <name>Kepler-770 b</name>
+      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
     </planet>
+    <radius errorminus="-0.07" errorplus="0.12">0.92</radius>
   </star>
-  <distance errorplus="105.6" errorminus="-58.2">761.0</distance>
   <declination>38 22 29</declination>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 5891</name>
   <rightascension>01 08 17</rightascension>
+  <distance errorminus="-33.56" errorplus="23.21">150.6</distance>
+  <name>HD 5891</name>
   <star>
+    <temperature errorminus="-44.0" errorplus="44.0">4907.0</temperature>
+    <mass errorminus="-0.13" errorplus="0.13">1.91</mass>
     <name>HD 5891</name>
-    <radius errorplus="0.2" errorminus="-0.2">8.7</radius>
-    <mass errorplus="0.13" errorminus="-0.13">1.91</mass>
-    <temperature errorplus="44.0" errorminus="-44.0">4907.0</temperature>
     <planet>
-      <name>HD 5891 b</name>
-      <discoverymethod>RV</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.2" errorminus="-0.2">8.7</radius>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.76</semimajoraxis>
       <eccentricity>0.066</eccentricity>
-      <period errorplus="0.3" errorminus="-0.3">177.1</period>
+      <period errorminus="-0.3" errorplus="0.3">177.1</period>
+      <radius errorminus="-0.2" errorplus="0.2">8.7</radius>
+      <discoverymethod>RV</discoverymethod>
       <inclination/>
+      <name>HD 5891 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis errorminus="-0.02" errorplus="0.02">0.76</semimajoraxis>
     </planet>
+    <radius errorminus="-0.2" errorplus="0.2">8.7</radius>
   </star>
-  <distance errorplus="23.21" errorminus="-33.56">150.6</distance>
   <declination>20 17 32</declination>
 </system>
 

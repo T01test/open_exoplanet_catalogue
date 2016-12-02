@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-279</name>
   <rightascension>19 23 28</rightascension>
-  <star>
-    <name>Kepler-279</name>
-    <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-    <mass errorplus="0.16" errorminus="-0.13">1.1</mass>
-    <temperature errorplus="259.0" errorminus="-259.0">6363.0</temperature>
-    <planet>
-      <name>Kepler-279 c</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <semimajoraxis/>
-      <period>35.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-279 d</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <semimajoraxis/>
-      <period>54.4</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <name>Kepler-279 b</name>
-      <discoverymethod>transit</discoverymethod>
-      <lastupdate>2014-05-14</lastupdate>
-      <radius errorplus="0.32" errorminus="-0.32">1.75</radius>
-      <semimajoraxis>0.112</semimajoraxis>
-      <period errorplus="0.0" errorminus="-0.0">12.3</period>
-      <inclination/>
-    </planet>
-  </star>
   <distance/>
+  <name>Kepler-279</name>
+  <star>
+    <temperature errorminus="-259.0" errorplus="259.0">6363.0</temperature>
+    <mass errorminus="-0.13" errorplus="0.16">1.1</mass>
+    <name>Kepler-279</name>
+    <planet>
+      <period>54.4</period>
+      <radius errorminus="-0.32" errorplus="0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-279 d</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period>35.7</period>
+      <radius errorminus="-0.32" errorplus="0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-279 c</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
+    </planet>
+    <planet>
+      <period errorminus="-0.0" errorplus="0.0">12.3</period>
+      <radius errorminus="-0.32" errorplus="0.32">1.75</radius>
+      <discoverymethod>transit</discoverymethod>
+      <inclination/>
+      <name>Kepler-279 b</name>
+      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis>0.112</semimajoraxis>
+    </planet>
+    <radius errorminus="-0.32" errorplus="0.32">1.75</radius>
+  </star>
   <declination>42 11 41</declination>
 </system>
 
