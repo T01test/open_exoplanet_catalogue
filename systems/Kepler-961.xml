@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-961</name>
-	<rightascension>18 48 09</rightascension>
-	<declination>+43 37 53</declination>
-	<star>
-		<name>Kepler-961</name>
-		<temperature errorminus="55.8" errorplus="53.7">5582.0</temperature>
-		<mass errorminus="0.03" errorplus="0.03">0.96</mass>
-		<radius errorminus="0.03" errorplus="0.03">0.90</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">0.05</metallicity>
-		<planet>
-			<name>Kepler-961 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000028720" errorplus="0.000028720">16.877274140</period>
-			<radius errorminus="0.007" errorplus="0.010">0.227</radius>
-		</planet>
-	</star>
+  <name>Kepler-961</name>
+  <rightascension>18 02 07</rightascension>
+  <distance errorplus="23.89" errorminus="-22.14">607.0</distance>
+  <star>
+    <name>Kepler-961</name>
+    <temperature errorplus="53.72" errorminus="-55.83">5582.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.03">0.96</mass>
+    <planet>
+      <name>Kepler-961 b</name>
+      <period errorplus="0.0" errorminus="-0.0">16.9</period>
+      <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
+  </star>
+  <declination>43 37 52</declination>
 </system>
+

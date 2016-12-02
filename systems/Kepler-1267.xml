@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1267</name>
-	<rightascension>19 56 41</rightascension>
-	<declination>+43 26 28</declination>
-	<star>
-		<name>Kepler-1267</name>
-		<temperature errorminus="215.9" errorplus="119.7">6096.0</temperature>
-		<mass errorminus="0.11" errorplus="0.11">1.15</mass>
-		<radius errorminus="0.17" errorplus="0.37">1.20</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.07</metallicity>
-		<planet>
-			<name>Kepler-1267 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000110400" errorplus="0.000110400">13.031394500</period>
-			<radius errorminus="0.040" errorplus="0.085">0.269</radius>
-		</planet>
-	</star>
+  <name>Kepler-1267</name>
+  <rightascension>19 10 10</rightascension>
+  <distance errorplus="503.13" errorminus="-251.88">1628.0</distance>
+  <star>
+    <name>Kepler-1267</name>
+    <temperature errorplus="119.67" errorminus="-215.9">6096.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.11">1.15</mass>
+    <planet>
+      <name>Kepler-1267 b</name>
+      <period errorplus="0.0" errorminus="-0.0">13.0</period>
+      <semimajoraxis/>
+      <radius errorplus="0.37" errorminus="-0.17">1.2</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.37" errorminus="-0.17">1.2</radius>
+  </star>
+  <declination>43 26 27</declination>
 </system>
+

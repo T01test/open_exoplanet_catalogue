@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-747</name>
-	<rightascension>19 13 40</rightascension>
-	<declination>+41 01 47</declination>
-	<star>
-		<name>Kepler-747</name>
-		<temperature errorminus="92.8" errorplus="70.4">5096.0</temperature>
-		<mass errorminus="0.05" errorplus="0.04">0.82</mass>
-		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.17">-0.03</metallicity>
-		<planet>
-			<name>Kepler-747 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000053450" errorplus="0.000053450">35.617605870</period>
-			<radius errorminus="0.025" errorplus="0.026">0.470</radius>
-		</planet>
-	</star>
+  <name>Kepler-747</name>
+  <rightascension>19 24 59</rightascension>
+  <distance errorplus="50.21" errorminus="-51.03">855.0</distance>
+  <star>
+    <name>Kepler-747</name>
+    <temperature errorplus="70.39" errorminus="-92.77">5096.0</temperature>
+    <mass errorplus="0.04" errorminus="-0.05">0.82</mass>
+    <planet>
+      <name>Kepler-747 b</name>
+      <period errorplus="0.0" errorminus="-0.0">35.6</period>
+      <semimajoraxis/>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+  </star>
+  <declination>41 01 47</declination>
 </system>
+

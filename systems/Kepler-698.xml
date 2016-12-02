@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-698</name>
-	<rightascension>19 14 02</rightascension>
-	<declination>+41 18 06</declination>
-	<star>
-		<name>Kepler-698</name>
-		<temperature errorminus="116.0" errorplus="128.4">5612.0</temperature>
-		<mass errorminus="0.06" errorplus="0.05">0.94</mass>
-		<radius errorminus="0.07" errorplus="0.11">0.91</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
-		<planet>
-			<name>Kepler-698 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000035120" errorplus="0.000035120">16.329762180</period>
-			<radius errorminus="0.040" errorplus="0.040">0.328</radius>
-		</planet>
-	</star>
+  <name>Kepler-698</name>
+  <rightascension>19 30 35</rightascension>
+  <distance errorplus="140.38" errorminus="-91.57">1135.0</distance>
+  <star>
+    <name>Kepler-698</name>
+    <temperature errorplus="128.36" errorminus="-116.05">5612.0</temperature>
+    <mass errorplus="0.05" errorminus="-0.06">0.94</mass>
+    <planet>
+      <name>Kepler-698 b</name>
+      <period errorplus="0.0" errorminus="-0.0">16.3</period>
+      <semimajoraxis/>
+      <radius errorplus="0.11" errorminus="-0.07">0.91</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.11" errorminus="-0.07">0.91</radius>
+  </star>
+  <declination>41 18 06</declination>
 </system>
+

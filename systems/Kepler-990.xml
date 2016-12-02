@@ -1,36 +1,31 @@
 <system>
-	<name>Kepler-990</name>
-	<rightascension>19 51 45</rightascension>
-	<declination>+46 52 53</declination>
-	<star>
-		<name>Kepler-990</name>
-		<temperature errorminus="213.6" errorplus="211.1">5948.0</temperature>
-		<mass errorminus="0.09" errorplus="0.12">1.05</mass>
-		<radius errorminus="0.14" errorplus="0.27">1.08</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.01</metallicity>
-		<planet>
-			<name>Kepler-990 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000024680" errorplus="0.000024680">9.917234280</period>
-			<radius errorminus="0.037" errorplus="0.058">0.232</radius>
-		</planet>
-		<planet>
-			<name>Kepler-990 c</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000670" errorplus="0.000000670">0.538354310</period>
-			<radius errorminus="0.017" errorplus="0.031">0.136</radius>
-		</planet>
-	</star>
+  <name>Kepler-990</name>
+  <rightascension>19 56 17</rightascension>
+  <distance errorplus="242.95" errorminus="-130.03">933.0</distance>
+  <star>
+    <name>Kepler-990</name>
+    <temperature errorplus="211.07" errorminus="-213.6">5948.0</temperature>
+    <mass errorplus="0.12" errorminus="-0.09">1.05</mass>
+    <planet>
+      <name>Kepler-990 c</name>
+      <period errorplus="0.0" errorminus="-0.0">0.5</period>
+      <semimajoraxis/>
+      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <planet>
+      <name>Kepler-990 b</name>
+      <period errorplus="0.0" errorminus="-0.0">9.9</period>
+      <semimajoraxis/>
+      <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.27" errorminus="-0.14">1.08</radius>
+  </star>
+  <declination>46 52 53</declination>
 </system>
+

@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-794</name>
-	<rightascension>19 12 32</rightascension>
-	<declination>+38 59 49</declination>
-	<star>
-		<name>Kepler-794</name>
-		<temperature errorminus="65.0" errorplus="74.4">5839.0</temperature>
-		<mass errorminus="0.07" errorplus="0.11">1.19</mass>
-		<radius errorminus="0.22" errorplus="0.34">1.38</radius>
-		<metallicity errorminus="0.05" errorplus="0.06">0.34</metallicity>
-		<planet>
-			<name>Kepler-794 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000035710" errorplus="0.000035710">11.131251320</period>
-			<radius errorminus="0.030" errorplus="0.046">0.188</radius>
-		</planet>
-	</star>
+  <name>Kepler-794</name>
+  <rightascension>19 08 01</rightascension>
+  <distance errorplus="186.35" errorminus="-121.81">763.0</distance>
+  <star>
+    <name>Kepler-794</name>
+    <temperature errorplus="74.39" errorminus="-64.99">5839.0</temperature>
+    <mass errorplus="0.11" errorminus="-0.07">1.19</mass>
+    <planet>
+      <name>Kepler-794 b</name>
+      <period errorplus="0.0" errorminus="-0.0">11.1</period>
+      <semimajoraxis/>
+      <radius errorplus="0.34" errorminus="-0.22">1.38</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.34" errorminus="-0.22">1.38</radius>
+  </star>
+  <declination>38 59 48</declination>
 </system>
+

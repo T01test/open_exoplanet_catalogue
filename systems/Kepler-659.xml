@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-659</name>
-	<rightascension>19 10 26</rightascension>
-	<declination>+47 30 35</declination>
-	<star>
-		<name>Kepler-659</name>
-		<temperature errorminus="56.1" errorplus="49.2">4870.0</temperature>
-		<mass errorminus="0.04" errorplus="0.03">0.79</mass>
-		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.02</metallicity>
-		<planet>
-			<name>Kepler-659 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000055580" errorplus="0.000055580">17.671796000</period>
-			<radius errorminus="0.021" errorplus="0.029">0.223</radius>
-		</planet>
-	</star>
+  <name>Kepler-659</name>
+  <rightascension>19 36 29</rightascension>
+  <distance errorplus="28.16" errorminus="-34.77">688.0</distance>
+  <star>
+    <name>Kepler-659</name>
+    <temperature errorplus="49.22" errorminus="-56.1">4870.0</temperature>
+    <mass errorplus="0.03" errorminus="-0.04">0.79</mass>
+    <planet>
+      <name>Kepler-659 b</name>
+      <period errorplus="0.0" errorminus="-0.0">17.7</period>
+      <semimajoraxis/>
+      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+    </planet>
+    <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+  </star>
+  <declination>47 30 34</declination>
 </system>
+
