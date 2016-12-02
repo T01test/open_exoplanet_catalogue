@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1528</name>
   <star>
     <radius errorplus="0.17" errorminus="-0.09">1.03</radius>
-    <name>Kepler-1528</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.03</mass>
     <temperature errorplus="88.96" errorminus="-92.52">5857.0</temperature>
     <planet>
-      <radius errorplus="0.17" errorminus="-0.09">1.03</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1528 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">1.8</period>
+      <radius errorplus="0.17" errorminus="-0.09">1.03</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1528 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.03</mass>
+    <name>Kepler-1528</name>
   </star>
   <distance errorplus="153.44" errorminus="-82.9">916.0</distance>
   <declination>46 34 26</declination>
   <rightascension>19 24 10</rightascension>
+  <name>Kepler-1528</name>
 </system>
 

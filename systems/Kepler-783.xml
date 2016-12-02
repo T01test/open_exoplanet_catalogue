@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-783</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.03">0.89</radius>
-    <name>Kepler-783</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.93</mass>
     <temperature errorplus="66.78" errorminus="-52.89">5521.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.03">0.89</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-783 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <radius errorplus="0.04" errorminus="-0.03">0.89</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-783 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.93</mass>
+    <name>Kepler-783</name>
   </star>
   <distance errorplus="27.74" errorminus="-21.95">544.0</distance>
   <declination>47 29 05</declination>
   <rightascension>19 03 46</rightascension>
+  <name>Kepler-783</name>
 </system>
 

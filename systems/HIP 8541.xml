@@ -1,23 +1,23 @@
 <system>
-  <name>HIP 8541</name>
   <star>
     <radius errorplus="1.02" errorminus="-1.02">7.83</radius>
-    <name>HIP 8541</name>
+    <mass errorplus="0.28" errorminus="-0.28">1.17</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4670.0</temperature>
     <planet>
-      <radius errorplus="1.02" errorminus="-1.02">7.83</radius>
-      <semimajoraxis errorplus="0.25" errorminus="-0.25">2.8</semimajoraxis>
-      <eccentricity>0.16</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HIP 8541 b</name>
-      <lastupdate>2016-03-17</lastupdate>
-      <period errorplus="53.9" errorminus="-53.9">1560.2</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.25" errorminus="-0.25">2.8</semimajoraxis>
+      <period errorplus="53.9" errorminus="-53.9">1560.2</period>
+      <radius errorplus="1.02" errorminus="-1.02">7.83</radius>
+      <eccentricity>0.16</eccentricity>
+      <lastupdate>2016-03-17</lastupdate>
+      <name>HIP 8541 b</name>
     </planet>
-    <mass errorplus="0.28" errorminus="-0.28">1.17</mass>
+    <name>HIP 8541</name>
   </star>
   <distance errorplus="17.35" errorminus="-17.35">168.63</distance>
   <declination>-54 27 53</declination>
   <rightascension>01 31 34</rightascension>
+  <name>HIP 8541</name>
 </system>
 

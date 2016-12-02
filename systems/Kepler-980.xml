@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-980</name>
   <star>
     <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
-    <name>Kepler-980</name>
+    <mass errorplus="0.05" errorminus="-0.04">1.05</mass>
     <temperature errorplus="98.9" errorminus="-92.58">5935.0</temperature>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-980 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+      <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-980 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.04">1.05</mass>
+    <name>Kepler-980</name>
   </star>
   <distance errorplus="63.77" errorminus="-51.43">804.0</distance>
   <declination>45 03 36</declination>
   <rightascension>19 36 46</rightascension>
+  <name>Kepler-980</name>
 </system>
 

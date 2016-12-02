@@ -1,23 +1,23 @@
 <system>
-  <name>WTS-2</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-    <name>WTS-2</name>
+    <mass errorplus="0.08" errorminus="-0.08">0.82</mass>
     <temperature errorplus="250.0" errorminus="-250.0">5000.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">0.01855</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WTS-2 b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.0</period>
       <inclination errorplus="0.53" errorminus="-0.53">83.55</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00062" errorminus="-0.00062">0.01855</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.0</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2015-04-24</lastupdate>
+      <name>WTS-2 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">0.82</mass>
+    <name>WTS-2</name>
   </star>
   <distance>1000.0</distance>
   <declination>36 48 55</declination>
   <rightascension>19 43 58</rightascension>
+  <name>WTS-2</name>
 </system>
 

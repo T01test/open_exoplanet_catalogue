@@ -1,41 +1,41 @@
 <system>
-  <name>Kepler-130</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-    <name>Kepler-130</name>
+    <mass errorplus="0.09" errorminus="-0.1">1.0</mass>
     <temperature errorplus="75.0" errorminus="-75.0">5884.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-      <semimajoraxis>0.377</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-130 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">87.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.178</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-130 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">27.5</period>
       <inclination errorplus="0.66" errorminus="-0.31">89.34</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.005" errorminus="-0.005">0.178</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">27.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-130 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
-      <semimajoraxis>0.079</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-130 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.377</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">87.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-130 d</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.1">1.0</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.079</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">8.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.13</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-130 b</name>
+    </planet>
+    <name>Kepler-130</name>
   </star>
   <distance/>
   <declination>40 14 43</declination>
   <rightascension>19 27 02</rightascension>
+  <name>Kepler-130</name>
 </system>
 

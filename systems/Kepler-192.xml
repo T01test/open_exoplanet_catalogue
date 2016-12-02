@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-192</name>
   <star>
     <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-    <name>Kepler-192</name>
+    <mass/>
     <temperature errorplus="100.0" errorminus="-100.0">5479.0</temperature>
     <planet>
-      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-      <semimajoraxis>0.15</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-192 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.2</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-192 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
       <semimajoraxis>0.09</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-192 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">9.9</period>
-      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-192 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.15</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">21.2</period>
+      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-192 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <radius errorplus="0.16" errorminus="-0.16">1.01</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-192 d</name>
+    </planet>
+    <name>Kepler-192</name>
   </star>
   <distance/>
   <declination>45 35 34</declination>
   <rightascension>19 55 04</rightascension>
+  <name>Kepler-192</name>
 </system>
 

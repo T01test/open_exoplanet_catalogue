@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1269</name>
   <star>
     <radius errorplus="0.32" errorminus="-0.12">1.15</radius>
-    <name>Kepler-1269</name>
+    <mass errorplus="0.09" errorminus="-0.06">1.1</mass>
     <temperature errorplus="88.2" errorminus="-88.22">5998.0</temperature>
     <planet>
-      <radius errorplus="0.32" errorminus="-0.12">1.15</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1269 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">37.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">37.3</period>
+      <radius errorplus="0.32" errorminus="-0.12">1.15</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1269 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.06">1.1</mass>
+    <name>Kepler-1269</name>
   </star>
   <distance errorplus="192.2" errorminus="-80.27">710.0</distance>
   <declination>45 20 25</declination>
   <rightascension>19 48 20</rightascension>
+  <name>Kepler-1269</name>
 </system>
 

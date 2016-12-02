@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-351</name>
   <star>
     <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-    <name>Kepler-351</name>
+    <mass>0.89</mass>
     <temperature errorplus="200.0" errorminus="-200.0">5643.0</temperature>
     <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-351 d</name>
-      <lastupdate>2016-05-10</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">142.5</period>
-      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-351 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <semimajoraxis>0.214</semimajoraxis>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-351 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">37.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
       <semimajoraxis>0.287</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-351 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">57.2</period>
-      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-351 c</name>
     </planet>
-    <mass>0.89</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.214</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">37.1</period>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-351 b</name>
+    </planet>
+    <name>Kepler-351</name>
   </star>
   <distance/>
   <declination>42 39 28</declination>
   <rightascension>19 27 09</rightascension>
+  <name>Kepler-351</name>
 </system>
 

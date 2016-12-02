@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-18</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">1.23</radius>
-    <name>WASP-18</name>
+    <mass errorplus="0.07" errorminus="-0.07">1.28</mass>
     <temperature errorplus="100.0">6400.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">1.23</radius>
-      <semimajoraxis errorplus="0.00068" errorminus="-0.00068">0.02026</semimajoraxis>
-      <eccentricity>0.0092</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-18 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.9</period>
       <inclination errorplus="2.5" errorminus="-2.5">86.0</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00068" errorminus="-0.00068">0.02026</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">0.9</period>
+      <radius errorplus="0.05" errorminus="-0.05">1.23</radius>
+      <eccentricity>0.0092</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>WASP-18 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.07">1.28</mass>
+    <name>WASP-18</name>
   </star>
   <distance errorplus="11.77" errorminus="-15.14">105.49</distance>
   <declination>-45 40 40</declination>
   <rightascension>01 21 15</rightascension>
+  <name>WASP-18</name>
 </system>
 

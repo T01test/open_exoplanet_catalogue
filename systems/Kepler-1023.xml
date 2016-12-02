@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1023</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.05">0.89</radius>
-    <name>Kepler-1023</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
     <temperature errorplus="75.28" errorminus="-98.69">5494.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.05">0.89</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1023 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">62.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">62.1</period>
+      <radius errorplus="0.1" errorminus="-0.05">0.89</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1023 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
+    <name>Kepler-1023</name>
   </star>
   <distance errorplus="78.27" errorminus="-44.16">686.0</distance>
   <declination>49 46 10</declination>
   <rightascension>19 01 47</rightascension>
+  <name>Kepler-1023</name>
 </system>
 

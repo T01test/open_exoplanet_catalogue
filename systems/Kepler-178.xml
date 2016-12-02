@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-178</name>
   <star>
     <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-    <name>Kepler-178</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5676.0</temperature>
     <planet>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-      <semimajoraxis>0.085</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-178 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.6</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
-      <semimajoraxis>0.397</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-178 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">96.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
       <semimajoraxis>0.142</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-178 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">20.6</period>
-      <inclination/>
+      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-178 c</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.397</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">96.7</period>
+      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-178 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.085</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">9.6</period>
+      <radius errorplus="0.45" errorminus="-0.45">1.07</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-178 b</name>
+    </planet>
+    <name>Kepler-178</name>
   </star>
   <distance/>
   <declination>46 53 47</declination>
   <rightascension>19 06 03</rightascension>
+  <name>Kepler-178</name>
 </system>
 

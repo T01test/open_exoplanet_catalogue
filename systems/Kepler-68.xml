@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-68</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-    <name>Kepler-68</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
     <temperature errorplus="74.0" errorminus="-74.0">5793.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-68 c</name>
-      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
       <period>9.6</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
-      <discoverymethod>RV</discoverymethod>
-      <name>Kepler-68 d</name>
       <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="16.0" errorminus="-16.0">625.0</period>
-      <inclination/>
+      <name>Kepler-68 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
-      <semimajoraxis/>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-68 b</name>
-      <lastupdate>2016-10-27</lastupdate>
+      <semimajoraxis/>
       <period>5.4</period>
-      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>Kepler-68 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="16.0" errorminus="-16.0">625.0</period>
+      <radius errorplus="0.02" errorminus="-0.02">1.24</radius>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>Kepler-68 d</name>
+    </planet>
+    <name>Kepler-68</name>
   </star>
   <distance errorplus="10.0" errorminus="-10.0">135.0</distance>
   <declination>49 02 24</declination>
   <rightascension>19 01 56</rightascension>
+  <name>Kepler-68</name>
 </system>
 

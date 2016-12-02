@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-539</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-    <name>Kepler-539</name>
+    <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
     <temperature errorplus="80.0" errorminus="-80.0">5820.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
-      <eccentricity>0.39</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-539 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">125.6</period>
       <inclination errorplus="0.086" errorminus="-0.086">89.845</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0067" errorminus="-0.0067">0.4988</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">125.6</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <eccentricity>0.39</eccentricity>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-539 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
-      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
-      <eccentricity>0.5</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-539 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period>1000.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.5" errorminus="-0.51">2.42</semimajoraxis>
+      <period>1000.0</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.95</radius>
+      <eccentricity>0.5</eccentricity>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-539 c</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">1.05</mass>
+    <name>Kepler-539</name>
   </star>
   <distance errorplus="13.2" errorminus="-12.73">313.0</distance>
   <declination>41 52 00</declination>
   <rightascension>19 07 20</rightascension>
+  <name>Kepler-539</name>
 </system>
 

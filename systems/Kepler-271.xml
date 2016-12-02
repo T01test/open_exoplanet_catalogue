@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-271</name>
   <star>
     <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-    <name>Kepler-271</name>
+    <mass/>
     <temperature errorplus="100.0" errorminus="-100.0">5524.0</temperature>
     <planet>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-      <semimajoraxis>0.071</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-271 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-271 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
       <semimajoraxis>0.056</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-271 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-271 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-271 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.071</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <radius errorplus="0.16" errorminus="-0.16">0.88</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-271 c</name>
+    </planet>
+    <name>Kepler-271</name>
   </star>
   <distance/>
   <declination>44 17 03</declination>
   <rightascension>18 00 10</rightascension>
+  <name>Kepler-271</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HATS-28</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.92</radius>
-    <name>HATS-28</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
     <temperature errorplus="84.0" errorminus="-84.0">5498.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.92</radius>
-      <semimajoraxis errorplus="0.00053" errorminus="-0.00053">0.04131</semimajoraxis>
-      <eccentricity>0.202</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HATS-28 b</name>
-      <lastupdate>2016-06-09</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <inclination errorplus="0.42" errorminus="-0.42">86.17</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00053" errorminus="-0.00053">0.04131</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.92</radius>
+      <eccentricity>0.202</eccentricity>
+      <lastupdate>2016-06-09</lastupdate>
+      <name>HATS-28 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.93</mass>
+    <name>HATS-28</name>
   </star>
   <distance errorplus="25.0" errorminus="-25.0">521.0</distance>
   <declination>-49 08 18</declination>
   <rightascension>18 23 58</rightascension>
+  <name>HATS-28</name>
 </system>
 

@@ -1,43 +1,43 @@
 <system>
-  <name>Kepler-450</name>
   <star>
     <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
-    <name>Kepler-450</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.35</mass>
     <temperature/>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
-      <semimajoraxis/>
-      <eccentricity>0.02</eccentricity>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-450 c</name>
-      <lastupdate>2015-05-21</lastupdate>
+      <semimajoraxis/>
       <period errorplus="0.0" errorminus="-0.0">15.4</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
-      <semimajoraxis/>
-      <eccentricity>0.14</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-450 d</name>
-      <lastupdate>2015-05-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
-      <semimajoraxis/>
       <eccentricity>0.02</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-450 b</name>
       <lastupdate>2015-05-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.5</period>
-      <inclination/>
+      <name>Kepler-450 c</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.35</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.5</period>
+      <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
+      <eccentricity>0.14</eccentricity>
+      <lastupdate>2015-05-21</lastupdate>
+      <name>Kepler-450 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">28.5</period>
+      <radius errorplus="0.09" errorminus="-0.09">1.57</radius>
+      <eccentricity>0.02</eccentricity>
+      <lastupdate>2015-05-21</lastupdate>
+      <name>Kepler-450 b</name>
+    </planet>
+    <name>Kepler-450</name>
   </star>
   <distance/>
   <declination>51 00 48</declination>
   <rightascension>19 29 11</rightascension>
+  <name>Kepler-450</name>
 </system>
 

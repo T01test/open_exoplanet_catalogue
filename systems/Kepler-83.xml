@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-83</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-    <name>Kepler-83</name>
+    <mass errorplus="0.41" errorminus="-0.25">0.66</mass>
     <temperature errorplus="116.0" errorminus="-116.0">4648.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-83 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>9.8</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
-      <semimajoraxis>0.051</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-83 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-83 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period>20.1</period>
-      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-83 c</name>
     </planet>
-    <mass errorplus="0.41" errorminus="-0.25">0.66</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.051</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-83 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>9.8</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.59</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-83 b</name>
+    </planet>
+    <name>Kepler-83</name>
   </star>
   <distance/>
   <declination>43 39 56</declination>
   <rightascension>18 13 57</rightascension>
+  <name>Kepler-83</name>
 </system>
 

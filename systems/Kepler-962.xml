@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-962</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.03">0.86</radius>
-    <name>Kepler-962</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.93</mass>
     <temperature errorplus="72.81" errorminus="-55.18">5478.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.03">0.86</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-962 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">12.1</period>
+      <radius errorplus="0.02" errorminus="-0.03">0.86</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-962 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.93</mass>
+    <name>Kepler-962</name>
   </star>
   <distance errorplus="13.78" errorminus="-14.89">439.0</distance>
   <declination>46 14 14</declination>
   <rightascension>19 18 47</rightascension>
+  <name>Kepler-962</name>
 </system>
 

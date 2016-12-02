@@ -1,23 +1,23 @@
 <system>
-  <name>HD 98649</name>
   <star>
     <radius>1.0</radius>
-    <name>HD 98649</name>
+    <mass errorplus="0.03" errorminus="-0.03">1.0</mass>
     <temperature errorplus="35.0" errorminus="-35.0">5759.0</temperature>
     <planet>
-      <radius>1.0</radius>
-      <semimajoraxis errorplus="0.4" errorminus="-0.4">5.6</semimajoraxis>
-      <eccentricity>0.85</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 98649 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="607.0" errorminus="-465.0">4951.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.4" errorminus="-0.4">5.6</semimajoraxis>
+      <period errorplus="607.0" errorminus="-465.0">4951.0</period>
+      <radius>1.0</radius>
+      <eccentricity>0.85</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 98649 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">1.0</mass>
+    <name>HD 98649</name>
   </star>
   <distance errorplus="1.75" errorminus="-1.91">42.77</distance>
   <declination>-23 13 02</declination>
   <rightascension>11 12 56</rightascension>
+  <name>HD 98649</name>
 </system>
 

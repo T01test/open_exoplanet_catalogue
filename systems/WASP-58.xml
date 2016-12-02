@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-58</name>
   <star>
     <radius errorplus="0.13" errorminus="-0.13">1.17</radius>
-    <name>WASP-58</name>
+    <mass errorplus="0.1" errorminus="-0.1">0.94</mass>
     <temperature errorplus="150.0" errorminus="-150.0">5800.0</temperature>
     <planet>
-      <radius errorplus="0.13" errorminus="-0.13">1.17</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.0561</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-58 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.0</period>
       <inclination errorplus="1.5" errorminus="-1.5">87.4</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.0561</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.0</period>
+      <radius errorplus="0.13" errorminus="-0.13">1.17</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>WASP-58 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">0.94</mass>
+    <name>WASP-58</name>
   </star>
   <distance errorplus="50.0" errorminus="-50.0">300.0</distance>
   <declination>45 10 19</declination>
   <rightascension>18 42 03</rightascension>
+  <name>WASP-58</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 5608</name>
   <star>
     <radius errorplus="0.4">5.5</radius>
-    <name>HD 5608</name>
+    <mass errorplus="0.23">1.55</mass>
     <temperature errorplus="25.0">4854.0</temperature>
     <planet>
-      <radius errorplus="0.4">5.5</radius>
-      <semimajoraxis>1.9</semimajoraxis>
-      <eccentricity>0.19</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 5608 b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="7.7" errorminus="-7.7">792.6</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>1.9</semimajoraxis>
+      <period errorplus="7.7" errorminus="-7.7">792.6</period>
+      <radius errorplus="0.4">5.5</radius>
+      <eccentricity>0.19</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>HD 5608 b</name>
     </planet>
-    <mass errorplus="0.23">1.55</mass>
+    <name>HD 5608</name>
   </star>
   <distance errorplus="2.68" errorminus="-2.95">58.17</distance>
   <declination>33 57 03</declination>
   <rightascension>00 33 33</rightascension>
+  <name>HD 5608</name>
 </system>
 

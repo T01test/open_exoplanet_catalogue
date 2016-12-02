@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-844</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
-    <name>Kepler-844</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.59</mass>
     <temperature errorplus="46.09" errorminus="-46.95">4128.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-844 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.57</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-844 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.59</mass>
+    <name>Kepler-844</name>
   </star>
   <distance errorplus="23.48" errorminus="-27.39">394.0</distance>
   <declination>48 46 26</declination>
   <rightascension>19 51 27</rightascension>
+  <name>Kepler-844</name>
 </system>
 

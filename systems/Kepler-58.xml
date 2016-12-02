@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-58</name>
   <star>
     <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-    <name>Kepler-58</name>
+    <mass>0.95</mass>
     <temperature errorplus="200.0" errorminus="-200.0">6099.0</temperature>
     <planet>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-      <semimajoraxis>0.236</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-58 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">40.1</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-58 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.6</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-58 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">10.2</period>
-      <inclination/>
+      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-58 b</name>
     </planet>
-    <mass>0.95</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.236</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">40.1</period>
+      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-58 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">15.6</period>
+      <radius errorplus="0.53" errorminus="-0.53">1.13</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-58 c</name>
+    </planet>
+    <name>Kepler-58</name>
   </star>
   <distance/>
   <declination>39 06 54</declination>
   <rightascension>19 21 31</rightascension>
+  <name>Kepler-58</name>
 </system>
 

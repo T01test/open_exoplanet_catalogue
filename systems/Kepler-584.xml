@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-584</name>
   <star>
     <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
-    <name>Kepler-584</name>
+    <mass errorplus="0.15" errorminus="-0.09">1.17</mass>
     <temperature errorplus="110.21" errorminus="-104.28">6195.0</temperature>
     <planet>
-      <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-584 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">35.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">35.2</period>
+      <radius errorplus="0.46" errorminus="-0.15">1.24</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-584 b</name>
     </planet>
-    <mass errorplus="0.15" errorminus="-0.09">1.17</mass>
+    <name>Kepler-584</name>
   </star>
   <distance errorplus="531.63" errorminus="-187.67">1445.0</distance>
   <declination>42 24 49</declination>
   <rightascension>19 13 50</rightascension>
+  <name>Kepler-584</name>
 </system>
 

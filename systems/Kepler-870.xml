@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-870</name>
   <star>
     <radius errorplus="0.18" errorminus="-0.1">1.02</radius>
-    <name>Kepler-870</name>
+    <mass errorplus="0.07" errorminus="-0.06">1.01</mass>
     <temperature errorplus="139.18" errorminus="-150.97">5857.0</temperature>
     <planet>
-      <radius errorplus="0.18" errorminus="-0.1">1.02</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-870 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">21.4</period>
+      <radius errorplus="0.18" errorminus="-0.1">1.02</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-870 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.06">1.01</mass>
+    <name>Kepler-870</name>
   </star>
   <distance errorplus="225.57" errorminus="-132.72">1231.0</distance>
   <declination>50 28 43</declination>
   <rightascension>19 24 09</rightascension>
+  <name>Kepler-870</name>
 </system>
 

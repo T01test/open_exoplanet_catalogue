@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-887</name>
   <star>
     <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
-    <name>Kepler-887</name>
+    <mass errorplus="0.05" errorminus="-0.04">1.19</mass>
     <temperature errorplus="62.11" errorminus="-49.68">6194.0</temperature>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-887 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.6</period>
+      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-887 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-887 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">20.4</period>
+      <radius errorplus="0.19" errorminus="-0.12">1.29</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-887 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.04">1.19</mass>
+    <name>Kepler-887</name>
   </star>
   <distance errorplus="118.63" errorminus="-74.76">831.0</distance>
   <declination>39 49 01</declination>
   <rightascension>19 05 26</rightascension>
+  <name>Kepler-887</name>
 </system>
 

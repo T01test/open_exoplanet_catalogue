@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-551</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.63</radius>
-    <name>Kepler-551</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.65</mass>
     <temperature errorplus="37.81" errorminus="-34.92">4286.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.63</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-551 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">12.4</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.63</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-551 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.65</mass>
+    <name>Kepler-551</name>
   </star>
   <distance errorplus="13.9" errorminus="-12.89">312.0</distance>
   <declination>48 03 15</declination>
   <rightascension>19 29 06</rightascension>
+  <name>Kepler-551</name>
 </system>
 

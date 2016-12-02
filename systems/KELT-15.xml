@@ -1,23 +1,23 @@
 <system>
-  <name>KELT-15</name>
   <star>
     <radius errorplus="0.09" errorminus="-0.04">1.48</radius>
-    <name>KELT-15</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.18</mass>
     <temperature errorplus="56.0" errorminus="-52.0">6003.0</temperature>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.04">1.48</radius>
-      <semimajoraxis errorplus="0.00065" errorminus="-0.00065">0.04613</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>KELT-15 b</name>
-      <lastupdate>2016-03-17</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
       <inclination errorplus="1.2" errorminus="-1.7">88.3</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00065" errorminus="-0.00065">0.04613</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <radius errorplus="0.09" errorminus="-0.04">1.48</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-03-17</lastupdate>
+      <name>KELT-15 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.18</mass>
+    <name>KELT-15</name>
   </star>
   <distance errorplus="30.0" errorminus="-30.0">291.0</distance>
   <declination>-52 07 13</declination>
   <rightascension>07 24 54</rightascension>
+  <name>KELT-15</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-26</name>
   <star>
     <radius errorplus="0.18" errorminus="-0.09">1.79</radius>
-    <name>CoRoT-26</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.09</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5590.0</temperature>
     <planet>
-      <radius errorplus="0.18" errorminus="-0.09">1.79</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.0526</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-26 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <inclination errorplus="2.2" errorminus="-1.0">86.8</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.0526</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <radius errorplus="0.18" errorminus="-0.09">1.79</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-26 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.09</mass>
+    <name>CoRoT-26</name>
   </star>
   <distance errorplus="205.0" errorminus="-110.0">1670.0</distance>
   <declination>06 58 11</declination>
   <rightascension>18 45 01</rightascension>
+  <name>CoRoT-26</name>
 </system>
 

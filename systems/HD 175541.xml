@@ -1,23 +1,23 @@
 <system>
-  <name>HD 175541</name>
   <star>
     <radius errorplus="0.09" errorminus="-0.09">3.8</radius>
-    <name>HD 175541</name>
+    <mass errorplus="0.12" errorminus="-0.12">1.65</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5060.0</temperature>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.09">3.8</radius>
-      <semimajoraxis>1.03</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 175541 b</name>
-      <lastupdate>2014-07-09</lastupdate>
-      <period errorplus="0.6" errorminus="-0.6">297.3</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>1.03</semimajoraxis>
+      <period errorplus="0.6" errorminus="-0.6">297.3</period>
+      <radius errorplus="0.09" errorminus="-0.09">3.8</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2014-07-09</lastupdate>
+      <name>HD 175541 b</name>
     </planet>
-    <mass errorplus="0.12" errorminus="-0.12">1.65</mass>
+    <name>HD 175541</name>
   </star>
   <distance errorplus="16.07" errorminus="-21.48">127.55</distance>
   <declination>04 15 55</declination>
   <rightascension>18 55 13</rightascension>
+  <name>HD 175541</name>
 </system>
 

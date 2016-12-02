@@ -1,23 +1,23 @@
 <system>
-  <name>HD 70573</name>
   <star>
     <radius/>
-    <name>HD 70573</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
     <temperature errorplus="70.0" errorminus="-70.0">5737.0</temperature>
     <planet>
-      <radius/>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.76</semimajoraxis>
-      <eccentricity>0.4</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 70573 b</name>
-      <lastupdate>2015-03-26</lastupdate>
-      <period errorplus="11.6" errorminus="-11.6">851.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.76</semimajoraxis>
+      <period errorplus="11.6" errorminus="-11.6">851.8</period>
+      <radius/>
+      <eccentricity>0.4</eccentricity>
+      <lastupdate>2015-03-26</lastupdate>
+      <name>HD 70573 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
+    <name>HD 70573</name>
   </star>
   <distance>45.7</distance>
   <declination>01 51 33</declination>
   <rightascension>08 42 29</rightascension>
+  <name>HD 70573</name>
 </system>
 

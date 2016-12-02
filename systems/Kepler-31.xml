@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-31</name>
   <star>
     <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-    <name>Kepler-31</name>
+    <mass errorplus="0.17" errorminus="-0.17">1.21</mass>
     <temperature errorplus="200.0" errorminus="-200.0">6340.0</temperature>
     <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-      <semimajoraxis>0.26</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-31 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">42.6</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.4</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-31 d</name>
-      <lastupdate>2016-03-24</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">87.6</period>
-      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-31 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
-      <semimajoraxis>0.16</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-31 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.26</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">42.6</period>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-31 c</name>
     </planet>
-    <mass errorplus="0.17" errorminus="-0.17">1.21</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.16</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">20.9</period>
+      <radius errorplus="0.24" errorminus="-0.24">1.22</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-31 b</name>
+    </planet>
+    <name>Kepler-31</name>
   </star>
   <distance>2100.0</distance>
   <declination>45 51 11</declination>
   <rightascension>19 01 22</rightascension>
+  <name>Kepler-31</name>
 </system>
 

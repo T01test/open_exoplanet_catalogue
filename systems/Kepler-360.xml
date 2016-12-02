@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-360</name>
   <star>
     <radius errorplus="0.5" errorminus="-0.5">1.06</radius>
-    <name>Kepler-360</name>
+    <mass>0.95</mass>
     <temperature errorplus="200.0" errorminus="-200.0">6053.0</temperature>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.06</radius>
-      <semimajoraxis>0.044</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-360 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.075</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">7.2</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.06</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-360 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.06</radius>
-      <semimajoraxis>0.075</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-360 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.044</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.3</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.06</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-360 b</name>
     </planet>
-    <mass>0.95</mass>
+    <name>Kepler-360</name>
   </star>
   <distance/>
   <declination>44 46 53</declination>
   <rightascension>19 17 05</rightascension>
+  <name>Kepler-360</name>
 </system>
 

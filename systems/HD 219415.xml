@@ -1,23 +1,23 @@
 <system>
-  <name>HD 219415</name>
   <star>
     <radius errorplus="0.4" errorminus="-0.4">2.9</radius>
-    <name>HD 219415</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
     <temperature errorplus="20.0" errorminus="-20.0">4820.0</temperature>
     <planet>
-      <radius errorplus="0.4" errorminus="-0.4">2.9</radius>
-      <semimajoraxis>3.2</semimajoraxis>
-      <eccentricity>0.4</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 219415 b</name>
-      <lastupdate>2015-09-18</lastupdate>
-      <period errorplus="32.7" errorminus="-32.7">2093.3</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>3.2</semimajoraxis>
+      <period errorplus="32.7" errorminus="-32.7">2093.3</period>
+      <radius errorplus="0.4" errorminus="-0.4">2.9</radius>
+      <eccentricity>0.4</eccentricity>
+      <lastupdate>2015-09-18</lastupdate>
+      <name>HD 219415 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
+    <name>HD 219415</name>
   </star>
   <distance>169.78</distance>
   <declination>56 43 49</declination>
   <rightascension>23 43 27</rightascension>
+  <name>HD 219415</name>
 </system>
 

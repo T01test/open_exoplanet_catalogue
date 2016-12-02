@@ -1,23 +1,23 @@
 <system>
-  <name>K2-10</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.08">0.98</radius>
-    <name>K2-10</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.92</mass>
     <temperature errorplus="70.0" errorminus="-70.0">5620.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">0.98</radius>
-      <semimajoraxis/>
-      <eccentricity>0.31</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-10 b</name>
-      <lastupdate>2016-02-11</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">19.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">19.3</period>
+      <radius errorplus="0.08" errorminus="-0.08">0.98</radius>
+      <eccentricity>0.31</eccentricity>
+      <lastupdate>2016-02-11</lastupdate>
+      <name>K2-10 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.92</mass>
+    <name>K2-10</name>
   </star>
   <distance errorplus="48.0" errorminus="-21.0">271.0</distance>
   <declination>01 41 26</declination>
   <rightascension>11 07 19</rightascension>
+  <name>K2-10</name>
 </system>
 

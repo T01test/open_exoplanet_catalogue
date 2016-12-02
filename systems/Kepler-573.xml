@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-573</name>
   <star>
     <radius errorplus="0.13" errorminus="-0.08">1.02</radius>
-    <name>Kepler-573</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.99</mass>
     <temperature errorplus="59.48" errorminus="-51.43">5746.0</temperature>
     <planet>
-      <radius errorplus="0.13" errorminus="-0.08">1.02</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-573 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">22.2</period>
+      <radius errorplus="0.13" errorminus="-0.08">1.02</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-573 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.99</mass>
+    <name>Kepler-573</name>
   </star>
   <distance errorplus="96.48" errorminus="-63.26">758.0</distance>
   <declination>51 14 14</declination>
   <rightascension>19 31 16</rightascension>
+  <name>Kepler-573</name>
 </system>
 

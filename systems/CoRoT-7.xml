@@ -1,33 +1,33 @@
 <system>
-  <name>CoRoT-7</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.82</radius>
-    <name>CoRoT-7</name>
+    <mass errorplus="0.02" errorminus="-0.02">0.91</mass>
     <temperature errorplus="58.0" errorminus="-58.0">5259.0</temperature>
     <planet>
+      <inclination>80.0</inclination>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>0.046</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
       <radius errorplus="0.02" errorminus="-0.02">0.82</radius>
-      <semimajoraxis errorplus="0.00017" errorminus="-3.6e-05">0.017016</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-7 b</name>
-      <lastupdate>2015-03-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.9</period>
-      <inclination errorplus="0.51" errorminus="-0.23">80.78</inclination>
+      <lastupdate>2015-09-10</lastupdate>
+      <name>CoRoT-7 c</name>
     </planet>
     <planet>
+      <inclination errorplus="0.51" errorminus="-0.23">80.78</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00017" errorminus="-3.6e-05">0.017016</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">0.9</period>
       <radius errorplus="0.02" errorminus="-0.02">0.82</radius>
-      <semimajoraxis>0.046</semimajoraxis>
       <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>CoRoT-7 c</name>
-      <lastupdate>2015-09-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
-      <inclination>80.0</inclination>
+      <lastupdate>2015-03-05</lastupdate>
+      <name>CoRoT-7 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">0.91</mass>
+    <name>CoRoT-7</name>
   </star>
   <distance errorplus="4.5" errorminus="-4.5">153.7</distance>
   <declination>-1 03 46</declination>
   <rightascension>06 57 22</rightascension>
+  <name>CoRoT-7</name>
 </system>
 

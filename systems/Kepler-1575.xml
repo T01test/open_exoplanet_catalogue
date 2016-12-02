@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1575</name>
   <star>
     <radius errorplus="0.14" errorminus="-0.07">0.92</radius>
-    <name>Kepler-1575</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.95</mass>
     <temperature errorplus="140.13" errorminus="-92.37">5667.0</temperature>
     <planet>
-      <radius errorplus="0.14" errorminus="-0.07">0.92</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1575 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+      <radius errorplus="0.14" errorminus="-0.07">0.92</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1575 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.95</mass>
+    <name>Kepler-1575</name>
   </star>
   <distance errorplus="174.83" errorminus="-99.55">1170.0</distance>
   <declination>45 45 41</declination>
   <rightascension>19 44 35</rightascension>
+  <name>Kepler-1575</name>
 </system>
 

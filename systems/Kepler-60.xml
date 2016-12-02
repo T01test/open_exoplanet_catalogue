@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-60</name>
   <star>
     <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-    <name>Kepler-60</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.04</mass>
     <temperature errorplus="144.0" errorminus="-144.0">5905.0</temperature>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-60 c</name>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-60 b</name>
-      <lastupdate>2016-04-07</lastupdate>
+      <semimajoraxis/>
       <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <inclination/>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <lastupdate>2016-04-07</lastupdate>
+      <name>Kepler-60 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-60 d</name>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">8.9</period>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <lastupdate>2016-04-07</lastupdate>
+      <name>Kepler-60 c</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.04</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">11.9</period>
+      <radius errorplus="0.09" errorminus="-0.09">1.26</radius>
+      <lastupdate>2016-04-07</lastupdate>
+      <name>Kepler-60 d</name>
+    </planet>
+    <name>Kepler-60</name>
   </star>
   <distance/>
   <declination>42 15 54</declination>
   <rightascension>19 57 40</rightascension>
+  <name>Kepler-60</name>
 </system>
 

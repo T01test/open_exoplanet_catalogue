@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-609</name>
   <star>
     <radius errorplus="0.35" errorminus="-0.14">1.14</radius>
-    <name>Kepler-609</name>
+    <mass errorplus="0.09" errorminus="-0.08">1.09</mass>
     <temperature errorplus="125.14" errorminus="-171.1">5971.0</temperature>
     <planet>
-      <radius errorplus="0.35" errorminus="-0.14">1.14</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-609 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">6.5</period>
+      <radius errorplus="0.35" errorminus="-0.14">1.14</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-609 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.08">1.09</mass>
+    <name>Kepler-609</name>
   </star>
   <distance errorplus="346.08" errorminus="-153.04">1143.0</distance>
   <declination>44 42 00</declination>
   <rightascension>19 13 13</rightascension>
+  <name>Kepler-609</name>
 </system>
 

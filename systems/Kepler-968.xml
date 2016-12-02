@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-968</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.03">0.7</radius>
-    <name>Kepler-968</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.76</mass>
     <temperature errorplus="37.07" errorminus="-38.88">4598.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.03">0.7</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-968 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <radius errorplus="0.02" errorminus="-0.03">0.7</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-968 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.03">0.7</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-968 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <radius errorplus="0.02" errorminus="-0.03">0.7</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-968 c</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.76</mass>
+    <name>Kepler-968</name>
   </star>
   <distance errorplus="11.3" errorminus="-12.89">312.0</distance>
   <declination>50 06 43</declination>
   <rightascension>19 36 09</rightascension>
+  <name>Kepler-968</name>
 </system>
 

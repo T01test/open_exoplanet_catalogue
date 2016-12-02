@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-101</name>
   <star>
     <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-    <name>Kepler-101</name>
+    <mass errorplus="0.07" errorminus="-0.05">1.17</mass>
     <temperature errorplus="50.0" errorminus="-50.0">5667.0</temperature>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0684</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-101 c</name>
-      <lastupdate>2014-09-25</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.0</period>
       <inclination errorplus="3.4" errorminus="-3.1">84.6</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0684</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.0</period>
+      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-09-25</lastupdate>
+      <name>Kepler-101 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.0008">0.0474</semimajoraxis>
-      <eccentricity>0.086</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-101 b</name>
-      <lastupdate>2014-09-25</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
       <inclination errorplus="1.73" errorminus="-1.53">85.82</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.0008">0.0474</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <radius errorplus="0.2" errorminus="-0.2">1.56</radius>
+      <eccentricity>0.086</eccentricity>
+      <lastupdate>2014-09-25</lastupdate>
+      <name>Kepler-101 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.05">1.17</mass>
+    <name>Kepler-101</name>
   </star>
   <distance/>
   <declination>48 21 18</declination>
   <rightascension>18 15 19</rightascension>
+  <name>Kepler-101</name>
 </system>
 

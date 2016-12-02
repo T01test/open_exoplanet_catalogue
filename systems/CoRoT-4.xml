@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-4</name>
   <star>
     <radius errorplus="0.01" errorminus="-0.03">1.17</radius>
-    <name>CoRoT-4</name>
+    <mass errorplus="0.03" errorminus="-0.02">1.16</mass>
     <temperature errorplus="60.0" errorminus="-60.0">6190.0</temperature>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.03">1.17</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.09</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-4 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.2</period>
       <inclination errorplus="0.0" errorminus="-0.085">90.0</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.09</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">9.2</period>
+      <radius errorplus="0.01" errorminus="-0.03">1.17</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-4 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.02">1.16</mass>
+    <name>CoRoT-4</name>
   </star>
   <distance/>
   <declination>00 40 21</declination>
   <rightascension>06 11 40</rightascension>
+  <name>CoRoT-4</name>
 </system>
 

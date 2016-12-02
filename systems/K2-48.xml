@@ -1,22 +1,22 @@
 <system>
-  <name>K2-48</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.73</radius>
-    <name>K2-48</name>
+    <mass errorplus="0.02" errorminus="-0.02">0.77</mass>
     <temperature errorplus="78.0" errorminus="-78.0">4899.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.73</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.1344</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-48 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.1344</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">20.5</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.73</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-48 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">0.77</mass>
+    <name>K2-48</name>
   </star>
   <distance/>
   <declination>03 16 20</declination>
   <rightascension>11 07 24</rightascension>
+  <name>K2-48</name>
 </system>
 

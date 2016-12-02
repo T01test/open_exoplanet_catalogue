@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-265</name>
   <star>
     <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
-    <name>Kepler-265</name>
+    <mass>1.03</mass>
     <temperature errorplus="118.0" errorminus="-118.0">5835.0</temperature>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
-      <semimajoraxis>0.069</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-265 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.319</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-265 e</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">67.8</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
-      <semimajoraxis>0.236</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-265 d</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">43.1</period>
-      <inclination/>
+      <name>Kepler-265 e</name>
     </planet>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.127</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-265 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">17.0</period>
-      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-265 c</name>
     </planet>
-    <mass>1.03</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.236</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">43.1</period>
+      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-265 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.069</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <radius errorplus="0.23" errorminus="-0.23">1.1</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-265 b</name>
+    </planet>
+    <name>Kepler-265</name>
   </star>
   <distance/>
   <declination>41 14 41</declination>
   <rightascension>19 30 37</rightascension>
+  <name>Kepler-265</name>
 </system>
 

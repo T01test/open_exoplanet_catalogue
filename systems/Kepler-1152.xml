@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1152</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.53</radius>
-    <name>Kepler-1152</name>
+    <mass errorplus="0.04" errorminus="-0.03">0.55</mass>
     <temperature errorplus="46.47" errorminus="-45.68">3964.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.53</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1152 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.53</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1152 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.03">0.55</mass>
+    <name>Kepler-1152</name>
   </star>
   <distance errorplus="14.69" errorminus="-12.88">184.0</distance>
   <declination>44 06 27</declination>
   <rightascension>19 26 02</rightascension>
+  <name>Kepler-1152</name>
 </system>
 

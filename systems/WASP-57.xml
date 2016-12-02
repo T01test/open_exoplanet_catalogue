@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-57</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.93</radius>
-    <name>WASP-57</name>
+    <mass errorplus="0.07" errorminus="-0.07">0.89</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5600.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.93</radius>
-      <semimajoraxis errorplus="0.00097" errorminus="-0.00097">0.03769</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-57 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.8</period>
       <inclination errorplus="0.28" errorminus="-0.28">86.05</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00097" errorminus="-0.00097">0.03769</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.8</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.93</radius>
+      <lastupdate>2015-10-15</lastupdate>
+      <name>WASP-57 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.07">0.89</mass>
+    <name>WASP-57</name>
   </star>
   <distance errorplus="80.0" errorminus="-80.0">455.0</distance>
   <declination>-2 03 27</declination>
   <rightascension>14 49 12</rightascension>
+  <name>WASP-57</name>
 </system>
 

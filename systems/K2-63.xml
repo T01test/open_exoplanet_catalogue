@@ -1,22 +1,22 @@
 <system>
-  <name>K2-63</name>
   <star>
     <radius errorplus="0.48" errorminus="-0.48">1.63</radius>
-    <name>K2-63</name>
+    <mass errorplus="0.25" errorminus="-0.25">1.4</mass>
     <temperature errorplus="303.0" errorminus="-303.0">6771.0</temperature>
     <planet>
-      <radius errorplus="0.48" errorminus="-0.48">1.63</radius>
-      <semimajoraxis errorplus="0.0097" errorminus="-0.0097">0.1627</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-63 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0097" errorminus="-0.0097">0.1627</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">20.3</period>
+      <radius errorplus="0.48" errorminus="-0.48">1.63</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-63 b</name>
     </planet>
-    <mass errorplus="0.25" errorminus="-0.25">1.4</mass>
+    <name>K2-63</name>
   </star>
   <distance/>
   <declination>-12 03 58</declination>
   <rightascension>22 25 35</rightascension>
+  <name>K2-63</name>
 </system>
 

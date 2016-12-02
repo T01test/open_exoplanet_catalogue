@@ -1,31 +1,31 @@
 <system>
-  <name>K2-80</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
-    <name>K2-80</name>
+    <mass errorplus="0.08" errorminus="-0.08">0.9</mass>
     <temperature errorplus="249.0" errorminus="-249.0">5441.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
-      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0596</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-80 c</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0018" errorminus="-0.0018">0.0596</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-80 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.135</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-80 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">19.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.135</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">19.1</period>
+      <radius errorplus="0.1" errorminus="-0.1">0.87</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-80 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">0.9</mass>
+    <name>K2-80</name>
   </star>
   <distance/>
   <declination>13 33 33</declination>
   <rightascension>03 02 14</rightascension>
+  <name>K2-80</name>
 </system>
 

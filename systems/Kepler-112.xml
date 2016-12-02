@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-112</name>
   <star>
     <radius errorplus="0.2" errorminus="-0.2">0.84</radius>
-    <name>Kepler-112</name>
+    <mass/>
     <temperature errorplus="148.0" errorminus="-148.0">5544.0</temperature>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">0.84</radius>
-      <semimajoraxis>0.172</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-112 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.076</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">8.4</period>
+      <radius errorplus="0.2" errorminus="-0.2">0.84</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-112 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">0.84</radius>
-      <semimajoraxis>0.076</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-112 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.172</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">28.6</period>
+      <radius errorplus="0.2" errorminus="-0.2">0.84</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-112 c</name>
     </planet>
-    <mass/>
+    <name>Kepler-112</name>
   </star>
   <distance/>
   <declination>43 12 35</declination>
   <rightascension>19 58 51</rightascension>
+  <name>Kepler-112</name>
 </system>
 

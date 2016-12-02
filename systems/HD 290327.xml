@@ -1,23 +1,23 @@
 <system>
-  <name>HD 290327</name>
   <star>
     <radius errorplus="0.01" errorminus="-0.01">1.0</radius>
-    <name>HD 290327</name>
+    <mass>0.9</mass>
     <temperature errorplus="21.0" errorminus="-21.0">5552.0</temperature>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.01">1.0</radius>
-      <semimajoraxis errorplus="0.2" errorminus="-0.12">3.43</semimajoraxis>
-      <eccentricity>0.08</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 290327 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <period errorplus="205.0" errorminus="-117.0">2443.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.2" errorminus="-0.12">3.43</semimajoraxis>
+      <period errorplus="205.0" errorminus="-117.0">2443.0</period>
+      <radius errorplus="0.01" errorminus="-0.01">1.0</radius>
+      <eccentricity>0.08</eccentricity>
+      <lastupdate>2014-11-19</lastupdate>
+      <name>HD 290327 b</name>
     </planet>
-    <mass>0.9</mass>
+    <name>HD 290327</name>
   </star>
   <distance errorplus="5.5" errorminus="-4.6">56.7</distance>
   <declination>-2 16 39</declination>
   <rightascension>05 50 23</rightascension>
+  <name>HD 290327</name>
 </system>
 

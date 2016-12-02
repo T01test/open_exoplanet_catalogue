@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1047</name>
   <star>
     <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
-    <name>Kepler-1047</name>
+    <mass errorplus="0.05" errorminus="-0.04">1.08</mass>
     <temperature errorplus="83.64" errorminus="-75.6">5754.0</temperature>
     <planet>
-      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1047 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">56.2</period>
+      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1047 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1047 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">56.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <radius errorplus="0.14" errorminus="-0.09">1.13</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1047 c</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.04">1.08</mass>
+    <name>Kepler-1047</name>
   </star>
   <distance errorplus="69.13" errorminus="-45.45">566.0</distance>
   <declination>50 47 20</declination>
   <rightascension>19 38 46</rightascension>
+  <name>Kepler-1047</name>
 </system>
 

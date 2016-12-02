@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-740</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.05">0.87</radius>
-    <name>Kepler-740</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.91</mass>
     <temperature errorplus="62.55" errorminus="-80.55">5438.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.05">0.87</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-740 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <radius errorplus="0.1" errorminus="-0.05">0.87</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-740 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.91</mass>
+    <name>Kepler-740</name>
   </star>
   <distance errorplus="143.42" errorminus="-79.76">1262.0</distance>
   <declination>46 41 32</declination>
   <rightascension>19 28 56</rightascension>
+  <name>Kepler-740</name>
 </system>
 

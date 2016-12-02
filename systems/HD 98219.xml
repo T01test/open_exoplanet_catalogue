@@ -1,23 +1,23 @@
 <system>
-  <name>HD 98219</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
-    <name>HD 98219</name>
+    <mass errorplus="0.09" errorminus="-0.09">1.3</mass>
     <temperature errorplus="44.0" errorminus="-44.0">4992.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.23</semimajoraxis>
-      <eccentricity>0.112</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 98219 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="4.5" errorminus="-4.5">436.9</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.23</semimajoraxis>
+      <period errorplus="4.5" errorminus="-4.5">436.9</period>
+      <radius errorplus="0.1" errorminus="-0.1">4.5</radius>
+      <eccentricity>0.112</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 98219 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.09">1.3</mass>
+    <name>HD 98219</name>
   </star>
   <distance errorplus="18.62" errorminus="-24.75">150.38</distance>
   <declination>-23 58 31</declination>
   <rightascension>11 26 53</rightascension>
+  <name>HD 98219</name>
 </system>
 

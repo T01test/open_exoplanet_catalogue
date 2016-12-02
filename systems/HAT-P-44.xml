@@ -1,33 +1,33 @@
 <system>
-  <name>HAT-P-44</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-    <name>HAT-P-44</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5295.0</temperature>
     <planet>
+      <inclination errorplus="0.4" errorminus="-0.4">89.1</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0507</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
       <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.752</semimajoraxis>
-      <eccentricity>0.494</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HAT-P-44 c</name>
+      <eccentricity>0.044</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="1.7" errorminus="-1.7">872.2</period>
-      <inclination/>
+      <name>HAT-P-44 b</name>
     </planet>
     <planet>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.025" errorminus="-0.025">1.752</semimajoraxis>
+      <period errorplus="1.7" errorminus="-1.7">872.2</period>
       <radius errorplus="0.08" errorminus="-0.04">0.95</radius>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0507</semimajoraxis>
-      <eccentricity>0.044</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-44 b</name>
+      <eccentricity>0.494</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
-      <inclination errorplus="0.4" errorminus="-0.4">89.1</inclination>
+      <name>HAT-P-44 c</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.94</mass>
+    <name>HAT-P-44</name>
   </star>
   <distance errorplus="31.0" errorminus="-17.0">363.0</distance>
   <declination>47 00 52</declination>
   <rightascension>14 08 38</rightascension>
+  <name>HAT-P-44</name>
 </system>
 

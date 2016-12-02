@@ -1,32 +1,32 @@
 <system>
-  <name>Kepler-411</name>
   <star>
     <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-    <name>Kepler-411</name>
+    <mass errorplus="0.04" errorminus="-0.1">0.83</mass>
     <temperature errorplus="46.0" errorminus="-51.0">4974.0</temperature>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.038</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-411 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
-      <inclination errorplus="1.73" errorminus="-1.83">88.27</inclination>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.8</period>
+      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-411 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
-      <semimajoraxis/>
+      <inclination errorplus="1.73" errorminus="-1.83">88.27</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-411 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.8</period>
-      <inclination/>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.038</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <radius errorplus="0.07" errorminus="-0.06">0.79</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-411 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.1">0.83</mass>
+    <name>Kepler-411</name>
   </star>
   <distance/>
   <declination>49 31 23</declination>
   <rightascension>19 36 20</rightascension>
+  <name>Kepler-411</name>
 </system>
 

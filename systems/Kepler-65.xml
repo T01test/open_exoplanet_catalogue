@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-65</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
-    <name>Kepler-65</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.25</mass>
     <temperature errorplus="66.0" errorminus="-66.0">6211.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.001">0.035</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-65 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis errorplus="0.004" errorminus="-0.002">0.068</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-65 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-65 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
-      <semimajoraxis errorplus="0.006" errorminus="-0.002">0.084</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-65 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.002" errorminus="-0.001">0.035</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-65 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.25</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.006" errorminus="-0.002">0.084</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">8.1</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.41</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-65 d</name>
+    </planet>
+    <name>Kepler-65</name>
   </star>
   <distance/>
   <declination>41 09 04</declination>
   <rightascension>19 41 19</rightascension>
+  <name>Kepler-65</name>
 </system>
 

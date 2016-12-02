@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-648</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.98</radius>
-    <name>Kepler-648</name>
+    <mass errorplus="0.03" errorminus="-0.03">1.05</mass>
     <temperature errorplus="54.98" errorminus="-51.62">5741.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.98</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-648 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">17.4</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.98</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-648 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">1.05</mass>
+    <name>Kepler-648</name>
   </star>
   <distance errorplus="24.26" errorminus="-23.65">665.0</distance>
   <declination>45 01 00</declination>
   <rightascension>18 53 58</rightascension>
+  <name>Kepler-648</name>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-746</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.07">0.93</radius>
-    <name>Kepler-746</name>
+    <mass errorplus="0.04" errorminus="-0.03">0.91</mass>
     <temperature errorplus="87.09" errorminus="-89.83">5418.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.07">0.93</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-746 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <radius errorplus="0.1" errorminus="-0.07">0.93</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-746 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.03">0.91</mass>
+    <name>Kepler-746</name>
   </star>
   <distance errorplus="50.64" errorminus="-34.82">450.0</distance>
   <declination>37 21 18</declination>
   <rightascension>19 40 56</rightascension>
+  <name>Kepler-746</name>
 </system>
 

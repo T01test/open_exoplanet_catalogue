@@ -1,23 +1,23 @@
 <system>
-  <name>HD 75784</name>
   <star>
     <radius errorplus="0.3" errorminus="-0.3">3.3</radius>
-    <name>HD 75784</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.41</mass>
     <temperature errorplus="44.0" errorminus="-44.0">4917.0</temperature>
     <planet>
-      <radius errorplus="0.3" errorminus="-0.3">3.3</radius>
-      <semimajoraxis errorplus="0.013" errorminus="-0.013">1.073</semimajoraxis>
-      <eccentricity>0.13</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 75784 b</name>
-      <lastupdate>2014-12-03</lastupdate>
-      <period errorplus="6.1" errorminus="-6.1">341.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.013" errorminus="-0.013">1.073</semimajoraxis>
+      <period errorplus="6.1" errorminus="-6.1">341.7</period>
+      <radius errorplus="0.3" errorminus="-0.3">3.3</radius>
+      <eccentricity>0.13</eccentricity>
+      <lastupdate>2014-12-03</lastupdate>
+      <name>HD 75784 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.41</mass>
+    <name>HD 75784</name>
   </star>
   <distance errorplus="6.2" errorminus="-6.2">68.7</distance>
   <declination>13 14 00</declination>
   <rightascension>08 05 59</rightascension>
+  <name>HD 75784</name>
 </system>
 

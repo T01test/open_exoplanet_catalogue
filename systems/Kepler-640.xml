@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-640</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.94</radius>
-    <name>Kepler-640</name>
+    <mass errorplus="0.03" errorminus="-0.03">1.01</mass>
     <temperature errorplus="72.44" errorminus="-62.83">5653.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.94</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-640 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">22.2</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.94</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-640 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">1.01</mass>
+    <name>Kepler-640</name>
   </star>
   <distance errorplus="19.13" errorminus="-16.46">538.0</distance>
   <declination>42 07 54</declination>
   <rightascension>19 01 55</rightascension>
+  <name>Kepler-640</name>
 </system>
 

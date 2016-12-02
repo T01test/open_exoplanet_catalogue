@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-333</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.53</radius>
-    <name>Kepler-333</name>
+    <mass>0.54</mass>
     <temperature errorplus="200.0" errorminus="-200.0">4259.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.53</radius>
-      <semimajoraxis>0.135</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-333 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.087</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">12.6</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.53</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-333 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.53</radius>
-      <semimajoraxis>0.087</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-333 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.135</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">24.1</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.53</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-333 c</name>
     </planet>
-    <mass>0.54</mass>
+    <name>Kepler-333</name>
   </star>
   <distance/>
   <declination>40 54 48</declination>
   <rightascension>19 17 09</rightascension>
+  <name>Kepler-333</name>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-345</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-    <name>Kepler-345</name>
+    <mass>0.59</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4504.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <semimajoraxis>0.066</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-345 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.077</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">9.4</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-345 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <semimajoraxis>0.077</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-345 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.066</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-345 b</name>
     </planet>
-    <mass>0.59</mass>
+    <name>Kepler-345</name>
   </star>
   <distance/>
   <declination>45 58 15</declination>
   <rightascension>19 13 43</rightascension>
+  <name>Kepler-345</name>
 </system>
 

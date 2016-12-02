@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-712</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
-    <name>Kepler-712</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
     <temperature errorplus="83.48" errorminus="-78.09">5148.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-712 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">226.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">21.0</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-712 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-712 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">226.9</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.78</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-712 c</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
+    <name>Kepler-712</name>
   </star>
   <distance errorplus="31.55" errorminus="-31.79">944.0</distance>
   <declination>42 56 06</declination>
   <rightascension>19 54 35</rightascension>
+  <name>Kepler-712</name>
 </system>
 

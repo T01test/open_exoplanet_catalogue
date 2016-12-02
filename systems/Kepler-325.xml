@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-325</name>
   <star>
     <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
-    <name>Kepler-325</name>
+    <mass>0.87</mass>
     <temperature errorplus="200.0" errorminus="-200.0">5752.0</temperature>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
-      <semimajoraxis>0.053</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-325 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.5</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.22</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-325 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">38.7</period>
-      <inclination/>
+      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-325 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
-      <semimajoraxis>0.105</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-325 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.105</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">12.8</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-325 c</name>
     </planet>
-    <mass>0.87</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.053</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.5</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.0</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-325 b</name>
+    </planet>
+    <name>Kepler-325</name>
   </star>
   <distance/>
   <declination>49 49 32</declination>
   <rightascension>19 50 07</rightascension>
+  <name>Kepler-325</name>
 </system>
 

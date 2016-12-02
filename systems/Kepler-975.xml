@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-975</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-    <name>Kepler-975</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.8</mass>
     <temperature errorplus="90.72" errorminus="-106.8">4897.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-975 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.0</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.75</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-975 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.8</mass>
+    <name>Kepler-975</name>
   </star>
   <distance errorplus="19.39" errorminus="-18.7">404.0</distance>
   <declination>38 29 42</declination>
   <rightascension>19 32 54</rightascension>
+  <name>Kepler-975</name>
 </system>
 

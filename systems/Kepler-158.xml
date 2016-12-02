@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-158</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.08">0.62</radius>
-    <name>Kepler-158</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">4623.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">0.62</radius>
-      <semimajoraxis>0.158</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-158 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.111</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">16.7</period>
+      <radius errorplus="0.08" errorminus="-0.08">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-158 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">0.62</radius>
-      <semimajoraxis>0.111</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-158 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.158</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">28.6</period>
+      <radius errorplus="0.08" errorminus="-0.08">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-158 c</name>
     </planet>
-    <mass/>
+    <name>Kepler-158</name>
   </star>
   <distance/>
   <declination>39 46 52</declination>
   <rightascension>18 01 56</rightascension>
+  <name>Kepler-158</name>
 </system>
 

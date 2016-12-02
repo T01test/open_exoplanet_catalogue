@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-48</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
-    <name>Kepler-48</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.88</mass>
     <temperature errorplus="73.0" errorminus="-73.0">5194.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
-      <semimajoraxis/>
-      <discoverymethod>RV</discoverymethod>
-      <name>Kepler-48 e</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="8.0" errorminus="-8.0">982.0</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-48 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>42.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-48 c</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <period>9.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-48 b</name>
-      <lastupdate>2016-10-27</lastupdate>
       <period>4.8</period>
-      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>Kepler-48 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.88</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>42.9</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-48 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>9.7</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>Kepler-48 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="8.0" errorminus="-8.0">982.0</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.89</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-48 e</name>
+    </planet>
+    <name>Kepler-48</name>
   </star>
   <distance/>
   <declination>40 56 56</declination>
   <rightascension>19 08 21</rightascension>
+  <name>Kepler-48</name>
 </system>
 

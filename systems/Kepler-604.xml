@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-604</name>
   <star>
     <radius errorplus="0.19" errorminus="-0.11">1.03</radius>
-    <name>Kepler-604</name>
+    <mass errorplus="0.08" errorminus="-0.07">1.02</mass>
     <temperature errorplus="174.4" errorminus="-159.73">5890.0</temperature>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.11">1.03</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-604 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">25.9</period>
+      <radius errorplus="0.19" errorminus="-0.11">1.03</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-604 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.07">1.02</mass>
+    <name>Kepler-604</name>
   </star>
   <distance errorplus="186.35" errorminus="-110.47">981.0</distance>
   <declination>42 37 34</declination>
   <rightascension>19 18 57</rightascension>
+  <name>Kepler-604</name>
 </system>
 

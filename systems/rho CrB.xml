@@ -1,33 +1,33 @@
 <system>
-  <name>rho CrB</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-    <name>rho CrB</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
     <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
-      <eccentricity>0.052</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>rho CrB c</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">102.5</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">39.8</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <eccentricity>0.0373</eccentricity>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>rho CrB b</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
-      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
-      <eccentricity>0.0373</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>rho CrB b</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">39.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
+      <period errorplus="0.2" errorminus="-0.2">102.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <eccentricity>0.052</eccentricity>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>rho CrB c</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
+    <name>rho CrB</name>
   </star>
   <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
   <declination>33 18 12</declination>
   <rightascension>16 15 39</rightascension>
+  <name>rho CrB</name>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Oph 11</name>
   <star>
     <radius/>
-    <name>Oph 11</name>
+    <mass errorplus="0.0" errorminus="-0.01">0.02</mass>
     <temperature errorplus="175.0" errorminus="-175.0">2375.0</temperature>
     <planet>
-      <radius/>
-      <semimajoraxis errorplus="55.0" errorminus="-55.0">243.0</semimajoraxis>
-      <discoverymethod>imaging</discoverymethod>
-      <name>Oph 11 b</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="3650000.0" errorminus="-3650000.0">7300000.0</period>
       <inclination/>
+      <discoverymethod>imaging</discoverymethod>
+      <semimajoraxis errorplus="55.0" errorminus="-55.0">243.0</semimajoraxis>
+      <period errorplus="3650000.0" errorminus="-3650000.0">7300000.0</period>
+      <radius/>
+      <lastupdate>2016-03-10</lastupdate>
+      <name>Oph 11 b</name>
     </planet>
-    <mass errorplus="0.0" errorminus="-0.01">0.02</mass>
+    <name>Oph 11</name>
   </star>
   <distance errorplus="25.0" errorminus="-25.0">125.0</distance>
   <declination>-24 05 13</declination>
   <rightascension>16 36 18</rightascension>
+  <name>Oph 11</name>
 </system>
 

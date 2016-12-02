@@ -1,23 +1,23 @@
 <system>
-  <name>14 Her</name>
   <star>
     <radius/>
-    <name>14 Her</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.9</mass>
     <temperature errorplus="87.0" errorminus="-87.0">5311.0</temperature>
     <planet>
-      <radius/>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.77</semimajoraxis>
-      <eccentricity>0.369</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>14 Her b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="2.5" errorminus="-2.5">1773.4</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">2.77</semimajoraxis>
+      <period errorplus="2.5" errorminus="-2.5">1773.4</period>
+      <radius/>
+      <eccentricity>0.369</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>14 Her b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.9</mass>
+    <name>14 Her</name>
   </star>
   <distance errorplus="0.19" errorminus="-0.2">18.15</distance>
   <declination>43 49 03</declination>
   <rightascension>16 36 04</rightascension>
+  <name>14 Her</name>
 </system>
 

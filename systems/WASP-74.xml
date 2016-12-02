@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-74</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">1.64</radius>
-    <name>WASP-74</name>
+    <mass errorplus="0.12" errorminus="-0.12">1.48</mass>
     <temperature errorplus="110.0" errorminus="-110.0">5970.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">1.64</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.037</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-74 b</name>
-      <lastupdate>2015-07-09</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
       <inclination errorplus="0.24" errorminus="-0.24">79.81</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.037</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <radius errorplus="0.05" errorminus="-0.05">1.64</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2015-07-09</lastupdate>
+      <name>WASP-74 b</name>
     </planet>
-    <mass errorplus="0.12" errorminus="-0.12">1.48</mass>
+    <name>WASP-74</name>
   </star>
   <distance errorplus="20.0" errorminus="-20.0">120.0</distance>
   <declination>-1 04 32</declination>
   <rightascension>20 32 19</rightascension>
+  <name>WASP-74</name>
 </system>
 

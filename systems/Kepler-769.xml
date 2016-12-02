@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-769</name>
   <star>
     <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
-    <name>Kepler-769</name>
+    <mass errorplus="0.17" errorminus="-0.11">1.19</mass>
     <temperature errorplus="127.24" errorminus="-184.13">6186.0</temperature>
     <planet>
-      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-769 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">16.0</period>
+      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-769 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-769 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <radius errorplus="0.55" errorminus="-0.19">1.28</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-769 b</name>
     </planet>
-    <mass errorplus="0.17" errorminus="-0.11">1.19</mass>
+    <name>Kepler-769</name>
   </star>
   <distance errorplus="567.34" errorminus="-216.52">1362.0</distance>
   <declination>38 21 29</declination>
   <rightascension>19 42 47</rightascension>
+  <name>Kepler-769</name>
 </system>
 

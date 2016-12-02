@@ -1,33 +1,33 @@
 <system>
-  <name>HIP 5158</name>
   <star>
     <radius/>
-    <name>HIP 5158</name>
+    <mass errorplus="0.02" errorminus="-0.02">0.78</mass>
     <temperature errorplus="89.0" errorminus="-89.0">4962.0</temperature>
     <planet>
-      <radius/>
-      <semimajoraxis>0.89</semimajoraxis>
-      <eccentricity>0.52</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HIP 5158 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="5.4" errorminus="-5.4">345.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="1.88" errorminus="-1.88">7.7</semimajoraxis>
+      <period errorplus="3180.7" errorminus="-3180.7">9017.8</period>
+      <radius/>
+      <eccentricity>0.14</eccentricity>
+      <lastupdate>2015-09-10</lastupdate>
+      <name>HIP 5158 c</name>
     </planet>
     <planet>
-      <radius/>
-      <semimajoraxis errorplus="1.88" errorminus="-1.88">7.7</semimajoraxis>
-      <eccentricity>0.14</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HIP 5158 c</name>
-      <lastupdate>2015-09-10</lastupdate>
-      <period errorplus="3180.7" errorminus="-3180.7">9017.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>0.89</semimajoraxis>
+      <period errorplus="5.4" errorminus="-5.4">345.7</period>
+      <radius/>
+      <eccentricity>0.52</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HIP 5158 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">0.78</mass>
+    <name>HIP 5158</name>
   </star>
   <distance errorplus="3.89" errorminus="-4.7">44.8</distance>
   <declination>-22 27 11</declination>
   <rightascension>01 30 30</rightascension>
+  <name>HIP 5158</name>
 </system>
 

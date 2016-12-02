@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-250</name>
   <star>
     <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-    <name>Kepler-250</name>
+    <mass>0.8</mass>
     <temperature errorplus="200.0" errorminus="-200.0">5160.0</temperature>
     <planet>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-      <semimajoraxis>0.069</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-250 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.2</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.048</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-250 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">4.1</period>
-      <inclination/>
+      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-250 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
-      <semimajoraxis>0.127</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-250 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">17.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.127</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">17.6</period>
+      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-250 d</name>
     </planet>
-    <mass>0.8</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.069</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">7.2</period>
+      <radius errorplus="0.46" errorminus="-0.46">0.81</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-250 c</name>
+    </planet>
+    <name>Kepler-250</name>
   </star>
   <distance/>
   <declination>44 08 31</declination>
   <rightascension>19 35 41</rightascension>
+  <name>Kepler-250</name>
 </system>
 

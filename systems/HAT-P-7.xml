@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-7</name>
   <star>
     <radius errorplus="0.17" errorminus="-0.17">1.84</radius>
-    <name>HAT-P-7</name>
+    <mass errorplus="0.07" errorminus="-0.07">1.47</mass>
     <temperature errorplus="69.0" errorminus="-69.0">6441.0</temperature>
     <planet>
-      <radius errorplus="0.17" errorminus="-0.17">1.84</radius>
-      <semimajoraxis errorplus="0.00019" errorminus="-0.00019">0.03676</semimajoraxis>
-      <eccentricity>0.0016</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-7 b</name>
-      <lastupdate>2016-08-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.2</period>
       <inclination errorplus="1.2" errorminus="-1.2">82.2</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00019" errorminus="-0.00019">0.03676</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.2</period>
+      <radius errorplus="0.17" errorminus="-0.17">1.84</radius>
+      <eccentricity>0.0016</eccentricity>
+      <lastupdate>2016-08-18</lastupdate>
+      <name>HAT-P-7 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.07">1.47</mass>
+    <name>HAT-P-7</name>
   </star>
   <distance errorplus="50.0" errorminus="-40.0">320.0</distance>
   <declination>47 58 10</declination>
   <rightascension>19 14 50</rightascension>
+  <name>HAT-P-7</name>
 </system>
 

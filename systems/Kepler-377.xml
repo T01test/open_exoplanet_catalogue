@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-377</name>
   <star>
     <radius errorplus="0.23" errorminus="-0.23">1.22</radius>
-    <name>Kepler-377</name>
+    <mass>0.88</mass>
     <temperature errorplus="128.0" errorminus="-128.0">5949.0</temperature>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.23">1.22</radius>
-      <semimajoraxis>0.182</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-377 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">27.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.109</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">12.5</period>
+      <radius errorplus="0.23" errorminus="-0.23">1.22</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-377 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.23">1.22</radius>
-      <semimajoraxis>0.109</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-377 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.182</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">27.0</period>
+      <radius errorplus="0.23" errorminus="-0.23">1.22</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-377 c</name>
     </planet>
-    <mass>0.88</mass>
+    <name>Kepler-377</name>
   </star>
   <distance/>
   <declination>38 44 08</declination>
   <rightascension>19 25 19</rightascension>
+  <name>Kepler-377</name>
 </system>
 

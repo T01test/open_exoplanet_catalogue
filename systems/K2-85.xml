@@ -1,22 +1,22 @@
 <system>
-  <name>K2-85</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.51</radius>
-    <name>K2-85</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.57</mass>
     <temperature errorplus="122.0" errorminus="-122.0">4268.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.51</radius>
-      <semimajoraxis errorplus="0.00037" errorminus="-0.00037">0.01263</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-85 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00037" errorminus="-0.00037">0.01263</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.51</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-85 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.57</mass>
+    <name>K2-85</name>
   </star>
   <distance/>
   <declination>18 27 54</declination>
   <rightascension>03 27 51</rightascension>
+  <name>K2-85</name>
 </system>
 

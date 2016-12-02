@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-33</name>
   <star>
     <radius errorplus="0.03">1.64</radius>
-    <name>HAT-P-33</name>
+    <mass errorplus="0.04">1.38</mass>
     <temperature errorplus="88.0">6446.0</temperature>
     <planet>
-      <radius errorplus="0.03">1.64</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0499</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-33 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
       <inclination errorplus="0.0" errorminus="-0.1">87.2</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0499</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <radius errorplus="0.03">1.64</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HAT-P-33 b</name>
     </planet>
-    <mass errorplus="0.04">1.38</mass>
+    <name>HAT-P-33</name>
   </star>
   <distance errorplus="9.0" errorminus="-9.0">387.0</distance>
   <declination>33 50 06</declination>
   <rightascension>07 11 03</rightascension>
+  <name>HAT-P-33</name>
 </system>
 

@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-603</name>
   <star>
     <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-    <name>Kepler-603</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.01</mass>
     <temperature errorplus="90.04" errorminus="-142.55">5808.0</temperature>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-      <semimajoraxis/>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-603 d</name>
-      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
       <period errorplus="0.0" errorminus="-0.0">6.2</period>
-      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-603 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-      <semimajoraxis/>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-603 c</name>
-      <lastupdate>2016-05-10</lastupdate>
+      <semimajoraxis/>
       <period errorplus="0.0" errorminus="-0.0">127.9</period>
-      <inclination/>
+      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-603 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-603 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">21.1</period>
+      <radius errorplus="0.23" errorminus="-0.1">1.01</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-603 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.01</mass>
+    <name>Kepler-603</name>
   </star>
   <distance errorplus="217.66" errorminus="-99.99">967.0</distance>
   <declination>42 17 27</declination>
   <rightascension>19 16 51</rightascension>
+  <name>Kepler-603</name>
 </system>
 

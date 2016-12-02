@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-871</name>
   <star>
     <radius errorplus="0.31" errorminus="-0.13">1.14</radius>
-    <name>Kepler-871</name>
+    <mass errorplus="0.09" errorminus="-0.07">1.11</mass>
     <temperature errorplus="107.01" errorminus="-146.49">5993.0</temperature>
     <planet>
-      <radius errorplus="0.31" errorminus="-0.13">1.14</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-871 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">22.0</period>
+      <radius errorplus="0.31" errorminus="-0.13">1.14</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-871 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.07">1.11</mass>
+    <name>Kepler-871</name>
   </star>
   <distance errorplus="452.96" errorminus="-199.26">1695.0</distance>
   <declination>43 22 05</declination>
   <rightascension>19 31 37</rightascension>
+  <name>Kepler-871</name>
 </system>
 

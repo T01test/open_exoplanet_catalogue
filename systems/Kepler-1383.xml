@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1383</name>
   <star>
     <radius errorplus="0.64" errorminus="-0.29">1.44</radius>
-    <name>Kepler-1383</name>
+    <mass errorplus="0.24" errorminus="-0.16">1.26</mass>
     <temperature errorplus="285.54" errorminus="-259.89">6370.0</temperature>
     <planet>
-      <radius errorplus="0.64" errorminus="-0.29">1.44</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1383 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">13.9</period>
+      <radius errorplus="0.64" errorminus="-0.29">1.44</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1383 b</name>
     </planet>
-    <mass errorplus="0.24" errorminus="-0.16">1.26</mass>
+    <name>Kepler-1383</name>
   </star>
   <distance errorplus="417.84" errorminus="-207.94">961.0</distance>
   <declination>42 11 30</declination>
   <rightascension>19 56 41</rightascension>
+  <name>Kepler-1383</name>
 </system>
 

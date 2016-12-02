@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1003</name>
   <star>
     <radius errorplus="0.32" errorminus="-0.15">1.17</radius>
-    <name>Kepler-1003</name>
+    <mass errorplus="0.13" errorminus="-0.08">1.11</mass>
     <temperature errorplus="150.04" errorminus="-195.29">6109.0</temperature>
     <planet>
-      <radius errorplus="0.32" errorminus="-0.15">1.17</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1003 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <radius errorplus="0.32" errorminus="-0.15">1.17</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1003 b</name>
     </planet>
-    <mass errorplus="0.13" errorminus="-0.08">1.11</mass>
+    <name>Kepler-1003</name>
   </star>
   <distance errorplus="239.6" errorminus="-116.11">873.0</distance>
   <declination>44 52 34</declination>
   <rightascension>19 01 13</rightascension>
+  <name>Kepler-1003</name>
 </system>
 

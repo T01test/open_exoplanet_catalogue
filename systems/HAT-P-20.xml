@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-20</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
-    <name>HAT-P-20</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.76</mass>
     <temperature errorplus="80.0" errorminus="-80.0">4595.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0361</semimajoraxis>
-      <eccentricity>0.015</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-20 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
       <inclination errorplus="0.2" errorminus="-0.2">86.8</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0361</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
+      <eccentricity>0.015</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HAT-P-20 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.76</mass>
+    <name>HAT-P-20</name>
   </star>
   <distance errorplus="3.0" errorminus="-3.0">70.0</distance>
   <declination>24 20 11</declination>
   <rightascension>07 54 59</rightascension>
+  <name>HAT-P-20</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 180314</name>
   <star>
     <radius errorplus="0.4" errorminus="-0.4">9.2</radius>
-    <name>HD 180314</name>
+    <mass errorplus="0.3" errorminus="-0.3">2.6</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4917.0</temperature>
     <planet>
-      <radius errorplus="0.4" errorminus="-0.4">9.2</radius>
-      <semimajoraxis>1.4</semimajoraxis>
-      <eccentricity>0.257</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 180314 b</name>
-      <lastupdate>2015-09-10</lastupdate>
-      <period errorplus="0.6" errorminus="-0.6">396.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>1.4</semimajoraxis>
+      <period errorplus="0.6" errorminus="-0.6">396.0</period>
+      <radius errorplus="0.4" errorminus="-0.4">9.2</radius>
+      <eccentricity>0.257</eccentricity>
+      <lastupdate>2015-09-10</lastupdate>
+      <name>HD 180314 b</name>
     </planet>
-    <mass errorplus="0.3" errorminus="-0.3">2.6</mass>
+    <name>HD 180314</name>
   </star>
   <distance errorplus="10.25" errorminus="-12.13">131.75</distance>
   <declination>31 51 37</declination>
   <rightascension>19 42 33</rightascension>
+  <name>HD 180314</name>
 </system>
 

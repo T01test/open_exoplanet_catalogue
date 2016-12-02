@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-680</name>
   <star>
     <radius errorplus="0.38" errorminus="-0.11">1.11</radius>
-    <name>Kepler-680</name>
+    <mass errorplus="0.1" errorminus="-0.06">1.08</mass>
     <temperature errorplus="77.37" errorminus="-99.2">5890.0</temperature>
     <planet>
-      <radius errorplus="0.38" errorminus="-0.11">1.11</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-680 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.7</period>
+      <radius errorplus="0.38" errorminus="-0.11">1.11</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-680 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.06">1.08</mass>
+    <name>Kepler-680</name>
   </star>
   <distance errorplus="446.09" errorminus="-145.05">1342.0</distance>
   <declination>50 37 05</declination>
   <rightascension>19 37 20</rightascension>
+  <name>Kepler-680</name>
 </system>
 

@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-113</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
-    <name>Kepler-113</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.75</mass>
     <temperature errorplus="74.0" errorminus="-74.0">4725.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-113 c</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <period>8.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>8.9</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
+      <lastupdate>2016-10-13</lastupdate>
+      <name>Kepler-113 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-113 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>4.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>4.8</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.69</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-113 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.75</mass>
+    <name>Kepler-113</name>
   </star>
   <distance/>
   <declination>50 56 39</declination>
   <rightascension>19 59 52</rightascension>
+  <name>Kepler-113</name>
 </system>
 

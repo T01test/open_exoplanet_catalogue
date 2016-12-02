@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-19</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.65</radius>
-    <name>CoRoT-19</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.21</mass>
     <temperature errorplus="70.0" errorminus="-70.0">6090.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.65</radius>
-      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0518</semimajoraxis>
-      <eccentricity>0.047</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-19 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
       <inclination errorplus="0.7" errorminus="-0.7">88.0</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0008" errorminus="-0.0008">0.0518</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.65</radius>
+      <eccentricity>0.047</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-19 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.21</mass>
+    <name>CoRoT-19</name>
   </star>
   <distance errorplus="160.0" errorminus="-160.0">770.0</distance>
   <declination>00 10 14</declination>
   <rightascension>06 02 00</rightascension>
+  <name>CoRoT-19</name>
 </system>
 

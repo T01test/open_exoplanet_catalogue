@@ -1,23 +1,23 @@
 <system>
-  <name>HD 205739</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">1.33</radius>
-    <name>HD 205739</name>
+    <mass errorplus="0.08" errorminus="-0.06">1.22</mass>
     <temperature errorplus="30.0" errorminus="-30.0">6176.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">1.33</radius>
-      <semimajoraxis errorplus="0.019" errorminus="-0.015">0.896</semimajoraxis>
-      <eccentricity>0.27</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 205739 b</name>
-      <lastupdate>2014-09-25</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">279.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.019" errorminus="-0.015">0.896</semimajoraxis>
+      <period errorplus="0.1" errorminus="-0.1">279.8</period>
+      <radius errorplus="0.1" errorminus="-0.1">1.33</radius>
+      <eccentricity>0.27</eccentricity>
+      <lastupdate>2014-09-25</lastupdate>
+      <name>HD 205739 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.06">1.22</mass>
+    <name>HD 205739</name>
   </star>
   <distance errorplus="8.3" errorminus="-10.17">90.33</distance>
   <declination>-31 44 14</declination>
   <rightascension>21 32 06</rightascension>
+  <name>HD 205739</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-8</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
-    <name>CoRoT-8</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.88</mass>
     <temperature errorplus="80.0" errorminus="-80.0">5080.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.063</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-8 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.2</period>
       <inclination errorplus="0.1" errorminus="-0.1">88.4</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.063</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.2</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.77</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-8 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.88</mass>
+    <name>CoRoT-8</name>
   </star>
   <distance errorplus="30.0" errorminus="-30.0">380.0</distance>
   <declination>01 25 35</declination>
   <rightascension>19 35 18</rightascension>
+  <name>CoRoT-8</name>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
-  <name>Pr0211</name>
   <star>
     <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-    <name>Pr0211</name>
+    <mass errorplus="0.01" errorminus="-0.01">0.94</mass>
     <temperature errorplus="30.0" errorminus="-30.0">5300.0</temperature>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <semimajoraxis errorplus="0.00015" errorminus="-0.00015">0.03176</semimajoraxis>
-      <eccentricity>0.011</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>Pr0211 b</name>
-      <lastupdate>2016-02-11</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="3.0" errorminus="-1.4">5.5</semimajoraxis>
+      <period errorplus="4560.0" errorminus="-1750.0">4850.0</period>
+      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
+      <eccentricity>0.71</eccentricity>
+      <lastupdate>2016-02-11</lastupdate>
+      <name>Pr0211 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
-      <semimajoraxis errorplus="3.0" errorminus="-1.4">5.5</semimajoraxis>
-      <eccentricity>0.71</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>Pr0211 c</name>
-      <lastupdate>2016-02-11</lastupdate>
-      <period errorplus="4560.0" errorminus="-1750.0">4850.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.00015" errorminus="-0.00015">0.03176</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <radius errorplus="0.01" errorminus="-0.01">0.83</radius>
+      <eccentricity>0.011</eccentricity>
+      <lastupdate>2016-02-11</lastupdate>
+      <name>Pr0211 b</name>
     </planet>
-    <mass errorplus="0.01" errorminus="-0.01">0.94</mass>
+    <name>Pr0211</name>
   </star>
   <distance/>
   <declination>19 16 37</declination>
   <rightascension>08 32 52</rightascension>
+  <name>Pr0211</name>
 </system>
 

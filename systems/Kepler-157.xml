@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-157</name>
   <star>
     <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-    <name>Kepler-157</name>
+    <mass/>
     <temperature errorplus="125.0" errorminus="-125.0">5774.0</temperature>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-      <semimajoraxis>0.11</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-157 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.5</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-157 d</name>
-      <lastupdate>2016-05-10</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">7.0</period>
-      <inclination/>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-157 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
-      <semimajoraxis>0.028</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-157 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.11</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">13.5</period>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-157 c</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.028</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <radius errorplus="0.2" errorminus="-0.2">1.04</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-157 b</name>
+    </planet>
+    <name>Kepler-157</name>
   </star>
   <distance/>
   <declination>38 52 32</declination>
   <rightascension>19 05 50</rightascension>
+  <name>Kepler-157</name>
 </system>
 

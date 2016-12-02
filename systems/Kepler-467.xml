@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-467</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.03">1.37</radius>
-    <name>Kepler-467</name>
+    <mass errorplus="0.03" errorminus="-0.03">1.05</mass>
     <temperature errorplus="68.69" errorminus="-60.25">5809.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.03">1.37</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-467 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">25.0</period>
+      <radius errorplus="0.04" errorminus="-0.03">1.37</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-467 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">1.05</mass>
+    <name>Kepler-467</name>
   </star>
   <distance errorplus="13.73" errorminus="-13.0">458.0</distance>
   <declination>38 38 58</declination>
   <rightascension>19 21 46</rightascension>
+  <name>Kepler-467</name>
 </system>
 

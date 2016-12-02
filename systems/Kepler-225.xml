@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-225</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-    <name>Kepler-225</name>
+    <mass/>
     <temperature errorplus="150.0" errorminus="-150.0">3682.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-      <semimajoraxis>0.056</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-225 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.111</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">18.8</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-225 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
-      <semimajoraxis>0.111</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-225 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">18.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.056</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.7</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.48</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-225 b</name>
     </planet>
-    <mass/>
+    <name>Kepler-225</name>
   </star>
   <distance/>
   <declination>47 27 25</declination>
   <rightascension>19 11 38</rightascension>
+  <name>Kepler-225</name>
 </system>
 

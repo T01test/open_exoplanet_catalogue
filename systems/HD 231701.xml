@@ -1,23 +1,23 @@
 <system>
-  <name>HD 231701</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">1.35</radius>
-    <name>HD 231701</name>
+    <mass errorplus="0.04" errorminus="-0.03">1.14</mass>
     <temperature errorplus="44.0" errorminus="-44.0">6208.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">1.35</radius>
-      <semimajoraxis>0.53</semimajoraxis>
-      <eccentricity>0.1</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 231701 b</name>
-      <lastupdate>2014-11-19</lastupdate>
-      <period errorplus="2.8" errorminus="-2.8">141.6</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>0.53</semimajoraxis>
+      <period errorplus="2.8" errorminus="-2.8">141.6</period>
+      <radius errorplus="0.1" errorminus="-0.1">1.35</radius>
+      <eccentricity>0.1</eccentricity>
+      <lastupdate>2014-11-19</lastupdate>
+      <name>HD 231701 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.03">1.14</mass>
+    <name>HD 231701</name>
   </star>
   <distance errorplus="11.94" errorminus="-15.3">108.46</distance>
   <declination>16 28 27</declination>
   <rightascension>19 01 02</rightascension>
+  <name>HD 231701</name>
 </system>
 

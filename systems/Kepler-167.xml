@@ -1,53 +1,53 @@
 <system>
-  <name>Kepler-167</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-    <name>Kepler-167</name>
+    <mass errorplus="0.02" errorminus="-0.03">0.77</mass>
     <temperature errorplus="50.0" errorminus="-50.0">4890.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.058" errorminus="-0.067">1.89</semimajoraxis>
-      <eccentricity>0.062</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-167 e</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1071.2</period>
-      <inclination errorplus="0.007" errorminus="-0.005">89.976</inclination>
-    </planet>
-    <planet>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.0017" errorminus="-0.0025">0.0483</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-167 b</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
-      <inclination errorplus="0.47" errorminus="-0.8">89.33</inclination>
-    </planet>
-    <planet>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.005" errorminus="-0.0071">0.1405</semimajoraxis>
-      <eccentricity>0.12</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-167 d</name>
-      <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.8</period>
       <inclination errorplus="0.09" errorminus="-0.14">89.352</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.005" errorminus="-0.0071">0.1405</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">21.8</period>
+      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
+      <eccentricity>0.12</eccentricity>
+      <lastupdate>2016-03-10</lastupdate>
+      <name>Kepler-167 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
-      <semimajoraxis errorplus="0.024" errorminus="-0.0035">0.0684</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
+      <inclination errorplus="0.007" errorminus="-0.005">89.976</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-167 c</name>
+      <semimajoraxis errorplus="0.058" errorminus="-0.067">1.89</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1071.2</period>
+      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
+      <eccentricity>0.062</eccentricity>
       <lastupdate>2016-03-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.4</period>
-      <inclination errorplus="0.36" errorminus="-0.43">89.3</inclination>
+      <name>Kepler-167 e</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.03">0.77</mass>
+    <planet>
+      <inclination errorplus="0.36" errorminus="-0.43">89.3</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.024" errorminus="-0.0035">0.0684</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">7.4</period>
+      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-03-10</lastupdate>
+      <name>Kepler-167 c</name>
+    </planet>
+    <planet>
+      <inclination errorplus="0.47" errorminus="-0.8">89.33</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0017" errorminus="-0.0025">0.0483</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.4</period>
+      <radius errorplus="0.02" errorminus="-0.01">0.73</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-03-10</lastupdate>
+      <name>Kepler-167 b</name>
+    </planet>
+    <name>Kepler-167</name>
   </star>
   <distance errorplus="10.0" errorminus="-10.0">330.0</distance>
   <declination>38 20 43</declination>
   <rightascension>19 39 30</rightascension>
+  <name>Kepler-167</name>
 </system>
 

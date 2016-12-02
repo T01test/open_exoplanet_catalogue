@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-967</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
-    <name>Kepler-967</name>
+    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
     <temperature errorplus="68.7" errorminus="-79.8">5178.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-967 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">198.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">13.2</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-967 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-967 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">13.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">198.7</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.8</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-967 c</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.04">0.84</mass>
+    <name>Kepler-967</name>
   </star>
   <distance errorplus="18.68" errorminus="-18.0">499.0</distance>
   <declination>38 24 19</declination>
   <rightascension>19 33 29</rightascension>
+  <name>Kepler-967</name>
 </system>
 

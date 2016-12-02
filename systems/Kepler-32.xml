@@ -1,58 +1,58 @@
 <system>
-  <name>Kepler-32</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
-    <name>Kepler-32</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.58</mass>
     <temperature errorplus="200.0" errorminus="-200.0">3900.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
-      <semimajoraxis>0.013</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-32 f</name>
-      <lastupdate>2016-03-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">0.7</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
-      <semimajoraxis>0.13</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-32 d</name>
-      <lastupdate>2016-03-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
-      <semimajoraxis>0.09</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-32 c</name>
-      <lastupdate>2016-03-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
       <semimajoraxis>0.05</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-32 b</name>
-      <lastupdate>2016-03-24</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.9</period>
-      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-32 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
-      <semimajoraxis>0.033</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-32 e</name>
-      <lastupdate>2016-03-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.013</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">0.7</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-32 f</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.58</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.09</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">8.8</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-32 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.033</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-32 e</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.13</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">22.8</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.53</radius>
+      <lastupdate>2016-03-24</lastupdate>
+      <name>Kepler-32 d</name>
+    </planet>
+    <name>Kepler-32</name>
   </star>
   <distance errorplus="14.0" errorminus="-14.0">303.0</distance>
   <declination>46 34 27</declination>
   <rightascension>19 50 32</rightascension>
+  <name>Kepler-32</name>
 </system>
 

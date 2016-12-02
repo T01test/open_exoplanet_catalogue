@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-34</name>
   <star>
     <radius errorplus="0.12">0.93</radius>
-    <name>WASP-34</name>
+    <mass errorplus="0.07">1.01</mass>
     <temperature errorplus="100.0">5700.0</temperature>
     <planet>
-      <radius errorplus="0.12">0.93</radius>
-      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.0524</semimajoraxis>
-      <eccentricity>0.038</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-34 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.3</period>
       <inclination errorplus="0.2" errorminus="-0.2">85.2</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0004" errorminus="-0.0004">0.0524</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.3</period>
+      <radius errorplus="0.12">0.93</radius>
+      <eccentricity>0.038</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>WASP-34 b</name>
     </planet>
-    <mass errorplus="0.07">1.01</mass>
+    <name>WASP-34</name>
   </star>
   <distance errorplus="15.0" errorminus="-15.0">120.0</distance>
   <declination>-23 51 38</declination>
   <rightascension>11 23 58</rightascension>
+  <name>WASP-34</name>
 </system>
 

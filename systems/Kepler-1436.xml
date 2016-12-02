@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1436</name>
   <star>
     <radius errorplus="0.29" errorminus="-0.14">1.09</radius>
-    <name>Kepler-1436</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.06</mass>
     <temperature errorplus="141.9" errorminus="-172.48">5972.0</temperature>
     <planet>
-      <radius errorplus="0.29" errorminus="-0.14">1.09</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1436 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">9.7</period>
+      <radius errorplus="0.29" errorminus="-0.14">1.09</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1436 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.06</mass>
+    <name>Kepler-1436</name>
   </star>
   <distance errorplus="300.54" errorminus="-154.02">1142.0</distance>
   <declination>46 46 04</declination>
   <rightascension>19 42 41</rightascension>
+  <name>Kepler-1436</name>
 </system>
 

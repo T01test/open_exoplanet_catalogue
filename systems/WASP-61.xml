@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-61</name>
   <star>
     <radius errorplus="0.03">1.36</radius>
-    <name>WASP-61</name>
+    <mass errorplus="0.07">1.22</mass>
     <temperature errorplus="140.0">6320.0</temperature>
     <planet>
-      <radius errorplus="0.03">1.36</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0514</semimajoraxis>
-      <eccentricity>0.26</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-61 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
       <inclination errorplus="0.45" errorminus="-0.66">89.35</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0514</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <radius errorplus="0.03">1.36</radius>
+      <eccentricity>0.26</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>WASP-61 b</name>
     </planet>
-    <mass errorplus="0.07">1.22</mass>
+    <name>WASP-61</name>
   </star>
   <distance errorplus="65.0" errorminus="-65.0">480.0</distance>
   <declination>-26 03 14</declination>
   <rightascension>05 17 58</rightascension>
+  <name>WASP-61</name>
 </system>
 

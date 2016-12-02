@@ -1,23 +1,23 @@
 <system>
-  <name>HD 28678</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">6.2</radius>
-    <name>HD 28678</name>
+    <mass errorplus="0.12" errorminus="-0.12">1.74</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5076.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">6.2</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.25</semimajoraxis>
-      <eccentricity>0.168</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 28678 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="3.4" errorminus="-3.4">387.1</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.25</semimajoraxis>
+      <period errorplus="3.4" errorminus="-3.4">387.1</period>
+      <radius errorplus="0.1" errorminus="-0.1">6.2</radius>
+      <eccentricity>0.168</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 28678 b</name>
     </planet>
-    <mass errorplus="0.12" errorminus="-0.12">1.74</mass>
+    <name>HD 28678</name>
   </star>
   <distance errorplus="30.03" errorminus="-46.6">168.92</distance>
   <declination>04 34 31</declination>
   <rightascension>04 51 21</rightascension>
+  <name>HD 28678</name>
 </system>
 

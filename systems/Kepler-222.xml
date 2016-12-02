@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-222</name>
   <star>
     <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-    <name>Kepler-222</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5433.0</temperature>
     <planet>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-      <semimajoraxis>0.048</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-222 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.091</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-222 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">10.1</period>
-      <inclination/>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-222 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
-      <semimajoraxis>0.18</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-222 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">28.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.048</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-222 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.18</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">28.1</period>
+      <radius errorplus="0.38" errorminus="-0.38">0.87</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-222 d</name>
+    </planet>
+    <name>Kepler-222</name>
   </star>
   <distance/>
   <declination>46 56 15</declination>
   <rightascension>19 54 21</rightascension>
+  <name>Kepler-222</name>
 </system>
 

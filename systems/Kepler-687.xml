@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-687</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.04">0.73</radius>
-    <name>Kepler-687</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.77</mass>
     <temperature errorplus="93.0" errorminus="-63.99">4841.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.04">0.73</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-687 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">20.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">20.5</period>
+      <radius errorplus="0.03" errorminus="-0.04">0.73</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-687 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.77</mass>
+    <name>Kepler-687</name>
   </star>
   <distance errorplus="29.2" errorminus="-34.61">628.0</distance>
   <declination>39 09 11</declination>
   <rightascension>19 18 55</rightascension>
+  <name>Kepler-687</name>
 </system>
 

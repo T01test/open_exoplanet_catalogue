@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-720</name>
   <star>
     <radius errorplus="0.18" errorminus="-0.09">0.92</radius>
-    <name>Kepler-720</name>
+    <mass errorplus="0.11" errorminus="-0.07">0.95</mass>
     <temperature errorplus="328.49" errorminus="-250.53">5618.0</temperature>
     <planet>
-      <radius errorplus="0.18" errorminus="-0.09">0.92</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-720 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <radius errorplus="0.18" errorminus="-0.09">0.92</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-720 b</name>
     </planet>
-    <mass errorplus="0.11" errorminus="-0.07">0.95</mass>
+    <name>Kepler-720</name>
   </star>
   <distance errorplus="191.51" errorminus="-93.94">880.0</distance>
   <declination>44 10 15</declination>
   <rightascension>19 38 08</rightascension>
+  <name>Kepler-720</name>
 </system>
 

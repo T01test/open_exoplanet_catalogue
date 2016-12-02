@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-114</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-    <name>Kepler-114</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.56</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4605.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-114 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>8.0</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-114 d</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
       <period>11.8</period>
-      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-114 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
-      <semimajoraxis>0.053</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-114 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.053</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.2</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-114 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.56</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>8.0</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.67</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-114 c</name>
+    </planet>
+    <name>Kepler-114</name>
   </star>
   <distance/>
   <declination>48 20 58</declination>
   <rightascension>19 07 17</rightascension>
+  <name>Kepler-114</name>
 </system>
 

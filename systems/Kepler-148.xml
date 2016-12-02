@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-148</name>
   <star>
     <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-    <name>Kepler-148</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5272.0</temperature>
     <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-148 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">51.8</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
-      <semimajoraxis>0.028</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-148 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
       <semimajoraxis>0.05</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-148 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">4.2</period>
-      <inclination/>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-148 c</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">51.8</period>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-148 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.028</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <radius errorplus="0.41" errorminus="-0.41">0.85</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-148 b</name>
+    </planet>
+    <name>Kepler-148</name>
   </star>
   <distance/>
   <declination>46 51 31</declination>
   <rightascension>19 47 10</rightascension>
+  <name>Kepler-148</name>
 </system>
 

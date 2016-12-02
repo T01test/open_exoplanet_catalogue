@@ -1,23 +1,23 @@
 <system>
-  <name>HD 106270</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">2.5</radius>
-    <name>HD 106270</name>
+    <mass errorplus="0.09" errorminus="-0.09">1.32</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5638.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">2.5</radius>
-      <semimajoraxis errorplus="0.4" errorminus="-0.4">4.3</semimajoraxis>
-      <eccentricity>0.402</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 106270 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="390.0" errorminus="-390.0">2890.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.4" errorminus="-0.4">4.3</semimajoraxis>
+      <period errorplus="390.0" errorminus="-390.0">2890.0</period>
+      <radius errorplus="0.1" errorminus="-0.1">2.5</radius>
+      <eccentricity>0.402</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 106270 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.09">1.32</mass>
+    <name>HD 106270</name>
   </star>
   <distance errorplus="7.23" errorminus="-8.65">87.87</distance>
   <declination>-9 30 48</declination>
   <rightascension>12 24 19</rightascension>
+  <name>HD 106270</name>
 </system>
 

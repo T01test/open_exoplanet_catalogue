@@ -1,23 +1,23 @@
 <system>
-  <name>XO-2 N</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.07">1.01</radius>
-    <name>XO-2 N</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.97</mass>
     <temperature errorplus="57.0" errorminus="-57.0">5332.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.07">1.01</radius>
-      <semimajoraxis errorplus="0.00064" errorminus="-0.00064">0.03673</semimajoraxis>
-      <eccentricity>0.006</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>XO-2 N b</name>
-      <lastupdate>2015-01-22</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00064" errorminus="-0.00064">0.03673</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+      <radius errorplus="0.1" errorminus="-0.07">1.01</radius>
+      <eccentricity>0.006</eccentricity>
+      <lastupdate>2015-01-22</lastupdate>
+      <name>XO-2 N b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.97</mass>
+    <name>XO-2 N</name>
   </star>
   <distance errorplus="2.9" errorminus="-3.0">145.5</distance>
   <declination>50 13 32</declination>
   <rightascension>07 01 37</rightascension>
+  <name>XO-2 N</name>
 </system>
 

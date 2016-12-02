@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-232</name>
   <star>
     <radius errorplus="0.46" errorminus="-0.46">0.97</radius>
-    <name>Kepler-232</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5847.0</temperature>
     <planet>
-      <radius errorplus="0.46" errorminus="-0.46">0.97</radius>
-      <semimajoraxis>0.101</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-232 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.054</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.4</period>
+      <radius errorplus="0.46" errorminus="-0.46">0.97</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-232 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.46" errorminus="-0.46">0.97</radius>
-      <semimajoraxis>0.054</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-232 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.101</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">11.4</period>
+      <radius errorplus="0.46" errorminus="-0.46">0.97</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-232 c</name>
     </planet>
-    <mass/>
+    <name>Kepler-232</name>
   </star>
   <distance/>
   <declination>51 07 18</declination>
   <rightascension>19 48 58</rightascension>
+  <name>Kepler-232</name>
 </system>
 

@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-326</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-    <name>Kepler-326</name>
+    <mass>0.98</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5105.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <semimajoraxis>0.051</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-326 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.6</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
-      <semimajoraxis>0.066</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-326 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.8</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
       <semimajoraxis>0.032</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-326 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">2.2</period>
-      <inclination/>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-326 b</name>
     </planet>
-    <mass>0.98</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.066</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.8</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-326 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.051</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.6</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.8</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-326 c</name>
+    </planet>
+    <name>Kepler-326</name>
   </star>
   <distance/>
   <declination>46 00 08</declination>
   <rightascension>19 19 31</rightascension>
+  <name>Kepler-326</name>
 </system>
 

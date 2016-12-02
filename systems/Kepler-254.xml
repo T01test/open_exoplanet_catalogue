@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-254</name>
   <star>
     <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
-    <name>Kepler-254</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5957.0</temperature>
     <planet>
-      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
-      <semimajoraxis>0.105</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-254 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">12.4</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.139</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-254 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">18.7</period>
-      <inclination/>
+      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-254 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
-      <semimajoraxis>0.064</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-254 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.105</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">12.4</period>
+      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-254 c</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.064</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <radius errorplus="0.43" errorminus="-0.43">0.91</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-254 b</name>
+    </planet>
+    <name>Kepler-254</name>
   </star>
   <distance/>
   <declination>45 48 59</declination>
   <rightascension>19 09 52</rightascension>
+  <name>Kepler-254</name>
 </system>
 

@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-454</name>
   <star>
     <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
-    <name>Kepler-454</name>
+    <mass errorplus="0.04" errorminus="-0.03">1.03</mass>
     <temperature errorplus="34.0" errorminus="-34.0">5701.0</temperature>
     <planet>
+      <inclination errorplus="0.203" errorminus="-0.203">87.09</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0954</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">10.6</period>
       <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
-      <semimajoraxis/>
-      <eccentricity>0.0214</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>Kepler-454 c</name>
+      <eccentricity>0.0</eccentricity>
       <lastupdate>2015-12-03</lastupdate>
-      <period errorplus="0.7" errorminus="-0.7">523.9</period>
-      <inclination/>
+      <name>Kepler-454 b</name>
     </planet>
     <planet>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.7" errorminus="-0.7">523.9</period>
       <radius errorplus="0.01" errorminus="-0.01">1.07</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0012">0.0954</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-454 b</name>
+      <eccentricity>0.0214</eccentricity>
       <lastupdate>2015-12-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.6</period>
-      <inclination errorplus="0.203" errorminus="-0.203">87.09</inclination>
+      <name>Kepler-454 c</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.03">1.03</mass>
+    <name>Kepler-454</name>
   </star>
   <distance/>
   <declination>38 13 43</declination>
   <rightascension>19 28 42</rightascension>
+  <name>Kepler-454</name>
 </system>
 

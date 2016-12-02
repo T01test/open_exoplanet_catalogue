@@ -1,23 +1,23 @@
 <system>
-  <name>V830 Tau</name>
   <star>
     <radius errorplus="0.2" errorminus="-0.2">2.0</radius>
-    <name>V830 Tau</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.0</mass>
     <temperature errorplus="50.0" errorminus="-50.0">4250.0</temperature>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">2.0</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.057</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>V830 Tau b</name>
-      <lastupdate>2016-06-23</lastupdate>
-      <period errorplus="0.1" errorminus="-0.1">4.9</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.057</semimajoraxis>
+      <period errorplus="0.1" errorminus="-0.1">4.9</period>
+      <radius errorplus="0.2" errorminus="-0.2">2.0</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-06-23</lastupdate>
+      <name>V830 Tau b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.0</mass>
+    <name>V830 Tau</name>
   </star>
   <distance errorplus="3.0" errorminus="-3.0">131.0</distance>
   <declination>24 33 43</declination>
   <rightascension>04 17 30</rightascension>
+  <name>V830 Tau</name>
 </system>
 

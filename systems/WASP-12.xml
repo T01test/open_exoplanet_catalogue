@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-12</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.04">1.66</radius>
-    <name>WASP-12</name>
+    <mass errorplus="0.11" errorminus="-0.09">1.43</mass>
     <temperature errorplus="130.0" errorminus="-140.0">6360.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.04">1.66</radius>
-      <semimajoraxis errorplus="0.00056" errorminus="-0.0005">0.0234</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-12 b</name>
-      <lastupdate>2016-09-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.1</period>
       <inclination errorplus="0.72" errorminus="-0.64">83.37</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00056" errorminus="-0.0005">0.0234</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.1</period>
+      <radius errorplus="0.05" errorminus="-0.04">1.66</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-09-15</lastupdate>
+      <name>WASP-12 b</name>
     </planet>
-    <mass errorplus="0.11" errorminus="-0.09">1.43</mass>
+    <name>WASP-12</name>
   </star>
   <distance/>
   <declination>29 40 20</declination>
   <rightascension>06 38 11</rightascension>
+  <name>WASP-12</name>
 </system>
 

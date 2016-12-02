@@ -1,23 +1,23 @@
 <system>
-  <name>mu Leo</name>
   <star>
     <radius errorplus="0.2" errorminus="-0.2">11.4</radius>
-    <name>mu Leo</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.5</mass>
     <temperature errorplus="27.5" errorminus="-27.5">4538.2</temperature>
     <planet>
-      <radius errorplus="0.2" errorminus="-0.2">11.4</radius>
-      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.1</semimajoraxis>
-      <eccentricity>0.09</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>mu Leo b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="1.2" errorminus="-1.2">357.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.1</semimajoraxis>
+      <period errorplus="1.2" errorminus="-1.2">357.8</period>
+      <radius errorplus="0.2" errorminus="-0.2">11.4</radius>
+      <eccentricity>0.09</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>mu Leo b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.5</mass>
+    <name>mu Leo</name>
   </star>
   <distance errorplus="1.4" errorminus="-1.5">40.78</distance>
   <declination>26 00 25</declination>
   <rightascension>09 11 27</rightascension>
+  <name>mu Leo</name>
 </system>
 

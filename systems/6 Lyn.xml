@@ -1,23 +1,23 @@
 <system>
-  <name>6 Lyn</name>
   <star>
     <radius errorplus="0.4" errorminus="-0.3">5.2</radius>
-    <name>6 Lyn</name>
+    <mass errorplus="0.1" errorminus="-0.2">1.7</mass>
     <temperature errorplus="18.0" errorminus="-18.0">4978.0</temperature>
     <planet>
-      <radius errorplus="0.4" errorminus="-0.3">5.2</radius>
-      <semimajoraxis errorplus="0.05" errorminus="-0.06">2.18</semimajoraxis>
-      <eccentricity>0.125</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>6 Lyn b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="16.3" errorminus="-8.5">874.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.06">2.18</semimajoraxis>
+      <period errorplus="16.3" errorminus="-8.5">874.8</period>
+      <radius errorplus="0.4" errorminus="-0.3">5.2</radius>
+      <eccentricity>0.125</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>6 Lyn b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.2">1.7</mass>
+    <name>6 Lyn</name>
   </star>
   <distance errorplus="2.36" errorminus="-2.58">56.95</distance>
   <declination>58 09 45</declination>
   <rightascension>06 41 46</rightascension>
+  <name>6 Lyn</name>
 </system>
 

@@ -1,58 +1,58 @@
 <system>
-  <name>Kepler-102</name>
   <star>
     <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
-    <name>Kepler-102</name>
+    <mass errorplus="0.04" errorminus="-0.09">0.81</mass>
     <temperature errorplus="41.0" errorminus="-41.0">4909.0</temperature>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
-      <semimajoraxis/>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-102 d</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
       <period>10.3</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-102 e</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period>16.1</period>
-      <inclination/>
+      <name>Kepler-102 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-102 b</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <period>5.3</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-102 c</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <period>7.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
       <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-102 f</name>
-      <lastupdate>2016-10-13</lastupdate>
       <period>27.5</period>
-      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
+      <lastupdate>2016-10-13</lastupdate>
+      <name>Kepler-102 f</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.09">0.81</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>7.1</period>
+      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
+      <lastupdate>2016-10-13</lastupdate>
+      <name>Kepler-102 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>5.3</period>
+      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
+      <lastupdate>2016-10-13</lastupdate>
+      <name>Kepler-102 b</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>16.1</period>
+      <radius errorplus="0.07" errorminus="-0.07">0.76</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-102 e</name>
+    </planet>
+    <name>Kepler-102</name>
   </star>
   <distance/>
   <declination>47 12 28</declination>
   <rightascension>18 28 57</rightascension>
+  <name>Kepler-102</name>
 </system>
 

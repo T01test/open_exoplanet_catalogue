@@ -1,33 +1,33 @@
 <system>
-  <name>HD 37605</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.9</radius>
-    <name>HD 37605</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.0</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5448.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.9</radius>
-      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.2831</semimajoraxis>
-      <eccentricity>0.6767</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 37605 b</name>
-      <lastupdate>2015-02-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">55.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.058" errorminus="-0.058">3.814</semimajoraxis>
+      <period errorplus="57.0" errorminus="-57.0">2720.0</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.9</radius>
+      <eccentricity>0.013</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 37605 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.9</radius>
-      <semimajoraxis errorplus="0.058" errorminus="-0.058">3.814</semimajoraxis>
-      <eccentricity>0.013</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 37605 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="57.0" errorminus="-57.0">2720.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.0016" errorminus="-0.0016">0.2831</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">55.0</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.9</radius>
+      <eccentricity>0.6767</eccentricity>
+      <lastupdate>2015-02-05</lastupdate>
+      <name>HD 37605 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.0</mass>
+    <name>HD 37605</name>
   </star>
   <distance errorplus="2.28" errorminus="-2.55">42.88</distance>
   <declination>06 03 38</declination>
   <rightascension>05 00 25</rightascension>
+  <name>HD 37605</name>
 </system>
 

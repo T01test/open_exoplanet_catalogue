@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-354</name>
   <star>
     <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
-    <name>Kepler-354</name>
+    <mass>0.65</mass>
     <temperature errorplus="200.0" errorminus="-200.0">4648.0</temperature>
     <planet>
-      <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.146</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-354 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">24.2</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
-      <semimajoraxis>0.115</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-354 c</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.9</period>
-      <inclination/>
+      <name>Kepler-354 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.054</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-354 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.5</period>
-      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-354 b</name>
     </planet>
-    <mass>0.65</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.115</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">16.9</period>
+      <radius errorplus="0.21" errorminus="-0.21">0.67</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-354 c</name>
+    </planet>
+    <name>Kepler-354</name>
   </star>
   <distance/>
   <declination>41 20 08</declination>
   <rightascension>19 45 05</rightascension>
+  <name>Kepler-354</name>
 </system>
 

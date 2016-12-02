@@ -1,32 +1,32 @@
 <system>
-  <name>Kepler-93</name>
   <star>
     <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-    <name>Kepler-93</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
     <temperature errorplus="75.0" errorminus="-75.0">5669.0</temperature>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-      <semimajoraxis/>
-      <discoverymethod>RV</discoverymethod>
-      <name>Kepler-93 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>1460.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis/>
+      <period>1460.0</period>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-93 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-93 b</name>
-      <lastupdate>2015-04-16</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.7</period>
       <inclination errorplus="0.044" errorminus="-0.044">89.183</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.053</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.7</period>
+      <radius errorplus="0.01" errorminus="-0.01">0.92</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2015-04-16</lastupdate>
+      <name>Kepler-93 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.91</mass>
+    <name>Kepler-93</name>
   </star>
   <distance/>
   <declination>38 40 20</declination>
   <rightascension>19 25 05</rightascension>
+  <name>Kepler-93</name>
 </system>
 

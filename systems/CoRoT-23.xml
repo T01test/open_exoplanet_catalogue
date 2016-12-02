@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-23</name>
   <star>
     <radius errorplus="0.18" errorminus="-0.18">1.61</radius>
-    <name>CoRoT-23</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.14</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5900.0</temperature>
     <planet>
-      <radius errorplus="0.18" errorminus="-0.18">1.61</radius>
-      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.048</semimajoraxis>
-      <eccentricity>0.16</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-23 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
       <inclination errorplus="2.6" errorminus="-1.5">85.7</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.004" errorminus="-0.004">0.048</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <radius errorplus="0.18" errorminus="-0.18">1.61</radius>
+      <eccentricity>0.16</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-23 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.14</mass>
+    <name>CoRoT-23</name>
   </star>
   <distance errorplus="50.0" errorminus="-50.0">600.0</distance>
   <declination>04 21 28</declination>
   <rightascension>18 46 57</rightascension>
+  <name>CoRoT-23</name>
 </system>
 

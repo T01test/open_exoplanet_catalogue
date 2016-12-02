@@ -1,33 +1,33 @@
 <system>
-  <name>HD 142</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.47</radius>
-    <name>HD 142</name>
+    <mass errorplus="0.22" errorminus="-0.16">1.23</mass>
     <temperature errorplus="48.0" errorminus="-48.0">6245.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.47</radius>
-      <semimajoraxis errorplus="0.5" errorminus="-0.5">6.8</semimajoraxis>
-      <eccentricity>0.21</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 142 c</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <period errorplus="477.0" errorminus="-477.0">6005.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.5" errorminus="-0.5">6.8</semimajoraxis>
+      <period errorplus="477.0" errorminus="-477.0">6005.0</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.47</radius>
+      <eccentricity>0.21</eccentricity>
+      <lastupdate>2014-08-21</lastupdate>
+      <name>HD 142 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.47</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.02</semimajoraxis>
-      <eccentricity>0.17</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 142 b</name>
-      <lastupdate>2014-08-21</lastupdate>
-      <period errorplus="1.2" errorminus="-1.2">349.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.02</semimajoraxis>
+      <period errorplus="1.2" errorminus="-1.2">349.7</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.47</radius>
+      <eccentricity>0.17</eccentricity>
+      <lastupdate>2014-08-21</lastupdate>
+      <name>HD 142 b</name>
     </planet>
-    <mass errorplus="0.22" errorminus="-0.16">1.23</mass>
+    <name>HD 142</name>
   </star>
   <distance errorplus="0.41" errorminus="-0.43">25.64</distance>
   <declination>-49 04 30</declination>
   <rightascension>00 34 47</rightascension>
+  <name>HD 142</name>
 </system>
 

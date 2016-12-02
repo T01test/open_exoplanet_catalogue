@@ -1,23 +1,23 @@
 <system>
-  <name>KELT-4 A</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.6</radius>
-    <name>KELT-4 A</name>
+    <mass errorplus="0.07" errorminus="-0.06">1.2</mass>
     <temperature errorplus="75.0" errorminus="-75.0">6206.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.6</radius>
-      <semimajoraxis errorplus="0.00079" errorminus="-0.00074">0.04317</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>KELT-4 A b</name>
-      <lastupdate>2016-02-25</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
       <inclination errorplus="0.22" errorminus="-0.21">83.16</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00079" errorminus="-0.00074">0.04317</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.6</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-02-25</lastupdate>
+      <name>KELT-4 A b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.06">1.2</mass>
+    <name>KELT-4 A</name>
   </star>
   <distance errorplus="10.0" errorminus="-10.0">210.0</distance>
   <declination>25 34 23</declination>
   <rightascension>10 03 45</rightascension>
+  <name>KELT-4 A</name>
 </system>
 

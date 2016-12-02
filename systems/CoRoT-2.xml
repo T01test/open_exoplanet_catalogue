@@ -1,23 +1,23 @@
 <system>
-  <name>CoRoT-2</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.91</radius>
-    <name>CoRoT-2</name>
+    <mass errorplus="0.08" errorminus="-0.08">0.96</mass>
     <temperature errorplus="120.0" errorminus="-120.0">5625.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.91</radius>
-      <semimajoraxis errorplus="0.00076" errorminus="-0.0008">0.02798</semimajoraxis>
-      <eccentricity>0.0143</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>CoRoT-2 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.7</period>
       <inclination errorplus="0.18" errorminus="-0.16">88.08</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00076" errorminus="-0.0008">0.02798</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.7</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.91</radius>
+      <eccentricity>0.0143</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>CoRoT-2 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">0.96</mass>
+    <name>CoRoT-2</name>
   </star>
   <distance>200.0</distance>
   <declination>01 23 01</declination>
   <rightascension>19 46 37</rightascension>
+  <name>CoRoT-2</name>
 </system>
 

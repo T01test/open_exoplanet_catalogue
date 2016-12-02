@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-338</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
-    <name>Kepler-338</name>
+    <mass>1.1</mass>
     <temperature errorplus="77.0" errorminus="-77.0">5923.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
-      <semimajoraxis>0.257</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-338 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">44.4</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
-      <semimajoraxis>0.172</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-338 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
       <semimajoraxis>0.117</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-338 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">13.7</period>
-      <inclination/>
+      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-338 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit Timing Variations</discoverymethod>
-      <name>Kepler-338 e</name>
-      <lastupdate>2014-05-28</lastupdate>
-      <period>9.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.257</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">44.4</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-338 d</name>
     </planet>
-    <mass>1.1</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.172</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">24.3</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-338 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit Timing Variations</discoverymethod>
+      <semimajoraxis/>
+      <period>9.3</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.74</radius>
+      <lastupdate>2014-05-28</lastupdate>
+      <name>Kepler-338 e</name>
+    </planet>
+    <name>Kepler-338</name>
   </star>
   <distance/>
   <declination>40 47 03</declination>
   <rightascension>18 58 44</rightascension>
+  <name>Kepler-338</name>
 </system>
 

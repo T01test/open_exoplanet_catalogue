@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-203</name>
   <star>
     <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-    <name>Kepler-203</name>
+    <mass>0.98</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5821.0</temperature>
     <planet>
-      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.1</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-203 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">11.3</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
-      <semimajoraxis>0.061</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-203 c</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <inclination/>
+      <name>Kepler-203 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.043</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-203 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">3.2</period>
-      <inclination/>
+      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-203 b</name>
     </planet>
-    <mass>0.98</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.061</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <radius errorplus="0.21" errorminus="-0.21">1.11</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-203 c</name>
+    </planet>
+    <name>Kepler-203</name>
   </star>
   <distance/>
   <declination>41 23 16</declination>
   <rightascension>19 05 23</rightascension>
+  <name>Kepler-203</name>
 </system>
 

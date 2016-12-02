@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-49</name>
   <star>
     <radius errorplus="0.14" errorminus="-0.08">1.83</radius>
-    <name>HAT-P-49</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.54</mass>
     <temperature errorplus="52.0" errorminus="-52.0">6820.0</temperature>
     <planet>
-      <radius errorplus="0.14" errorminus="-0.08">1.83</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0438</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-49 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.7</period>
       <inclination errorplus="1.7" errorminus="-1.7">86.2</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.0438</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.7</period>
+      <radius errorplus="0.14" errorminus="-0.08">1.83</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HAT-P-49 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.54</mass>
+    <name>HAT-P-49</name>
   </star>
   <distance errorplus="24.0" errorminus="-13.0">322.0</distance>
   <declination>26 41 33</declination>
   <rightascension>20 26 29</rightascension>
+  <name>HAT-P-49</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 20782</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.09</radius>
-    <name>HD 20782</name>
+    <mass errorplus="0.02" errorminus="-0.02">1.02</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5798.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.09</radius>
-      <semimajoraxis errorplus="0.009" errorminus="-0.009">1.397</semimajoraxis>
-      <eccentricity>0.956</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 20782 b</name>
-      <lastupdate>2016-05-19</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">597.1</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.009" errorminus="-0.009">1.397</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">597.1</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.09</radius>
+      <eccentricity>0.956</eccentricity>
+      <lastupdate>2016-05-19</lastupdate>
+      <name>HD 20782 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">1.02</mass>
+    <name>HD 20782</name>
   </star>
   <distance errorplus="0.8" errorminus="-0.8">35.5</distance>
   <declination>-28 51 14</declination>
   <rightascension>03 00 53</rightascension>
+  <name>HD 20782</name>
 </system>
 

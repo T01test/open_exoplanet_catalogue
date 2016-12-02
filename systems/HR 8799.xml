@@ -1,49 +1,49 @@
 <system>
-  <name>HR 8799</name>
   <star>
     <radius/>
-    <name>HR 8799</name>
+    <mass errorplus="0.04" errorminus="-0.02">1.51</mass>
     <temperature/>
     <planet>
-      <radius/>
+      <inclination/>
+      <discoverymethod>imaging</discoverymethod>
       <semimajoraxis errorplus="0.5" errorminus="-0.5">14.5</semimajoraxis>
-      <discoverymethod>imaging</discoverymethod>
-      <name>HR 8799 e</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period>18000.0</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius/>
-      <semimajoraxis>38.0</semimajoraxis>
-      <discoverymethod>imaging</discoverymethod>
-      <name>HR 8799 c</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period>69000.0</period>
-      <inclination/>
+      <name>HR 8799 e</name>
     </planet>
     <planet>
-      <radius/>
-      <semimajoraxis>24.0</semimajoraxis>
+      <inclination/>
       <discoverymethod>imaging</discoverymethod>
-      <name>HR 8799 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>37000.0</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius/>
       <semimajoraxis>68.0</semimajoraxis>
-      <discoverymethod>imaging</discoverymethod>
-      <name>HR 8799 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period>170000.0</period>
-      <inclination/>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HR 8799 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.02">1.51</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>imaging</discoverymethod>
+      <semimajoraxis>24.0</semimajoraxis>
+      <period>37000.0</period>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HR 8799 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>imaging</discoverymethod>
+      <semimajoraxis>38.0</semimajoraxis>
+      <period>69000.0</period>
+      <radius/>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HR 8799 c</name>
+    </planet>
+    <name>HR 8799</name>
   </star>
   <distance errorplus="1.1" errorminus="-1.1">39.4</distance>
   <declination>21 08 03</declination>
   <rightascension>23 52 10</rightascension>
+  <name>HR 8799</name>
 </system>
 

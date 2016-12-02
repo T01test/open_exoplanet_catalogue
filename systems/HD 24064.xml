@@ -1,23 +1,23 @@
 <system>
-  <name>HD 24064</name>
   <star>
     <radius errorplus="2.9" errorminus="-2.9">38.0</radius>
-    <name>HD 24064</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
     <temperature errorplus="22.5" errorminus="-22.5">4052.5</temperature>
     <planet>
-      <radius errorplus="2.9" errorminus="-2.9">38.0</radius>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.29</semimajoraxis>
-      <eccentricity>0.35</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 24064 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="3.0" errorminus="-3.0">535.6</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.29</semimajoraxis>
+      <period errorplus="3.0" errorminus="-3.0">535.6</period>
+      <radius errorplus="2.9" errorminus="-2.9">38.0</radius>
+      <eccentricity>0.35</eccentricity>
+      <lastupdate>2015-10-15</lastupdate>
+      <name>HD 24064 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.0</mass>
+    <name>HD 24064</name>
   </star>
   <distance errorplus="31.2" errorminus="-31.2">264.4</distance>
   <declination>74 04 48</declination>
   <rightascension>03 09 04</rightascension>
+  <name>HD 24064</name>
 </system>
 

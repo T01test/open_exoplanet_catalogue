@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-126</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
-    <name>Kepler-126</name>
+    <mass/>
     <temperature errorplus="94.0" errorminus="-94.0">6239.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
-      <semimajoraxis>0.162</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-126 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.099</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-126 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">10.5</period>
-      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-126 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
-      <semimajoraxis>0.448</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-126 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">100.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.448</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">100.3</period>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-126 d</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.162</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">21.9</period>
+      <radius errorplus="0.02" errorminus="-0.02">1.36</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-126 c</name>
+    </planet>
+    <name>Kepler-126</name>
   </star>
   <distance/>
   <declination>44 12 30</declination>
   <rightascension>19 20 50</rightascension>
+  <name>Kepler-126</name>
 </system>
 

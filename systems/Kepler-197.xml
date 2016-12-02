@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-197</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
-    <name>Kepler-197</name>
+    <mass/>
     <temperature errorplus="102.0" errorminus="-102.0">6004.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
-      <semimajoraxis>0.119</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-197 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">15.7</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
-      <semimajoraxis>0.09</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-197 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
       <semimajoraxis>0.06</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-197 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.6</period>
-      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-197 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
-      <semimajoraxis>0.164</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-197 e</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.164</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">25.2</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-197 e</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.09</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-197 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.119</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">15.7</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.12</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-197 d</name>
+    </planet>
+    <name>Kepler-197</name>
   </star>
   <distance/>
   <declination>50 33 32</declination>
   <rightascension>19 13 35</rightascension>
+  <name>Kepler-197</name>
 </system>
 

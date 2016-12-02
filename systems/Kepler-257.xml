@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-257</name>
   <star>
     <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
-    <name>Kepler-257</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">5180.0</temperature>
     <planet>
-      <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.16</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-257 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">24.7</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
-      <semimajoraxis>0.066</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-257 c</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.6</period>
-      <inclination/>
+      <name>Kepler-257 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.034</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-257 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <inclination/>
+      <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-257 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.066</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.6</period>
+      <radius errorplus="0.52" errorminus="-0.52">1.04</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-257 c</name>
+    </planet>
+    <name>Kepler-257</name>
   </star>
   <distance/>
   <declination>46 01 23</declination>
   <rightascension>19 18 57</rightascension>
+  <name>Kepler-257</name>
 </system>
 

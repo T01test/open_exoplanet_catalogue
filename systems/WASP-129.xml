@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-129</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.9</radius>
-    <name>WASP-129</name>
+    <mass errorplus="0.03" errorminus="-0.03">1.0</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5900.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.9</radius>
-      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0628</semimajoraxis>
-      <eccentricity>0.096</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-129 b</name>
-      <lastupdate>2016-05-05</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.7</period>
       <inclination errorplus="0.2" errorminus="-0.2">87.7</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0007" errorminus="-0.0007">0.0628</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.9</radius>
+      <eccentricity>0.096</eccentricity>
+      <lastupdate>2016-05-05</lastupdate>
+      <name>WASP-129 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">1.0</mass>
+    <name>WASP-129</name>
   </star>
   <distance errorplus="7.0" errorminus="-7.0">246.0</distance>
   <declination>-42 03 50</declination>
   <rightascension>11 17 56</rightascension>
+  <name>WASP-129</name>
 </system>
 

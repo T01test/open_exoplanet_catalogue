@@ -1,23 +1,23 @@
 <system>
-  <name>70 Vir</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">1.94</radius>
-    <name>70 Vir</name>
+    <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
     <temperature errorplus="44.0" errorminus="-44.0">5439.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">1.94</radius>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.481</semimajoraxis>
-      <eccentricity>0.399</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>70 Vir b</name>
-      <lastupdate>2015-04-24</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">116.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.481</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">116.7</period>
+      <radius errorplus="0.05" errorminus="-0.05">1.94</radius>
+      <eccentricity>0.399</eccentricity>
+      <lastupdate>2015-04-24</lastupdate>
+      <name>70 Vir b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">1.09</mass>
+    <name>70 Vir</name>
   </star>
   <distance errorplus="0.24" errorminus="-0.24">18.11</distance>
   <declination>13 46 43</declination>
   <rightascension>13 06 27</rightascension>
+  <name>70 Vir</name>
 </system>
 

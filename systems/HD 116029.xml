@@ -1,23 +1,23 @@
 <system>
-  <name>HD 116029</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">4.6</radius>
-    <name>HD 116029</name>
+    <mass errorplus="0.11" errorminus="-0.11">1.58</mass>
     <temperature errorplus="44.0" errorminus="-44.0">4951.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">4.6</radius>
-      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.78</semimajoraxis>
-      <eccentricity>0.054</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 116029 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="11.0" errorminus="-11.0">670.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.05" errorminus="-0.05">1.78</semimajoraxis>
+      <period errorplus="11.0" errorminus="-11.0">670.0</period>
+      <radius errorplus="0.1" errorminus="-0.1">4.6</radius>
+      <eccentricity>0.054</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 116029 b</name>
     </planet>
-    <mass errorplus="0.11" errorminus="-0.11">1.58</mass>
+    <name>HD 116029</name>
   </star>
   <distance errorplus="10.82" errorminus="-13.45">110.62</distance>
   <declination>24 38 55</declination>
   <rightascension>13 09 53</rightascension>
+  <name>HD 116029</name>
 </system>
 

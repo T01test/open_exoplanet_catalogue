@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-662</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
-    <name>Kepler-662</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.79</mass>
     <temperature errorplus="52.49" errorminus="-59.98">4897.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-662 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">21.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">21.7</period>
+      <radius errorplus="0.03" errorminus="-0.04">0.74</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-662 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.79</mass>
+    <name>Kepler-662</name>
   </star>
   <distance errorplus="26.99" errorminus="-36.24">641.0</distance>
   <declination>47 55 45</declination>
   <rightascension>19 27 54</rightascension>
+  <name>Kepler-662</name>
 </system>
 

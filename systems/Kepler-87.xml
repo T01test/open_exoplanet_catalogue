@@ -1,33 +1,33 @@
 <system>
-  <name>Kepler-87</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.82</radius>
-    <name>Kepler-87</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.1</mass>
     <temperature errorplus="50.0" errorminus="-50.0">5600.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.82</radius>
-      <semimajoraxis errorplus="0.037" errorminus="-0.04">0.676</semimajoraxis>
-      <eccentricity>0.039</eccentricity>
+      <inclination errorplus="0.034" errorminus="-0.03">89.274</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-87 c</name>
+      <semimajoraxis errorplus="0.026" errorminus="-0.028">0.481</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">114.7</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.82</radius>
+      <eccentricity>0.036</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">191.2</period>
-      <inclination errorplus="0.031" errorminus="-0.027">89.588</inclination>
+      <name>Kepler-87 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.82</radius>
-      <semimajoraxis errorplus="0.026" errorminus="-0.028">0.481</semimajoraxis>
-      <eccentricity>0.036</eccentricity>
+      <inclination errorplus="0.031" errorminus="-0.027">89.588</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-87 b</name>
+      <semimajoraxis errorplus="0.037" errorminus="-0.04">0.676</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">191.2</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.82</radius>
+      <eccentricity>0.039</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">114.7</period>
-      <inclination errorplus="0.034" errorminus="-0.03">89.274</inclination>
+      <name>Kepler-87 c</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.1</mass>
+    <name>Kepler-87</name>
   </star>
   <distance/>
   <declination>46 57 54</declination>
   <rightascension>19 55 00</rightascension>
+  <name>Kepler-87</name>
 </system>
 

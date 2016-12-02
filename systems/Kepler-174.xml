@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-174</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-    <name>Kepler-174</name>
+    <mass/>
     <temperature errorplus="126.0" errorminus="-126.0">4880.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.677</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-174 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">247.4</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
-      <semimajoraxis>0.214</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-174 c</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">44.0</period>
-      <inclination/>
+      <name>Kepler-174 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.1</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-174 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">14.0</period>
-      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-174 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.214</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">44.0</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.62</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-174 c</name>
+    </planet>
+    <name>Kepler-174</name>
   </star>
   <distance/>
   <declination>43 49 55</declination>
   <rightascension>19 26 21</rightascension>
+  <name>Kepler-174</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>HD 108863</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">5.6</radius>
-    <name>HD 108863</name>
+    <mass errorplus="0.13" errorminus="-0.13">1.85</mass>
     <temperature errorplus="44.0" errorminus="-44.0">4956.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">5.6</radius>
-      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.4</semimajoraxis>
-      <eccentricity>0.06</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 108863 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="4.2" errorminus="-4.2">443.4</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.4</semimajoraxis>
+      <period errorplus="4.2" errorminus="-4.2">443.4</period>
+      <radius errorplus="0.1" errorminus="-0.1">5.6</radius>
+      <eccentricity>0.06</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 108863 b</name>
     </planet>
-    <mass errorplus="0.13" errorminus="-0.13">1.85</mass>
+    <name>HD 108863</name>
   </star>
   <distance errorplus="18.02" errorminus="-24.36">138.5</distance>
   <declination>21 56 53</declination>
   <rightascension>12 34 58</rightascension>
+  <name>HD 108863</name>
 </system>
 

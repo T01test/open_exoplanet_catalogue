@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-776</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
-    <name>Kepler-776</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.83</mass>
     <temperature errorplus="57.15" errorminus="-86.62">5071.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-776 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">4.9</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-776 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.83</mass>
+    <name>Kepler-776</name>
   </star>
   <distance errorplus="38.76" errorminus="-36.71">727.0</distance>
   <declination>41 38 08</declination>
   <rightascension>19 16 21</rightascension>
+  <name>Kepler-776</name>
 </system>
 

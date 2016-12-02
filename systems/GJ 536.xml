@@ -1,23 +1,23 @@
 <system>
-  <name>GJ 536</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.5</radius>
-    <name>GJ 536</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.52</mass>
     <temperature errorplus="68.0" errorminus="-68.0">3685.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.5</radius>
-      <semimajoraxis errorplus="1.1e-05" errorminus="-1.3e-05">0.06661</semimajoraxis>
-      <eccentricity>0.08</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>GJ 536 b</name>
-      <lastupdate>2016-11-17</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">8.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="1.1e-05" errorminus="-1.3e-05">0.06661</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">8.7</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.5</radius>
+      <eccentricity>0.08</eccentricity>
+      <lastupdate>2016-11-17</lastupdate>
+      <name>GJ 536 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.52</mass>
+    <name>GJ 536</name>
   </star>
   <distance>10.03</distance>
   <declination>-2 39 17</declination>
   <rightascension>14 15 47</rightascension>
+  <name>GJ 536</name>
 </system>
 

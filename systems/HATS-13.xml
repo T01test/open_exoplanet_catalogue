@@ -1,23 +1,23 @@
 <system>
-  <name>HATS-13</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
-    <name>HATS-13</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.96</mass>
     <temperature errorplus="69.0" errorminus="-69.0">5523.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
-      <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.04057</semimajoraxis>
-      <eccentricity>0.181</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HATS-13 b</name>
-      <lastupdate>2015-08-13</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.0</period>
       <inclination errorplus="0.43" errorminus="-0.43">88.55</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00041" errorminus="-0.00041">0.04057</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.0</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.89</radius>
+      <eccentricity>0.181</eccentricity>
+      <lastupdate>2015-08-13</lastupdate>
+      <name>HATS-13 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.96</mass>
+    <name>HATS-13</name>
   </star>
   <distance errorplus="12.0" errorminus="-12.0">476.0</distance>
   <declination>-26 05 47</declination>
   <rightascension>21 57 41</rightascension>
+  <name>HATS-13</name>
 </system>
 

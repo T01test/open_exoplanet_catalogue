@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-332</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-    <name>Kepler-332</name>
+    <mass>0.8</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4955.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.114</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-332 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">16.0</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <semimajoraxis>0.189</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-332 d</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">34.2</period>
-      <inclination/>
+      <name>Kepler-332 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.07</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-332 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">7.6</period>
-      <inclination/>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-332 b</name>
     </planet>
-    <mass>0.8</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.189</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">34.2</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-332 d</name>
+    </planet>
+    <name>Kepler-332</name>
   </star>
   <distance/>
   <declination>47 24 49</declination>
   <rightascension>19 39 46</rightascension>
+  <name>Kepler-332</name>
 </system>
 

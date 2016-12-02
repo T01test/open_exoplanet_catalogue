@@ -1,22 +1,22 @@
 <system>
-  <name>K2-57</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.62</radius>
-    <name>K2-57</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.68</mass>
     <temperature errorplus="61.0" errorminus="-61.0">4434.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.62</radius>
-      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.0746</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>K2-57 b</name>
-      <lastupdate>2016-07-18</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.002" errorminus="-0.002">0.0746</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">9.0</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.62</radius>
+      <lastupdate>2016-07-18</lastupdate>
+      <name>K2-57 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.68</mass>
+    <name>K2-57</name>
   </star>
   <distance/>
   <declination>-14 04 11</declination>
   <rightascension>22 41 30</rightascension>
+  <name>K2-57</name>
 </system>
 

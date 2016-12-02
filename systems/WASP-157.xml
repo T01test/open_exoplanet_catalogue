@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-157</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">1.13</radius>
-    <name>WASP-157</name>
+    <mass errorplus="0.12" errorminus="-0.12">1.26</mass>
     <temperature errorplus="140.0" errorminus="-140.0">5838.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">1.13</radius>
-      <semimajoraxis errorplus="0.0017" errorminus="-0.0017">0.0529</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-157 b</name>
-      <lastupdate>2016-06-23</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.0</period>
       <inclination errorplus="0.45" errorminus="-0.21">84.93</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0017" errorminus="-0.0017">0.0529</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+      <radius errorplus="0.05" errorminus="-0.05">1.13</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2016-06-23</lastupdate>
+      <name>WASP-157 b</name>
     </planet>
-    <mass errorplus="0.12" errorminus="-0.12">1.26</mass>
+    <name>WASP-157</name>
   </star>
   <distance/>
   <declination>-8 19 03</declination>
   <rightascension>13 39 18</rightascension>
+  <name>WASP-157</name>
 </system>
 

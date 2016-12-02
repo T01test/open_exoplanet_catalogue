@@ -1,23 +1,23 @@
 <system>
-  <name>kap CrB</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">5.06</radius>
-    <name>kap CrB</name>
+    <mass errorplus="0.04" errorminus="-0.04">1.47</mass>
     <temperature errorplus="17.0" errorminus="-17.0">4788.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">5.06</radius>
-      <semimajoraxis errorplus="0.07" errorminus="-0.08">2.8</semimajoraxis>
-      <eccentricity>0.044</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>kap CrB b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="28.9" errorminus="-24.0">1261.9</period>
       <inclination>60.0</inclination>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.07" errorminus="-0.08">2.8</semimajoraxis>
+      <period errorplus="28.9" errorminus="-24.0">1261.9</period>
+      <radius errorplus="0.04" errorminus="-0.04">5.06</radius>
+      <eccentricity>0.044</eccentricity>
+      <lastupdate>2015-10-15</lastupdate>
+      <name>kap CrB b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">1.47</mass>
+    <name>kap CrB</name>
   </star>
   <distance errorplus="0.2" errorminus="-0.2">30.5</distance>
   <declination>35 39 26</declination>
   <rightascension>15 48 28</rightascension>
+  <name>kap CrB</name>
 </system>
 

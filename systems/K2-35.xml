@@ -1,31 +1,31 @@
 <system>
-  <name>K2-35</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-    <name>K2-35</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.76</mass>
     <temperature errorplus="60.0" errorminus="-60.0">4680.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.032</semimajoraxis>
+      <inclination errorplus="1.51" errorminus="-2.25">87.85</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>K2-35 b</name>
+      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0564</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.6</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
       <lastupdate>2016-07-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.4</period>
-      <inclination errorplus="2.67" errorminus="-4.43">86.1</inclination>
+      <name>K2-35 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
-      <semimajoraxis errorplus="0.0009" errorminus="-0.0009">0.0564</semimajoraxis>
+      <inclination errorplus="2.67" errorminus="-4.43">86.1</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>K2-35 c</name>
+      <semimajoraxis errorplus="0.0005" errorminus="-0.0005">0.032</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.4</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.72</radius>
       <lastupdate>2016-07-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.6</period>
-      <inclination errorplus="1.51" errorminus="-2.25">87.85</inclination>
+      <name>K2-35 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.76</mass>
+    <name>K2-35</name>
   </star>
   <distance/>
   <declination>01 17 09</declination>
   <rightascension>11 06 11</rightascension>
+  <name>K2-35</name>
 </system>
 

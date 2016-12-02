@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-298</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
-    <name>Kepler-298</name>
+    <mass>0.65</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4465.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
-      <semimajoraxis>0.305</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-298 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">77.5</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.08</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-298 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">10.5</period>
-      <inclination/>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-298 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
-      <semimajoraxis>0.136</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-298 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">22.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.136</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">22.9</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-298 c</name>
     </planet>
-    <mass>0.65</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.305</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">77.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.58</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-298 d</name>
+    </planet>
+    <name>Kepler-298</name>
   </star>
   <distance/>
   <declination>48 49 31</declination>
   <rightascension>18 02 23</rightascension>
+  <name>Kepler-298</name>
 </system>
 

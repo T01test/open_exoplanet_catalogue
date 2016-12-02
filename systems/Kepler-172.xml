@@ -1,49 +1,49 @@
 <system>
-  <name>Kepler-172</name>
   <star>
     <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
-    <name>Kepler-172</name>
+    <mass>0.86</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5526.0</temperature>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
-      <semimajoraxis>0.068</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-172 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.4</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
-      <semimajoraxis>0.211</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-172 e</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">35.1</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
       <semimajoraxis>0.118</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-172 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">14.6</period>
-      <inclination/>
+      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-172 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
-      <semimajoraxis>0.04</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-172 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.9</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.211</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">35.1</period>
+      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-172 e</name>
     </planet>
-    <mass>0.86</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.04</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.9</period>
+      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-172 b</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.068</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.4</period>
+      <radius errorplus="0.19" errorminus="-0.19">1.08</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-172 c</name>
+    </planet>
+    <name>Kepler-172</name>
   </star>
   <distance/>
   <declination>41 49 18</declination>
   <rightascension>18 22 06</rightascension>
+  <name>Kepler-172</name>
 </system>
 

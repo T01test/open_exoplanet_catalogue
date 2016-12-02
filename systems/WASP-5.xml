@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-5</name>
   <star>
     <radius errorplus="0.06" errorminus="-0.07">1.03</radius>
-    <name>WASP-5</name>
+    <mass errorplus="0.13" errorminus="-0.09">0.96</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5700.0</temperature>
     <planet>
-      <radius errorplus="0.06" errorminus="-0.07">1.03</radius>
-      <semimajoraxis errorplus="0.0012" errorminus="-0.0008">0.0267</semimajoraxis>
-      <eccentricity>0.038</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-5 b</name>
-      <lastupdate>2014-10-29</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.6</period>
       <inclination errorplus="2.8" errorminus="-0.7">86.9</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0012" errorminus="-0.0008">0.0267</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.6</period>
+      <radius errorplus="0.06" errorminus="-0.07">1.03</radius>
+      <eccentricity>0.038</eccentricity>
+      <lastupdate>2014-10-29</lastupdate>
+      <name>WASP-5 b</name>
     </planet>
-    <mass errorplus="0.13" errorminus="-0.09">0.96</mass>
+    <name>WASP-5</name>
   </star>
   <distance errorplus="50.0" errorminus="-50.0">300.0</distance>
   <declination>-41 16 37</declination>
   <rightascension>23 20 56</rightascension>
+  <name>WASP-5</name>
 </system>
 

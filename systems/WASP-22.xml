@@ -1,22 +1,22 @@
 <system>
-  <name>WASP-22</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.25</radius>
-    <name>WASP-22</name>
+    <mass errorplus="0.07" errorminus="-0.03">1.25</mass>
     <temperature errorplus="50.0" errorminus="-50.0">6153.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.25</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.0004">0.0489</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-22 b</name>
-      <lastupdate>2016-02-25</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.5</period>
       <inclination errorplus="1.0" errorminus="-1.0">88.6</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.0004">0.0489</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.25</radius>
+      <lastupdate>2016-02-25</lastupdate>
+      <name>WASP-22 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.03">1.25</mass>
+    <name>WASP-22</name>
   </star>
   <distance>300.0</distance>
   <declination>-23 49 10</declination>
   <rightascension>03 49 04</rightascension>
+  <name>WASP-22</name>
 </system>
 

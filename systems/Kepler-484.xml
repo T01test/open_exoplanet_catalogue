@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-484</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.87</radius>
-    <name>Kepler-484</name>
+    <mass errorplus="0.02" errorminus="-0.03">0.96</mass>
     <temperature errorplus="54.61" errorminus="-48.74">5668.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.87</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-484 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.0</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">10.0</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.87</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-484 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.03">0.96</mass>
+    <name>Kepler-484</name>
   </star>
   <distance errorplus="10.29" errorminus="-9.77">377.0</distance>
   <declination>46 14 56</declination>
   <rightascension>18 23 39</rightascension>
+  <name>Kepler-484</name>
 </system>
 

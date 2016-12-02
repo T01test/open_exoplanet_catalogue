@@ -1,23 +1,23 @@
 <system>
-  <name>HD 30856</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
-    <name>HD 30856</name>
+    <mass errorplus="0.09" errorminus="-0.09">1.35</mass>
     <temperature errorplus="44.0" errorminus="-44.0">4982.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
-      <semimajoraxis errorplus="0.2" errorminus="-0.2">1.8</semimajoraxis>
-      <eccentricity>0.117</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 30856 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="41.0" errorminus="-41.0">912.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.2" errorminus="-0.2">1.8</semimajoraxis>
+      <period errorplus="41.0" errorminus="-41.0">912.0</period>
+      <radius errorplus="0.1" errorminus="-0.1">4.2</radius>
+      <eccentricity>0.117</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 30856 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.09">1.35</mass>
+    <name>HD 30856</name>
   </star>
   <distance errorplus="11.78" errorminus="-14.62">121.07</distance>
   <declination>-24 22 07</declination>
   <rightascension>04 34 27</rightascension>
+  <name>HD 30856</name>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-408</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.23</radius>
-    <name>Kepler-408</name>
+    <mass errorplus="0.07" errorminus="-0.07">1.08</mass>
     <temperature errorplus="74.0" errorminus="-74.0">6104.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.23</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-408 b</name>
-      <lastupdate>2016-10-13</lastupdate>
-      <period>2.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>2.5</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.23</radius>
+      <lastupdate>2016-10-13</lastupdate>
+      <name>Kepler-408 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.07">1.08</mass>
+    <name>Kepler-408</name>
   </star>
   <distance/>
   <declination>48 25 23</declination>
   <rightascension>18 47 10</rightascension>
+  <name>Kepler-408</name>
 </system>
 

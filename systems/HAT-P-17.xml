@@ -1,33 +1,33 @@
 <system>
-  <name>HAT-P-17</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
-    <name>HAT-P-17</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
     <temperature errorplus="80.0" errorminus="-80.0">5246.0</temperature>
     <planet>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="3.5" errorminus="-1.4">5.6</semimajoraxis>
+      <period errorplus="7700.0" errorminus="-2100.0">5584.0</period>
       <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
-      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0882</semimajoraxis>
-      <eccentricity>0.342</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-17 b</name>
+      <eccentricity>0.39</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.3</period>
-      <inclination errorplus="0.2" errorminus="-0.1">89.2</inclination>
+      <name>HAT-P-17 c</name>
     </planet>
     <planet>
+      <inclination errorplus="0.2" errorminus="-0.1">89.2</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0014" errorminus="-0.0014">0.0882</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">10.3</period>
       <radius errorplus="0.02" errorminus="-0.02">0.84</radius>
-      <semimajoraxis errorplus="3.5" errorminus="-1.4">5.6</semimajoraxis>
-      <eccentricity>0.39</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HAT-P-17 c</name>
+      <eccentricity>0.342</eccentricity>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="7700.0" errorminus="-2100.0">5584.0</period>
-      <inclination/>
+      <name>HAT-P-17 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">0.86</mass>
+    <name>HAT-P-17</name>
   </star>
   <distance errorplus="3.0" errorminus="-3.0">90.0</distance>
   <declination>30 29 19</declination>
   <rightascension>21 32 11</rightascension>
+  <name>HAT-P-17</name>
 </system>
 

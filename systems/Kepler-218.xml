@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-218</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
-    <name>Kepler-218</name>
+    <mass/>
     <temperature errorplus="74.0" errorminus="-74.0">5502.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.248</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-218 c</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">44.7</period>
-      <inclination/>
-    </planet>
-    <planet>
       <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-218 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">124.5</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
-      <semimajoraxis>0.046</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-218 b</name>
       <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.6</period>
-      <inclination/>
+      <name>Kepler-218 c</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">124.5</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-218 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.046</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.6</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.06</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-218 b</name>
+    </planet>
+    <name>Kepler-218</name>
   </star>
   <distance/>
   <declination>46 15 59</declination>
   <rightascension>19 24 46</rightascension>
+  <name>Kepler-218</name>
 </system>
 

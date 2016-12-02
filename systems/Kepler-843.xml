@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-843</name>
   <star>
     <radius errorplus="0.24" errorminus="-0.1">1.03</radius>
-    <name>Kepler-843</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
     <temperature errorplus="106.99" errorminus="-143.16">5830.0</temperature>
     <planet>
-      <radius errorplus="0.24" errorminus="-0.1">1.03</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-843 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.1</period>
+      <radius errorplus="0.24" errorminus="-0.1">1.03</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-843 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.02</mass>
+    <name>Kepler-843</name>
   </star>
   <distance errorplus="284.12" errorminus="-126.3">1247.0</distance>
   <declination>48 58 17</declination>
   <rightascension>19 19 19</rightascension>
+  <name>Kepler-843</name>
 </system>
 

@@ -1,32 +1,32 @@
 <system>
-  <name>Kepler-105</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-    <name>Kepler-105</name>
+    <mass errorplus="0.05" errorminus="-0.05">0.96</mass>
     <temperature errorplus="94.0" errorminus="-94.0">5827.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.066</semimajoraxis>
-      <eccentricity>0.47</eccentricity>
+      <inclination/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-105 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.4</period>
-      <inclination errorplus="1.87" errorminus="-3.88">85.94</inclination>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.1</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
+      <lastupdate>2016-04-07</lastupdate>
+      <name>Kepler-105 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
-      <semimajoraxis/>
+      <inclination errorplus="1.87" errorminus="-3.88">85.94</inclination>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-105 c</name>
-      <lastupdate>2016-04-07</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.1</period>
-      <inclination/>
+      <semimajoraxis errorplus="0.003" errorminus="-0.003">0.066</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">5.4</period>
+      <radius errorplus="0.04" errorminus="-0.04">0.89</radius>
+      <eccentricity>0.47</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-105 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">0.96</mass>
+    <name>Kepler-105</name>
   </star>
   <distance/>
   <declination>46 16 34</declination>
   <rightascension>19 53 14</rightascension>
+  <name>Kepler-105</name>
 </system>
 

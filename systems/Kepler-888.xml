@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-888</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
-    <name>Kepler-888</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.97</mass>
     <temperature errorplus="66.36" errorminus="-56.7">5875.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-888 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">70.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">70.7</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.9</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-888 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.97</mass>
+    <name>Kepler-888</name>
   </star>
   <distance errorplus="14.13" errorminus="-13.3">413.0</distance>
   <declination>49 44 19</declination>
   <rightascension>19 31 16</rightascension>
+  <name>Kepler-888</name>
 </system>
 

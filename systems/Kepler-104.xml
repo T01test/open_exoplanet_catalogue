@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-104</name>
   <star>
     <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
-    <name>Kepler-104</name>
+    <mass>0.81</mass>
     <temperature errorplus="74.0" errorminus="-74.0">5711.0</temperature>
     <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
-      <semimajoraxis>0.094</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-104 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.4</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
-      <semimajoraxis>0.153</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-104 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">23.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
       <semimajoraxis>0.257</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-104 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">51.8</period>
-      <inclination/>
+      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-104 d</name>
     </planet>
-    <mass>0.81</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.153</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">23.7</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-104 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.094</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">11.4</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.35</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-104 b</name>
+    </planet>
+    <name>Kepler-104</name>
   </star>
   <distance/>
   <declination>42 10 00</declination>
   <rightascension>19 36 16</rightascension>
+  <name>Kepler-104</name>
 </system>
 

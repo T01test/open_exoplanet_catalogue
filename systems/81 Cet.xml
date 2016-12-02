@@ -1,23 +1,23 @@
 <system>
-  <name>81 Cet</name>
   <star>
     <radius errorplus="2.0" errorminus="-1.0">11.0</radius>
-    <name>81 Cet</name>
+    <mass errorplus="0.1" errorminus="-0.4">2.4</mass>
     <temperature errorplus="25.0" errorminus="-25.0">4785.0</temperature>
     <planet>
-      <radius errorplus="2.0" errorminus="-1.0">11.0</radius>
-      <semimajoraxis>2.5</semimajoraxis>
-      <eccentricity>0.206</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>81 Cet b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="8.8" errorminus="-8.8">952.7</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>2.5</semimajoraxis>
+      <period errorplus="8.8" errorminus="-8.8">952.7</period>
+      <radius errorplus="2.0" errorminus="-1.0">11.0</radius>
+      <eccentricity>0.206</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>81 Cet b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.4">2.4</mass>
+    <name>81 Cet</name>
   </star>
   <distance errorplus="8.37" errorminus="-10.11">97.18</distance>
   <declination>-3 23 46</declination>
   <rightascension>02 25 27</rightascension>
+  <name>81 Cet</name>
 </system>
 

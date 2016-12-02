@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-261</name>
   <star>
     <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-    <name>Kepler-261</name>
+    <mass>0.87</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5098.0</temperature>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-      <semimajoraxis>0.156</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-261 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.088</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">10.4</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-261 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
-      <semimajoraxis>0.088</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-261 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.156</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">24.6</period>
+      <radius errorplus="0.05" errorminus="-0.05">0.79</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-261 c</name>
     </planet>
-    <mass>0.87</mass>
+    <name>Kepler-261</name>
   </star>
   <distance/>
   <declination>37 36 33</declination>
   <rightascension>19 21 53</rightascension>
+  <name>Kepler-261</name>
 </system>
 

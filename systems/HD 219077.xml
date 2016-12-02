@@ -1,23 +1,23 @@
 <system>
-  <name>HD 219077</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">1.91</radius>
-    <name>HD 219077</name>
+    <mass errorplus="0.02" errorminus="-0.02">1.05</mass>
     <temperature errorplus="18.0" errorminus="-18.0">5362.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">1.91</radius>
-      <semimajoraxis errorplus="0.09" errorminus="-0.09">6.22</semimajoraxis>
-      <eccentricity>0.77</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 219077 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="130.0" errorminus="-119.0">5501.0</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.09" errorminus="-0.09">6.22</semimajoraxis>
+      <period errorplus="130.0" errorminus="-119.0">5501.0</period>
+      <radius errorplus="0.03" errorminus="-0.03">1.91</radius>
+      <eccentricity>0.77</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 219077 b</name>
     </planet>
-    <mass errorplus="0.02" errorminus="-0.02">1.05</mass>
+    <name>HD 219077</name>
   </star>
   <distance errorplus="0.51" errorminus="-0.53">29.2</distance>
   <declination>-62 42 00</declination>
   <rightascension>23 31 38</rightascension>
+  <name>HD 219077</name>
 </system>
 

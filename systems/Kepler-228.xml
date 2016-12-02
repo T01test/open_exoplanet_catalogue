@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-228</name>
   <star>
     <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
-    <name>Kepler-228</name>
+    <mass/>
     <temperature errorplus="200.0" errorminus="-200.0">6043.0</temperature>
     <planet>
-      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
-      <semimajoraxis>0.101</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-228 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.1</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.038</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-228 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">2.6</period>
-      <inclination/>
+      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-228 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
-      <semimajoraxis>0.052</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-228 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.101</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">11.1</period>
+      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-228 d</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.052</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <radius errorplus="0.47" errorminus="-0.47">1.01</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-228 c</name>
+    </planet>
+    <name>Kepler-228</name>
   </star>
   <distance/>
   <declination>48 13 28</declination>
   <rightascension>19 17 10</rightascension>
+  <name>Kepler-228</name>
 </system>
 

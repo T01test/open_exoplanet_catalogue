@@ -1,23 +1,23 @@
 <system>
-  <name>Kepler-44</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.08">1.35</radius>
-    <name>Kepler-44</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.12</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5800.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.08">1.35</radius>
-      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0446</semimajoraxis>
-      <eccentricity>0.066</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-44 b</name>
-      <lastupdate>2015-01-29</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.2</period>
       <inclination errorplus="0.5" errorminus="-0.62">84.96</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0446</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.2</period>
+      <radius errorplus="0.08" errorminus="-0.08">1.35</radius>
+      <eccentricity>0.066</eccentricity>
+      <lastupdate>2015-01-29</lastupdate>
+      <name>Kepler-44 b</name>
     </planet>
-    <mass errorplus="0.08" errorminus="-0.08">1.12</mass>
+    <name>Kepler-44</name>
   </star>
   <distance errorplus="300.0" errorminus="-300.0">2250.0</distance>
   <declination>45 45 43</declination>
   <rightascension>20 06 08</rightascension>
+  <name>Kepler-44</name>
 </system>
 

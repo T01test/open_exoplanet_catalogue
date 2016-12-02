@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-213</name>
   <star>
     <radius errorplus="0.22" errorminus="-0.22">1.2</radius>
-    <name>Kepler-213</name>
+    <mass>0.94</mass>
     <temperature errorplus="100.0" errorminus="-100.0">5696.0</temperature>
     <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.2</radius>
-      <semimajoraxis>0.057</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-213 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.057</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.8</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.2</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-213 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.2</radius>
-      <semimajoraxis>0.036</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-213 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.036</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.2</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-213 b</name>
     </planet>
-    <mass>0.94</mass>
+    <name>Kepler-213</name>
   </star>
   <distance/>
   <declination>44 38 49</declination>
   <rightascension>19 49 27</rightascension>
+  <name>Kepler-213</name>
 </system>
 

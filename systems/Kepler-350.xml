@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-350</name>
   <star>
     <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
-    <name>Kepler-350</name>
+    <mass errorplus="0.2" errorminus="-0.12">1.0</mass>
     <temperature errorplus="100.0" errorminus="-100.0">6186.0</temperature>
     <planet>
-      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-350 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>17.8</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-350 d</name>
-      <lastupdate>2014-05-14</lastupdate>
+      <semimajoraxis/>
       <period>26.1</period>
-      <inclination/>
+      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-350 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
-      <semimajoraxis>0.104</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-350 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">11.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.104</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">11.2</period>
+      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-350 b</name>
     </planet>
-    <mass errorplus="0.2" errorminus="-0.12">1.0</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>17.8</period>
+      <radius errorplus="0.31" errorminus="-0.31">1.53</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-350 c</name>
+    </planet>
+    <name>Kepler-350</name>
   </star>
   <distance/>
   <declination>39 42 21</declination>
   <rightascension>19 25 10</rightascension>
+  <name>Kepler-350</name>
 </system>
 

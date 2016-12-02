@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-266</name>
   <star>
     <radius errorplus="0.5" errorminus="-0.5">1.03</radius>
-    <name>Kepler-266</name>
+    <mass>0.99</mass>
     <temperature errorplus="250.0" errorminus="-250.0">5885.0</temperature>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.03</radius>
-      <semimajoraxis>0.457</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-266 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">107.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.071</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">6.6</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.03</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-266 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.03</radius>
-      <semimajoraxis>0.071</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-266 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">6.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.457</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">107.7</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.03</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-266 c</name>
     </planet>
-    <mass>0.99</mass>
+    <name>Kepler-266</name>
   </star>
   <distance/>
   <declination>44 10 00</declination>
   <rightascension>19 29 03</rightascension>
+  <name>Kepler-266</name>
 </system>
 

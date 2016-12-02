@@ -1,23 +1,23 @@
 <system>
-  <name>WASP-104</name>
   <star>
     <radius errorplus="0.03" errorminus="-0.03">0.96</radius>
-    <name>WASP-104</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
     <temperature errorplus="127.0" errorminus="-127.0">5475.0</temperature>
     <planet>
-      <radius errorplus="0.03" errorminus="-0.03">0.96</radius>
-      <semimajoraxis errorplus="0.00045" errorminus="-0.00045">0.02918</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>WASP-104 b</name>
-      <lastupdate>2014-09-25</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.8</period>
       <inclination errorplus="0.25" errorminus="-0.25">83.63</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00045" errorminus="-0.00045">0.02918</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.8</period>
+      <radius errorplus="0.03" errorminus="-0.03">0.96</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-09-25</lastupdate>
+      <name>WASP-104 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.05">1.08</mass>
+    <name>WASP-104</name>
   </star>
   <distance errorplus="10.0" errorminus="-10.0">143.0</distance>
   <declination>07 26 06</declination>
   <rightascension>10 36 08</rightascension>
+  <name>WASP-104</name>
 </system>
 

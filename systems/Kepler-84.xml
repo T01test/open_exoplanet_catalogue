@@ -1,58 +1,58 @@
 <system>
-  <name>Kepler-84</name>
   <star>
     <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
-    <name>Kepler-84</name>
+    <mass errorplus="0.42" errorminus="-0.29">1.0</mass>
     <temperature errorplus="143.0" errorminus="-143.0">6031.0</temperature>
     <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-84 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>12.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
-      <semimajoraxis/>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-84 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period>8.7</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
-      <semimajoraxis>0.181</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-84 e</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">27.4</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
       <semimajoraxis>0.25</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-84 f</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">44.6</period>
-      <inclination/>
+      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-84 f</name>
     </planet>
     <planet>
-      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
-      <semimajoraxis>0.052</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-84 d</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>12.9</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-84 c</name>
     </planet>
-    <mass errorplus="0.42" errorminus="-0.29">1.0</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period>8.7</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-84 b</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.052</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">4.2</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-84 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.181</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">27.4</period>
+      <radius errorplus="0.22" errorminus="-0.22">1.17</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-84 e</name>
+    </planet>
+    <name>Kepler-84</name>
   </star>
   <distance/>
   <declination>40 29 45</declination>
   <rightascension>19 15 07</rightascension>
+  <name>Kepler-84</name>
 </system>
 

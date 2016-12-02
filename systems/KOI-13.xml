@@ -1,23 +1,23 @@
 <system>
-  <name>KOI-13</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.04">1.74</radius>
-    <name>KOI-13</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.72</mass>
     <temperature errorplus="250.0" errorminus="-250.0">7650.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.04">1.74</radius>
-      <semimajoraxis errorplus="0.00087" errorminus="-0.00087">0.03641</semimajoraxis>
-      <eccentricity>0.00064</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>KOI-13 b</name>
-      <lastupdate>2015-10-15</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.8</period>
       <inclination errorplus="0.048" errorminus="-0.052">86.77</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00087" errorminus="-0.00087">0.03641</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.8</period>
+      <radius errorplus="0.04" errorminus="-0.04">1.74</radius>
+      <eccentricity>0.00064</eccentricity>
+      <lastupdate>2015-10-15</lastupdate>
+      <name>KOI-13 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.72</mass>
+    <name>KOI-13</name>
   </star>
   <distance/>
   <declination>46 52 06</declination>
   <rightascension>19 58 16</rightascension>
+  <name>KOI-13</name>
 </system>
 

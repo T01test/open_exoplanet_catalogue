@@ -1,23 +1,23 @@
 <system>
-  <name>HD 66141</name>
   <star>
     <radius errorplus="0.6" errorminus="-0.6">21.4</radius>
-    <name>HD 66141</name>
+    <mass errorplus="0.1" errorminus="-0.1">1.1</mass>
     <temperature errorplus="15.0" errorminus="-15.0">4323.0</temperature>
     <planet>
-      <radius errorplus="0.6" errorminus="-0.6">21.4</radius>
-      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.2</semimajoraxis>
-      <eccentricity>0.07</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 66141 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.5" errorminus="-0.5">480.5</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.1" errorminus="-0.1">1.2</semimajoraxis>
+      <period errorplus="0.5" errorminus="-0.5">480.5</period>
+      <radius errorplus="0.6" errorminus="-0.6">21.4</radius>
+      <eccentricity>0.07</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HD 66141 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.1">1.1</mass>
+    <name>HD 66141</name>
   </star>
   <distance errorplus="5.82" errorminus="-6.82">80.06</distance>
   <declination>02 20 04</declination>
   <rightascension>08 33 59</rightascension>
+  <name>HD 66141</name>
 </system>
 

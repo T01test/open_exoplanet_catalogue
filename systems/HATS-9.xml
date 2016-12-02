@@ -1,23 +1,23 @@
 <system>
-  <name>HATS-9</name>
   <star>
     <radius errorplus="0.1" errorminus="-0.04">1.5</radius>
-    <name>HATS-9</name>
+    <mass errorplus="0.04" errorminus="-0.04">1.03</mass>
     <temperature errorplus="70.0" errorminus="-70.0">5366.0</temperature>
     <planet>
-      <radius errorplus="0.1" errorminus="-0.04">1.5</radius>
-      <semimajoraxis errorplus="0.00038" errorminus="-0.00038">0.03048</semimajoraxis>
-      <eccentricity>0.129</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HATS-9 b</name>
-      <lastupdate>2015-05-21</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.9</period>
       <inclination errorplus="1.6" errorminus="-2.5">86.5</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.00038" errorminus="-0.00038">0.03048</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">1.9</period>
+      <radius errorplus="0.1" errorminus="-0.04">1.5</radius>
+      <eccentricity>0.129</eccentricity>
+      <lastupdate>2015-05-21</lastupdate>
+      <name>HATS-9 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.04">1.03</mass>
+    <name>HATS-9</name>
   </star>
   <distance errorplus="42.0" errorminus="-30.0">622.0</distance>
   <declination>-20 09 58</declination>
   <rightascension>19 48 36</rightascension>
+  <name>HATS-9</name>
 </system>
 

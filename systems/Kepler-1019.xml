@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1019</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.04">0.67</radius>
-    <name>Kepler-1019</name>
+    <mass errorplus="0.03" errorminus="-0.05">0.7</mass>
     <temperature errorplus="43.73" errorminus="-45.09">4433.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.04">0.67</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1019 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">1.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">1.4</period>
+      <radius errorplus="0.02" errorminus="-0.04">0.67</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1019 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.05">0.7</mass>
+    <name>Kepler-1019</name>
   </star>
   <distance errorplus="9.14" errorminus="-12.43">198.0</distance>
   <declination>47 12 16</declination>
   <rightascension>18 43 03</rightascension>
+  <name>Kepler-1019</name>
 </system>
 

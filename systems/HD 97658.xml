@@ -1,23 +1,23 @@
 <system>
-  <name>HD 97658</name>
   <star>
     <radius errorplus="0.04" errorminus="-0.03">0.7</radius>
-    <name>HD 97658</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.75</mass>
     <temperature errorplus="50.0" errorminus="-50.0">5119.0</temperature>
     <planet>
-      <radius errorplus="0.04" errorminus="-0.03">0.7</radius>
-      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0796</semimajoraxis>
-      <eccentricity>0.063</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>HD 97658 b</name>
-      <lastupdate>2016-10-27</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">9.5</period>
       <inclination errorplus="0.37" errorminus="-0.42">89.45</inclination>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis errorplus="0.0011" errorminus="-0.0011">0.0796</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">9.5</period>
+      <radius errorplus="0.04" errorminus="-0.03">0.7</radius>
+      <eccentricity>0.063</eccentricity>
+      <lastupdate>2016-10-27</lastupdate>
+      <name>HD 97658 b</name>
     </planet>
-    <mass errorplus="0.03" errorminus="-0.03">0.75</mass>
+    <name>HD 97658</name>
   </star>
   <distance errorplus="0.43" errorminus="-0.45">21.3</distance>
   <declination>25 42 37</declination>
   <rightascension>11 38 17</rightascension>
+  <name>HD 97658</name>
 </system>
 

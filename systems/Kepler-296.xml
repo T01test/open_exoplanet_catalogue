@@ -1,63 +1,63 @@
 <system>
-  <name>Kepler-296</name>
   <star>
     <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
-    <name>Kepler-296</name>
+    <mass errorplus="0.07" errorminus="-0.09">0.5</mass>
     <temperature errorplus="130.0" errorminus="-130.0">3740.0</temperature>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
-      <semimajoraxis errorplus="0.029" errorminus="-0.028">0.169</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-296 e</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">34.1</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
-      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.118</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-296 d</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">19.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
-      <semimajoraxis errorplus="0.013" errorminus="-0.013">0.079</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-296 b</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">10.9</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
       <semimajoraxis errorplus="0.0088" errorminus="-0.0086">0.0521</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-296 c</name>
-      <lastupdate>2015-09-03</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">5.8</period>
-      <inclination/>
+      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>Kepler-296 c</name>
     </planet>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
-      <semimajoraxis errorplus="0.043" errorminus="-0.042">0.255</semimajoraxis>
-      <eccentricity>0.33</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-296 f</name>
-      <lastupdate>2015-09-03</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">63.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.029" errorminus="-0.028">0.169</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">34.1</period>
+      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>Kepler-296 e</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.09">0.5</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.013" errorminus="-0.013">0.079</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">10.9</period>
+      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>Kepler-296 b</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.02" errorminus="-0.02">0.118</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">19.9</period>
+      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>Kepler-296 d</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.043" errorminus="-0.042">0.255</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">63.3</period>
+      <radius errorplus="0.07" errorminus="-0.09">0.48</radius>
+      <eccentricity>0.33</eccentricity>
+      <lastupdate>2015-09-03</lastupdate>
+      <name>Kepler-296 f</name>
+    </planet>
+    <name>Kepler-296</name>
   </star>
   <distance errorplus="28.0" errorminus="-18.0">226.0</distance>
   <declination>49 26 14</declination>
   <rightascension>19 32 24</rightascension>
+  <name>Kepler-296</name>
 </system>
 

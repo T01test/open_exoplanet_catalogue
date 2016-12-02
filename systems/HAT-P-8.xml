@@ -1,23 +1,23 @@
 <system>
-  <name>HAT-P-8</name>
   <star>
     <radius errorplus="0.08">1.58</radius>
-    <name>HAT-P-8</name>
+    <mass errorplus="0.04">1.28</mass>
     <temperature errorplus="80.0">6200.0</temperature>
     <planet>
-      <radius errorplus="0.08">1.58</radius>
-      <semimajoraxis errorplus="0.0026" errorminus="-0.0026">0.0487</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>HAT-P-8 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.1</period>
       <inclination errorplus="1.9" errorminus="-0.9">87.5</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.0026" errorminus="-0.0026">0.0487</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.1</period>
+      <radius errorplus="0.08">1.58</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>HAT-P-8 b</name>
     </planet>
-    <mass errorplus="0.04">1.28</mass>
+    <name>HAT-P-8</name>
   </star>
   <distance errorplus="15.0" errorminus="-15.0">230.0</distance>
   <declination>35 26 49</declination>
   <rightascension>22 02 27</rightascension>
+  <name>HAT-P-8</name>
 </system>
 

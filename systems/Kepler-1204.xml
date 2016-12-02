@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1204</name>
   <star>
     <radius errorplus="0.29" errorminus="-0.1">1.03</radius>
-    <name>Kepler-1204</name>
+    <mass errorplus="0.06" errorminus="-0.06">1.03</mass>
     <temperature errorplus="88.38" errorminus="-121.08">5825.0</temperature>
     <planet>
-      <radius errorplus="0.29" errorminus="-0.1">1.03</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1204 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">85.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">85.7</period>
+      <radius errorplus="0.29" errorminus="-0.1">1.03</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1204 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">1.03</mass>
+    <name>Kepler-1204</name>
   </star>
   <distance errorplus="354.85" errorminus="-129.65">1282.0</distance>
   <declination>42 29 53</declination>
   <rightascension>19 26 29</rightascension>
+  <name>Kepler-1204</name>
 </system>
 

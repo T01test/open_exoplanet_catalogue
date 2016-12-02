@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-738</name>
   <star>
     <radius errorplus="0.06" errorminus="-0.05">0.82</radius>
-    <name>Kepler-738</name>
+    <mass errorplus="0.04" errorminus="-0.05">0.86</mass>
     <temperature errorplus="66.34" errorminus="-61.93">5327.0</temperature>
     <planet>
-      <radius errorplus="0.06" errorminus="-0.05">0.82</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-738 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">24.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">24.6</period>
+      <radius errorplus="0.06" errorminus="-0.05">0.82</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-738 b</name>
     </planet>
-    <mass errorplus="0.04" errorminus="-0.05">0.86</mass>
+    <name>Kepler-738</name>
   </star>
   <distance errorplus="72.65" errorminus="-70.33">992.0</distance>
   <declination>46 34 04</declination>
   <rightascension>19 34 10</rightascension>
+  <name>Kepler-738</name>
 </system>
 

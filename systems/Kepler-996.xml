@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-996</name>
   <star>
     <radius errorplus="0.36" errorminus="-0.14">1.14</radius>
-    <name>Kepler-996</name>
+    <mass errorplus="0.09" errorminus="-0.08">1.09</mass>
     <temperature errorplus="114.4" errorminus="-152.18">6014.0</temperature>
     <planet>
-      <radius errorplus="0.36" errorminus="-0.14">1.14</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-996 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">3.8</period>
+      <radius errorplus="0.36" errorminus="-0.14">1.14</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-996 b</name>
     </planet>
-    <mass errorplus="0.09" errorminus="-0.08">1.09</mass>
+    <name>Kepler-996</name>
   </star>
   <distance errorplus="345.52" errorminus="-146.78">1098.0</distance>
   <declination>41 32 00</declination>
   <rightascension>19 54 46</rightascension>
+  <name>Kepler-996</name>
 </system>
 

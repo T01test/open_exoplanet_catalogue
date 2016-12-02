@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-669</name>
   <star>
     <radius errorplus="0.32" errorminus="-0.13">1.2</radius>
-    <name>Kepler-669</name>
+    <mass errorplus="0.1" errorminus="-0.07">1.15</mass>
     <temperature errorplus="97.84" errorminus="-109.18">6038.0</temperature>
     <planet>
-      <radius errorplus="0.32" errorminus="-0.13">1.2</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-669 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">4.1</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">4.1</period>
+      <radius errorplus="0.32" errorminus="-0.13">1.2</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-669 b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.07">1.15</mass>
+    <name>Kepler-669</name>
   </star>
   <distance errorplus="463.31" errorminus="-208.21">1778.0</distance>
   <declination>49 15 14</declination>
   <rightascension>19 56 10</rightascension>
+  <name>Kepler-669</name>
 </system>
 

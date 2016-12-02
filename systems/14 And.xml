@@ -1,23 +1,23 @@
 <system>
-  <name>14 And</name>
   <star>
     <radius errorplus="1.0" errorminus="-1.0">11.0</radius>
-    <name>14 And</name>
+    <mass errorplus="0.1" errorminus="-0.2">2.2</mass>
     <temperature errorplus="20.0" errorminus="-20.0">4813.0</temperature>
     <planet>
-      <radius errorplus="1.0" errorminus="-1.0">11.0</radius>
-      <semimajoraxis>0.83</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>RV</discoverymethod>
-      <name>14 And b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.2" errorminus="-0.2">185.8</period>
       <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <semimajoraxis>0.83</semimajoraxis>
+      <period errorplus="0.2" errorminus="-0.2">185.8</period>
+      <radius errorplus="1.0" errorminus="-1.0">11.0</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>14 And b</name>
     </planet>
-    <mass errorplus="0.1" errorminus="-0.2">2.2</mass>
+    <name>14 And</name>
   </star>
   <distance errorplus="3.93" errorminus="-4.38">76.39</distance>
   <declination>39 14 10</declination>
   <rightascension>23 49 21</rightascension>
+  <name>14 And</name>
 </system>
 

@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-837</name>
   <star>
     <radius errorplus="0.07" errorminus="-0.07">0.81</radius>
-    <name>Kepler-837</name>
+    <mass errorplus="0.05" errorminus="-0.06">0.85</mass>
     <temperature errorplus="58.96" errorminus="-58.52">5403.0</temperature>
     <planet>
-      <radius errorplus="0.07" errorminus="-0.07">0.81</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-837 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.6</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">16.6</period>
+      <radius errorplus="0.07" errorminus="-0.07">0.81</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-837 b</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.06">0.85</mass>
+    <name>Kepler-837</name>
   </star>
   <distance errorplus="73.33" errorminus="-73.81">846.0</distance>
   <declination>45 57 00</declination>
   <rightascension>19 14 48</rightascension>
+  <name>Kepler-837</name>
 </system>
 

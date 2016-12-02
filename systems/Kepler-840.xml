@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-840</name>
   <star>
     <radius errorplus="0.24" errorminus="-0.12">1.06</radius>
-    <name>Kepler-840</name>
+    <mass errorplus="0.07" errorminus="-0.07">1.04</mass>
     <temperature errorplus="113.64" errorminus="-159.58">5920.0</temperature>
     <planet>
-      <radius errorplus="0.24" errorminus="-0.12">1.06</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-840 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <radius errorplus="0.24" errorminus="-0.12">1.06</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-840 b</name>
     </planet>
-    <mass errorplus="0.07" errorminus="-0.07">1.04</mass>
+    <name>Kepler-840</name>
   </star>
   <distance errorplus="178.96" errorminus="-91.69">778.0</distance>
   <declination>49 27 26</declination>
   <rightascension>19 30 26</rightascension>
+  <name>Kepler-840</name>
 </system>
 

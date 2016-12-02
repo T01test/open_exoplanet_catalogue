@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-664</name>
   <star>
     <radius errorplus="0.26" errorminus="-0.1">1.02</radius>
-    <name>Kepler-664</name>
+    <mass errorplus="0.06" errorminus="-0.05">1.01</mass>
     <temperature errorplus="73.56" errorminus="-86.08">5754.0</temperature>
     <planet>
-      <radius errorplus="0.26" errorminus="-0.1">1.02</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-664 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">2.5</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">2.5</period>
+      <radius errorplus="0.26" errorminus="-0.1">1.02</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-664 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.05">1.01</mass>
+    <name>Kepler-664</name>
   </star>
   <distance errorplus="363.27" errorminus="-133.71">1386.0</distance>
   <declination>48 13 34</declination>
   <rightascension>19 45 17</rightascension>
+  <name>Kepler-664</name>
 </system>
 

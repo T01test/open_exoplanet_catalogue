@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-401</name>
   <star>
     <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-    <name>Kepler-401</name>
+    <mass/>
     <temperature errorplus="100.0" errorminus="-100.0">6117.0</temperature>
     <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-401 d</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">184.3</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
-      <semimajoraxis>0.269</semimajoraxis>
       <discoverymethod>transit</discoverymethod>
-      <name>Kepler-401 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">47.3</period>
-      <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
       <semimajoraxis>0.122</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-401 b</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">14.4</period>
-      <inclination/>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-401 b</name>
     </planet>
-    <mass/>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.269</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">47.3</period>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-401 c</name>
+    </planet>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">184.3</period>
+      <radius errorplus="0.24" errorminus="-0.24">1.33</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-401 d</name>
+    </planet>
+    <name>Kepler-401</name>
   </star>
   <distance/>
   <declination>50 51 48</declination>
   <rightascension>19 04 57</rightascension>
+  <name>Kepler-401</name>
 </system>
 

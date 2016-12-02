@@ -1,22 +1,22 @@
 <system>
-  <name>Kepler-1504</name>
   <star>
     <radius errorplus="0.08" errorminus="-0.07">0.81</radius>
-    <name>Kepler-1504</name>
+    <mass errorplus="0.06" errorminus="-0.06">0.85</mass>
     <temperature errorplus="102.27" errorminus="-78.86">5393.0</temperature>
     <planet>
-      <radius errorplus="0.08" errorminus="-0.07">0.81</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1504 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">82.3</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">82.3</period>
+      <radius errorplus="0.08" errorminus="-0.07">0.81</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1504 b</name>
     </planet>
-    <mass errorplus="0.06" errorminus="-0.06">0.85</mass>
+    <name>Kepler-1504</name>
   </star>
   <distance errorplus="102.29" errorminus="-89.79">1029.0</distance>
   <declination>50 07 41</declination>
   <rightascension>19 42 43</rightascension>
+  <name>Kepler-1504</name>
 </system>
 

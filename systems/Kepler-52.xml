@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-52</name>
   <star>
     <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
-    <name>Kepler-52</name>
+    <mass>0.54</mass>
     <temperature errorplus="100.0" errorminus="-100.0">4263.0</temperature>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-52 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">7.9</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.182</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-52 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">36.4</period>
-      <inclination/>
+      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-52 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-52 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">16.4</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">16.4</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-52 c</name>
     </planet>
-    <mass>0.54</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">7.9</period>
+      <radius errorplus="0.02" errorminus="-0.02">0.56</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-52 b</name>
+    </planet>
+    <name>Kepler-52</name>
   </star>
   <distance/>
   <declination>49 58 32</declination>
   <rightascension>19 44 16</rightascension>
+  <name>Kepler-52</name>
 </system>
 

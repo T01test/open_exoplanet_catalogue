@@ -1,40 +1,40 @@
 <system>
-  <name>Kepler-359</name>
   <star>
     <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-    <name>Kepler-359</name>
+    <mass>1.07</mass>
     <temperature errorplus="250.0" errorminus="-250.0">6248.0</temperature>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-      <semimajoraxis>0.178</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-359 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">25.6</period>
       <inclination/>
-    </planet>
-    <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
+      <discoverymethod>transit</discoverymethod>
       <semimajoraxis>0.372</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-359 d</name>
-      <lastupdate>2014-05-14</lastupdate>
       <period errorplus="0.0" errorminus="-0.0">77.1</period>
-      <inclination/>
+      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-359 d</name>
     </planet>
     <planet>
-      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
-      <semimajoraxis>0.307</semimajoraxis>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-359 c</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">57.7</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.178</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">25.6</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-359 b</name>
     </planet>
-    <mass>1.07</mass>
+    <planet>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis>0.307</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">57.7</period>
+      <radius errorplus="0.5" errorminus="-0.5">1.09</radius>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>Kepler-359 c</name>
+    </planet>
+    <name>Kepler-359</name>
   </star>
   <distance/>
   <declination>42 11 46</declination>
   <rightascension>19 17 37</rightascension>
+  <name>Kepler-359</name>
 </system>
 

@@ -1,23 +1,23 @@
 <system>
-  <name>XO-1</name>
   <star>
     <radius errorplus="0.02">0.94</radius>
-    <name>XO-1</name>
+    <mass errorplus="0.06">1.03</mass>
     <temperature errorplus="75.0">5750.0</temperature>
     <planet>
-      <radius errorplus="0.02">0.94</radius>
-      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.049</semimajoraxis>
-      <eccentricity>0.0</eccentricity>
-      <discoverymethod>transit</discoverymethod>
-      <name>XO-1 b</name>
-      <lastupdate>2014-05-14</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">3.9</period>
       <inclination errorplus="0.2" errorminus="-0.2">88.8</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis errorplus="0.001" errorminus="-0.001">0.049</semimajoraxis>
+      <period errorplus="0.0" errorminus="-0.0">3.9</period>
+      <radius errorplus="0.02">0.94</radius>
+      <eccentricity>0.0</eccentricity>
+      <lastupdate>2014-05-14</lastupdate>
+      <name>XO-1 b</name>
     </planet>
-    <mass errorplus="0.06">1.03</mass>
+    <name>XO-1</name>
   </star>
   <distance errorplus="12.0" errorminus="-12.0">172.0</distance>
   <declination>28 10 10</declination>
   <rightascension>16 32 57</rightascension>
+  <name>XO-1</name>
 </system>
 

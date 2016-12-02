@@ -1,31 +1,31 @@
 <system>
-  <name>Kepler-1336</name>
   <star>
     <radius errorplus="0.19" errorminus="-0.26">1.3</radius>
-    <name>Kepler-1336</name>
+    <mass errorplus="0.05" errorminus="-0.04">0.94</mass>
     <temperature errorplus="86.32" errorminus="-66.78">5512.0</temperature>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.26">1.3</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1336 c</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">5.8</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">23.2</period>
+      <radius errorplus="0.19" errorminus="-0.26">1.3</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1336 b</name>
     </planet>
     <planet>
-      <radius errorplus="0.19" errorminus="-0.26">1.3</radius>
-      <semimajoraxis/>
-      <discoverymethod>transit</discoverymethod>
-      <name>Kepler-1336 b</name>
-      <lastupdate>2016-05-10</lastupdate>
-      <period errorplus="0.0" errorminus="-0.0">23.2</period>
       <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <semimajoraxis/>
+      <period errorplus="0.0" errorminus="-0.0">5.8</period>
+      <radius errorplus="0.19" errorminus="-0.26">1.3</radius>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1336 c</name>
     </planet>
-    <mass errorplus="0.05" errorminus="-0.04">0.94</mass>
+    <name>Kepler-1336</name>
   </star>
   <distance errorplus="119.57" errorminus="-166.9">822.0</distance>
   <declination>46 53 59</declination>
   <rightascension>19 16 39</rightascension>
+  <name>Kepler-1336</name>
 </system>
 
