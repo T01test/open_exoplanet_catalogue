@@ -1,0 +1,31 @@
+<system>
+  <distance/>
+  <name>K2-5</name>
+  <declination>-1 52 40</declination>
+  <star>
+    <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+    <temperature errorplus="375.0" errorminus="-375.0">3930.0</temperature>
+    <name>K2-5</name>
+    <mass errorplus="0.13" errorminus="-0.13">0.61</mass>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+      <semimajoraxis errorplus="0.0059" errorminus="-0.0059">0.0818</semimajoraxis>
+      <lastupdate>2016-07-07</lastupdate>
+      <name>K2-5 c</name>
+      <inclination errorplus="2.47" errorminus="-2.47">86.95</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">10.9</period>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.12">0.57</radius>
+      <semimajoraxis errorplus="0.0038" errorminus="-0.0038">0.0532</semimajoraxis>
+      <lastupdate>2016-07-07</lastupdate>
+      <name>K2-5 b</name>
+      <inclination errorplus="1.88" errorminus="-3.37">87.35</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">5.7</period>
+    </planet>
+  </star>
+  <rightascension>11 18 12</rightascension>
+</system>
+

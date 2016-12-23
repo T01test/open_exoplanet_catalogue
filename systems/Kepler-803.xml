@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-803</name>
-	<rightascension>19 56 53</rightascension>
-	<declination>+44 41 38</declination>
-	<star>
-		<name>Kepler-803</name>
-		<temperature errorminus="100.9" errorplus="99.5">5919.0</temperature>
-		<mass errorminus="0.05" errorplus="0.05">1.05</mass>
-		<radius errorminus="0.11" errorplus="0.16">1.12</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.02</metallicity>
-		<planet>
-			<name>Kepler-803 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000088620" errorplus="0.000088620">50.286381920</period>
-			<radius errorminus="0.034" errorplus="0.049">0.338</radius>
-		</planet>
-	</star>
+  <distance errorplus="88.86" errorminus="-62.13">615.0</distance>
+  <name>Kepler-803</name>
+  <declination>44 41 37</declination>
+  <star>
+    <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
+    <temperature errorplus="99.49" errorminus="-100.93">5919.0</temperature>
+    <name>Kepler-803</name>
+    <mass errorplus="0.05" errorminus="-0.05">1.05</mass>
+    <planet>
+      <radius errorplus="0.16" errorminus="-0.11">1.12</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-803 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">50.3</period>
+    </planet>
+  </star>
+  <rightascension>19 13 17</rightascension>
 </system>
+

@@ -1,0 +1,33 @@
+<system>
+  <distance errorplus="20.0" errorminus="-20.0">870.0</distance>
+  <name>Kepler-432</name>
+  <declination>48 17 09</declination>
+  <star>
+    <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
+    <temperature errorplus="78.0" errorminus="-78.0">4995.0</temperature>
+    <name>Kepler-432</name>
+    <mass errorplus="0.1" errorminus="-0.07">1.32</mass>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
+      <semimajoraxis errorplus="0.016" errorminus="-0.011">0.301</semimajoraxis>
+      <lastupdate>2015-04-30</lastupdate>
+      <eccentricity>0.5134</eccentricity>
+      <name>Kepler-432 b</name>
+      <inclination errorplus="0.61" errorminus="-0.33">88.17</inclination>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">52.5</period>
+    </planet>
+    <planet>
+      <radius errorplus="0.12" errorminus="-0.08">4.06</radius>
+      <semimajoraxis/>
+      <lastupdate>2015-04-30</lastupdate>
+      <eccentricity>0.498</eccentricity>
+      <name>Kepler-432 c</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="3.9" errorminus="-2.5">406.2</period>
+    </planet>
+  </star>
+  <rightascension>19 16 55</rightascension>
+</system>
+

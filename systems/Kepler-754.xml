@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-754</name>
-	<rightascension>19 33 01</rightascension>
-	<declination>+37 50 46</declination>
-	<star>
-		<name>Kepler-754</name>
-		<temperature errorminus="182.0" errorplus="126.1">5935.0</temperature>
-		<mass errorminus="0.08" errorplus="0.08">1.06</mass>
-		<radius errorminus="0.12" errorplus="0.26">1.08</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.05</metallicity>
-		<planet>
-			<name>Kepler-754 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000201300" errorplus="0.000201300">14.559623700</period>
-			<radius errorminus="0.023" errorplus="0.043">0.179</radius>
-		</planet>
-	</star>
+  <distance errorplus="281.57" errorminus="-141.53">1192.0</distance>
+  <name>Kepler-754</name>
+  <declination>37 50 46</declination>
+  <star>
+    <radius errorplus="0.26" errorminus="-0.12">1.08</radius>
+    <temperature errorplus="126.07" errorminus="-181.97">5935.0</temperature>
+    <name>Kepler-754</name>
+    <mass errorplus="0.08" errorminus="-0.08">1.06</mass>
+    <planet>
+      <radius errorplus="0.26" errorminus="-0.12">1.08</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-754 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">14.6</period>
+    </planet>
+  </star>
+  <rightascension>19 15 14</rightascension>
 </system>
+

@@ -1,31 +1,23 @@
 <system>
-	<name>HD 22781</name>
-	<rightascension>03 40 50</rightascension>
-	<declination>+31 49 35</declination>
-	<distance>31.79</distance>
-	<star>
-		<mass>0.75</mass>
-		<magV>8.77</magV>
-		<magB errorminus="0.026" errorplus="0.026">9.628</magB>
-		<magR errorminus="0.04" errorplus="0.04">8.45</magR>
-		<magJ errorminus="0.018" errorplus="0.018">7.149</magJ>
-		<magH errorminus="0.020" errorplus="0.020">6.686</magH>
-		<magK errorminus="0.021" errorplus="0.021">6.607</magK>
-		<metallicity>-0.37</metallicity>
-		<spectraltype>K0V</spectraltype>
-		<planet>
-			<name>HD 22781 b</name>
-			<list>Confirmed planets</list>
-			<mass>13.65</mass>
-			<period>528.07</period>
-			<semimajoraxis>1.167</semimajoraxis>
-			<eccentricity>0.8191</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<temperature>167.0</temperature>
-		</planet>
-		<name>HD 22781</name>
-		<temperature>5027.0</temperature>
-	</star>
+  <distance errorplus="1.33" errorminus="-1.45">31.79</distance>
+  <name>HD 22781</name>
+  <declination>31 49 34</declination>
+  <star>
+    <radius/>
+    <temperature errorplus="50.0" errorminus="-50.0">5027.0</temperature>
+    <name>HD 22781</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.75</mass>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="0.039" errorminus="-0.039">1.167</semimajoraxis>
+      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.8191</eccentricity>
+      <name>HD 22781 b</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="0.1" errorminus="-0.1">528.1</period>
+    </planet>
+  </star>
+  <rightascension>03 12 22</rightascension>
 </system>
+

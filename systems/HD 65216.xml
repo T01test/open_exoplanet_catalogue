@@ -1,37 +1,33 @@
 <system>
-	<name>HD 65216</name>
-	<rightascension>07 53 41</rightascension>
-	<declination>-63 38 50</declination>
-	<distance>34.3</distance>
-	<star>
-		<mass>0.92</mass>
-		<magV>7.98</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.65</magB>
-		<metallicity>-0.12</metallicity>
-		<spectraltype>G5 V</spectraltype>
-		<planet>
-			<name>HD 65216 b</name>
-			<list>Confirmed planets</list>
-			<mass>1.21</mass>
-			<period>613.1</period>
-			<semimajoraxis>1.37</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
-			<discoveryyear>2003</discoveryyear>
-			<temperature>193.9</temperature>
-		</planet>
-		<planet>
-			<name>HD 65216 c</name>
-			<list>Confirmed planets</list>
-			<mass>2.24</mass>
-			<period>5542</period>
-			<eccentricity>0.15</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-		</planet>
-		<name>HD 65216</name>
-		<temperature>5666.0</temperature>
-	</star>
+  <distance errorplus="0.85" errorminus="-0.9">35.59</distance>
+  <name>HD 65216</name>
+  <declination>-63 38 50</declination>
+  <star>
+    <radius/>
+    <temperature>5666.0</temperature>
+    <name>HD 65216</name>
+    <mass>0.92</mass>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="0.03" errorminus="-0.03">1.3</semimajoraxis>
+      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.0</eccentricity>
+      <name>HD 65216 b</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="2.1" errorminus="-2.1">572.4</period>
+    </planet>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">0.54</semimajoraxis>
+      <lastupdate>2014-05-14</lastupdate>
+      <eccentricity>0.02</eccentricity>
+      <name>HD 65216 c</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="0.6" errorminus="-0.6">152.6</period>
+    </planet>
+  </star>
+  <rightascension>07 25 19</rightascension>
 </system>
+

@@ -1,36 +1,31 @@
 <system>
-	<name>Kepler-1530</name>
-	<rightascension>19 12 39</rightascension>
-	<declination>+48 09 55</declination>
-	<star>
-		<name>Kepler-1530</name>
-		<temperature errorminus="65.1" errorplus="62.9">5477.0</temperature>
-		<mass errorminus="0.04" errorplus="0.04">0.92</mass>
-		<radius errorminus="0.05" errorplus="0.09">0.88</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.03</metallicity>
-		<planet>
-			<name>Kepler-1530 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000171500" errorplus="0.000171500">2.590443400</period>
-			<radius errorminus="0.010" errorplus="0.019">0.146</radius>
-		</planet>
-		<planet>
-			<name>Kepler-1530 c</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000633100" errorplus="0.000633100">5.322740600</period>
-			<radius errorminus="0.010" errorplus="0.021">0.147</radius>
-		</planet>
-	</star>
+  <distance errorplus="58.49" errorminus="-32.93">552.0</distance>
+  <name>Kepler-1530</name>
+  <declination>48 09 54</declination>
+  <star>
+    <radius errorplus="0.09" errorminus="-0.05">0.88</radius>
+    <temperature errorplus="62.89" errorminus="-65.13">5477.0</temperature>
+    <name>Kepler-1530</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.92</mass>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.05">0.88</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1530 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">2.6</period>
+    </planet>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.05">0.88</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1530 c</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">5.3</period>
+    </planet>
+  </star>
+  <rightascension>19 09 45</rightascension>
 </system>
+

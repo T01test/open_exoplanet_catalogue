@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-1477</name>
-	<rightascension>18 45 12</rightascension>
-	<declination>+42 41 09</declination>
-	<star>
-		<name>Kepler-1477</name>
-		<temperature errorminus="73.5" errorplus="78.1">5100.0</temperature>
-		<mass errorminus="0.04" errorplus="0.04">0.81</mass>
-		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.06</metallicity>
-		<planet>
-			<name>Kepler-1477 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000080980" errorplus="0.000080980">11.555300210</period>
-			<radius errorminus="0.008" errorplus="0.008">0.105</radius>
-		</planet>
-	</star>
+  <distance errorplus="29.97" errorminus="-32.76">525.0</distance>
+  <name>Kepler-1477</name>
+  <declination>42 41 08</declination>
+  <star>
+    <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+    <temperature errorplus="78.06" errorminus="-73.51">5100.0</temperature>
+    <name>Kepler-1477</name>
+    <mass errorplus="0.04" errorminus="-0.04">0.81</mass>
+    <planet>
+      <radius errorplus="0.04" errorminus="-0.04">0.78</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-1477 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+    </planet>
+  </star>
+  <rightascension>18 17 54</rightascension>
 </system>
+

@@ -1,0 +1,33 @@
+<system>
+  <distance errorplus="0.02" errorminus="-0.02">17.24</distance>
+  <name>rho CrB</name>
+  <declination>33 18 12</declination>
+  <star>
+    <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+    <temperature errorplus="54.0" errorminus="-54.0">5627.0</temperature>
+    <name>rho CrB</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.89</mass>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <semimajoraxis errorplus="0.0024" errorminus="-0.0025">0.2196</semimajoraxis>
+      <lastupdate>2016-10-27</lastupdate>
+      <eccentricity>0.0373</eccentricity>
+      <name>rho CrB b</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">39.8</period>
+    </planet>
+    <planet>
+      <radius errorplus="0.03" errorminus="-0.03">1.36</radius>
+      <semimajoraxis errorplus="0.0046" errorminus="-0.0047">0.4123</semimajoraxis>
+      <lastupdate>2016-10-27</lastupdate>
+      <eccentricity>0.052</eccentricity>
+      <name>rho CrB c</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="0.2" errorminus="-0.2">102.5</period>
+    </planet>
+  </star>
+  <rightascension>16 15 39</rightascension>
+</system>
+

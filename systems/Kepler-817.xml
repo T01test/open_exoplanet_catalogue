@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-817</name>
-	<rightascension>19 44 20</rightascension>
-	<declination>+39 09 42</declination>
-	<star>
-		<name>Kepler-817</name>
-		<temperature errorminus="241.2" errorplus="259.9">5861.0</temperature>
-		<mass errorminus="0.08" errorplus="0.12">1.03</mass>
-		<radius errorminus="0.12" errorplus="0.23">1.03</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.02</metallicity>
-		<planet>
-			<name>Kepler-817 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001360" errorplus="0.000001360">3.990106230</period>
-			<radius errorminus="0.101" errorplus="0.184">0.806</radius>
-		</planet>
-	</star>
+  <distance errorplus="336.72" errorminus="-177.98">1401.0</distance>
+  <name>Kepler-817</name>
+  <declination>39 09 41</declination>
+  <star>
+    <radius errorplus="0.23" errorminus="-0.12">1.03</radius>
+    <temperature errorplus="259.88" errorminus="-241.24">5861.0</temperature>
+    <name>Kepler-817</name>
+    <mass errorplus="0.12" errorminus="-0.08">1.03</mass>
+    <planet>
+      <radius errorplus="0.23" errorminus="-0.12">1.03</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-817 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">4.0</period>
+    </planet>
+  </star>
+  <rightascension>19 04 54</rightascension>
 </system>
+

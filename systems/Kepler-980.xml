@@ -1,24 +1,22 @@
 <system>
-	<name>Kepler-980</name>
-	<rightascension>19 38 27</rightascension>
-	<declination>+45 03 37</declination>
-	<star>
-		<name>Kepler-980</name>
-		<temperature errorminus="92.6" errorplus="98.9">5935.0</temperature>
-		<mass errorminus="0.04" errorplus="0.05">1.05</mass>
-		<radius errorminus="0.07" errorplus="0.09">1.06</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.01</metallicity>
-		<planet>
-			<name>Kepler-980 b</name>
-			<discoverymethod>transit</discoverymethod>
-			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
-			<istransiting>1</istransiting>
-			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000027540" errorplus="0.000027540">11.551025040</period>
-			<radius errorminus="0.040" errorplus="0.021">0.238</radius>
-		</planet>
-	</star>
+  <distance errorplus="63.77" errorminus="-51.43">804.0</distance>
+  <name>Kepler-980</name>
+  <declination>45 03 36</declination>
+  <star>
+    <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
+    <temperature errorplus="98.9" errorminus="-92.58">5935.0</temperature>
+    <name>Kepler-980</name>
+    <mass errorplus="0.05" errorminus="-0.04">1.05</mass>
+    <planet>
+      <radius errorplus="0.09" errorminus="-0.07">1.06</radius>
+      <semimajoraxis/>
+      <lastupdate>2016-05-10</lastupdate>
+      <name>Kepler-980 b</name>
+      <inclination/>
+      <discoverymethod>transit</discoverymethod>
+      <period errorplus="0.0" errorminus="-0.0">11.6</period>
+    </planet>
+  </star>
+  <rightascension>19 36 46</rightascension>
 </system>
+

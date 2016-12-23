@@ -1,31 +1,33 @@
 <system>
-	<name>HD 30177</name>
-	<rightascension>04 41 54</rightascension>
-	<declination>-58 01 14</declination>
-	<distance>55</distance>
-	<star>
-		<mass>0.95</mass>
-		<radius>1.12</radius>
-		<magV>8.41</magV>
-		<magJ errorminus="0.035" errorplus="0.035">7.15</magJ>
-		<magH errorminus="0.053" errorplus="0.053">6.829</magH>
-		<magK errorminus="0.027" errorplus="0.027">6.715</magK>
-		<magB errorminus="0.02" errorplus="0.02">9.18</magB>
-		<metallicity>0.19</metallicity>
-		<spectraltype>G8 V</spectraltype>
-		<planet>
-			<name>HD 30177 b</name>
-			<list>Confirmed planets</list>
-			<mass>7.7</mass>
-			<period>1620</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
-			<discoveryyear>2002</discoveryyear>
-			<temperature>153.5</temperature>
-		</planet>
-		<name>HD 30177</name>
-		<temperature>5320.0</temperature>
-	</star>
+  <distance errorplus="2.21" errorminus="-2.41">54.71</distance>
+  <name>HD 30177</name>
+  <declination>-58 01 14</declination>
+  <star>
+    <radius/>
+    <temperature errorplus="12.0" errorminus="-12.0">5580.0</temperature>
+    <name>HD 30177</name>
+    <mass errorplus="0.03" errorminus="-0.03">0.99</mass>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="0.01" errorminus="-0.01">3.58</semimajoraxis>
+      <lastupdate>2016-12-21</lastupdate>
+      <eccentricity>0.184</eccentricity>
+      <name>HD 30177 b</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="9.8" errorminus="-9.8">2524.4</period>
+    </planet>
+    <planet>
+      <radius/>
+      <semimajoraxis errorplus="1.04" errorminus="-1.04">9.89</semimajoraxis>
+      <lastupdate>2016-12-21</lastupdate>
+      <eccentricity>0.22</eccentricity>
+      <name>HD 30177 c</name>
+      <inclination/>
+      <discoverymethod>RV</discoverymethod>
+      <period errorplus="1837.0" errorminus="-1837.0">11613.0</period>
+    </planet>
+  </star>
+  <rightascension>04 28 35</rightascension>
 </system>
+
